@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>B_06</title>
+    <style>
+        body {
+            background-color: #0f0f0f;
+            color: #a5a5a5;
+            font-family: system-ui, -apple-system, sans-serif;
+            padding: 20px;
+            margin: 0;
+        }
+        .line {
+            cursor: pointer;
+            /* margin-bottom: 8px; */ /* Removed to eliminate gaps */
+            transition: background-color 0.2s;
+            padding: 0 8px;
+            border-radius: 4px;
+            white-space: pre-wrap;
+            margin-bottom: 1em; /* one empty line between items */
+        }
+        .line:last-child {
+            margin-bottom: 0;
+        }
+        .line:hover {
+            background-color: #1a1a1a;
+        }
+        .line.lang-en {
+            color: palegreen;
+        }
+    </style>
+</head>
+<body>
+    <div class="line" data-ru="Пропустить и перейти к основному содержимому" data-en="Bonjour. : r/NonPoliticalTwitter            ">Пропустить и перейти к основному содержимому</div>
+    <div class="line" data-ru="r/NonPoliticalTwitter                            " data-en="Текущий поиск выполняется в r/NonPoliticalTwitter">r/NonPoliticalTwitter                            </div>
+    <div class="line" data-ru="Удалите фильтр r/NonPoliticalTwitter и разверните результаты поиска для всех пользователей Reddit" data-en="Поиск в r/NonPoliticalTwitter                                                                    ">Удалите фильтр r/NonPoliticalTwitter и разверните результаты поиска для всех пользователей Reddit</div>
+    <div class="line" data-ru="Реклама на Reddit" data-en="Открыть беседу   ">Реклама на Reddit</div>
+    <div class="line" data-ru="Создать     " data-en="Создать пост">Создать     </div>
+    <div class="line" data-ru="Открыть папку «Входящие»" data-en="2                       ">Открыть папку «Входящие»</div>
+    <div class="line" data-ru="Аватар пользователя         " data-en="Развернуть меню пользователя">Аватар пользователя         </div>
+    <div class="line" data-ru="Перейти к навигацииПерейти к правой боковой панели" data-en="Назад                                             ">Перейти к навигацииПерейти к правой боковой панели</div>
+    <div class="line" data-ru="Значок r/NonPoliticalTwitter " data-en="Перейти к NonPoliticalTwitter">Значок r/NonPoliticalTwitter </div>
+    <div class="line" data-ru="r/NonPoliticalTwitter" data-en="•                    ">r/NonPoliticalTwitter</div>
+    <div class="line" data-ru="-5 ч     " data-en="netphilia">-5 ч     </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Значок профиля за достижение Автор из топ-1% Автор из топ-1%" data-en="Bonjour.                                                    ">Значок профиля за достижение Автор из топ-1% Автор из топ-1%</div>
+    <div class="line" data-ru="r/NonPoliticalTwitter - Bonjour." data-en="Нравится                        ">r/NonPoliticalTwitter - Bonjour.</div>
+    <div class="line" data-ru="17 тыс.    " data-en="Не нравится">17 тыс.    </div>
+    <div class="line" data-ru="868                   " data-en="Перейти к комментариям">868                   </div>
+    <div class="line" data-ru="Поделиться        " data-en="Добавить ваш ответ">Поделиться        </div>
+    <div class="line" data-ru="Сортировка по:" data-en="Лучшие        ">Сортировка по:</div>
+    <div class="line" data-ru="Найти комментарии               " data-en="Развернуть поиск по комментариям">Найти комментарии               </div>
+    <div class="line" data-ru="Раздел «Комментарии» " data-en="Аватар u/qualityvote2">Раздел «Комментарии» </div>
+    <div class="line" data-ru="qualityvote2" data-en="МОДЕРАТОР   ">qualityvote2</div>
+    <div class="line" data-ru="•        " data-en="5 ч назад">•        </div>
+    <div class="line" data-ru="•                       " data-en="Закрепленный комментарий">•                       </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Heya u/netphilia! And welcome to r/NonPoliticalTwitter!" data-en="--                                                     ">Heya u/netphilia! And welcome to r/NonPoliticalTwitter!</div>
+    <div class="line" data-ru="For everyone else, do you think OP&#x27;s post fits this community? Let us know by upvoting this comment!                               " data-en="If it doesn&#x27;t fit the sub, let us know by downvoting this comment and then replying to it with context for the reviewing moderator.">For everyone else, do you think OP&#x27;s post fits this community? Let us know by upvoting this comment!                               </div>
+    <div class="line" data-ru="Нравится" data-en="Оценка  ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="[удалено]" data-en="•        ">[удалено]</div>
+    <div class="line" data-ru="5 ч назад         " data-en="Аватар u/Shawon770">5 ч назад         </div>
+    <div class="line" data-ru="Shawon770" data-en="•        ">Shawon770</div>
+    <div class="line" data-ru="4 ч назад   " data-en="emoji:blue1:">4 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                                                              " data-en="French bakery employees have that 6th sense they can spot a tourist even through flawless pronunciation 😂">emoji:1112:                                                                                              </div>
+    <div class="line" data-ru="Нравится" data-en="1,4 тыс.">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Аватар u/ConfusingVacum" data-en="ConfusingVacum         ">Аватар u/ConfusingVacum</div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="•                               " data-en=", Отредактированные 8 мин. назад">•                               </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Joke aside there&#x27;s actually a reason french people can spot so easily english speakers : unlike most other languages, french is monotonous.                  " data-en="Native english speakers are so used to put stress on certain syllables it seems to require a lot of practice to actually pull off a full monotonous sentence.">Joke aside there&#x27;s actually a reason french people can spot so easily english speakers : unlike most other languages, french is monotonous.                  </div>
+    <div class="line" data-ru="Edit: as other said, I oversimplified it. French do have tone but relative to the start/end of the sentence or to convey emotions. Read more detailed comments down below for more accuracy" data-en="Нравится                                                                                                                                                                                   ">Edit: as other said, I oversimplified it. French do have tone but relative to the start/end of the sentence or to convey emotions. Read more detailed comments down below for more accuracy</div>
+    <div class="line" data-ru="288        " data-en="Не нравится">288        </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться     " data-en="purplehendrix22">Поделиться     </div>
+    <div class="line" data-ru="•        " data-en="1 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="That’s actually very interesting, I never noticed that explicitly but it makes perfect sense now that I know." data-en="Нравится                                                                                                     ">That’s actually very interesting, I never noticed that explicitly but it makes perfect sense now that I know.</div>
+    <div class="line" data-ru="86         " data-en="Не нравится">86         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться" data-en="WriterV   ">Поделиться</div>
+    <div class="line" data-ru="•            " data-en="40 мин. назад">•            </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="I somehow nailed (maybe at least some) of those mannerisms in high school thanks to obsessively watching French videos on YouTube. My French professor was beaming and gave me straight As for the rest of the school year." data-en="I then fell out of practice and was never as good at speaking French again 🥲                                                                                                                                               ">I somehow nailed (maybe at least some) of those mannerisms in high school thanks to obsessively watching French videos on YouTube. My French professor was beaming and gave me straight As for the rest of the school year.</div>
+    <div class="line" data-ru="Нравится" data-en="21      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 2 ответа" data-en="Neveed      ">Еще 2 ответа</div>
+    <div class="line" data-ru="•        " data-en="1 ч назад">•        </div>
+    <div class="line" data-ru="•                                " data-en=", Отредактированные 48 мин. назад">•                                </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="In term of tone, French and English, as well as most European languages are relatively monotonous and they don&#x27;t distinguish a lot between tones (contrary to Mandarn for example). However, tone can be used at the sentence scale to convey meta-information (like for example marking the sentence as a question with a rising tone), and in French in particular, the stress pattern does have a slight change of tone on the stressed syllables, which is generally not the case in English." data-en="What I think you were talking about isn&#x27;t monotonousness, it&#x27;s isochrony, that&#x27;s to say all syllables except for the stressed ones have the same length, so they are not unstressed.                                                                                                                                                                                                                                                                                                             ">In term of tone, French and English, as well as most European languages are relatively monotonous and they don&#x27;t distinguish a lot between tones (contrary to Mandarn for example). However, tone can be used at the sentence scale to convey meta-information (like for example marking the sentence as a question with a rising tone), and in French in particular, the stress pattern does have a slight change of tone on the stressed syllables, which is generally not the case in English.</div>
+    <div class="line" data-ru="English has a lexical stress, where most words have a stressed and unstressed syllables, as a part of the word itself.                                                                                                                                                                                                            " data-en="French has a syntactic stress where the last syllable of a rhythmic group (roughly a grammatically meaningful group of words) is stressed with an elongation and a sharp change in tone. The first syllable of the group also takes a smaller stress in the form of a change in volume in a way that is similar to English stress.">English has a lexical stress, where most words have a stressed and unstressed syllables, as a part of the word itself.                                                                                                                                                                                                            </div>
+    <div class="line" data-ru="The stress in French is more regular and not a feature of the words themselves, so rhythm is not the same but in both laguages, actually speaking in a monotonous way is not normal and will be perceived as weird." data-en="But you&#x27;re right that speakers of stress timed languages like English often tend to struggle with the stress pattern in French and that&#x27;s an easy way to tell non native speakers.                                 ">The stress in French is more regular and not a feature of the words themselves, so rhythm is not the same but in both laguages, actually speaking in a monotonous way is not normal and will be perceived as weird.</div>
+    <div class="line" data-ru="French also uses emphatic stress (when you say one syllable louder to insist on that word) much less than English, because the preferred method of emphasis is redundancy instead." data-en="Нравится                                                                                                                                                                          ">French also uses emphatic stress (when you say one syllable louder to insist on that word) much less than English, because the preferred method of emphasis is redundancy instead.</div>
+    <div class="line" data-ru="47         " data-en="Не нравится">47         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться                 " data-en="Аватар u/HorrorMakesUsHappy">Поделиться                 </div>
+    <div class="line" data-ru="HorrorMakesUsHappy" data-en="•                 ">HorrorMakesUsHappy</div>
+    <div class="line" data-ru="46 мин. назад" data-en="emoji:blue1: ">46 мин. назад</div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                                                                                                        " data-en="the last syllable of a rhythmic group (roughly a grammatically meaningful group of words) is stressed with an elongation and a sharp change in tone">emoji:1112:                                                                                                                                        </div>
+    <div class="line" data-ru="That&#x27;s really interesting. I&#x27;d love to hear an example of the same phrase said once the way you just described and again the way a non-native speaker might say it. I&#x27;m not even studying French, but I love languages in general, but I&#x27;m also fascinated by things like tone, accents, speech impediments, etc." data-en="Нравится                                                                                                                                                                                                                                                                                                         ">That&#x27;s really interesting. I&#x27;d love to hear an example of the same phrase said once the way you just described and again the way a non-native speaker might say it. I&#x27;m not even studying French, but I love languages in general, but I&#x27;m also fascinated by things like tone, accents, speech impediments, etc.</div>
+    <div class="line" data-ru="8          " data-en="Не нравится">8          </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 3 ответа">Поделиться  </div>
+    <div class="line" data-ru="Еще 8 ответов" data-en="i_tyrant     ">Еще 8 ответов</div>
+    <div class="line" data-ru="•        " data-en="1 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="I actually started saying that word differently in my head while thinking about your meaning." data-en="&quot;monotonous&quot;. &quot;mono-tone us&quot;. hehe.                                                          ">I actually started saying that word differently in my head while thinking about your meaning.</div>
+    <div class="line" data-ru="Нравится" data-en="23      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Аватар u/ConfusingVacum" data-en="ConfusingVacum         ">Аватар u/ConfusingVacum</div>
+    <div class="line" data-ru="•        " data-en="1 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Nice aha, just like me when I read the post with an american accent:" data-en="&quot;BonnJOuuwrrr jeuu vOudwrAis deux crouAaassAon sil VOUS plAiiit&quot;    ">Nice aha, just like me when I read the post with an american accent:</div>
+    <div class="line" data-ru="Нравится" data-en="22      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 1 ответ " data-en="Еще 2 ответа">Еще 1 ответ </div>
+    <div class="line" data-ru="Еще 17 ответов               " data-en="Аватар u/DangerousImplication">Еще 17 ответов               </div>
+    <div class="line" data-ru="DangerousImplication" data-en="•                   ">DangerousImplication</div>
+    <div class="line" data-ru="4 ч назад   " data-en="emoji:blue1:">4 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                                         " data-en="People are missing the joke since you can’t open his profile here, the guy is Asian.">emoji:1112:                                                                         </div>
+    <div class="line" data-ru="Нравится" data-en="442     ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Professional-Rip-314" data-en="•                   ">Professional-Rip-314</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                                                           " data-en="there are a lot of Asian people who are French citizens (1 million) so it still doesn’t make sense lol">emoji:1112:                                                                                           </div>
+    <div class="line" data-ru="Нравится" data-en="272     ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="candlejack___" data-en="•            ">candlejack___</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                                                             " data-en="All this tells me is that there are at least a million people in France that this could have happened to">emoji:1112:                                                                                             </div>
+    <div class="line" data-ru="Нравится" data-en="81      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 71 ответ  " data-en="Еще 17 ответов">Еще 71 ответ  </div>
+    <div class="line" data-ru="akaneko__" data-en="•        ">akaneko__</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                    " data-en="Pretty sure there are Asian people born &amp; raised in France, no?">emoji:1112:                                                    </div>
+    <div class="line" data-ru="Нравится" data-en="53      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Аватар u/Thick_Square_3805" data-en="Thick_Square_3805         ">Аватар u/Thick_Square_3805</div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Some would argue there&#x27;s no Asian people born and raised in France, because then they&#x27;re French." data-en="Нравится                                                                                        ">Some would argue there&#x27;s no Asian people born and raised in France, because then they&#x27;re French.</div>
+    <div class="line" data-ru="32         " data-en="Не нравится">32         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться " data-en="MinnieShoof">Поделиться </div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Изображение комментария" data-en="Нравится               ">Изображение комментария</div>
+    <div class="line" data-ru="12         " data-en="Не нравится">12         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться   " data-en="Еще 9 ответов">Поделиться   </div>
+    <div class="line" data-ru="Еще 10 ответов" data-en="Listakem      ">Еще 10 ответов</div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Dude… we… we have Asian and Asian descending people here you know ?" data-en="Нравится                                                           ">Dude… we… we have Asian and Asian descending people here you know ?</div>
+    <div class="line" data-ru="39         " data-en="Не нравится">39         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 3 ответа">Поделиться  </div>
+    <div class="line" data-ru="pissedinthegarret" data-en="•                ">pissedinthegarret</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                                                                                        " data-en="that doesn&#x27;t make any sense. do people who upvote this think there are no asians in france? or is this some kind of joke i dont get">emoji:1112:                                                                                                                        </div>
+    <div class="line" data-ru="Нравится" data-en="46      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 12 ответов              " data-en="Аватар u/Difficult_Bench6218">Еще 12 ответов              </div>
+    <div class="line" data-ru="Difficult_Bench6218" data-en="•                  ">Difficult_Bench6218</div>
+    <div class="line" data-ru="4 ч назад   " data-en="emoji:blue1:">4 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                                                             " data-en="The french colonized indochina. Being asian is not a reason they would speak english better than french?">emoji:1112:                                                                                             </div>
+    <div class="line" data-ru="Нравится" data-en="59      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="YazzArtist" data-en="•         ">YazzArtist</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                              " data-en="That&#x27;s what makes it a joke about racism, I&#x27;m pretty sure">emoji:1112:                                              </div>
+    <div class="line" data-ru="Нравится" data-en="32      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 2 ответа" data-en="Еще 1 ответ ">Еще 2 ответа</div>
+    <div class="line" data-ru="Аватар u/pipopipopipop" data-en="pipopipopipop         ">Аватар u/pipopipopipop</div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Have you been to France? There are tons of French Asian folks, that is definitely not the joke." data-en="Нравится                                                                                       ">Have you been to France? There are tons of French Asian folks, that is definitely not the joke.</div>
+    <div class="line" data-ru="14         " data-en="Не нравится">14         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 2 ответа">Поделиться  </div>
+    <div class="line" data-ru="Аватар u/Low-Apple2526" data-en="Low-Apple2526         ">Аватар u/Low-Apple2526</div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="I realize it&#x27;s a different country, but I&#x27;m Asian and went to Sweden a while ago. I was honestly expecting/hoping everyone would know I was a tourist and speak to me in English without having to awkwardly go &quot;sorry I don&#x27;t speak Swedish&quot;...but nobody did LOL. Everyone else just apparently assumed I was an immigrant, unless I was doing something very obviously foreign." data-en="Нравится                                                                                                                                                                                                                                                                                                                                                                          ">I realize it&#x27;s a different country, but I&#x27;m Asian and went to Sweden a while ago. I was honestly expecting/hoping everyone would know I was a tourist and speak to me in English without having to awkwardly go &quot;sorry I don&#x27;t speak Swedish&quot;...but nobody did LOL. Everyone else just apparently assumed I was an immigrant, unless I was doing something very obviously foreign.</div>
+    <div class="line" data-ru="6          " data-en="Не нравится">6          </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться     " data-en="LucasThePatator">Поделиться     </div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="People didn&#x27;t assume you were an immigrant. People assumed you were Swedish." data-en="Нравится                                                                    ">People didn&#x27;t assume you were an immigrant. People assumed you were Swedish.</div>
+    <div class="line" data-ru="21         " data-en="Не нравится">21         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 4 ответа">Поделиться  </div>
+    <div class="line" data-ru="Еще 13 ответов" data-en="rafalemurian  ">Еще 13 ответов</div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="That&#x27;s because your pronunciation isn&#x27;t flawless." data-en="Нравится                                         ">That&#x27;s because your pronunciation isn&#x27;t flawless.</div>
+    <div class="line" data-ru="19         " data-en="Не нравится">19         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться" data-en="Ponicrat  ">Поделиться</div>
+    <div class="line" data-ru="•            " data-en="59 мин. назад">•            </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Even if it is, flawless =/= natural. Think about how you can easily clock ai just for being too polite and grammatically correct" data-en="Нравится                                                                                                                        ">Even if it is, flawless =/= natural. Think about how you can easily clock ai just for being too polite and grammatically correct</div>
+    <div class="line" data-ru="13         " data-en="Не нравится">13         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 2 ответа">Поделиться  </div>
+    <div class="line" data-ru="Еще 45 ответов" data-en="Stoffys       ">Еще 45 ответов</div>
+    <div class="line" data-ru="•        " data-en="4 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Even in english you can instantly tell who learned it as a second language. OOP said &quot;Hello, two croissants please&quot; where as a native speaker (english) would say &quot;Hey, yeah, can I get uhhh two croissants? thanks&quot;" data-en="Нравится                                                                                                                                                                                                            ">Even in english you can instantly tell who learned it as a second language. OOP said &quot;Hello, two croissants please&quot; where as a native speaker (english) would say &quot;Hey, yeah, can I get uhhh two croissants? thanks&quot;</div>
+    <div class="line" data-ru="572        " data-en="Не нравится">572        </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться                  " data-en="Аватар u/Tolerator_Of_Reddit">Поделиться                  </div>
+    <div class="line" data-ru="Tolerator_Of_Reddit" data-en="•                  ">Tolerator_Of_Reddit</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                     " data-en="True. I bet OP didn&#x27;t even say &quot;alors&quot; even once">emoji:1112:                                     </div>
+    <div class="line" data-ru="Нравится" data-en="259     ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Аватар u/jenniferfox98" data-en="jenniferfox98         ">Аватар u/jenniferfox98</div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="I learned French from family at a young age and got weird looks in French class for always using alors as just a stand-in for &quot;um.&quot; Glad to know I&#x27;m not totally crazy then 😅." data-en="Нравится                                                                                                                                                                      ">I learned French from family at a young age and got weird looks in French class for always using alors as just a stand-in for &quot;um.&quot; Glad to know I&#x27;m not totally crazy then 😅.</div>
+    <div class="line" data-ru="118        " data-en="Не нравится">118        </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться   " data-en="sheesh1111111">Поделиться   </div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="There better word to emphasize points, just saying alors like a fifth grader gonne roll eyes" data-en="Нравится                                                                                    ">There better word to emphasize points, just saying alors like a fifth grader gonne roll eyes</div>
+    <div class="line" data-ru="26         " data-en="Не нравится">26         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться" data-en="mikillatja">Поделиться</div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Pronouncing alors in the most non french way possible inbetween perfect french would probably raise the average blood pressure in the room significantly." data-en="Нравится                                                                                                                                                 ">Pronouncing alors in the most non french way possible inbetween perfect french would probably raise the average blood pressure in the room significantly.</div>
+    <div class="line" data-ru="34         " data-en="Не нравится">34         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться   " data-en="Darth_Spa2021">Поделиться   </div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Thanks for the neat idea." data-en="Нравится                 ">Thanks for the neat idea.</div>
+    <div class="line" data-ru="10         " data-en="Не нравится">10         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 2 ответа">Поделиться  </div>
+    <div class="line" data-ru="Еще 2 ответа            " data-en="Аватар u/No_Pianist_4407">Еще 2 ответа            </div>
+    <div class="line" data-ru="No_Pianist_4407" data-en="•              ">No_Pianist_4407</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                             " data-en="Значок профиля за достижение Комментатор из топ-1% Комментатор из топ-1%">emoji:1112:                                                             </div>
+    <div class="line" data-ru="Not enough &quot;Euh&quot;s either                                                                                       " data-en="The trick to sounding French is to make it seem like it&#x27;s a struggle to remember every other word you say, like">Not enough &quot;Euh&quot;s either                                                                                       </div>
+    <div class="line" data-ru="&quot;Bounjour... euh... ca va? Alors, euh deux euh croissants, s&#x27;il vous plait&quot;" data-en="Нравится                                                                   ">&quot;Bounjour... euh... ca va? Alors, euh deux euh croissants, s&#x27;il vous plait&quot;</div>
+    <div class="line" data-ru="73         " data-en="Не нравится">73         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться    " data-en="rodinsbusiness">Поделиться    </div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Saying &quot;ça va&quot; definitely tells you&#x27;re a tourist, probably american." data-en="Нравится                                                            ">Saying &quot;ça va&quot; definitely tells you&#x27;re a tourist, probably american.</div>
+    <div class="line" data-ru="41         " data-en="Не нравится">41         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться" data-en="-Numaios- ">Поделиться</div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Saying &quot;Bonjour&quot; and &quot;ca va&quot; in Paris you are definitely a tourist.                                                              " data-en="And &quot;ca va&quot; put you immediately in the foreign tourist category as no one would say that to a Bakery clerc they never met before.">Saying &quot;Bonjour&quot; and &quot;ca va&quot; in Paris you are definitely a tourist.                                                              </div>
+    <div class="line" data-ru="Нравится" data-en="16      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Temporary_Dog_555" data-en="•                ">Temporary_Dog_555</div>
+    <div class="line" data-ru="2 ч назад   " data-en="emoji:blue1:">2 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                            " data-en="lol try not to say bonjour in Paris and see how it goes">emoji:1112:                                            </div>
+    <div class="line" data-ru="Нравится" data-en="14      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 5 ответов" data-en="Еще 7 ответов">Еще 5 ответов</div>
+    <div class="line" data-ru="Аватар u/rimalp" data-en="rimalp         ">Аватар u/rimalp</div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="ca va                                                                                               " data-en="You don&#x27;t say ca va to strangers tho, that&#x27;s more for friends or people you know a bit more closely.">ca va                                                                                               </div>
+    <div class="line" data-ru="Нравится" data-en="8       ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 1 ответ " data-en="Еще 3 ответа">Еще 1 ответ </div>
+    <div class="line" data-ru="Еще 3 ответа             " data-en="Аватар u/ChevalierMal_Fet">Еще 3 ответа             </div>
+    <div class="line" data-ru="ChevalierMal_Fet" data-en="•               ">ChevalierMal_Fet</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                                       " data-en="&quot;Hi, um, can I get like... a couple of the those things that are like croissants?&quot;">emoji:1112:                                                                       </div>
+    <div class="line" data-ru="&quot;You mean... you want a croissant?&quot;" data-en="&quot;I guess? But like, a couple?&quot;     ">&quot;You mean... you want a croissant?&quot;</div>
+    <div class="line" data-ru="&quot;How many is a couple?&quot;" data-en="&quot;Three?&quot;               ">&quot;How many is a couple?&quot;</div>
+    <div class="line" data-ru="&quot;Got it. A throuple of croissants.&quot;   " data-en="Source: years of customer service hell">&quot;Got it. A throuple of croissants.&quot;   </div>
+    <div class="line" data-ru="Нравится" data-en="72      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="The_last_cockatrice" data-en="•                  ">The_last_cockatrice</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                           " data-en="The word &quot;throuple&quot; fills me with joy.">emoji:1112:                           </div>
+    <div class="line" data-ru="Нравится" data-en="22      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="je386" data-en="•    ">je386</div>
+    <div class="line" data-ru="2 ч назад   " data-en="emoji:blue1:">2 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                            " data-en="In german, we have &quot;ein Paar&quot; (2) and &quot;ein paar&quot; (2-5).">emoji:1112:                                            </div>
+    <div class="line" data-ru="Нравится" data-en="11      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Аватар u/DisorderedArray" data-en="DisorderedArray         ">Аватар u/DisorderedArray</div>
+    <div class="line" data-ru="•        " data-en="1 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="It&#x27;s actually similar in English. Ein paar is like a few (2-5), but people often use couple instead few (it does include 2), so couple has come to cover 3-5 as well, even though it&#x27;s technically wrong and only mean 2. One exception would be pears, those you can legally only buy as a pair." data-en="Нравится                                                                                                                                                                                                                                                                                         ">It&#x27;s actually similar in English. Ein paar is like a few (2-5), but people often use couple instead few (it does include 2), so couple has come to cover 3-5 as well, even though it&#x27;s technically wrong and only mean 2. One exception would be pears, those you can legally only buy as a pair.</div>
+    <div class="line" data-ru="7          " data-en="Не нравится">7          </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться   " data-en="Еще 7 ответов">Поделиться   </div>
+    <div class="line" data-ru="Еще 1 ответ   " data-en="Еще 10 ответов">Еще 1 ответ   </div>
+    <div class="line" data-ru="Еще 18 ответов" data-en="keithlimreddit">Еще 18 ответов</div>
+    <div class="line" data-ru="•        " data-en="4 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Great career with huge range mainly Genshin" data-en="Нравится                                   ">Great career with huge range mainly Genshin</div>
+    <div class="line" data-ru="280        " data-en="Не нравится">280        </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться              " data-en="Аватар u/almondsadnesses">Поделиться              </div>
+    <div class="line" data-ru="almondsadnesses" data-en="•              ">almondsadnesses</div>
+    <div class="line" data-ru="4 ч назад   " data-en="emoji:blue1:">4 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                           " data-en="lmao, i was surprised when i saw him on this subreddit">emoji:1112:                                           </div>
+    <div class="line" data-ru="Нравится" data-en="83      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="AlchemyArtist" data-en="•            ">AlchemyArtist</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                              " data-en="Must have been the Mondstadt accent then.">emoji:1112:                              </div>
+    <div class="line" data-ru="Нравится" data-en="35      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Korbiter" data-en="•       ">Korbiter</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                          " data-en="He&#x27;s a Khanrieahn tho. Or at least a Homunculus made with their tech.">emoji:1112:                                                          </div>
+    <div class="line" data-ru="Нравится" data-en="16      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 3 ответа         " data-en="Аватар u/LapisJubilee">Еще 3 ответа         </div>
+    <div class="line" data-ru="LapisJubilee" data-en="•           ">LapisJubilee</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                    " data-en="He&#x27;s just teaching his younger brother the language of F*ntaine">emoji:1112:                                                    </div>
+    <div class="line" data-ru="Нравится" data-en="10      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 1 ответ      " data-en="Аватар u/nextstoq">Еще 1 ответ      </div>
+    <div class="line" data-ru="nextstoq" data-en="•       ">nextstoq</div>
+    <div class="line" data-ru="4 ч назад   " data-en="emoji:blue1:">4 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                                                                                                                                                                                                    " data-en="I have simply had the opposite experiences in Paris as a tourist. When ordering a morning coffee, or a croissant at a bakery, or some cheese at a market in &quot;French&quot;, I&#x27;ve always gotten polite simple replies.">emoji:1112:                                                                                                                                                                                                    </div>
+    <div class="line" data-ru="I do not speak French - only a few words or phrases. Obviously the server can hear my accent, but still I get a smile, a one or two word reply in French - and anything more is in English if possible." data-en="I have read many negative comments about France, and Paris in particular, but I love the place and have been very lucky.                                                                               ">I do not speak French - only a few words or phrases. Obviously the server can hear my accent, but still I get a smile, a one or two word reply in French - and anything more is in English if possible.</div>
+    <div class="line" data-ru="Нравится" data-en="43      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Аватар u/flashmedallion" data-en="flashmedallion         ">Аватар u/flashmedallion</div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Most places in Europe I found are happy when you give their language a go and then will just move to English for expediency, but don&#x27;t care if you start with English.                                                                                  " data-en="The French get their panties in a bunch if you start with English, and will just tolerate you opening in mangled French, but since those are the only two options you just have to push on past the internal eyerolling to ask for a coffee or whatever.">Most places in Europe I found are happy when you give their language a go and then will just move to English for expediency, but don&#x27;t care if you start with English.                                                                                  </div>
+    <div class="line" data-ru="Нравится" data-en="16      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 9 ответов" data-en="Еще 2 ответа ">Еще 9 ответов</div>
+    <div class="line" data-ru="ParmoChips" data-en="•         ">ParmoChips</div>
+    <div class="line" data-ru="3 ч назад   " data-en="emoji:blue1:">3 ч назад   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:          " data-en="Her: &quot;perfect accent&quot;">emoji:1112:          </div>
+    <div class="line" data-ru="Also her: &quot;Bawnjoorr, dur CRUSAWNTS seevuplay&quot;" data-en="Нравится                                      ">Also her: &quot;Bawnjoorr, dur CRUSAWNTS seevuplay&quot;</div>
+    <div class="line" data-ru="59         " data-en="Не нравится">59         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться       " data-en="Аватар u/CV90_120">Поделиться       </div>
+    <div class="line" data-ru="CV90_120" data-en="•       ">CV90_120</div>
+    <div class="line" data-ru="2 ч назад                        " data-en="https://youtu.be/zs2hcQBKSNA?t=32">2 ч назад                        </div>
+    <div class="line" data-ru="Нравится" data-en="8       ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="AusCro" data-en="•     ">AusCro</div>
+    <div class="line" data-ru="1 ч назад                                                                                                                             " data-en="My friend insisted she spoke fluent Croatian while I lived there, and she spoke like this. Everything was &quot;correct&quot; but sounded wrong.">1 ч назад                                                                                                                             </div>
+    <div class="line" data-ru="Нравится" data-en="8       ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 3 ответа  " data-en="LightTemplar27">Еще 3 ответа  </div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="Еще 4 ответа     " data-en="Bloodfeastisleman">Еще 4 ответа     </div>
+    <div class="line" data-ru="•        " data-en="4 ч назад">•        </div>
+    <div class="line" data-ru="So weird. My experience in France was the exact opposite of all the memes. I wonder if they are self aware." data-en="Нравится                                                                                                   ">So weird. My experience in France was the exact opposite of all the memes. I wonder if they are self aware.</div>
+    <div class="line" data-ru="131        " data-en="Не нравится">131        </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться " data-en="ad_iudicium">Поделиться </div>
+    <div class="line" data-ru="•        " data-en="4 ч назад">•        </div>
+    <div class="line" data-ru="The memes are mostly about Paris, really." data-en="Нравится                                 ">The memes are mostly about Paris, really.</div>
+    <div class="line" data-ru="147        " data-en="Не нравится">147        </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться" data-en="Taletad   ">Поделиться</div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="No even the things about Paris are clichés                                                                                                          " data-en="It’s mostly americans that either have never been to a big city before, or can’t be bothered to learn how to be polite that give us all the bad rap.">No even the things about Paris are clichés                                                                                                          </div>
+    <div class="line" data-ru="A lot of people are surprised that parisians aren’t as rude as they have been told." data-en="Нравится                                                                           ">A lot of people are surprised that parisians aren’t as rude as they have been told.</div>
+    <div class="line" data-ru="52         " data-en="Не нравится">52         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться           " data-en="Аватар u/brainkandy87">Поделиться           </div>
+    <div class="line" data-ru="brainkandy87" data-en="•           ">brainkandy87</div>
+    <div class="line" data-ru="3 ч назад                                                                                                                                                                                                                                                          " data-en="Flyover state American here: I loved it and the only time I ever ran into that French stereotype was in Normandy of all places. The Parisians I met were all great, but I also make the effort to understand I’m in their culture and not mine, so act accordingly.">3 ч назад                                                                                                                                                                                                                                                          </div>
+    <div class="line" data-ru="Нравится" data-en="27      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 1 ответ" data-en="WMBC91     ">Еще 1 ответ</div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="My experience of Paris is quite limited, but it did include an old lady literally walking 25 metres across the pavement to deliberately *accidentally walk into* my friend (we&#x27;re all English) before carrying on her way.                                                                                     " data-en="To be fair I&#x27;m not sure if it was that we were English, or that we were wearing boiler suits and waders, covered in mud from illegally entering the catacombs and looked like shit that she had the problem with. Either way, it was the most phenomenal display of not-quite passive aggression I&#x27;d ever seen.">My experience of Paris is quite limited, but it did include an old lady literally walking 25 metres across the pavement to deliberately *accidentally walk into* my friend (we&#x27;re all English) before carrying on her way.                                                                                     </div>
+    <div class="line" data-ru="Нравится" data-en="11      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Аватар u/Rynewulf" data-en="Rynewulf         ">Аватар u/Rynewulf</div>
+    <div class="line" data-ru="•        " data-en="2 ч назад">•        </div>
+    <div class="line" data-ru="Nah you get people like that in every city, just enevitable with so many people concentrated together" data-en="Нравится                                                                                             ">Nah you get people like that in every city, just enevitable with so many people concentrated together</div>
+    <div class="line" data-ru="7          " data-en="Не нравится">7          </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться " data-en="Еще 1 ответ">Поделиться </div>
+    <div class="line" data-ru="Еще 5 ответов " data-en="Еще 17 ответов">Еще 5 ответов </div>
+    <div class="line" data-ru="Еще 8 ответов" data-en="oxemenino    ">Еще 8 ответов</div>
+    <div class="line" data-ru="•        " data-en="4 ч назад">•        </div>
+    <div class="line" data-ru="Same here. I spent a week in Paris and got around using the French I learned in college, and everyone responded in French and was super kind and gracious." data-en="Нравится                                                                                                                                                  ">Same here. I spent a week in Paris and got around using the French I learned in college, and everyone responded in French and was super kind and gracious.</div>
+    <div class="line" data-ru="34         " data-en="Не нравится">34         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 3 ответа">Поделиться  </div>
+    <div class="line" data-ru="Еще 13 ответов      " data-en="Аватар u/jumbo_pizza">Еще 13 ответов      </div>
+    <div class="line" data-ru="jumbo_pizza" data-en="•          ">jumbo_pizza</div>
+    <div class="line" data-ru="3 ч назад                                                                                                                                                                                                                        " data-en="i think this is the dunning kruger effect in action, if you think you speak perfect and everyone around you can tell by one (easy) sentence that you’re a foreigner, then you’re probably not as advanced as you’d like to think.">3 ч назад                                                                                                                                                                                                                        </div>
+    <div class="line" data-ru="Нравится" data-en="26      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="powderofreddit" data-en="•             ">powderofreddit</div>
+    <div class="line" data-ru="1 ч назад                                                                                              " data-en="I&#x27;ve been here for more than 5 years. I still have an accent. Everyone hears it. I just sound this way.">1 ч назад                                                                                              </div>
+    <div class="line" data-ru="Нравится" data-en="8       ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 3 ответа            " data-en="Аватар u/Both-Buddy-6190">Еще 3 ответа            </div>
+    <div class="line" data-ru="Both-Buddy-6190" data-en="•              ">Both-Buddy-6190</div>
+    <div class="line" data-ru="4 ч назад                                                               " data-en="Значок профиля за достижение Комментатор из топ-1% Комментатор из топ-1%">4 ч назад                                                               </div>
+    <div class="line" data-ru="honestly it was probably because she said please. and the sweatpants." data-en="Нравится                                                             ">honestly it was probably because she said please. and the sweatpants.</div>
+    <div class="line" data-ru="290        " data-en="Не нравится">290        </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться" data-en="nevenoe   ">Поделиться</div>
+    <div class="line" data-ru="•        " data-en="4 ч назад">•        </div>
+    <div class="line" data-ru="Politiness is absolutely key in every day French. It does not mean you&#x27;re nice. But going into a bakery and say &quot;deux croissants&quot; without bonjour / s&#x27;il vous plaît would rank you as a an utter psychopath. Like people around would do a double take and look at you in disbelief." data-en="It was the sweatpants. Why not wear pyjamas while you&#x27;re at it.                                                                                                                                                                                                                     ">Politiness is absolutely key in every day French. It does not mean you&#x27;re nice. But going into a bakery and say &quot;deux croissants&quot; without bonjour / s&#x27;il vous plaît would rank you as a an utter psychopath. Like people around would do a double take and look at you in disbelief.</div>
+    <div class="line" data-ru="Нравится" data-en="262     ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Аватар u/Vicrinatana" data-en="Vicrinatana         ">Аватар u/Vicrinatana</div>
+    <div class="line" data-ru="•        " data-en="4 ч назад">•        </div>
+    <div class="line" data-ru="Or just your bath robe you slob" data-en="Нравится                       ">Or just your bath robe you slob</div>
+    <div class="line" data-ru="44         " data-en="Не нравится">44         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться       " data-en="pissedinthegarret">Поделиться       </div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="disgusting." data-en="Нравится   ">disgusting.</div>
+    <div class="line" data-ru="8          " data-en="Не нравится">8          </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться " data-en="Еще 1 ответ">Поделиться </div>
+    <div class="line" data-ru="Аватар u/Appropriate_Rub3134" data-en="Appropriate_Rub3134         ">Аватар u/Appropriate_Rub3134</div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="Politiness is absolutely key in every day French.                                                                                                                                                                                                          " data-en="Lol. Yeah, like maybe at a bakery with a line out the front door, when a cashier gets to you, you&#x27;ll be immediately asked what you want and you can skip the &quot;bonjour&quot;. You can watch and see what others ahead of you do, if you&#x27;re not sure in that case.">Politiness is absolutely key in every day French.                                                                                                                                                                                                          </div>
+    <div class="line" data-ru="But in lots of social interactions, if you skip the &quot;Bonjour&quot;, as soon as you stop taking, the other person will give you an annoyed look and a &quot;Bonjour&quot; with a tone that lets you know you just fucked up." data-en="Нравится                                                                                                                                                                                                    ">But in lots of social interactions, if you skip the &quot;Bonjour&quot;, as soon as you stop taking, the other person will give you an annoyed look and a &quot;Bonjour&quot; with a tone that lets you know you just fucked up.</div>
+    <div class="line" data-ru="14         " data-en="Не нравится">14         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 3 ответа">Поделиться  </div>
+    <div class="line" data-ru="Еще 44 ответа             " data-en="Аватар u/TotallyNotShinobi">Еще 44 ответа             </div>
+    <div class="line" data-ru="TotallyNotShinobi" data-en="•                ">TotallyNotShinobi</div>
+    <div class="line" data-ru="4 ч назад     " data-en="Khoi is a he 👍">4 ч назад     </div>
+    <div class="line" data-ru="Нравится" data-en="28      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 9 ответов      " data-en="Аватар u/lllyyyynnn">Еще 9 ответов      </div>
+    <div class="line" data-ru="lllyyyynnn" data-en="•         ">lllyyyynnn</div>
+    <div class="line" data-ru="3 ч назад                                                                                        " data-en="&quot;perfect accent&quot; is something people say and they just mean they aren&#x27;t saying it like a toddler.">3 ч назад                                                                                        </div>
+    <div class="line" data-ru="Нравится" data-en="13      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 2 ответа   " data-en="DreamingAngel99">Еще 2 ответа   </div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="Never expected to see Khoi Dao tweets in some random subreddit. Wild. Does that make up yet for him losing his checkmark?" data-en="&quot;the only problem with this theory IS THAT IT&#x27;S FUCKING WRONG&quot;                                                           ">Never expected to see Khoi Dao tweets in some random subreddit. Wild. Does that make up yet for him losing his checkmark?</div>
+    <div class="line" data-ru="anyway. " data-en="Нравится">anyway. </div>
+    <div class="line" data-ru="12         " data-en="Не нравится">12         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться " data-en="Еще 1 ответ">Поделиться </div>
+    <div class="line" data-ru="DoubtfulOptimist" data-en="•               ">DoubtfulOptimist</div>
+    <div class="line" data-ru="5 ч назад" data-en="Нравится ">5 ч назад</div>
+    <div class="line" data-ru="34         " data-en="Не нравится">34         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться                   " data-en="Аватар u/PKStarAllOverMyStorm">Поделиться                   </div>
+    <div class="line" data-ru="PKStarAllOverMyStorm" data-en="•                   ">PKStarAllOverMyStorm</div>
+    <div class="line" data-ru="3 ч назад                                                                                                                                                                                           " data-en="Everyone coming up with random ways to explain this when ol girl really just has a foreign accent. Think about your native tongue and how easily you can hear the difference even in fluent learners">3 ч назад                                                                                                                                                                                           </div>
+    <div class="line" data-ru="Нравится" data-en="10      ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 2 ответа  " data-en="JewishLinguini">Еще 2 ответа  </div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="&quot;Bon-Shore, Dooks crow-saints seal voo place&quot; Dude, how tf did she know? My accent was perfect!" data-en="Нравится                                                                                       ">&quot;Bon-Shore, Dooks crow-saints seal voo place&quot; Dude, how tf did she know? My accent was perfect!</div>
+    <div class="line" data-ru="9          " data-en="Не нравится">9          </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться " data-en="Еще 1 ответ">Поделиться </div>
+    <div class="line" data-ru="Indigokendrick" data-en="•             ">Indigokendrick</div>
+    <div class="line" data-ru="4 ч назад                     " data-en="I&#x27;m not trilingual for nothing">4 ч назад                     </div>
+    <div class="line" data-ru="If a french person started speaking English to me after I spoke french, I would just stare them dead in the eyes and start speaking Portuguese." data-en="Нравится                                                                                                                                       ">If a french person started speaking English to me after I spoke french, I would just stare them dead in the eyes and start speaking Portuguese.</div>
+    <div class="line" data-ru="43         " data-en="Не нравится">43         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 31 ответ">Поделиться  </div>
+    <div class="line" data-ru="Аватар u/zandrew" data-en="zandrew         ">Аватар u/zandrew</div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="When I first went to France knowing no French and asked them if they spoke English they said no. So I learned some French and now when I visit and try to speak French they all suddenly fucking know English." data-en="Нравится                                                                                                                                                                                                      ">When I first went to France knowing no French and asked them if they spoke English they said no. So I learned some French and now when I visit and try to speak French they all suddenly fucking know English.</div>
+    <div class="line" data-ru="15         " data-en="Не нравится">15         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться" data-en="nevenoe   ">Поделиться</div>
+    <div class="line" data-ru="•        " data-en="3 ч назад">•        </div>
+    <div class="line" data-ru="tbf english skills have markedly improved in France, at least with younger generations." data-en="Нравится                                                                               ">tbf english skills have markedly improved in France, at least with younger generations.</div>
+    <div class="line" data-ru="7          " data-en="Не нравится">7          </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 2 ответа">Поделиться  </div>
+    <div class="line" data-ru="Еще 1 ответ         " data-en="Professional_Ant4228">Еще 1 ответ         </div>
+    <div class="line" data-ru="•        " data-en="4 ч назад">•        </div>
+    <div class="line" data-ru="No one speaks their language “perfectly” in normal conversation. There are regional slang terms and accents." data-en="Нравится                                                                                                    ">No one speaks their language “perfectly” in normal conversation. There are regional slang terms and accents.</div>
+    <div class="line" data-ru="22         " data-en="Не нравится">22         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 4 ответа">Поделиться  </div>
+    <div class="line" data-ru="improbsable" data-en="•          ">improbsable</div>
+    <div class="line" data-ru="4 ч назад                                                             " data-en="Yes. It’s the clothes. They clock Americans by our love of casual wear">4 ч назад                                                             </div>
+    <div class="line" data-ru="Нравится" data-en="7       ">Нравится</div>
+    <div class="line" data-ru="Не нравится" data-en="Ответить   ">Не нравится</div>
+    <div class="line" data-ru="Награда   " data-en="Поделиться">Награда   </div>
+    <div class="line" data-ru="Еще 5 ответов                " data-en="Аватар u/generally_unsuitable">Еще 5 ответов                </div>
+    <div class="line" data-ru="generally_unsuitable" data-en="•                   ">generally_unsuitable</div>
+    <div class="line" data-ru="3 ч назад                                                                                                                                                                                                                                                         " data-en="One time I pointed at a baguette in a bakery and said &quot;Je voudrais cette baguette-là.&quot; (I would like that baguette there) And the baker came back with &quot;Voulez-vous une baguette, ou ce pain-là?&quot; &quot;Do you want a baguette, or do you want that bread right there?&quot;">3 ч назад                                                                                                                                                                                                                                                         </div>
+    <div class="line" data-ru="They&#x27;ve got 10 different things that look just like a baguette but aren&#x27;t a baguette." data-en="Нравится                                                                             ">They&#x27;ve got 10 different things that look just like a baguette but aren&#x27;t a baguette.</div>
+    <div class="line" data-ru="7          " data-en="Не нравится">7          </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться   " data-en="Еще 5 ответов">Поделиться   </div>
+    <div class="line" data-ru="Аватар u/favuorite" data-en="favuorite         ">Аватар u/favuorite</div>
+    <div class="line" data-ru="•        " data-en="4 ч назад">•        </div>
+    <div class="line" data-ru="Wrong kind of French probably, yeah the accent sounded French but not like a French accent she likes so she used english to talk so such an obviously inferior creature." data-en="Нравится                                                                                                                                                                ">Wrong kind of French probably, yeah the accent sounded French but not like a French accent she likes so she used english to talk so such an obviously inferior creature.</div>
+    <div class="line" data-ru="27         " data-en="Не нравится">27         </div>
+    <div class="line" data-ru="Ответить" data-en="Награда ">Ответить</div>
+    <div class="line" data-ru="Поделиться  " data-en="Еще 2 ответа">Поделиться  </div>
+    <div class="line" data-ru="Раздел «Информация о сообществе»" data-en="r/NonPoliticalTwitter           ">Раздел «Информация о сообществе»</div>
+    <div class="line" data-ru="verified" data-en="Вступить">verified</div>
+    <div class="line" data-ru="NonPoliticalTwitter                                                                                 " data-en="Twitter without the politics. Come vibe with us as we escape the stress of the real world around us.">NonPoliticalTwitter                                                                                 </div>
+    <div class="line" data-ru="Создано 15 окт. 2020 г." data-en="Публичное              ">Создано 15 окт. 2020 г.</div>
+    <div class="line" data-ru="Правила сообщества" data-en="1,4 млн           ">Правила сообщества</div>
+    <div class="line" data-ru="посетителя в неделю" data-en="12 тыс.            ">посетителя в неделю</div>
+    <div class="line" data-ru="опубликованных материалов за неделю" data-en="Метка пользователя                 ">опубликованных материалов за неделю</div>
+    <div class="line" data-ru="Аватар u/Comprehensive_Bit218" data-en="Comprehensive_Bit218         ">Аватар u/Comprehensive_Bit218</div>
+    <div class="line" data-ru="Правила r/NonPoliticalTwitter" data-en="1                            ">Правила r/NonPoliticalTwitter</div>
+    <div class="line" data-ru="No Politics or Political Discussions/Commentary." data-en="2                                               ">No Politics or Political Discussions/Commentary.</div>
+    <div class="line" data-ru="Must Be Twitter &amp; BlueSky." data-en="3                         ">Must Be Twitter &amp; BlueSky.</div>
+    <div class="line" data-ru="Remain Civil and Respectful of Others" data-en="4                                    ">Remain Civil and Respectful of Others</div>
+    <div class="line" data-ru="No Reposting from within 3-6 months or Self-reposted Content from your own Twitter Account." data-en="5                                                                                          ">No Reposting from within 3-6 months or Self-reposted Content from your own Twitter Account.</div>
+    <div class="line" data-ru="No Glorifying Tragedies or Advocating for Violence" data-en="6                                                 ">No Glorifying Tragedies or Advocating for Violence</div>
+    <div class="line" data-ru="Do not post or reference Inappropriate Content." data-en="7                                              ">Do not post or reference Inappropriate Content.</div>
+    <div class="line" data-ru="No content referencing current Twitter drama." data-en="8                                            ">No content referencing current Twitter drama.</div>
+    <div class="line" data-ru="Do not post misinformation or misleading claims/advice." data-en="9                                                      ">Do not post misinformation or misleading claims/advice.</div>
+    <div class="line" data-ru="No spamming or engaging in karma-farming behavior." data-en="10                                                ">No spamming or engaging in karma-farming behavior.</div>
+    <div class="line" data-ru="Ensure content follows Reddits Sitewide Rules." data-en="My face when I see politics                   ">Ensure content follows Reddits Sitewide Rules.</div>
+    <div class="line" data-ru="Модераторы          " data-en="Модераторы сообщений">Модераторы          </div>
+    <div class="line" data-ru="Аватар u/esoterix_luke" data-en="u/esoterix_luke       ">Аватар u/esoterix_luke</div>
+    <div class="line" data-ru="Founder of NPT (wow so cool!)" data-en="emoji:hamster:               ">Founder of NPT (wow so cool!)</div>
+    <div class="line" data-ru="+++              " data-en="u/Aspect-Infinity">+++              </div>
+    <div class="line" data-ru="ʕ⁎̯͡⁎ʔ I ban political stuff" data-en="Winter the Kat              ">ʕ⁎̯͡⁎ʔ I ban political stuff</div>
+    <div class="line" data-ru="u/swat_08  " data-en="emoji:mod1:">u/swat_08  </div>
+    <div class="line" data-ru="emoji:mod2:" data-en="emoji:mod3:">emoji:mod2:</div>
+    <div class="line" data-ru="emoji:mod4:" data-en="swat       ">emoji:mod4:</div>
+    <div class="line" data-ru="Аватар u/IKIR115" data-en="u/IKIR115       ">Аватар u/IKIR115</div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Аватар u/Plainchant" data-en="u/Plainchant       ">Аватар u/Plainchant</div>
+    <div class="line" data-ru="emoji:mod1:" data-en="emoji:mod2:">emoji:mod1:</div>
+    <div class="line" data-ru="emoji:mod3:" data-en="emoji:mod4:">emoji:mod3:</div>
+    <div class="line" data-ru="Аватар u/aintnowaylilbro" data-en="u/aintnowaylilbro       ">Аватар u/aintnowaylilbro</div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="u/Thryloz   " data-en="emoji:blue1:">u/Thryloz   </div>
+    <div class="line" data-ru="emoji:blue2:" data-en="emoji:1111: ">emoji:blue2:</div>
+    <div class="line" data-ru="emoji:1112:                   " data-en="Checkout r/NonPoliticalTwitter">emoji:1112:                   </div>
+    <div class="line" data-ru="Аватар u/modmail-userinfo" data-en="u/modmail-userinfo       ">Аватар u/modmail-userinfo</div>
+    <div class="line" data-ru="Аватар u/qualityvote2" data-en="u/qualityvote2       ">Аватар u/qualityvote2</div>
+    <div class="line" data-ru="emoji:blue1:" data-en="emoji:blue2:">emoji:blue1:</div>
+    <div class="line" data-ru="emoji:1111:" data-en="emoji:1112:">emoji:1111:</div>
+    <div class="line" data-ru="Аватар u/expanded-polls" data-en="u/expanded-polls       ">Аватар u/expanded-polls</div>
+    <div class="line" data-ru="Посмотреть всех модераторов" data-en="Установленные приложения   ">Посмотреть всех модераторов</div>
+    <div class="line" data-ru="QualityVote Reborn" data-en="Spotlight         ">QualityVote Reborn</div>
+    <div class="line" data-ru="Expanded Polls            " data-en="Modmail Quick User Summary">Expanded Polls            </div>
+    <div class="line" data-ru="Flooding Assistant" data-en="Admin Tattler     ">Flooding Assistant</div>
+    <div class="line" data-ru="Ban extended: Ban user and remove all of their content." data-en="Bot Bouncer                                            ">Ban extended: Ban user and remove all of their content.</div>
+    <div class="line" data-ru="Comment Mop  " data-en="Evasion Guard">Comment Mop  </div>
+    <div class="line" data-ru="Правила Reddit             " data-en="Политика конфиденциальности">Правила Reddit             </div>
+    <div class="line" data-ru="Пользовательское соглашение" data-en="Доступность                ">Пользовательское соглашение</div>
+    <div class="line" data-ru="Reddit, Inc. © 2025. Все права защищены." data-en="Свернуть панель навигации               ">Reddit, Inc. © 2025. Все права защищены.</div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.line').forEach(element => {
+                element.addEventListener('click', () => {
+                    const ruText = element.getAttribute('data-ru');
+                    const enText = element.getAttribute('data-en');
+                    if (element.textContent === ruText) {
+                        element.textContent = enText;
+                        element.classList.add('lang-en');
+                    } else {
+                        element.textContent = ruText;
+                        element.classList.remove('lang-en');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

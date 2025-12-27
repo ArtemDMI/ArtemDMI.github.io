@@ -1,2 +1,0 @@
-# ArtemDMI.github.io
-list

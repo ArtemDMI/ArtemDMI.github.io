@@ -1,0 +1,105 @@
+Я нашел свою нынешнюю работу через LinkedIn 6 лет назад, но эта картинка точна, так как в наши дни нет ничего, кроме спама, мошенников и рекрутеров с вакансиями начального уровня.
+
+I found my current job through LinkedIn 6 years ago, but this picture is accurate as there is nothing but spam, scammers, and recruiters with entry-level jobs these days.
+
+---
+
+Я работаю на должности, где, я полагаю, можно счесть ценной информацию, с которой я работаю, и я получаю массу писем от китайских рекрутеров, предлагающих мне около 400 долларов за часовое интервью о моей работе.
+
+I work at a position where I guess one could find the information I handle valuable, and I get a ton of emails from Chinese recruiters offering me, like, $400 for an hour interview about the work I do.
+
+---
+
+Мне предлагали действительно высокооплачиваемую работу, но проблема в том, что это обычно краткосрочные контракты и они намного выше моего уровня, потому что они просто ищут по названию должности и не удосуживаются посмотреть мой профиль.
+
+I’ve had people reach out to me with really high-paying jobs, but the problem is that they’re usually short-term contracts and way above my pay grade because they just search by the title and don’t actually bother looking at my profile.
+
+---
+
+Тем не менее, одного моего знакомого переманили, и в итоге он переехал в Австралию ради гораздо лучшей зарплаты и качества жизни, так что это возможно.
+
+Saying that though, someone I know got headhunted and ended up moving to Australia for much better pay and quality of life, so it is possible.
+
+---
+
+Вам нужно настроить свой аккаунт под алгоритмы рекрутингового программного обеспечения для подобных ситуаций, подобно тому, как ютуберы и инфлюенсеры должны адаптировать каждый пост под алгоритмы социальных сетей.
+
+You have to tailor your account for recruiting software algorithms for situations like that, kind of like how YouTubers and influencers have to tailor each post for those social media algorithms.
+
+---
+
+Мы смеемся, и по праву, над сумасшедшими из LinkedIn, но эти люди получают предложения о работе, потому что их безумные посты постоянно подхватываются алгоритмами.
+
+We make fun of, and for good reason, the LinkedIn lunatics, but those people are getting job offers because their insane posts get picked up by algorithms all the time.
+
+---
+
+Даже будучи инженером-технологом с большим опытом, я получаю заниженные предложения, когда рекрутеры пытаются связаться со мной, предлагая зарплату ниже моей текущей, потому что компании чертовски скупы.
+
+Even as a production engineer with lots of experience I get lowballed when recruiters try to message me, as they try to offer a pay scale below my current salary because companies are cheap as fuck.
+
+---
+
+LinkedIn существует в странной реальности, где они считают совершенно нормальным поздравлять кого-то, кого вы мельком встретили на конференции 7 лет назад, с третьей годовщиной работы в компании по поставке изоляционных материалов.
+
+LinkedIn exists in a strange reality where they think it's a perfectly normal thing to congratulate someone you briefly met at a convention 7 years ago on their 3rd year working at an insulation supply company.
+
+---
+
+Я специально указываю в своем профиле, что принимаю приглашения только от людей, которые пишут и объясняют, почему они хотят связаться, но никто этого не делает, и я получаю приглашения от случайных людей из других частей света.
+
+I specifically state on my profile that I only accept connections from people who write and explain why they want to connect, but nobody does this and я get connections from randos in other parts of the world.
+
+---
+
+Вспоминая, как 10 лет назад в школе нам говорили, что нужно создать аккаунт в LinkedIn для поиска работы, я так и не сделал этого и в итоге получил работу своей мечты.
+
+Thinking back to 10 years ago where they told you in school that you should create a LinkedIn account to network for a job and I never went through with it and landed my dream job…
+
+---
+
+Вы не используете LinkedIn для поиска работы, он предназначен для знакомств, чтобы найти потенциального будущего супруга, потому что там вы можете увидеть, насколько хорошим кормильцем он может быть.
+
+You don’t use LinkedIn for jobs… it’s for dating, to find a potential future spouse on LinkedIn because you can see how good a provider they can be!
+
+---
+
+LinkedIn настолько отвратителен, насколько это вообще возможно, и хотя мне нравятся их игры, в остальном это реклама, фальшивые личности или политические и религиозные посты, из-за которых я также избегаю Facebook.
+
+LinkedIn is about as cringe as it gets, and I like their games, but otherwise it’s ads, fake personalities or the political and religious posts I likewise avoid Facebook for.
+
+---
+
+LinkedIn — это Facebook, потому что все бумеры перешли на Facebook, а миллениалы по какой-то причине превратили LinkedIn в то, из-за чего люди изначально не хотели быть на Facebook.
+
+Linked in is Facebook, because all the boomers gravitated towards Facebook, and millennials for some reason turned Linked in into the reason people didn't wanna be on Facebook in the first place.
+
+---
+
+И Facebook, и LinkedIn были в 100 раз лучше, когда вы видели только свои контакты, а иногда и друзей друзей, но теперь я чувствую, что не контролирую то, что мне подсовывает этот зверь.
+
+Both Facebook and LinkedIn were 100x better when you would only see your contacts and sometimes friends of friends, but now I feel like I have no control over what the beast feeds me.
+
+---
+
+Когда все является уведомлением, ничто не является уведомлением, как, например, когда ваше сообщение набирает 5 лайков, и вас просят его проверить, как будто это что-то важное.
+
+When everything is a Notification, Nothing is a Notification, like when your comment has reached 5 upvotes and they ask you to check it out as if it's something important.
+
+---
+
+Я подал заявку на работу в LinkedIn, и со мной начал переписываться искусственный интеллект, расспрашивая о моих мечтах и о том, почему компания должна меня нанять, а не реальный человек, принимающий решения.
+
+I applied for a job on LinkedIn and an A.I. started texting me, asking about my dreams and why the company should possibly hire me, instead of a real person making decisions.
+
+---
+
+У меня был аккаунт в LinkedIn всего 6 месяцев в 2024 году, я добавил всех своих бывших коллег с работы, с которой меня уволили, но так ничего и не опубликовал.
+
+I had a linkedin for all of 6 months in 2024, I added all of my (former) coworkers from the job I was laid off from, and never posted anything.
+
+---
+
+Я нашел работу самостоятельно, занимаясь волонтерством на местном уровне, и немедленно удалил эту ерунду, потому что это была пустая трата времени и энергии, ужасное решение, 0 из 5 звезд.
+
+I got a job on my own from volunteering locally and immediately deleted that shit because it was a waste of time and energy, a terrible decision, 0

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>sort_20</title>
+    <style>
+        body {
+            background-color: #0f0f0f;
+            color: #a5a5a5;
+            font-family: system-ui, -apple-system, sans-serif;
+            padding: 20px;
+            margin: 0;
+        }
+        .line {
+            cursor: pointer;
+            /* margin-bottom: 8px; */ /* Removed to eliminate gaps */
+            transition: background-color 0.2s;
+            padding: 0 8px;
+            border-radius: 4px;
+            white-space: pre-wrap;
+            margin-bottom: 1em; /* one empty line between items */
+        }
+        .line:last-child {
+            margin-bottom: 0;
+        }
+        .line:hover {
+            background-color: #1a1a1a;
+        }
+        .line.lang-en {
+            color: palegreen;
+        }
+    </style>
+</head>
+<body>
+    <div class="line" data-ru="Интересно, что это, черт возьми, за штуки, они похожи на печенье без выпечки, сделанное из овса, масла, арахисовой пасты и сахара." data-en="I wonder what the fuck these things were, they look like no-bake cookies made with oats, butter, peanut butter, and sugar.        ">Интересно, что это, черт возьми, за штуки, они похожи на печенье без выпечки, сделанное из овса, масла, арахисовой пасты и сахара.</div>
+    <div class="line" data-ru="Какая ирония, что это произошло, это почти как дождь в день твоей свадьбы, поистине досадная и нелепая ситуация.        " data-en="How ironic that this happened, it is almost like rain on your wedding day, a truly unfortunate and ridiculous situation.">Какая ирония, что это произошло, это почти как дождь в день твоей свадьбы, поистине досадная и нелепая ситуация.        </div>
+    <div class="line" data-ru="Это наводит на вопрос, почему они вообще оказались в духовке, что кажется очень странным и нелогичным местом для их хранения.                " data-en="This begs the question as to why they were in the oven in the first place, which seems like a very strange and illogical place to store them.">Это наводит на вопрос, почему они вообще оказались в духовке, что кажется очень странным и нелогичным местом для их хранения.                </div>
+    <div class="line" data-ru="Мой сосед по комнате в колледже положил коробку с пиццей в духовку, чтобы она оставалась теплой, а через несколько часов мы разогрели духовку, не найдя пиццу, пока коробка не загорелась.  " data-en="My college roommate put a pizza box with the pizza still inside into the oven to keep it warm, and hours later we preheated the oven, unable to find the pizza until the box caught on fire.">Мой сосед по комнате в колледже положил коробку с пиццей в духовку, чтобы она оставалась теплой, а через несколько часов мы разогрели духовку, не найдя пиццу, пока коробка не загорелась.  </div>
+    <div class="line" data-ru="Кажется, пицца была не единственным, что в тот момент запекалось, так как кто-то с юмором предположил, что ее готовили при 420 градусах." data-en="It seems the pizza wasn&#x27;t the only thing getting baked at that moment, as someone humorously suggested it was baked at 420 degrees.     ">Кажется, пицца была не единственным, что в тот момент запекалось, так как кто-то с юмором предположил, что ее готовили при 420 градусах.</div>
+    <div class="line" data-ru="Я искренне недоумеваю, почему люди хранят в духовке вещи, которые не предназначены для этого, особенно легковоспламеняющиеся или плавящиеся предметы." data-en="I am genuinely baffled by people who store things in the oven that are not meant to be there, especially flammable or meltable items.                ">Я искренне недоумеваю, почему люди хранят в духовке вещи, которые не предназначены для этого, особенно легковоспламеняющиеся или плавящиеся предметы.</div>
+    <div class="line" data-ru="Именно, я использую свою духовку для хранения чугунной посуды и больших противней, когда она не используется, так что в худшем случае мне просто нужно надеть перчатки и вытащить их, если я забуду." data-en="Exactly, I use my oven to store my cast iron and large sheet pans when it’s not in use, so in the worst-case scenario, I just need to put on gloves and pull them out if I forget them.             ">Именно, я использую свою духовку для хранения чугунной посуды и больших противней, когда она не используется, так что в худшем случае мне просто нужно надеть перчатки и вытащить их, если я забуду.</div>
+    <div class="line" data-ru="Я поступил так же и совершил одну ошибку в первую неделю дома с новорожденным, но, чтобы было ясно, новорожденный не был в духовке; я определенно усвоил свой урок в тот день." data-en="I did the same and made one mistake during the first week at home with a newborn, but to be clear, the newborn was not in the oven; I certainly learned my lesson that day.   ">Я поступил так же и совершил одну ошибку в первую неделю дома с новорожденным, но, чтобы было ясно, новорожденный не был в духовке; я определенно усвоил свой урок в тот день.</div>
+    <div class="line" data-ru="Мои родители раньше хранили в духовке всякие вещи, и каждый раз, когда хотелось что-то приготовить, уходило несколько минут на то, чтобы вытащить все пакеты с чипсами и хлебом." data-en="My parents used to store all sorts of things in the oven, and it took several minutes to remove all the bags of chips and bread every time you wanted to cook something.        ">Мои родители раньше хранили в духовке всякие вещи, и каждый раз, когда хотелось что-то приготовить, уходило несколько минут на то, чтобы вытащить все пакеты с чипсами и хлебом.</div>
+    <div class="line" data-ru="У моей мамы была привычка класть почту, включая газеты, в духовку перед сортировкой, а иногда она также хранила там кастрюли и сковородки, поэтому приходилось все трижды проверять перед готовкой.       " data-en="My mom had a habit of putting the mail, including newspapers, in the oven before sorting it, and sometimes she would also store pots and pans there, so you had to triple-check every time before cooking.">У моей мамы была привычка класть почту, включая газеты, в духовку перед сортировкой, а иногда она также хранила там кастрюли и сковородки, поэтому приходилось все трижды проверять перед готовкой.       </div>
+    <div class="line" data-ru="Моя жена, когда только переехала ко мне, не сказала, что хранит вещи в духовке, и однажды я почувствовал запах плавящейся пластиковой миски, когда разогревал ужин.                   " data-en="My wife, when she first moved in with me, didn’t tell me she was storing things in the oven, and one day I smelled a melting plastic mixing bowl when I was preheating to cook dinner.">Моя жена, когда только переехала ко мне, не сказала, что хранит вещи в духовке, и однажды я почувствовал запах плавящейся пластиковой миски, когда разогревал ужин.                   </div>
+    <div class="line" data-ru="В моем старом многоквартирном доме однажды в 3 часа ночи сработала пожарная сигнализация, потому что семья с нашего этажа забыла, что положила в духовку полотенца, и весь дом пах горелым пластиком." data-en="The fire alarm went off in my old apartment building once at 3 am because a family down the hall forgot they had put towels in there, and the whole building smelled like burned plastic.            ">В моем старом многоквартирном доме однажды в 3 часа ночи сработала пожарная сигнализация, потому что семья с нашего этажа забыла, что положила в духовку полотенца, и весь дом пах горелым пластиком.</div>
+    <div class="line" data-ru="У меня был кот, одержимый едой, который умел открывать шкафы, поэтому духовка была единственным местом, где я мог хранить еду для других кошек, чтобы он не съел все за десять секунд." data-en="I had a food-crazy cat who could open cupboards, so the oven was the only place I could keep the other cats&#x27; food so he wouldn&#x27;t eat it all in ten seconds.                           ">У меня был кот, одержимый едой, который умел открывать шкафы, поэтому духовка была единственным местом, где я мог хранить еду для других кошек, чтобы он не съел все за десять секунд.</div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.line').forEach(element => {
+                element.addEventListener('click', () => {
+                    const ruText = element.getAttribute('data-ru');
+                    const enText = element.getAttribute('data-en');
+                    if (element.textContent === ruText) {
+                        element.textContent = enText;
+                        element.classList.add('lang-en');
+                    } else {
+                        element.textContent = ruText;
+                        element.classList.remove('lang-en');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
