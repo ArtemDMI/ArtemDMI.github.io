@@ -1,0 +1,292 @@
+Моя мама любит рассказывать мне эту историю о том, как я открыл гипноз. Мне было четыре года. Я узнал о гипнозе. Я не помню как. Но я увлекся идеей управления разумом. Однажды мой дедушка посадил меня в машину после похода в магазин. Через час он вернулся очень злой. Он успокоился и рассказал маме. Я не переставал смотреть на него в зеркало заднего вида. У меня было очень серьезное лицо. Он просил меня остановиться несколько раз. Но я не отвечал. Я просто продолжал смотреть угрожающе. Потом я внезапно посмотрел ему в глаза и сказал. Папа, я загипнотизирую тебя. Я положу свой палец ноги тебе в рот.
+
+My mom loves telling me this story about when I discovered hypnotism. I was four years old. I found out about it. I don't remember how. But I became fascinated by the idea of mind control. One day my grandpa loaded me into the car after a grocery store trip. An hour later he returned furious. He calmed down and told my mom. I refused to stop staring at him in the rear view mirror. I had a very serious look on my face. He asked me to stop several times. But I never replied. I just kept staring menacingly. Then I suddenly looked into his eyes and said. Papa, I'm going to hypnotize you. I'm going to put my toe in your mouth.
+
+---
+
+Мама сказала, что тогда ей было смешно. Но она не могла смеяться. Мой дедушка был очень зол. У меня был дедушка еще 16 лет. Он был моим лучшим другом. Я точно думал, что это было смешнее, чем страшно. Но когда моему ребенку было два года, он рисовал на бумаге. Он тихо пел. Скреби, скреби, скреби глаза. Скреби глаза сегодня.
+
+My mom said she thought it was funny at the time. But she couldn't laugh. My grandfather was seriously enraged. I had my grandfather for 16 more years. He was my best friend. I definitely thought it was more funny than creepy. But when my kid was two, he was scribbling on paper. He quietly sang. Scrape, scrape, scrape your eyes. Scrape your eyes today.
+
+---
+
+Это напоминает мне о моей дочери. Она иногда поет. Люди в автобусе хрустят, хрустят, хрустят. И она смеется. Моему четырехлетнему ребенку было четыре года. Он играл с машинками на ковре. Я не могу дождаться нового дома. Когда этот дом взорвется. Я слушал вполуха. Подожди, что? Да, когда наш дом взорвется, будь готов. Мы просто быстро выбежим. Потом он вернулся к игре с машинками. Как будто ничего не было сказано.
+
+This reminds me of my daughter. She sometimes sings. The people on the bus go crunch crunch crunch. And she laughs. My four-year-old kid was four. He was playing with his cars on the carpet. I can't wait to get a new house. When this house explodes. I was half listening. Wait, what? Yeah, when our house explodes, be ready. We'll just run out real fast. Then he turned back to playing with cars. Like nothing had been said.
+
+---
+
+К счастью, это было 5 лет назад. Мой дом еще не взорвался. Сразу после рождения моего младшего брата мне было три года. Моя сестра и я говорили о том, чего нельзя делать рядом с ребенком. Нельзя оставлять маленькие игрушки. Нельзя бросать мячи вокруг него. Через несколько минут моя сестра сказала. Нельзя срезать губы острым ножом.
+
+Thankfully, that was 5 years ago. My house has not exploded yet. Just after my little brother was born I was three. My sister and I were talking about what not to do around the baby. Don't leave small toys out. Don't throw balls around him. After a few minutes my sister chimed in and said. You don't get off lips with a sharp knife.
+
+---
+
+Мой бывший тесть умер за пару лет до рождения моей дочери. Она никогда не встречала дедушку. Он был известен как очень смешной парень. Он всегда быстро шутил. Как бы странно это ни звучало, у нас не было его фотографий. Пока моей дочери не исполнилось около 4 лет. Моя бывшая свекровь поставила одну фотографию рядом с урной. Там хранился его прах. Первый раз моя дочь увидела фотографию. Она указала на нее и сказала. Это дедушка. Мне нравится, когда он смотрит в мое окно и смешит меня. Но мне не нравятся его друзья.
+
+My ex-father-in-law died a couple of years before my daughter was born. She never met her grandpa. He was known as a pretty funny guy. He was always quick with a oneliner. As strange as it sounds, there were no pictures of him around. Until my daughter was about 4 years old. My ex-mother-in-law set one next to the urn. His ashes were kept there. The first time my daughter saw the picture. She pointed to it and said. That's grandpa. I like when he looks in my window and makes me laugh. I don't like his friends, though.
+
+---
+
+Она никогда не упоминала об этом раньше. Когда я попытался спросить ее об этом, она казалась равнодушной. Сейчас она старше. Она говорит, что не помнит. Но я никогда не забуду это. Это была субботнее утро несколько лет назад. Моя жена и я еще были в постели. Она пыталась убедить меня сделать блины на завтрак. Моему старшему сыну было около шести лет. Он вошел в комнату и согласился с ней. Потом он сказал. Ты должен сделать немного и для Тайлера.
+
+She had never mentioned this before. When I tried to ask her about it, she seemed nonchalant. She's older now. She says she doesn't remember. But I'll never forget it. It was a Saturday morning a few years ago. My wife and I were still in bed. She was trying to convince me to make pancakes for breakfast. My oldest son was about six at the time. He came into the room and agreed with her. Then he said. You should make some for Tyler, too.
+
+---
+
+У него никогда не было воображаемых друзей. У нас никого в доме или семье не звали Тайлер. Мне было любопытно. Я спросил, кто такой Тайлер. Тайлер это мужчина, который спит в моей кровати. Оказалось, местный подросток сильно напился накануне вечером. Он прыгнул в местный общественный бассейн. Он потерял своих друзей. Он забрел в мой дом. Он думал, что это дом его друга. Это был очень типичный пригород. Все дома были очень похожи. Он отключился на кровати моего сына. Он был в мокрой одежде с хлором. Мой сын подумал, что это нормально. Он пошел вниз смотреть телевизор в гостиной. Пока он не заснул на диване. Для шестилетнего это было очень круто.
+
+He had never had imaginary friends. We didn't have anybody in the house or family named Tyler. I was curious. I asked who Tyler was. Tyler's the man sleeping in my bed. So, turns out a local teenager had gotten real drunk the night before. He jumped into the local public swimming pool. He got separated from his friends. He wandered into my house. He was thinking it was his friend's place. It was very suburban. All the houses were very similar. He passed out on my son's bed. He was in his wet, chlorinated clothes. My son thought this was fine. He went downstairs to watch TV in the living room. Until he fell asleep on the couch. For a six-year-old this was apparently the height of awesome.
+
+---
+
+Мы вызвали полицию. Ему было очень неловко. Он извинялся. Он все еще был довольно пьян. Они приехали и забрали его домой. О боже, это ужасное пробуждение для безопасности твоего дома, не так ли? Я никогда не запирал дверь в моем многоквартирном доме. Пока однажды я не проснулся. Пьяный спал на моем диване. Я не знаю, как они прошли через запертую дверь в дом. Хотя я никогда не узнаю.
+
+We called the cops. He was incredibly embarrassed. He was apologetic. He was still quite drunk. They came and took him home. Oh god, that is a horrifying wakeup call to your home security, isn't it? I never locked my door in my apartment block. Until one day I woke up. A drunk was asleep on my couch. I don't know how they got in through the locked door to the block. Though I'll never know.
+
+---
+
+Проверяй и перепроверяй замки каждую ночь. Теперь твой сын кажется очень спокойным. Мой ребенок спросил меня. Почему ты не проснешься завтра? Ты хочешь гореть? Спросила моя маленькая соседка. Моему сыну было около трех лет. Он отказывался идти вниз. Потому что там был человек-ангел. И человек-ангел, видимо, хотел навредить семье. У нас на самом деле был бетонный ангел высотой 6 футов в подвале много лет. Это была семейная реликвия. Он был покрашен. Но краска вся выцвела и облупилась. Я не думаю, что фильм ужасов мог бы сделать что-то более жуткое, если бы попытался.
+
+Check and double check the locks every night. Now, your son seems super chill. My kid asked me. How come you're not waking up tomorrow? Do you feel like burning? Asked my little girl neighbor. My son was about three at the time. He kept refusing to go downstairs. Because that's where the angel man was. And Angel Man apparently wanted to hurt the family. We actually had a 6-ft tall concrete angel in our basement for years. It was a family heirloom. It was painted. But the paint was all faded and peeling. I don't think a horror movie proper could have made something creepier if he tried.
+
+---
+
+Наш подвал был незавершенным. Кирпичные стены и грубый бетонный пол. В старом фермерском доме возрастом 104 года. Он протекал и был влажным все время. Маленькая девочка в классе детского сада моего сына рассказала мне. Она живет через дорогу от кладбища. Я спросил ее. Не страшно ли жить так близко к кладбищу? Она сказала очень спокойно. Не днем. Но ночью они все подходят к нашим окнам и кричат.
+
+Our basement was unfinished. Brick walls and rough concrete floor. In a 104-year-old farmhouse. It leaked and was damp all the time. A little girl in my son's kindergarten class told me. She lives across the street from a cemetery. I asked her. Was it spooky to live that close to a graveyard? She said very matter-of-factly. Not during the day. But at night they all walk up to our windows and scream.
+
+---
+
+Я вырос через дорогу от кладбища. Моя младшая сестра рассказала нам. Ей было в детском саду или в первом классе. Она не могла купаться одна. Потому что приходит призрак. И делает воду ледяной холодной. Когда никого больше не было рядом. Год назад у моей дочери были ночные кошмары. Ей было четыре года. Она просыпалась с криком каждую ночь. Примерно в 3 часа ночи. Моя жена и я шли к ней. Пока она не засыпала снова. Мы думали, что у нее просто кошмары. Но однажды утром она рассказала мне. Она боялась. Потому что в ее шкафу был мужчина. У него нет головы. Он продолжает будить ее.
+
+I grew up across the street from a cemetery. My little sister told us. She was in kindergarten or first grade. She couldn't bathe by herself. Because the ghost comes. And makes the water icy cold. When nobody else was around. A year ago my daughter was having night terrors. She was four at the time. She'd wake up screaming every night. At around 3:00 a.m. My wife and I would go stay with her. Until she fell back asleep. We assumed she was just having nightmares. But one morning she told me. She was afraid. Because there was a man in her closet. He doesn't have a head. Who keeps waking her up.
+
+---
+
+У меня есть отличное видео моего сына Билли. Ему было может быть два или три года. Он брал монету в 25 центов. И пытался положить ее в щель. Прямо над ручкой двери закрытого шкафа. Он продолжал повторять. Билли, заплати леди. Я плачу ей. Когда я спросил, что он делает, он ответил. Мне нужно заплатить леди в шкафу. Я спросил его. Почему в шкафу леди? Он сказал. Она там живет. Я плачу ей.
+
+I have this awesome video of my son Billy. He was maybe 2 or three at the time. He was taking a quarter. And trying to put it in the slot. Just above the door handle of the closed closet. He kept repeating. Billy, pay the lady. I pay her. When I asked what he was doing, he responded. I have to pay the lady in the closet. I asked him. Why is there a lady in the closet? He said. She lives there. I pay her.
+
+---
+
+Когда мне было около шести или семи лет, дом, который мы снимали, собирались продать. Мои родители велели нам держать комнаты в порядке. Потому что люди могут ходить по дому во время показов. У меня была идея. Взять маленькую коробку и написать на ней предсказания. Внутри были маленькие бумажки с предсказаниями. Идея была в том, что потенциальные покупатели могли взять бумажку. Чтобы получить свое предсказание. Как в печенье с предсказанием. Я помню первые несколько бумажек. Там было написано что-то вроде. У тебя будет удача. Потом остальные были довольно мрачными. Например. Ты умрешь.
+
+When I was about 6 or seven, the house we were renting was going to be sold. My parents instructed us to keep our rooms tidy. Because people might be walking through the house during showings. I had the idea. To take a little box and write fortunes on it. Inside were little slips of paper with fortunes. The idea was that prospective buyers could take a slip of paper. To get their fortune. Kind of like a fortune cookie. I remember the first couple of slips of paper. Said stuff like. You will have good luck. Then the rest of them had some pretty morbid stuff. Like. You're going to die.
+
+---
+
+Мои родители прочитали бумажки заранее. Потом они усадили меня и строго сказали. Коробка с предсказаниями это нельзя. Я был довольно серьезным ребенком. Мне не приходило в голову, что коробка с предсказаниями должна быть легкомысленной. У моего коллеги два сына. Младший начал видеть ужасные кошмары. Его преследовал кто-то с огромным ножом. Кто хочет убить его и всех остальных детей. Как вы можете себе представить, он просыпался с криком. И отказывался снова засыпать. Потом он спросил свою маму. Мама, есть ли способ просто покончить с этим сейчас? Я не хочу больше этого делать.
+
+My parents read the slips of paper beforehand. Then they sat me down and sternly told me. The fortune box was a no-no. I was a pretty serious child. It didn't occur to me that a fortune box should be lighthearted. My colleague has two sons. The younger one started to have these terrible nightmares. He was being chased by someone with a huge knife. Who wants to murder him and all the other kids. As you can imagine, he would wake up screaming. And refusing to go back to sleep. Then he asked his mom. Mommy, is there a way I could just get it over with now? I don't want to have to do this anymore.
+
+---
+
+Я даже не могу представить, как должна чувствовать себя его мама. Когда это ее ребенок. Я разговаривал с моим сыном. Он схватил мое лицо. Подошел очень близко. И прошептал. Мама, ты говоришь слишком громко. Ты разбудишь Эбби Йо-Йо. Я прошептал. Кто такой Эбби Йо-Йо, дружок? Эбби Йо-Йо это мой друг. Где Эбби Йо-Йо? В горе. Он спит. Мы живем рядом с большим горным хребтом, кстати. Почему мы должны быть тихими для Эбби Йо-Йо? Он ест детей, когда они слишком громкие.
+
+I can't even imagine how his mom must feel. When it's her child. I was talking to my son. He grabbed my face. Got really close. And whispered. Mommy, you're talking too loud. You'll wake up Abby Yo-Yo. I whispered. Who's Abby Yo-Yo, buddy? Abby Yo-Yo is my friend. Where is Abby Yo-Yo? In the mountain. He's sleeping. We live near a large mountain range, by the way. Why do we have to be quiet for Abby Yo-Yo? He eats kids when they're too loud.
+
+---
+
+Иногда, когда мы были слишком громкими, мой сын говорил нам всем быть тихими. Потом он бежал к окну. Чтобы посмотреть, не идет ли Эбби Йо-Йо. Какое-то время я боялся искать Эбби Йо-Йо в интернете. Из страха, что это какой-то древний демон или что-то такое. Но мой сын продолжал упоминать его. Так что я наконец преодолел себя и выяснил. Эбби Йо-Йо это южноафриканская народная сказка. О гиганте, который живет в горе. Который спускается, чтобы съесть скот деревни. Боясь, что он съест жителей деревни дальше, они находят способ остановить его. Им читают книгу в школе.
+
+Sometimes when we were too loud, my son would tell us all to be quiet. Then he would run to the window. To see if Abby Yo-Yo was coming. For a while I was afraid of looking up Abby Yo-Yo online. For fear that it would be some ancient demon or something. But my son kept bringing him up. So I finally got over myself and found out. Abby Yo-Yo is a South African folk tale. About a giant who lives in a mountain. Who comes down to eat the village livestock. Afraid that he'll eat the villagers next, they find a way to stop him. They read the book to him at school.
+
+---
+
+Мы наблюдали, как мужчина мусорит в нашем квартале. Моей трехлетней дочери было три года. Она сказала. Он только что мусорил. Да, он сделал это. Мусорить плохо, ответил я. Он должен быть казнен. Она имела в виду конкретно отрезание головы. Я сказал. Ну, может быть, не за первое нарушение.
+
+We observed a man littering in our block. My three-year-old daughter was three. She said. He just littered. Yes, he did. Littering is bad, I answered. He should be executed. By which she meant specifically having his head cut off. I said. Um, well, maybe not for a first offense.
+
+---
+
+Помнишь, когда я был младенцем? Когда я был другим маленьким мальчиком. И у меня была другая мама и папа? Нет, дружок. Ты помнишь это? Только немного. Дочь моей подруги раньше говорила о том времени. До того, как я тебя знала. Она имела в виду свою мать. Мы спросили, что она имела в виду. Кем она была до того, как узнала нас. Я была кем-то другим. Но я не могу вспомнить свое имя.
+
+Remember before when I was a baby? When I was a different little boy. And I had a different mommy and daddy? Uh, no, buddy. Do you remember that? Only a little. My girlfriend's daughter used to talk about before I knew you. Meaning her mother. We asked what she meant. By who she was before she knew us. I was somebody else. But I can't remember my name.
+
+---
+
+Однажды я устанавливал новый детектор дыма. Она спросила меня, что это такое. Я объяснил. Он скажет нам или разбудит нас. Если будет пожар. И мы сможем выбраться из дома. О, это хорошо. Значит, я снова не сгорю. И она радостно убежала. Моей дочери было четыре года. Однажды утром мы завтракали. Она сказала. Я была на горе однажды. И мой папа умер. Потом я проснулась. И была в этом доме с тобой и мамой. Потом мы просто сидели несколько секунд. И смотрели друг на друга. Потом она захотела посмотреть Полицейский патруль.
+
+Once when I was putting up a new smoke detector, she asked me what it was. I explained. It would tell us or wake us up. If there was a fire. And we could get out of the house. Oh, that's good. So I won't burn up again. And she happily skipped away. My daughter was four. While we were eating breakfast one morning, she said. I was on a mountain once. And my dad died. Then I woke up. And was in this house with you and mama. Then we just sat there for a few seconds. And looked at each other. Then she wanted to watch Paw Patrol.
+
+---
+
+Мой сын говорил о своем друге. О перевернутом клоуне. Однажды вечером я укладывал его спать. Само собой разумеется, я не фанат этой концепции. Моей дочери пять лет. Она пытается понять знание, что все умирают. Поэтому она склонна случайно упоминать вещи о моей смерти. В обычный разговор. Я знаю, что это подходящий для ее возраста способ. Попытаться понять концепцию смертности. Но это невероятно зловеще. И это появляется из ниоткуда. Мне нравится твое платье, мама. Но ты не сможешь носить его, когда умрешь. Я люблю тебя, мама. Но я буду так скучать по тебе, когда ты умрешь.
+
+My son was talking about his friend. The upside down clown. While I was putting him to bed one night. Needless to say, I am not a fan of that concept. My 5-year-old daughter is trying to process the knowledge that everyone dies. So she tends to casually drop stuff about me dying. Into normal conversation. I know this is her age appropriate way. Of trying to process the concept of mortality. But it's so unbelievably ominous. And it comes out of nowhere. I like your dress, Mommy. But you won't be able to wear it when you're dead. I love you, Mom. But I'll miss you so much when you're dead.
+
+---
+
+Она также однажды бросила абсолютно ужасающий комментарий. О том, чтобы обниматься со мной, когда я умру. Кстати, мне 28 лет. В ее сознании это невероятно древний возраст. Так что для нее я практически на пороге смерти. Я играл на полу с моим сыном. Ему два года. Мы положили подушки на пол. Мы притворялись, что идем спать. Он взял мою подушку. Встал над моей головой. Посмотрел вниз. И сказал пока-пока. И положил подушку мне на лицо.
+
+She also once dropped an absolutely terrifying comment. About snuggling me when I'm dead. By the way, I'm 28. Which in her mind is unbelievably ancient. So to her, I'm practically at death's door. I was playing on the floor with my son. He's two. We put pillows on the floor. We're pretending to go night night and sleep. He takes my pillow away from me. Stands above my head. Looks down. And says bye-bye. And places the pillow over my face.
+
+---
+
+Мой сын, когда ему было три года, рассказал мне. У него была сестра-облако. С черными глазами и зубами. Но она была хорошей. Это меня очень напугало. Когда я сидел с ребенком, ребенок говорил мне. Поверни кресло-качалку. Потому что она не хотела, чтобы человек смотрел на нее. Когда она спала. Я делал это. А на следующий день кресло-качалка снова было повернуто вперед.
+
+My son, when he's three, told me. He had a cloud sister. With black eyes and teeth. But she was nice. That freaked me the heck out. While babysitting, the kid would tell me. To turn the rocking chair around. Because she didn't want the person staring at her. When she was sleeping. I'd do it. And the next day the rocking chair would be facing forward again.
+
+---
+
+Мне рассказали, что я говорил моим родителям, когда был ребенком. Видимо, я всегда настаивал. Что я был маленьким мальчиком по имени Крис. Хотя я девочка. И меня точно не зовут Крис. Я настаивал на этом неоднократно. Как только я смог говорить. И я начинала плакать от разочарования. Если мне говорили, что это не так. Я также регулярно говорила родителям. Я скучаю по своей настоящей семье. И что они погибли в автомобильной аварии. И я хочу пойти на небеса, чтобы увидеть их.
+
+What I've been told I said to my parents when I was a kid. Apparently, I always used to insist. That I was a little boy named Chris. Even though I'm female. And my name definitely isn't Chris. I insisted on this repeatedly. As soon as I was able to speak. And I'd break down crying from frustration. If I was told I wasn't. I also regularly told my parents. I missed my real family. And that they'd died in a car accident. And I wanted to go to heaven to see them.
+
+---
+
+Это было особенно странно. Потому что моя семья не религиозна. И мы не обсуждали концепцию небес до этого. Это заставило мою маму беспокоиться. Что у нее ребенок с некоторыми реально тревожными наклонностями. Более чем в одном случае. Через некоторое время мои родители убедили меня перестать говорить. Что я мальчик по имени Крис. Вместо этого я говорила, что притворяюсь им. Но это привело к тому, что я однажды сказала маме. Мне нравится притворяться Крисом. Но мне становилось страшно, когда я это делала. Потому что всегда было так много крови.
+
+It was extra weird. Because my family isn't religious. And we hadn't discussed any concept of heaven prior to this. It left my mom worrying. That she had a kid with some real worrying tendencies. On more than one occasion. After a while my parents convinced me to stop saying. I was a boy named Chris. Instead that I was pretending to be one. But that just resulted in me once telling my mom. I liked pretending to be Chris. But that I got scared when I did. Because there was always so much blood.
+
+---
+
+Моя мама спросила меня. Я имела в виду кетчуп? Я посмотрела на нее, как на идиота. И сказала. Нет, мама, это кровь. И потом отказалась говорить об этом снова. Это продолжалось примерно с того момента. Когда я впервые начала говорить связно. До детского сада или около того. У меня нет памяти об этом. Кроме того, что я помню. Я действительно хотела быть мальчиком по имени Крис. И чувствовала, что что-то не так со мной. До примерно второго или третьего класса. Потом это просто как-то исчезло.
+
+My mom asked me. Did I mean ketchup? I looked at her like she was an idiot. And said. No, mom, it's blood. And then refused to talk about it again. This spanned from around when. I first started speaking coherently. Through kindergarten or so. I've got no memory of it. Except that I remember. Really wishing I was a boy named Chris. And feeling like something wasn't how it should be with me. Up until around second or third grade. Then it just sort of faded away.
+
+---
+
+У меня был пациент много лет назад. Сразу после школы я устроился на работу. Санитаром в реабилитационной больнице. Мне было 18 лет. И я был очень неопытным. Большинство пациентов были парализованы. Некоторые параплегики. Некоторые квадриплегики. Некоторые гемиплегики. Это как жертвы инсульта. Там также были люди с повреждением мозга. Одним из самых серьезно пострадавших случаев был подросток. Мы назовем его Джо. Он попал в аварию на мотоцикле. И не носил шлем. Он ударился о бордюр. И получил серьезную травму головы.
+
+A kid I had as a patient many years ago. Right after high school I got a job. As an orderly at a rehabilitation hospital. I was 18. And about as green as grass. Most of the patients were paralyzed. Some paraplegics. Some quadriplegics. Some hemoplegics. Which is like stroke victims. There were also some brain damage to people there. One of the most seriously injured cases was a teenager. Who we'll call Joe. Who had been in a motorcycle wreck. And had not been wearing a helmet. He hit a curb. And suffered a severe head injury.
+
+---
+
+Его семья, особенно мать, была убеждена. Джо может общаться. Но никто из персонала не верил им. Его мучили спазмы. И он никогда не смотрел на людей. Но он всегда смотрел по комнате случайно. Когда он издавал звуки, это просто звучало как странное стоны. Без какой-либо формы или ритма. Это было частное мнение всех членов персонала. Его там не было. Как будто он был слишком сильно поврежден мозгом. Чтобы знать, что происходит вокруг него.
+
+His family, especially his mother, were convinced. Joe could communicate. But none of the staff believed them. He was racked with spasms. And never looked at people. But he always looked around the room randomly. When he vocalized it, it just sounded like a bizarre moaning. Without any form or rhythm. It was the privately expressed view of all the staff members. That he wasn't in there. Like that he was too severely brain damaged. To know what was going on around him.
+
+---
+
+Я думал, другие члены персонала были слишком небрежны. В том, как они говорили о Джо. А не с Джо. Когда они ухаживали за ним. Хотя он дышал сам, он был в отделении один. В отделении со всеми тяжело пострадавшими квадриплегиками. Которые были на аппаратах искусственной вентиляции легких. Его мать настаивала на проведении празднования дня рождения у постели. В отделении. С тортом, праздничными шляпами и другими вещами. Мы все думали, что это казалось немного жестоким фарсом. Но нам приказали присутствовать. И мы сделали это.
+
+I thought other staff members were way too casual. In the way they talked about Joe. Rather than to Joe. When they were providing his care. Although he breathed on his own, he was on unit one. The unit with all the severely injured quads. Who were on respirators. His mother insisted on holding a bedside birthday party for him. On the unit. Complete with cake, party hats, and other stuff. We all thought it seemed like a bit of a cruel charade. But we were ordered to attend it. And we did so.
+
+---
+
+Мы спели с днем рождения. Его мать кормила его тортом. Он, казалось, не жевал его. Но он все еще, казалось, глотал. Это было грустно. И это меня немного разозлило. Что семья не могла принять очевидную истину. Что он был жив. Но не в сознании. Я работал в смену с 3 до 11. Как санитар, моя главная обязанность была переворачивать пациентов. Другой сильный молодой санитар и я ходили из отделения в отделение. Переворачивали пациентов с одной стороны на другую. Чтобы избежать пролежней.
+
+We sang happy birthday. His mother fed him cake. He didn't seem to chew it. But he did still seem to swallow. It was sad. And it made me a little angry. That the family couldn't accept what was the obvious truth. That he was alive. But not cognizant. I worked the 3 to 11 shift. And as an orderly, my main duty was turning the patients. Another strong young orderly and I went from unit to unit. Turning patients from one side to the other. To avoid bed sores.
+
+---
+
+Когда мы уходили из отделения один, я подумал, что услышал шепот. Со стороны кровати Джо. Я подошел ближе в тускло освещенной комнате. И я мог слышать очень тихие звуки песни с днем рождения. Джо насвистывал что-то мелодично. Очень тихо шипел. С того момента я обращался к Джо как мистер Смит. И был очень осторожен. Говорить напрямую с ним с уважением. Он все еще не казался там. Но я не рисковал. Я думаю, макаба думала, что он может быть в сознании и осознавать. Это пугало людей. И поэтому они относились к нему как к объекту. А не как к человеку.
+
+When we were leaving unit one, I thought I heard whispering. Coming from the direction of Joe's bed. I walked closer in the dimly lit room. And I could hear the very low strains of the happy birthday song. Joe was whistling sort of tunefully. Hissing very softly. From that moment on, I addressed Joe as Mr. Smith. And was very careful. To speak directly to him with respect. He still didn't seem to be in there. But I wasn't taking any chances. I think the macaba thought that he might be conscious and aware. It frightened people. And that's why they treated him as an object. Rather than as a person.
+
+---
+
+Когда мне было 16 лет, а моему младшему брату было девять, он однажды сказал. С абсолютно серьезным лицом. И я цитирую. Если бы я убил тебя во сне, никто бы не знал. Или не сказал бы, что это был я. Потому что я просто ребенок. И дети не могут убивать людей. После этого мне пришлось спать с одним открытым глазом. Я думаю, может быть, мне придется спать с одним открытым глазом. Вокруг всех детей навсегда теперь. Извините, будущие детки. Есть причина, почему папа просто постоянно устал. И осторожен с вами все время. Вы жуткие, убийственные маленькие придурки.
+
+When I was 16 and my younger brother was nine, he once said. With a dead straight face. And I quote. If I was to murder you in your sleep, no one would know. Or say it was me. Because I'm just a kid. And kids can't kill people. I had to sleep with one eye open after that. I think maybe I have to sleep with one eye open. Around all kids forever now. Sorry, future kiddos. There's a reason daddy is just permanently tired. And wary of you all the time. You freaky, murderous little jerks.
+
+---
+
+Это произошло только на этой неделе. После того, как у меня была небольшая процедура в кабинете врача. Моему сыну было два с половиной года. Он делал мне осмотр своим маленьким набором врача. И я пошутил. Спросил, буду ли я жить. И он сказал. Нет, мама, умри. Ну ладно тогда. Племянник моей бывшей жены начал говорить о монстре. Который приходил в его комнату ночью. Он не боялся монстра. Но сказал, что она была женщиной. Знала его имя. И говорила ему приятные вещи.
+
+This happened just this week. After I had a small procedure at my doctor's office. My 2 and 1/2-year-old was doing a checkup on me. With his little doctor's kit. And I made a joke. Asking if I was going to live. And he said. No, mom, die. Oh, all right then. My ex-wife's nephew started talking about the monster. That came to his room at night. He wasn't scared of the monster. But said she was a woman. Knew his name. And said nice things to him.
+
+---
+
+Через пару лет после того, как он начал говорить о ней, он нашел старый фотоальбом. Которого никогда не видел. И листал его на полу. Он перевернул страницу и подпрыгнул. Указал на альбом. Это она. Она монстр. Это была фотография его румынской прабабушки. Которая умерла за 30 лет до его рождения. Я, как пятилетний ребенок, сказал родителям. Я не сплю в своей кровати. Из-за старушки. Почти каждое утро они находили меня спящим в моем шкафу. Они не думали об этом слишком много. Пока другие люди не приходили остаться с нами. И не упоминали. Они видели старушку, стоящую над ними. Когда они просыпались посреди ночи.
+
+A couple of years after he started talking about her, he found an old picture album. He had never seen. And was flipping through it on the floor. He flipped a page and jumped up. Pointing at the album. That's her. She's the monster. It was a picture of his Romanian great grandmother. Who had died 30 years before he was born. I, as a 5-year-old child, told my parents. I didn't sleep in my bed. Because of the old lady. Nearly every morning they'd find me asleep in my closet. They didn't think too much of it. Until other people would come stay with us. And mention. They saw an old lady standing over them. When they woke up in the middle of the night.
+
+---
+
+Это произошло с тремя посетителями. В той же комнате и кровати. И все они отказались ступить ногой в ту комнату снова. Моему пятилетнему ребенку было пять лет. Он размышлял. Зубная фея, вероятно, берет зубы. Чтобы положить их в свой собственный рот. Чтобы у нее были миллионы зубов там. Ужас. Моему старшему сыну было может быть два с половиной года. Он провел все утро. Говоря нараспев. Это идет. Это идет. Но дамп дамп.
+
+This happened to a good three visitors. In that same room and bed. And all of them refused to step foot in that room again. My 5-year-old was five. He was speculating. The tooth fairy probably takes the teeth. To put in her own mouth. So that she has millions of teeth in there. Yikes. My eldest son was maybe two and a half at the time. He spent an entire morning. Saying in a sing-song voice. It's coming. It's coming. But dump dump.
+
+---
+
+Я скажу, это было смешно минуты с первой по третью. Потом раздражающе минуты с четвертой по пятнадцатую. Я игнорировал его до минуты тридцатой. И потом это становилось все жутче и жутче. Я играл в игру Поймал твой нос с моей двухлетней дочерью. И отключилось электричество. Весь дом был абсолютно темным. Ребенок тогда говорит мне. Дядя Аллан, ты взял мои глаза? Бывшие заключенные, какая самая грустная вещь, которую вы видели в тюрьме? Когда я был ребенком, я попал в исправительное учреждение для несовершеннолетних. Или детскую тюрьму. За случайное поджигание леса. Это была ситуация с костром, вышедшим из-под контроля.
+
+I'll say it was funny for minutes 1 through three. And then irritating minutes for 4 through 15. I was ignoring him until minute 30. And then it just got creepier and creepier. I was playing Got Your Nose with my 2-year-old daughter. And the power went out. The whole house was pitch black. The kid then says to me. Uncle Allan, did you take my eyes? Ex-cons, what's the saddest thing you've seen in prison? As a kid, I went to juvie or kid jail. For accidentally setting some woods on fire. It was a bonfire out of control situation.
+
+---
+
+Мой сокамерник был всего на несколько лет старше меня. Он был очень милым, спокойным парнем. Мы отлично ладили. И даже как-то стали друзьями, пока были там. Я был просто ребенком. Поэтому я не задавал вопросов. О разных цветах комбинезонов. И причинах, по которым люди там находились. В день, когда я вышел, я узнал. Он был там за убийство. Видимо, он очень устал от того, что его отчим издевался над ним. И он исправил ситуацию.
+
+My cellmate was only a few years older than me. He was a super nice, laid-back guy. We got along great. And even sort of became friends while there. I was just a kid. So I didn't really ask any questions. About different colors of jumpsuits. And people's reasons for being there. The day I got out, I found out. He was in there for murder. Apparently, he got really tired of his stepdad bullying him. And he remedied the situation.
+
+---
+
+Я никогда не знал всех деталей. Но я могу сказать вам. Когда я разговаривал с ним, он казался хорошим ребенком в душе. У него были вещи и люди, о которых он заботился. Вещи, которые он хотел делать. Интересы. Охранники, очевидно, должны были знать. Но они всегда были очень милы с ним. Заметно так. Даже больше, чем с заключенными. Я всегда задавался вопросом. Что случилось с тем парнем? Ребенок, как тот, я не вижу как убийцу. Он был ребенком. Вероятно, его поместили в ужасную домашнюю ситуацию. И он не знал, что делать.
+
+I never really knew all of the details. But I can tell you. When talking to him, he seemed like a good kid at heart. He had things and people that he cared about. Things he wanted to do. Interests. The guards obviously must have known. But they were always super nice to him. Noticeably so. Even more than the inmates. I always wondered. What happened to that guy? A kid like that I don't see as a murderer. He was a kid. Probably being put in a horrible home situation. And didn't know what to do.
+
+---
+
+Дети не могут просто уйти. И найти другую семью. Конечно, он совершил преступление. И должен нести ответственность. Но мне грустно, когда я слышу о таких детях. Это как женщины, которые убивают своих ужасных супругов. Которые держат их в плену в своих домах и тому подобное. Он, вероятно, чувствовал себя безопаснее и комфортнее в тюрьме. Мне было бы интересно узнать, где он сейчас. Что касается тебя, молодой человек, поджигание костров, я действительно надеюсь, что ты усвоил урок.
+
+Kids can't just leave. And go find another family. Of course, he committed a crime. And should be accountable. But I find it sad when I hear about kids like this. It's like women who kill their terrible spouses. Who take them prisoner in their houses and stuff. He probably felt safer and more comfortable in prison. I'd be interested in finding out where he is. As for you, young man, setting fires, I really hope you learned your lesson.
+
+---
+
+Я знал парня, который был очень добрым. И был в тюрьме просто за нарушение условно-досрочного освобождения. Потому что он что-то украл. Он был бездомным парнем. Немного глупым. И у него была шизофрения или что-то такое. Но действительно хороший парень. В любом случае, его отправили в Сег по какой-то причине. И охранники в итоге избили его до смерти там. Я верю, что охранники, которые это сделали, теперь сами в тюрьме. Не могу поверить, что это произошло. Покойся с миром, Ларри.
+
+I knew a guy who was very kind. And in prison for just a parole violation. Because he stole something. He was a homeless guy. A bit goofy. And had schizophrenia or something. But a really nice guy. Anyway, he got sent to Seg for some reason. And the guards ended up beating him to death there. I believe the guards who did it are imprisoned themselves now. Can't believe that happened. Rest in peace, Larry.
+
+---
+
+57-летний мужчина на пожизненном заключении. Под кайфом от спайса. Это синтетическое психоактивное вещество. Он ползал по полу и кричал. Потому что он мог видеть свою мертвую мать. Которая возвышалась над ним. И смотрела на него с отвращением. Неприятная вещь, которую можно увидеть. Особенно когда ты заперт в камере с ним. Это дикая трава. Делает то же вещество, которое я упомянул выше. 22-летний мужчина в итоге затопил свою камеру. Поджег ее. И скончался за 2 месяца до окончания срока.
+
+A 57-year-old man on a life sentence. High on spice. Which is a synthetic psychoactive substance. Was crawling around on the floor screaming. Because he could see his dead mother. Towering over him. Looking at him in disgust. Not a pleasant thing to see. Especially when you're stuck in a cell with him. It's a wild herb. Doing the same substance I've mentioned above. A 22-year-old man ended up flooding his cell. Setting it on fire. And passing away 2 months before finishing his sentence.
+
+---
+
+Еще один случай. Парень изувечил себя. И снова поджег свою камеру. Потому что вещество заставило его думать. Что становиться твердым было злом. Так что да, держись подальше от спайса. Хорошо, давайте добавим это в список веществ. Которые рассказчик, вероятно, никогда не собирался принимать в любом случае. Так что немного избыточно. Но на случай, если кто-то раздает синтетически скрещенную зеленую траву. В местном клубе для боулинга. Я знаю, что нужно держаться подальше.
+
+Another one is where a guy mutilated himself. And again set fire to his cell. Because the substance made him think. That getting hard was evil. So yeah, stay away from spice. Okay, let's add that one to the list of substances. That realistically the narrator was probably never going to take anyway. So a little redundant. But on the off chance someone's handing out synthetically spliced green herb. At the local bowling club. I know to stay clear.
+
+---
+
+Также есть довольно испорченные вещи. С участием самоуничтожения. И различные неудобные темы. Так что вы были предупреждены, ребята. Я имею в виду, это видео о тюрьме. Так что подумайте. Я знал парня, который никогда не был в беде в своей жизни. Он работал в автомобильной промышленности в Мичигане. И потерял работу. Он отстал с выплатами алиментов. И в итоге отсидел в тюрьме. Его самая первая ночь. Его два сокамерника поссорились. Потому что один из них не мог найти свою закуску медвежья лапа.
+
+Also, there's some pretty messed up stuff. Involving self-destruction. And a variety of uncomfortable themes. So you've been warned, guys. I mean, it's a video about prison. So go figure. I knew a guy who was never in trouble in his life. He was working in the automotive industry in Michigan. And lost his job. He fell behind with child support payments. And ended up doing time in jail. His very first night. His two cellmates got into an argument. Because one of them couldn't find his bearclaw snack.
+
+---
+
+Они наконец перестали спорить. И пошли спать. Потом посреди ночи его разбудил парень. Который избивал парня, которого он обвинил в краже. Его сокамерник буквально избил парня до смерти. Видимо, он достал какую-то палку или палку. И вся камера была просто покрыта кровью. В итоге они выяснили. Парень, которого он обвинил в краже, на самом деле не украл это. Я никогда не забуду страх и взгляд в глазах того парня. Когда он рассказал мне, что произошло.
+
+They finally stopped arguing. And went to sleep. Then in the middle of the night he was woken up by the guy. Beating the guy he accused of theft up. His cellmate literally beat the guy to death. Apparently, he had gotten a hold of some kind of pole or stick. And the entire cell was just covered in blood. They ended up finding out. The guy he had accused of stealing didn't steal it after all. I'll never forget the fear and look in that guy's eyes. When he told me what happened.
+
+---
+
+Я попал в окружную тюрьму примерно на неделю. В глуши, Канзас. По обвинению в наркотиках. Мне было 19 лет. Я был напуган до смерти. Это была комната с примерно четырьмя общими скамейками для пикника. И две комнаты по бокам. С примерно шестью кроватями на них. Я заметил, что одна была полной. А в другой был только один парень. Так что, совсем не понимая ситуацию, я пошел к пустым кроватям. И парень схватил меня за плечо. И просто дал мне суровый взгляд. Который сказал нет. Но без слов.
+
+I went to county for about a week. In the middle of nowhere, Kansas. On a substance charge. I was 19 years old. Scared out of my mind. It was a room with about four communal picnic benches. And two rooms on either side. With about six bunks on them. I noticed one was full. And the other had just one guy there. So, not understanding the situation at all, I went over to the empty bunks. And a guy grabbed my shoulder. And just gave me a hard look. That said no. But without saying a word.
+
+---
+
+Я тогда заметил. Другие заключенные расположились в углах. На своих матрасах. Я сделал то же самое. Я узнал недолго спустя. Одинокий парень был там за преступление против молодого человека. Я никогда не слышал такого избиения. Как то, что я услышал той ночью. Я просто закрыл уши. И смотрел на стену. Как я сюда попал? И рыдания и мольбы. Меня освободили под залог на следующий день.
+
+I then noticed. The other prisoners were camped out in the corners. On their mattress. I did the same. I found out not long after. The solo guy was in for a crime against a young person. I've never heard such a beatdown. As I heard that night. I just covered my ears. And stared at the wall. How did I get here? And the sobbing and pleading. I was bonded out the next day.
+
+---
+
+Это было в 1992 году. Мои весенние каникулы в колледже. Первый курс. Я ехал навестить моего друга в Уитчере. Мне никогда не пришлось отсиживать срок. Это было мое первое нарушение. У меня был хороший адвокат. Я студент колледжа. Так что мне очень повезло. Твоя история это именно то, что произошло с моим бывшим. Нас поймали за зеленую траву. Он напортачил с одним из своих тестов во время условно-досрочного освобождения. И в итоге попал в окружную тюрьму. Но на месяцы. До судебного заседания. Без залога.
+
+This was in 1992. My spring break of college. Freshman year. I was driving out to visit a friend of mine in Witcher. I never had to serve time. This was my first offense. Had a good lawyer. I'm a college kid. So I got extremely lucky. Your story is exactly what happened to my ex. We were busted for Green Herb. He screwed up one of his screens during probation. And ended up in county. But for months. Until a court date. No bond.
+
+---
+
+Это было ужасно по ряду причин. Но для него, будучи спокойным парнем типа Лабовски, слушать похожего персонажа. Которого избивали посреди ночи. Было тревожно на нескольких уровнях. Однажды мы тусовались в юридической библиотеке. Внезапно какой-то парень, который только что пришел, вошел. Занимался своим делом. И просто начал что-то читать. Один из моих парней тоже был там. Имейте в виду, я был заперт более года в этот момент. С этим парнем. И он был спокоен. И был там за торговлю.
+
+It was horrible for a number of reasons. But for him, being a laid-back Labowski kind of guy, listening to a similar character. Being beaten in the middle of the night. Was disturbing on a number of levels. Hanging out one day in the law library. All of a sudden, some guy who was fresh came in. Minding his own business. And just started reading something. One of my boys who was also in there. Mind you, I'd been locked up for over a year at this point. With this guy. And he was chill. And in there for dealing.
+
+---
+
+Этот парень встал. Подошел к новому парню. И избил его до полусмерти. Как, не просто нокаутировал его. Я говорю буквально избил жизнь из парня. Кровь летела везде. Другой парень был на земле. И нападающий просто продолжал. Я встал. И просто отошел назад. И смотрел. Чтобы меня не напали охранники. Когда они войдут. Они буквально утащили его безжизненное тело. И заковали парня, которого я знал. Я видел его один раз перед тем, как вышел. И я спросил его. Что за черт произошел в тот день. Все, что он сказал, было. Я просто как-то почувствовал желание кого-то избить.
+
+This guy got up. Walked over to the fresh guy. And beat the living f out of him. Like, not just knocked him out. I'm saying literally beat the life out of the guy. Blood flying everywhere. The other guy was on the ground. And the assailant just kept going. I got up. And just stepped back. And watched. So I wouldn't get jumped by the cos. When they came in. They literally dragged his lifeless body away. And cuffed the guy I knew. I saw him once before I got out. And I asked him. What the freak had happened that day. All he said was. I just kind of felt like messing someone up.
+
+---
+
+Само собой разумеется, у меня с тех пор серьезные проблемы с доверием. И с тех пор, как я был заперт в целом. Видеть, как того другого парня уничтожают передо мной. Без причины. Было довольно плохо.
+
+Needless to say, I've had serious trust issues since then. And since being locked up in general. Seeing that other guy get destroyed in front of me. For no reason. Was pretty effed.
+
