@@ -1,0 +1,2068 @@
+Она почти мертва. Ты можешь убить их когда убьешь ее. Донат кричала это в видео. Клип закончился. Зрители кричали от смеха.
+
+She's almost dead. You can kill them when you kill her. Donut cried this on the video. The clip ended. The audience screamed with laughter.
+
+---
+
+Теперь Карл. Что ты думал когда Донат не помогала тебе. Это произошло так быстро. Я вообще ничего не думал.
+
+Now Carl. What were you thinking when Donut wasn't helping you. It happened so fast. I wasn't thinking anything at all.
+
+---
+
+А ты Донат. Ты видела его там окруженного. Ты сильнее его. Одетта взмахнула рукой. Наши характеристики появились в воздухе над нами. Вау. Намного сильнее его.
+
+And you Donut. You saw him there surrounded. You're stronger than him. Odette waved her hand. Our stats appeared in the air above us. Wow. A lot stronger than him.
+
+---
+
+Но вот мы здесь. Карл справился как чемпион. Кроме того дорогая. Если бы он был в настоящей опасности я бы точно помогла. Как я помогла с тем сочным боссом. Она посмотрела на меня. Как его звали. Сочный. Сок. Сок. Вот это была битва не так ли.
+
+Yet here we are. Carl handled it like a champion. And besides darling. If he was in real trouble I would have certainly helped. Like I did with that juicy boss. She looked at me. What was his name. Juicy. Juiced. The Juice. Now that was a fight wasn't it.
+
+---
+
+Толпа ревела от одобрения. Мы говорили еще минут пять. Одетта задавала вопросы о том что произошло. Донат отвечала. Она заставила толпу есть из лапок.
+
+The crowd roared their approval. We talked for about five more minutes. Odette asked questions about what happened. Donut answered. She had the crowd eating out of her paws.
+
+---
+
+Одетта спросила меня про мои штаны. Они показали Донат спрашивающую есть ли награда за худший наряд в подземелье. Они показали меня стоящего там жалко в наколенниках. Слова ХУДШИЙ НАРЯД появились над моей головой. Я притворился что смеюсь.
+
+Odette asked me about my pants. They showed Donut asking if there was a reward for worst dressed in the dungeon. They showed me standing there looking pitiful in my knee pads. The words WORST DRESSED appeared over my head. I pretended to laugh.
+
+---
+
+Так что дальше для вас двоих. Вы планируете остаться с командой Мэдоу Ларк. Это план пока. Это зависит от того что мы найдем на следующем этаже. Она несколько раз махнула хвостом.
+
+So what's next for you two. Do you plan to stay with team Meadow Lark. That's the plan for now. It depends on what we find on the next floor. She flicked her tail a few times.
+
+---
+
+Но я хочу сказать тебе кое что Одетта. Она встала на стул лицом к аудитории. Я обещаю всем вам. Вы захотите подписаться на меня и Карла. Вы захотите добавить нас в избранное. Потому что что бы мы ни встретили мы не просто убьем их.
+
+But I want to tell you something Odette. She stood on the chair facing the audience. I promise all of you. You will want to follow me and Carl. You will want to favorite us. Because whatever we face we're not just going to kill them.
+
+---
+
+Нет. О нет. Мы убьем их по крупному. Мы убьем их со стилем.
+
+No. Oh no. We are going to kill them big. We are going to kill them with style.
+
+---
+
+Тридцать секунд спустя аудитория все еще кричала. Одетте пришлось кричать поверх собственной толпы. У нас закончилось время но спасибо большое Карл и Ее Королевское Величество Принцесса Донат. Удачи вам двоим. Увидимся в следующий раз.
+
+Thirty seconds later the audience was still screaming. Odette had to shout over her own crowd. We are out of time but thank you so much Carl and Her Royal Majesty Princess Donut. Good luck to you two. I will see you all next time.
+
+---
+
+Толпа продолжала бесноваться. Она украла эту фразу у Мордекая. Убить их со стилем. Правда. Я прошептал. Но Донат не ответила. Она не услышала меня.
+
+The throng continued to go berserk. She had stolen that line from Mordecai. Kill them with style. Really. I whispered. But Donut didn't answer. She hadn't heard me.
+
+---
+
+Она стояла на краю подушки. Она стояла как тот чертов лев из Короля Льва. Ее грудь вздымалась от гордости. Она смотрела на голографическую массу обожающих фанатов. Ее глаза сверкали.
+
+She stood on the edge of the pillow. She stood like that damn lion from the Lion King. Her chest heaved with pride. She looked back into the holographic mass of adoring fans. Her eyes sparkled.
+
+---
+
+У меня внезапно появилось чувство страха. Этот взгляд. Этот голод. Это было опасно. Она попробовала всего один раз. Но я уже мог сказать. Она подсела на это. На толпу. На аплодисменты. Это будет проблемой.
+
+I suddenly had a feeling of dread. That look. That hunger. That was dangerous. She had had but a single taste. But I could already tell. She was addicted to this. To the crowd. To the cheers. It was going to be a problem.
+
+---
+
+Черт возьми Донат. Я пробормотал. Свет в студии включился полностью. Аудитория исчезла. Студия осталась. Но трибуны просто исчезли. Одетта осталась за столом.
+
+Goddamnit Donut. I muttered. The lights of the studio flipped all the way on. The audience snapped away. The studio remained. But the bleachers were just gone. Odette remained behind the desk.
+
+---
+
+Отличное шоу все. Одетта сказала глядя в потолок. Больше никого в комнате я не видел. Она посмотрела через наши плечи. Дай нам пять Плексис. Следи за пакетами и напиши мне если один из этих ИИ сунет сюда нос. Я хочу поговорить с нашими гостями минуту без подслушивания.
+
+Great show everyone. Odette said looking up at the ceiling. There wasn't anybody else in the room that I could see. She looked over our shoulders. Give us five Plexis. Watch the packets and ping me if one of those AIs sticks their nose in here. I want to talk to our guests for a minute without anybody snooping.
+
+---
+
+Я обернулся и увидел Лексис стоящую у двери ведущей в гримерку. Да мэм. Лексис сказала отступая в другую комнату. Дверь закрылась.
+
+I turned to see Lexis standing at the door that led back into the green room. Yes ma'am. Lexis said backing into the other room. The door closed.
+
+---
+
+Одетта посмотрела на Донат. Я тоже так делаю. Притворяюсь что не помню чье то имя. Ты должна видеть как они расправляются когда я вдруг вспоминаю. Ты Донат природный талант. Отличная работа.
+
+Odette looked down at Donut. I do that too. Pretend to not really remember someone's name. You should see them preen when I suddenly do remember. You Donut are a natural. Great job.
+
+---
+
+У нас была та Люсия Мар и ее два дворняги на сцене до вас. Эта маленькая психопатка не умеет работать с толпой. Одна из ее собак изуродовала моего продюсера. Это кошмар. Боже мне нужно выбраться из этой штуки. Дай мне минутку.
+
+We had that Lucia Mar and her two mongrels on stage before you. That little psychopath does not know how to work a crowd. One of her dogs mauled my producer. It's a nightmare. God I gotta get out of this thing. Give me a moment.
+
+---
+
+Я смотрел в ужасе как инопланетянка подняла руку и сняла собственную голову. Но это была не голова. Череп богомола на самом деле был шлемом. Он отодвинулся и открыл человеческую женщину примерно шестидесяти лет.
+
+I watched in horror as the alien reached up and removed her own head. But it wasn't a head after all. The praying mantis skull was actually a helmet. It pulled away to reveal a human woman approximately sixty years old.
+
+---
+
+Ее глаза были чуть шире чем нужно чтобы сойти за землянку. Через мгновение тело краба женщины отползло назад. Грудь с огромными грудями осталась прикрепленной к столу. Весь ее торс отслоился открыв темную рубашку.
+
+Her eyes were just a little wide for her face to pass as someone from earth. A moment later the woman's crab body skittered back. The chest with the enormous breasts remained attached to the desk. Her whole torso peeled away revealing a dark shirt.
+
+---
+
+Она носила ожерелье с сердечком. Если бы не тело краба и глаза она выглядела бы как любой другой человек. Что за черт. Я сказал глядя на нее. Тело тоже поддельное.
+
+She wore a necklace with a heart on it. If it weren't for the crab body and the eyes she would look like any other human. What the hell. I said looking at her. Is the body fake too.
+
+---
+
+Все что ты видишь поддельное. Одетта сказала. Это шоу бизнес. Раздался громкий треск. Я смотрел завороженно как она вытащила себя из тела краба используя две руки.
+
+Everything you see is fake. Odette said. This is show business. There was a loud crack. I watched fascinated as she pulled herself from the crab body using her two arms.
+
+---
+
+Краб рухнул с грохотом. Как будто он только что умер. Его ноги свернулись внутрь. У Одетты не было ног. Ее тело заканчивалось прямо на животе.
+
+The crab collapsed with a clatter. Like it had just died. Its legs curled in on themselves. Odette did not have any legs. Her body stopped right at her stomach.
+
+---
+
+Плоский диск выскочил из под стола. Она подтянула себя на платформу. Она парила в воздухе. Она могла контролировать движение. Безногая женщина пронеслась вокруг стола и зависла перед диваном.
+
+A flat disk zipped up from under the desk. She pulled herself onto the platform. She floated in midair. She was able to control her movement. The legless human zoomed around the desk and came to hover in front of the couch.
+
+---
+
+Ее магическая инвалидная коляска издавала легкий жужжащий звук. Намного лучше. Она сказала вздохнув. Люди думают что это тот же краб каждый раз. Но это не так.
+
+Her magical wheelchair emanated a slight buzzing sound. Much better. She said sighing. People think it's the same crab each time. But it's not.
+
+---
+
+Мы держим целое гнездо этих штук на ранчо. Нам приходится убивать нового каждый раз когда я выхожу в кадр. Мы не рекламируем это. Чтобы не вызвать гнев одной из многих групп протеста за права животных и мобов.
+
+We keep a whole nest of the things out on the ranch. We have to kill a new one each time I go on camera. We don't advertise that. Lest we raise the ire of one of the many animal and mob rights protest groups.
+
+---
+
+Из всех вещей в которые можно нарядиться. Я спросил все еще глядя на странную пару грудей без тела сидящих на столе. Почему это. Я даже не мог понять что это такое.
+
+Of all the things to dress up as. I asked still looking at the bizarre pair of body less breasts sitting on the table. Why that. I couldn't even tell what that is.
+
+---
+
+О ты поймешь. Она сказала. Весь этот наряд был моей броней когда я была как ты. Это то что я носила когда достигла лестничной клетки тринадцатого этажа. Так люди меня знают.
+
+Oh you will. She said. That entire getup was my armor when I was like you. It was what I was wearing when I reached the stairwell for the thirteenth floor. It's how people know me.
+
+---
+
+Как эта грудь могла быть броней. Молодой человек. Одетта сказала. Эта экипировка что у тебя сейчас. Этот лут. Это ничто по сравнению с тем что грядет.
+
+How was that boob thing armor. Young man. Odette said. This gear you have now. This loot. It's nothing compared to what's coming.
+
+---
+
+Мордекай. Наш тренер. Он сказал что только один человек когда либо достиг тринадцатого этажа. И это был парень. Он умер. Я сказал. Это правда. Одетта сказала. Я никогда не спускалась по лестнице. Я заключила сделку.
+
+Mordecai. Our trainer guy. He said only one person ever made it to the 13th floor. And it was a dude. He died. I said. That's true. Odette said. I never went down the stairs. I had struck a deal.
+
+---
+
+Это длинная история. И не для сегодня. Но я рада что ты упомянул Мордекая. Это тот о ком я на самом деле хочу поговорить с тобой. Я знаю что это его последний кролл. Я хочу чтобы ты сказал ему найти меня когда все это закончится.
+
+That's a long story. And it's not for today. But I'm glad you brought up Mordecai. That's who I actually want to talk to you about. I know this is his last crawl. I'd like for you to tell him to seek me out when this is all over.
+
+---
+
+Мордекай. Как вы знаете друг друга. Донат спросила. Вы были в одном сезоне. Они не могли быть. Я сказал. Одетта человек. А Мордекай птичий парень. Они с разных планет.
+
+Mordecai. How do you know each other. Donut asked. Were you on the same season. They couldn't have been. I said. Odette is human. And Mordecai is a bird guy. They're from different planets.
+
+---
+
+Их называют небесными птицами. Одетта сказала. И мой сезон был задолго до Мордекая. Я была его тренером. На самом деле так я нашла вас. Я слежу за ним. И я смотрела на вас когда вы наткнулись на его комнату гильдии.
+
+They're called skyfowl. Odette said. And my season was long before Mordecai's. I was his trainer. In fact that's how I found you. I keep an eye on him. And I watched you guys as you stumbled into his guild room.
+
+---
+
+Его тренер. Вау. Я сказал. Это должно было быть очень давно. Было. Одетта сказала. Так могу я на тебя рассчитывать. Я пожал плечами. Конечно мы ему скажем.
+
+His trainer. Wow. I said. That must have been a really long time ago. It was. Odette said. So can I count on you. I shrugged. Sure we'll tell him.
+
+---
+
+Она кивнула. Спасибо. Теперь я дам вам совет. Не говорите об этом вслух когда вернетесь. Грязевые прыгуны не понравится. Грязевые прыгуны. Я сказал. Ты имеешь в виду Бор. Я остановился глядя в потолок.
+
+She nodded. Thank you. Now I'm going to give you guys some advice. Don't talk about this out loud once you go back. The mud skippers won't like it. Mud skippers. I said. You mean Bor. I paused looking at the ceiling.
+
+---
+
+Они не могут слышать тебя здесь. Но не говори эту фразу в подземелье. Грязевой прыгун. Они пытались заставить Синдикат внести это в список языка ненависти пару циклов назад. Почти никто их так не называл пока они не подняли большой шум об этом.
+
+They can't hear you in here. But don't say that phrase in the dungeon. Mud skipper. They attempted to get it listed as hate speech by the Syndicate a couple cycles back. Hardly anyone called them that until they made a big deal about it.
+
+---
+
+Но да это то что я имею в виду. Куа тин. Борант. Никто не любит куа тин. По крайней мере не их систему правления. Борант другая история. Некоторые из этих людей нормальные. Все что они хотят это устроить хорошее шоу.
+
+But yes that's what I mean. The kua tin. Borant. Nobody likes the kua tin. At least not their system of government. Borant is a different story. Some of those folks are okay. All they want is to put on a good show.
+
+---
+
+Я уверена они были возмущены когда их заставили сделать этот ранний релиз. Я посмотрел на Донат. Мы ничего не скажем. Я сказал. Хорошо. Первое дело. Ты ступишь на второй этаж. И через день или около того ты найдешь что твои социальные числа взлетели до небес.
+
+I'm sure they were incensed when they were forced into this early release. I looked at Donut. We won't say anything. I said. Good. First thing. You're going to step onto that second floor. And in a day or so you're going to find your social numbers have gone meteoric.
+
+---
+
+Эти люди подписываются на вас Карл и Донат. Так когда вы спуститесь на третий этаж. Ты. Она указала на Донат. Должна остаться милой пушистой кошкой. Они будут соблазнять тебя очень мощными расами существ.
+
+Those people are following you Carl and Donut. So when you go down to the third floor. You. She pointed at Donut. Need to stay as a cute cuddly cat. They'll tempt you with some very powerful creature races.
+
+---
+
+Стать вирусным рано это и благословение и проклятие. Люди влюблены в Донат кошку. Не в Донат саблезубого пустотного леопарда. Не меняй свою расу что бы ты ни делала. Я видела это десятки раз.
+
+Going viral early is both a blessing and a curse. People are in love with Donut the cat. Not Donut the saber toothed void leopard. Don't change your race whatever you do. I've seen it happen dozens of times.
+
+---
+
+Они меняются. И их числа падают. Вот почему никто не спонсирует кроллера раньше четвертого этажа сейчас. Я бы даже не рассматривала это. Донат сказала. Вот моя девочка. Одетта сказала.
+
+They change. And their numbers plummet. It's why nobody sponsors a crawler earlier than the fourth floor now. I wouldn't even consider it. Donut said. That's my girl. Odette said.
+
+---
+
+А я. Я спросил. Она пожала плечами. Люди привыкли видеть людей. Так что для тебя не так критично оставаться тем же. Пока это не слишком отличается. Если она останется той маленькой штучкой ей понадобится защита.
+
+And me. I asked. She shrugged. People are used to seeing humans. So it's not as crucial for you to stay the same. As long as it's not too different. If she stays that tiny little thing she's going to need to be protected.
+
+---
+
+Мордекай будет тем кто проведет вас через процесс выбора расы и класса. Будет много информации. Ему не разрешат направлять вас. По крайней мере не открыто. Но если я чему то его научила так это как помочь вам решить самим.
+
+Mordecai will be the one to lead you through the process of picking a race and class. There'll be a lot of information. He won't be allowed to steer you. At least not overtly. But if I taught him anything it's how to help you decide for yourself.
+
+---
+
+Я не знаю что будет на столе. Это разное каждый сезон. Слушай его подсказки. Он знает что делает. Он сделает все возможное чтобы направить вас. Хорошо. Я сказал. Спасибо.
+
+I don't know what's going to be on the table. It's different every season. Listen for his clues. He knows what he's doing. He's going to do his best to guide you. Okay. I said. Thanks.
+
+---
+
+Также. Она добавила. Если ты хочешь штаны тебе стоит перестать ныть что их нет. Так это как я подозревал. Я сказал. Лут боксы не совсем случайные. Конечно нет. Сказала Одетта. Это даже прописано в правилах.
+
+Also. She added. If you want pants you should probably stop bitching about not having them. So it's like I suspected. I said. The loot boxes aren't really random. Of course not. Said Odette. It's even written into the rules.
+
+---
+
+Посмотри на меня. Она отплыла назад вытянув руки. Я потеряла ноги от Косы Демона на одиннадцатом этаже. Я была почти мертва. Я доползла до безопасной комнаты. Я открыла свои боксы. И я получила это.
+
+Look at me. She floated back holding out her arms. I lost my legs to a Fiend Scythe on the eleventh floor. I was all but dead. I dragged myself to a safe room. I opened my boxes. And I received this.
+
+---
+
+Она ткнула черный пояс вокруг талии. Прямо над линией где закончились ноги. В золотом боксе. Это легендарный предмет по крайней мере. Он позволяет мне прикреплять части тела других монстров к себе.
+
+She poked a black belt around her waist. Just above the line where her legs were gone. In a gold box. This is a legendary item at least. It allows me to attach body parts of other monsters to myself.
+
+---
+
+Мне пришлось доползти обратно туда и убить того краба сначала. Но я взяла его тело как свои ноги. И я продолжила свой путь. Твои ноги не отрастают. Донат спросила. Нет. Одетта сказала. Не если они полностью отрезаны.
+
+I had to drag myself back out there and kill that crab first. But I took its body as my legs. And I continued on my way. Your legs don't grow back. Donut asked. No. Odette said. Not if they're completely severed off.
+
+---
+
+Но это не суть. Люди смотрели на меня. У меня было пять спонсоров. Рекорд на то время. Мое умирание в одиночестве в безопасной комнате было плохо для всех вовлеченных. Им было все равно живу я или умираю. Пока эта смерть была славной.
+
+But that's not the point. People were watching me. I had five sponsors. A record at the time. Me dying alone in a safe room was not good for anyone involved. They didn't care if I lived or died. As long as that death was glorious.
+
+---
+
+Так они дали мне идеальный предмет чтобы заставить меня вернуться туда и хотя бы попробовать. Да это игра. Да есть контроли чтобы сделать это справедливым. Вроде как. Но важнее то что это прибыльное предприятие в индустрии развлечений.
+
+So they gave me the perfect item to compel me to get my ass back out there and at least try. Yes this is a game. Yes there are controls in place to make it fair. Sort of. But more importantly this is a for profit venture in the entertainment industry.
+
+---
+
+И если твое выживание означает больше прибыли ты найдешь свой лут намного более удобным. Но если ИИ почувствует что навредить тебе сделает шоу интереснее поверь мне оно трахнет тебя в задницу в самый худший момент.
+
+And if you staying alive means more profits then you'll find your loot to be a lot more convenient. But if the AI senses screwing you over will make the show more interesting you better believe it'll fuck you right in the ass at the worst possible moment.
+
+---
+
+Никогда не забывай это. Ты не можешь рассчитывать ни на кого кроме самих себя. Так больше никаких жалоб. Я сказал. По крайней мере не вслух. Не когда смешно что у тебя нет штанов. Она повернулась к Донат.
+
+Don't ever forget that. You can't count on anybody but yourselves. So no more complaining. I said. At least not out loud. Not when it's funny for you to not have pants. She turned to Donut.
+
+---
+
+Или когда кто то шипит каждый раз когда получает еще один факел в одном из своих боксов. Донат сердито махнула хвостом. У меня двести тридцать факелов в инвентаре. Это абсолютно нелепо.
+
+Or when someone hisses every time they get another torch in one of their boxes. Donut swished her tail angrily. I have 230 torches in my inventory. It's absolutely ridiculous.
+
+---
+
+Последний совет. Одетта сказала. Никогда не доверяй кому то пока не знаешь что они получают от этого. Никогда не доверяй кому то если их мотивы неясны. Мордекай например. Он не скажет тебе этого.
+
+One last piece of advice. Odette said. Never trust someone unless you know what they're getting out of it. Never trust someone if their motivations aren't clear. Mordecai for example. He won't tell you this.
+
+---
+
+Но сезон не засчитывается против его кабалы пока один из его кроллеров не достигнет четвертого этажа. Так если мы не достигнем он застрянет до следующего сезона. Я спросил. Он застрянет до следующего сезона спонсируемого Борантом.
+
+But the season doesn't count against his indentureship unless one of his crawlers makes it to the fourth floor. So if we don't make it he's stuck until next season. I asked. He's stuck until the next Borant sponsored season.
+
+---
+
+Который будет по крайней мере еще семь или восемь сезонов после этого. И с политической обстановкой как она есть многие люди не уверены что Борант продержится так долго. Все контракты кабалы замораживаются во время процедуры банкротства.
+
+Which'll be at least another seven or eight seasons after this one. And with the political environment as it is a lot of people aren't certain Borant will be around that long. All indentureship contracts get frozen during a bankruptcy seizure action.
+
+---
+
+Подожди что. Я спросил. Она махнула рукой. Это не то о чем вам нужно беспокоиться. Сосредоточьтесь на кролле. Донат спрыгнула с дивана и побежала к дальней стене. Она остановилась примерно на полпути через комнату.
+
+Wait what. I asked. She waved her hand. That's not something you need to worry yourselves over. Concentrate on the crawl. Donut jumped down from the couch and ran to the far wall. She stopped about halfway across the room.
+
+---
+
+Ее лицо вмялось в невидимый барьер. Похоже студия была глубже чем на самом деле. Она поставила лапки на невидимую стену. Это выглядело как будто она стоит на двух ногах. Карл смотри. Она сказала. Эта комната довольно странная.
+
+Her face smushed against an invisible barrier. It appeared the studio went deeper than it really did. She put her feet up on the invisible wall. Making it look as if she was standing on two feet. Carl look. She said. This room is quite odd.
+
+---
+
+Помнишь что сказала Лексис. Я крикнул ей. Мы не на самом деле в студии. Это дальний конец лодки. Будь осторожна. Я повернулся обратно к Одетте. Что бы вы с ней ни сделали это проходит. Я сказал.
+
+Remember what Lexis said. I called out to her. We're not really in the studio. That's the far end of the boat. Be careful. I turned back to Odette. Whatever you guys did to her is wearing off. I said.
+
+---
+
+Женщина кивнула. Она даже не отрицала это. Она тоже смотрела как кошка прыгает вокруг конца комнаты. Во многих отношениях она все еще ребенок. Это часть причины почему так многие очарованы ею.
+
+The woman nodded. She didn't even deny it. She was also watching the cat pounce around the end of the room. In many ways she's still a child. It's part of the reason why so many are enchanted with her.
+
+---
+
+Это хорошо работает в подземелье. Но для интервью иногда им нужен небольшой толчок. Я прикусил губу. Я не знал должен ли я злиться или нет. Что вы сделали.
+
+It works well in the dungeon. But for interviews sometimes they need a little nudge. I bit my lip. I didn't know if I should be angry or not. What did you do.
+
+---
+
+Она пожала плечами. Это ничего зловещего. Это было в ее кошачьих лакомствах. Это временно. Это увеличило ее мудрость и несколько характеристик уверенности на полтора пункта. Не много.
+
+She shrugged. It's nothing insidious. It was in her cat treats. It's temporary. It increased her wisdom and a few confidence stats by a point and a half. Not much.
+
+---
+
+Это делает интервью лучше. Это ничем не отличается от выпивания стакана крепкого вина. Я думал мудрость больше не характеристика. Я сказал. О дорогой. Все является характеристикой.
+
+It makes for a better interview. It's no different than drinking a glass of strong wine. I thought wisdom wasn't a stat anymore. I said. Oh honey. Everything is a stat.
+
+---
+
+Просто потому что ты не можешь видеть это не значит что этого там нет. Но ты более прав чем понимаешь. Ни одна из этих топовых характеристик что ты видишь не настоящие. Не по настоящему. Более высокий интеллект не значит что ты умнее.
+
+Just because you can't see it doesn't mean it's not really there. But you're more right than you realize. None of these top tier stats you see are real. Not truly. A higher intelligence doesn't mean you're smarter.
+
+---
+
+Это значит что у тебя больше очков маны. Это значит что ты можешь помнить вещи лучше. Это на самом деле смесь сотни других характеристик все вместе. Донат вернулась махая хвостом. Эта комната намного меньше чем выглядит.
+
+It means you have more mana points. It means you can remember things better. It's really a mish mash of a hundred other stats all combined. Donut came back her tail swishing. This room is much smaller than it looks.
+
+---
+
+Так как насчет тебя Одетта. Какие твои мотивы. Я спросил когда встал с дивана. Пора было идти. Для помощи нам я имею в виду. Ты сказала не доверять никому пока не знаешь их мотивы.
+
+So how about you Odette. What are your motivations. I asked as I stood from the couch. It was time to go. For helping us I mean. You said not to trust anyone until you know what their motivations are.
+
+---
+
+Пожилая женщина улыбнулась. Моя аудитория любит вас. Чем дольше вы остаетесь живыми тем больше денег я зарабатываю. И нет ничего что я люблю во вселенной больше чем деньги. Теперь возвращайтесь туда и постарайтесь не умереть.
+
+The older woman smiled. My audience loves you. The longer you stay alive the more money I make. And there is nothing I love in this universe more than money. Now get back in there and try not to die.
+
+---
+
+На моем списке никого нет. Донат сказала. У меня еще нет подписчиков. Мы были на втором этаже около пяти секунд. К счастью Брэндон и его команда еще не спустились.
+
+There's nobody on my list. Donut said. I don't have any followers yet. We'd been on the second floor for about five seconds. Thankfully Brandon and his crew hadn't come down yet.
+
+---
+
+У нас еще было два часа до коллапса. Я подозревал они ждут чтобы увидеть сможет ли Крис убедить тридцать человек засевших в том Ваффл Хаусе спуститься. Я не ожидал увидеть первых появившихся еще час.
+
+We still had two hours until the collapse. I suspected they were waiting to see if Chris could convince the thirty folks holed up in that Waffle House to come down. I wouldn't expect to see the first ones emerge for another hour.
+
+---
+
+Я не думаю это включается пока после эпизода с обзором. Я сказал. И Мордекай сказал что это обновляется медленно в любом случае. Сегодняшний эпизод совпал с закрытием первого этажа. Я надеялся мы сможем найти безопасную комнату до этого.
+
+I don't think it gets turned on until after the recap episode. I said. And Mordecai said it updates slow anyway. Tonight's episode coincided with the closing of the first floor. I was hoping we could find a safe room before then.
+
+---
+
+Эпизод обычно длился чуть больше часа. И после этого шоу Одетты выйдет в эфир. И если это шоу было так популярно как они намекали просмотры начнут поступать. Я знал глубоко внутри что это наверное хорошая вещь.
+
+The episode was usually a little more than an hour long. And after that Odette's show would air. And if that show was as popular as they'd implied the views would start rolling in. I knew deep down that this was probably a good thing.
+
+---
+
+Чем больше фанатов тем больше шансов у нас было. Но у меня все еще было ужасное зловещее чувство что все это внимание было ошибкой. Было что сказать о том чтобы быть анонимным. Тихо эффективным.
+
+The more fans the better chances we had. But I still had a terrible ominous feeling that all this attention was a mistake. There was something to be said about being anonymous. Quietly efficient.
+
+---
+
+Этого не произойдет. Не здесь. Не когда у меня была Донат со мной. Оглядываясь этот второй этаж был устроен похоже на первый. Но вместо появления в конце главного коридора я мог видеть что мы были в середине квадранта.
+
+That wasn't going to happen. Not here. Not when I had Donut with me. Looking about this second floor was set up similarly to the first. But instead of emerging at the end of a main hallway I could see that we were in the middle of a quadrant.
+
+---
+
+Полы здесь были белые. Лишайник на стене имел оранжевый оттенок. Стены вместо камня были сделаны из шлакоблока. Я ударил стену своей перчаткой чтобы увидеть сломается ли она.
+
+The floors here were white. The lichen on the wall had an orangish tint to it. The walls instead of stone were made of cinderblock. I punched the wall with my gauntlet to see if it would break.
+
+---
+
+Большая трещина появилась. Но она не сломалась дальше. Как будто она была магически защищена. Я ударил еще один ближайший блок. Та же вещь произошла. Она треснула легко. Но она не сломалась больше чем это.
+
+A large crack appeared. But it wouldn't break further. Like it was magically protected. I punched another nearby block. The same thing happened. It cracked easily. But it didn't break more than that.
+
+---
+
+Ну это скучно. Как мы должны поджечь межгалактический интернет когда второй этаж такой же как первый этаж. Донат спросила. Мордекай сказал что так и будет. Это не до третьего или четвертого этажа где вещи начинают становиться странными.
+
+Well this is boring. How are we supposed to set the intergalactic internet on fire when the second floor is the same as the first floor. Donut asked. Mordecai had said that would be the case. It's not until the third or fourth floor where things start to get weird.
+
+---
+
+Надеюсь монстры будут более захватывающими. Донат сказала. Они будут похожими. Просто немного сложнее. Смотри смотри. Донат сказала. Когда ты увеличиваешь карту правый верхний угол. Северо восток.
+
+Hopefully the monsters will be more exciting. Donut said. They'll be similar. Just a little harder. Look look. Donut said. When you zoom out the map top right corner. Northeast.
+
+---
+
+Я сделал это. И сразу увидел на что она смотрела. Иконка сидела среди тумана. Но вот она была. Подавляющее чувство облегчения нахлынуло на меня. Я не видел безопасных комнат или учебных гильдий пока.
+
+I did. And immediately saw what she was looking at. The icon sat in the midst of the fog. But there it was. An overwhelming sense of relief washed over me. I didn't see any safe rooms or tutorial guilds yet.
+
+---
+
+Но по крайней мере у нас было это. Лестничная клетка на третий этаж. Давай пробираться туда и посмотрим насчет очистки того квадранта. Я сказал. Держи глаза открытыми для безопасных комнат.
+
+But at least we had this. Stairwell to Floor Three. Let's work our way toward there and see about clearing that quadrant out. I said. Keep an eye open for safe rooms.
+
+---
+
+Я увидел X на карте в момент когда мы повернули за угол. Мое сердце подпрыгнуло. Боюсь это будет труп Агаты. Но это был меньший X. Один из мобов. Я навел курсор на место. И там было написано Труп Уровень 2 Пестрый Личинка.
+
+I saw the X on the map the moment we turned the corner. My heart leaped. Afraid that this was going to be the corpse of Agatha. But it was a smaller X. One of a mob. I hovered over the spot. And it read Corpse Level 2 Brindle Grub.
+
+---
+
+Уровень два. Это хорошо. Интересно убила ли его Агата. Я сказал. Мы не сможем сказать пока не подойдем ближе. Еще несколько шагов. И пара красных точек появилась в том же коридоре. Между нами и телом.
+
+Level two. That's good. I wonder if Agatha killed it. I said. We wouldn't be able to tell until we were closer. A few more steps. And a pair of red dots appeared in the same hallway. Between us and the body.
+
+---
+
+Они казалось тоже двигались к трупу. Хорошо будь осторожен. Я прошептал. Я выглянул из за угла. Там были мобы. Пара пушистых монстров размером с кошку без ног. Жуки с похожей черной и коричневой окраской как у Донат.
+
+They seemed to also be moving toward the corpse. Okay be careful. I whispered. I peeked around the corner. There the mobs were. A pair of fuzzy cat sized monsters with no legs. Bugs with similar black and brown coloring to Donut.
+
+---
+
+Это были большие толстые черви. Они не казались движущимися слишком быстро. Тоже уровень два. Они были того же типа существа что и труп. Пестрый Личинка. Уровень 2. Ты когда нибудь находил мертвое раздутое и разлагающееся тело.
+
+These were large fat worms. They didn't appear to be moving too quickly. Also level two. They were the same type of creature as the corpse. Brindle Grub. Level 2. Have you ever found a dead bloated and decomposing body.
+
+---
+
+Ты когда нибудь тыкал в него палкой просто чтобы увидеть что вылезет. Может быть тер его босой ногой. Ты знаешь ты хотел. Ну удивляйся дальше. Здесь на втором этаже крысы вчерашние новости. Пестрые Личинки теперь в моде.
+
+Have you ever poked it with a stick just to see what would wiggle out. Perhaps rubbed it with your bare foot. You know you've wanted to. Well wonder more. Here on the second floor rats are yesterday's news. Brindle Grubs are now all the rage.
+
+---
+
+И обязанность уборщика падает на них. Чем больше монстров ты убиваешь в области тем больше личинки едят. Чем больше личинки едят тем больше они становятся. Как только ты начинаешь находить их в стадии куколки тебе лучше двигаться дальше.
+
+And janitor duty falls unto them. The more monsters you kill in an area the more the grubs eat. The more the grubs eat the bigger they get. Once you start finding them in the pupa stage you best move on.
+
+---
+
+Личинки легко убить. Их старшие братья нет. Ты бери левую. Я возьму вторую. Я сказал когда Донат прыгнула на мое плечо. Мы шагнули за угол. Донат взорвала первую полной силой Магической Ракеты.
+
+Grubs are easy to kill. Their older siblings are not. You take the left one. I'll get the second. I said as Donut jumped to my shoulder. We strode around the corner. Donut blasted the first one with full power Magic Missile.
+
+---
+
+И штука взорвалась. Оставив ничего кроме белой массы слизи. У них были такие же мягкие внутренности как у жуков разбрасывателей с первого этажа. Будь готова со свитком исцеления на случай если их кровь кислота или что то.
+
+And the thing exploded. Leaving nothing but a white mess of goo. They had the same sort of squishy innards as the scatterer bugs from the first floor. Get ready with a healing scroll in case their blood is acid or something.
+
+---
+
+Я сформировал кулак. Бросился вперед. Вторая личинка издавала жалкий писк. Пыталась уйти со скоростью черепахи. Я ударил вниз своей перчаткой. Это было как бить пудинг. Малыш мог убить эти штуки.
+
+I formed a fist. Rushing up. The second grub was making a pitiful squeaking noise. Trying to get away at a turtle's pace. I smashed down with my gauntlet. It was like punching pudding. A toddler could kill these things.
+
+---
+
+Слизь жуков не казалась токсичной. Жуки не предлагали никакого заметного опыта тоже. Они казались намного менее опасными чем крысы. Я удивлялся в какое монстра они превращаются. Мы двинулись осмотреть раздавленные остатки третьего трупа.
+
+The bug goo didn't appear to be toxic. The bugs didn't offer any discernible experience either. These seemed to be much less dangerous than the rats. I wondered what sort of monster they turned into. We moved to examine the smushed remains of the third corpse.
+
+---
+
+Это было как я подозревал. Добываемый Труп. Пестрый Личинка. Уровень 2. Убит Кроллером Агатой. Флакон Гемолимфы Пестрого Личинки. Материал для алхимии. Это выглядело как будто она переехала штуку своей тележкой для покупок.
+
+It was as I suspected. Lootable Corpse. Brindle Grub. Level 2. Killed by Crawler Agatha. Vial of Brindle Grub Hemolymph. Alchemy Material. It looked as if she'd run over the thing with her shopping cart.
+
+---
+
+Проходило около десяти минут пока труп становился добываемым другими кроллерами. И это было единственное указание как давно это было. Ее фору была несколько часов к этому времени благодаря нашему перерыву на поверхности. Я взял флакон.
+
+It took about ten minutes before a corpse became lootable by other crawlers. And that was the only indication of how long ago this had been. Her head start was several hours by now thanks to our interlude on the surface. I took the vial.
+
+---
+
+Донат спрыгнула и понюхала труп. Она сделала отвращенное лицо. Отвратительно. Я вижу еще пару красных точек один коридор дальше. Я посмотрел на свою карту. И красных точек там не было. Моргание. И затем они появились.
+
+Donut jumped down and sniffed at the corpse. She made a disgusted face. Repulsive. I see a couple more red dots one hallway over. I looked at my map. And the red dots weren't there. A blink. And then they appeared.
+
+---
+
+Я замечал недавно что Донат могла чувствовать активных монстров за несколько мгновений до меня. Я подозревал это имело что то делать с ее расой. Но я не был уверен. Эти точки быстро двигались вниз по соседнему коридору.
+
+I'd been noticing that recently that Donut could sense active monsters a few moments before I could. I suspected it had something to do with her race. But I wasn't certain. These dots were moving quickly down the adjacent hallway.
+
+---
+
+Это не личинки. Если жуки как крысы тогда мы еще не встретили мобов этого квадранта. Я взял свою ногу. И я ударил вниз по остаткам трупа что убила Агата. Я бил и давил. Размазывал внутренности везде пока X не исчез на карте.
+
+Those aren't grubs. If the bugs are like the rats then we haven't yet met the mobs of this quadrant. I took my foot. And I smashed down on the remains of the corpse that Agatha had killed. I smashed and crushed. Smearing the innards all over the place until the X disappeared on the map.
+
+---
+
+Карл. Донат сказала глядя между мной и разбрызганными остатками. Ты совсем в порядке. Ты читала описание личинок. Я сказал вытирая ногу о шлакоблок. Я едва мог чувствовать низ своих подошв.
+
+Carl. Donut said looking between me and the splattered remains. Are you quite all right. Did you read that description of the grubs. I said as I wiped my foot on a cinderblock. I could barely feel the bottom of my soles.
+
+---
+
+Бока моей ноги все еще были такими же чувствительными как всегда. Мы не можем просто оставлять трупы валяться. Даже их собственные трупы. Не в этой части подземелья. Отныне мы делаем все возможное чтобы оставлять как можно меньше позади.
+
+The sides of my foot were still as sensitive as ever. We can't just leave corpses lying around. Even their own corpses. Not in this part of the dungeon. From now on we do our best to leave as little behind as possible.
+
+---
+
+Она сморщила нос. Я не чувствую что это эффективное использование нашего времени. Мои люди не будут наслаждаться смотря как я оскверняю мертвых. Это просто отвратительно. Я бы очень предпочла чтобы ты этого не делал.
+
+She crinkled her nose. I don't feel as if that's an efficient use of our time. My people aren't going to enjoy watching me desecrate the dead. This is just revolting. I'd much rather you not do this.
+
+---
+
+Твои люди не будут наслаждаться смотря как тебя убьет то во что эти штуки вырастают. Мы продолжили вниз по коридору. Повернули развилку. Затем еще одну. Направляясь к другим красным точкам. Эти парни двигались в том что выглядело как патрульный паттерн.
+
+Your people aren't going to enjoy watching you get killed by whatever these things grow up to be. We continued down the hall. Turning a junction. Then another. Angling toward the other red dots. These guys were moving in what looked like a patrol pattern.
+
+---
+
+Я подозревал если мы продолжим дальше в том направлении мы найдем их базу и босса района. Это было не то что я хотел взять на себя пока. Давай уже пойдем за этими штуками. Это занимает слишком долго. Донат сказала подпрыгивая вверх и вниз.
+
+I suspected if we continued further in that direction we'd find their base and the neighborhood boss. That wasn't something I wanted to tackle just yet. Let's go get these things already. It's taking much too long. Donut said hopping up and down.
+
+---
+
+С ее ошейником с шармом и подхвостником она звучала как колокол. Черт возьми Донат. Я сказал. Ты кошка. Тебе нужно работать над своей скрытностью. Существа остановились. Затем они оба остановились в коридоре.
+
+With her collar charm and crupper she sounded like a bell. Goddamnit Donut. I said. You're a cat. You need to work on your stealth. The creatures paused. Then they both stopped in the hallway.
+
+---
+
+И начали быстро двигаться в нашем направлении. Видишь. Я сказал. Нам нужно увидеть что за мобы перед тем как форсировать конфронтации. Я вышел ожидая их обойти угол. Донат вернулась на мое плечо.
+
+And started moving quickly in our direction. See. I said. We need to see what the mobs are before we force confrontations. I stepped out waiting for them to round the corner. Donut returned to my shoulder.
+
+---
+
+Она начинала отвечать мне. Но она взвизгнула от гнева в момент когда мобы появились. Она вонзила лапки болезненно в мое плечо когда напряглась. Она выпустила две ракеты быстрой последовательностью. Оба существа упали на землю.
+
+She was starting to reply to me. But she squealed in anger the moment the mobs appeared. She dug her paws painfully into my shoulder as she tensed. She fired off two rapid succession missiles. Both of the creatures hit the ground.
+
+---
+
+Их здоровье перешло в красное. Едва. Они встали. И продолжили к нам рыча и щелкая. И лая.
+
+Their health moving into the red. Barely. They got up. And continued toward us snarling and snapping. And barking.
+
+---
+
+ИИ имитировал ужасный австралийский акцент. Опасный Динго. Уровень 5. Это не милые щенки из далекой страны. Нет, дружище. Опасный Динго имеет более сильное тело. У него более острые зубы. Он любит блэк-метал группы вроде Dimmu Borgir и Satyricon. Где есть динго, там обычно недалеко их наездники-кобольды и рабовладельцы.
+
+The AI approximated a terrible Australian accent. Danger Dingo. Level 5. These aren't the cute puppies from the land down under. No, mate. The Danger Dingo has a stronger body. It has sharper teeth. It loves black metal bands like Dimmu Borgir and Satyricon. Where there are dingoes, their Kobold riders and slave masters usually aren't far behind.
+
+---
+
+Умри. Донат закричала и выпустила еще две ракеты. Оба монстра упали. Они были мертвы и дымились. Она использовала 24 из 26 очков маны за секунды. Она сидела на моем плече и тяжело дышала.
+
+Die. Donut screamed and shot two more missiles. Both monsters fell over. They were dead and steaming. She used 24 of her 26 mana points in seconds. She sat on my shoulder and breathed heavily.
+
+---
+
+Так. Я сказал и посмотрел на трупы. Они продолжали двигаться вперед и остановились у наших ног. Ты не любишь собак, да. Эти парни не очень похожи на обычных динго. Во-первых, они были огромными. Размером с мастифов. У каждого на морде был узор из шерсти. Он выглядел как блэк-метал грим. Их клыки были невероятно длинными и острыми. Это придавало им почти доисторический вид.
+
+So. I said and looked down at the corpses. They continued their forward trajectory and slid to a stop at our feet. Not a fan of dogs, are we. These guys didn't look much like regular dingoes. First off, they were huge. About the size of mastiffs. They each had a fur pattern on their faces. It looked like heavy metal corpse paint. Their fangs were absurdly long and sharp. This gave them an almost prehistoric look.
+
+---
+
+Оба уронили Бедную Шкуру Динго. Донат забрала их. Один из них также уронил то, чего мы еще не видели. Пару золотых монет. Донат схватила их прежде, чем я успел изучить свойства денег.
+
+Both dropped Poor Dingo Pelts. Donut looted them. One of them also dropped something we hadn't seen yet. A pair of gold coins. Donut snatched them away before I could examine the money's properties.
+
+---
+
+Должна признать, я немного увлеклась там. Донат сказала. Одним движением когтя она оторвала голову динго. Она пнула ее, и голова взорвалась о стену. Снова трупы на этом уровне стали значительно более хрупкими после смерти. Я смотрел, как она осторожно и деловито разрывала трупы на куски. Она старалась не испачкаться кровью. Она продолжала говорить фу, фу, мерзко, фу, пока делала это. Ей не очень удалось избежать крови. К тому времени, как она закончила, обе ее передние лапы были пропитаны красным.
+
+I must admit, I did get a little carried away there. Donut said. With a swipe of her claw, she ripped the dingo's head right off. She kicked it, and the head exploded against the wall. Once again, the corpses on this level were significantly more fragile once they died. I watched as she gingerly and matter-of-factly tore the corpses to shreds. She was careful not to get any gore on herself. She kept saying ew, ew, gross, ew as she did it. She wasn't quite successful keeping the blood off of her. By the time she was done, both her forward legs were soaked red.
+
+---
+
+Что случилось с нежеланием осквернять труп. Кокер-спаниели заслуживают того, чтобы их трупы были осквернены. Это не. Я остановился. Я не собирался спорить с ней. Она прекрасно знала, что это не кокер-спаниели. Она просто играла на камеру.
+
+What happened to not wanting to desecrate a corpse. Cocker spaniels deserve to have their corpses desecrated. Those aren't. I stopped myself. I wasn't going to argue with her. She knew perfectly well these weren't cocker spaniels. She was just playing for the camera.
+
+---
+
+Давай отойдем из этой области пока. Я указал на изогнутый коридор. Я мог видеть несколько больших комнат впереди. Я подозревал, что мы будем по колено в динго и кобольдах, если пойдем дальше.
+
+Let's back out of this area for now. I indicated the curved hallway. I could see a few larger rooms ahead. I suspected we'd be knee-deep in dingoes and kobolds if we went further.
+
+---
+
+Когда мы приблизились к главному коридору, я не увидел больше признаков стай динго. Но мы нашли еще пару мертвых личинок. И еще много живых. Эти штуки были везде. Нам пришлось убивать их десятками.
+
+As we approached the main hallway, I didn't see any further signs of the dingo mobs. But we did find a couple more dead grubs. And plenty more living ones. The things were everywhere. We had to kill them by the dozens.
+
+---
+
+Там безопасная комната. Донат сказала. Она прямо у коридора. Я посмотрел, и она была права. Она была в неправильном направлении от лестницы, но близко.
+
+There's a safe room. Donut said. It's right off the hallway. I looked, and she was right. It was in the wrong direction from the stairwell, but it was close.
+
+---
+
+Мы направились туда и вошли в другой квадрант. Этот был заполнен парящими мозгами с щупальцами под ними. Они выглядели как медузы. Их называли Ужасы Разума. Все они были четвертого уровня. Они использовали что-то под названием псионическая атака. Донат совсем не пострадала от них, а я пострадал. Я мог чувствовать их прежде, чем увидеть. Их присутствие вызывало почти изнуряющую головную боль. Но они были физически слабыми. Они двигались медленно, как маленькие миниатюрные дирижабли. Я мог выбить их из неба прежде, чем их ментальные атаки снизили мое здоровье больше чем на несколько очков.
+
+We headed that way and edged into another quadrant. This one was filled with floating brains with tentacles tangling under them. They looked like jellyfish. They were called Mind Horrors. They were all level four. They used something called a psionic attack. Donut wasn't affected at all by them, but I was. I could feel them before I saw them. Their presence caused an almost debilitating headache. But they were physically weak. They moved slowly, like little miniature blimps. I could punch them out of the sky before their mental attacks lowered my health more than a few points.
+
+---
+
+Их тела в форме мозга имели консистенцию мяча, наполненного вареньем. Они отскакивали, когда падали на землю. Иногда они разбрызгивались. Я не хотел идти дальше в этот район, но мы расчистили путь к безопасной комнате.
+
+Their brain-shaped bodies had the consistency of a jam-filled kickball. They bounced when they hit the ground. Sometimes they splattered. I didn't want to go further into this neighborhood, but we cleared the way to the safe room.
+
+---
+
+Комната, к сожалению, не была одним из ресторанов с Защитником Бопка. Хотя сама камера была намного больше, чем любая другая безопасная комната, которую я видел. Она выглядела как какое-то убежище от шторма. Знаки на дверях туалетов были на французском. Телевизионные экраны были прикреплены к стенам на одном конце огромной комнаты. Около пятидесяти пыльных кроватей были прижаты к другой стене. Не было еды. Не было печенья. Не было торговых автоматов. Только туалеты, душевые и раковины.
+
+The room, unfortunately, wasn't one of the restaurants with a Bopca Protector. Though the chamber itself was much bigger than any other safe room I'd seen. It appeared to be some sort of storm shelter. The signs on the doors for the restrooms were in French. The television screens were attached to the walls on one end of the cavernous room. About fifty dusty cots were pushed up against another wall. There was no food. There were no cookies. There were no vending machines. Just bathrooms, showers, and sinks.
+
+---
+
+Но там было что-то, чего я никогда не видел раньше. Почтовый ящик. Он был прикреплен к столбу в земле возле стены с телевизорами. Это был стандартный черный почтовый ящик с маленьким красным флагом. Такой, какой кто-то в пригороде имел бы перед своим домом. Я сразу подошел к ящику и попытался открыть маленькую дверцу. Но я получил сообщение об ошибке.
+
+But there was something I'd never seen before. A mailbox. It was attached to a pole in the ground near the wall with the televisions. It was a standard black mailbox with a little red flag. The kind someone out in the suburbs would have in front of their house. I immediately moved to the box and tried to open the little door. But I received an error message.
+
+---
+
+Почему кто-то отправил бы тебе почту. Странно. Я сказал. Количество ящиков и достижений, которые мы получили, было меньше обычного. Но у меня все еще было довольно много. Несколько моих боевых статистик также увеличились. Я сел на одну из кроватей и изучил свои достижения. Донат сделала то же самое.
+
+Why would someone send you mail. Weird. I said. The number of boxes and achievements we'd received was less than usual. But I still had quite a few. Several of my battle stats had also ticked up. I sat down on one of the cots and examined my achievements. Donut did the same.
+
+---
+
+Новое достижение. Босс Района. Итак, ты наткнулся на камеру второго самого слабого типа босса. Если ты выживешь, это значит, что ты в топе 5 процентов всех краулеров. Жаль, что только топ 0.25 процента проходят следующий уровень. Награда. Да, нет.
+
+New achievement. Borough Boss. So, you've stumbled into the chamber of the second-weakest type of boss. If you survive this, it means you are in the top 5% of all crawlers. Too bad only the top .25% make it past the next tier. Reward. Yeah, no.
+
+---
+
+Новое достижение. Задира и Вор. Ты украл собственность у товарища-краулера, который ниже тебя по уровню. Что дальше, крутой парень. Пинать щенков. Награда. Ты получил Бронзовую Коробку Мудака. Это одно смутило меня на мгновение. Пока я не понял, что получил его за то, что взял тележку Агаты.
+
+New achievement. Bully and a Thief. You've stolen property from a fellow crawler who is a lower level than you. What's next, tough guy. Kicking puppies. Reward. You've received a Bronze Asshole's Box. That one confused me for a moment. Until I realized I'd gotten it for taking Agatha's shopping cart.
+
+---
+
+Новое достижение. Боевое Строительство. Ты построил структуру и развернул ее в бою. И твоя мать думала, что ты тратишь свою жизнь впустую, пока ты проводил все эти часы, поедая Doritos и играя в Minecraft. Если бы она могла видеть тебя сейчас. Жаль, что она, вероятно, мертва. Награда. Ты получил Серебряную Коробку Механика.
+
+New achievement. Battlefield Construction. You built a structure and deployed it in battle. And your mother thought you were wasting your life away while you spent all those hours eating Doritos and playing Minecraft. If only she could see you now. Too bad she's probably dead. Reward. You've received a Silver Mechanic's Box.
+
+---
+
+Для следующего ИИ снова использовал свой сексуальный голос. Я поморщился. Новое достижение. Эта Маленькая Свинка Пошла на Рынок. О да, детка. Ты убил больше пяти противников во время битв с боссами, используя свои босые ноги. Ты делаешь папочку очень, очень счастливым. Награда. Ты получил Платиновую Коробку Обуви. Что за хрень, чувак. Я пробормотал в потолок. Я содрогнулся. Я посмотрел на Донат, которая уже открывала свои коробки. Я не собирался рассказывать ей об этом. Все же платиновая коробка. Это почти стоило того. Почти. Я не мог дождаться, чтобы увидеть, что было в случайной коробке с добычей.
+
+For this next one, the AI once again used his sexy voice. I cringed. New achievement. This Little Piggy Went to Market. Oh yeah, baby. You have killed more than five opponents during boss battles using your bare feet. You are making daddy very, very happy. Reward. You've received a Platinum Shoe Box. What the fuck, dude. I muttered at the ceiling. I shuddered. I eyed Donut, who was already opening her boxes. I wasn't going to tell her about this one. Still, a platinum box. That almost made it worth it. Almost. I couldn't wait to see what was in the random loot box.
+
+---
+
+Еще несколько достижений появились. Все касались того, как мы победили босса. Убийство босса района. Убийство босса района смешанной группой. Убийство босса района менее чем за 10 минут. Убийство босса района с более чем 10 миньонами. Ни одно из достижений не предлагало хорошей добычи. Кроме серебряной коробки босса. После этого осталось только одно достижение.
+
+A few more achievements popped up. All concerning us defeating the boss. Killing a borough boss. Killing a borough boss with a mixed group. Killing a borough boss in under 10 minutes. Killing a borough boss with more than 10 minions. None of the achievements offered any good loot. Except the silver boss box. After that, there was only one achievement left.
+
+---
+
+Новое достижение. Ты нашел лестницу. Ты нашел лестницу вниз на следующий этаж. Говорят, что сливки поднимаются наверх. Так что это говорит о тебе. Награда. Это едва ли квалифицируется как достижение. Твоя награда в том, что ты жив, чтобы прочитать это.
+
+New achievement. You found stairs. You have found a stairwell down to the next floor. They say the cream rises to the top. So what does that say about you. Reward. This barely qualifies as an achievement. Your reward is that you're alive to read this.
+
+---
+
+Затем я перешел к коробкам с добычей. Предметы появлялись один за другим. Они быстро появлялись и исчезали в мою виртуальную сумку. Я зашел в свой инвентарь. Я выбрал вкладку Новое. Я осмотрел предметы по одному.
+
+Next, I moved to loot boxes. The items appeared one by one. Rapidly appearing and disappearing into my virtual bag. I went into my inventory. I selected the New tab. I inspected the items one at a time.
+
+---
+
+Коробка мудака дала пять золотых монет и три маленьких кусочка бумаги. Билет на Напиток три штуки. Клуб Отчаянных. Когда я изучил маленькую красную бумагу, там было написано только Обменять в Клубе Отчаянных на бесплатный напиток. Я скептически посмотрел на кавычки вокруг слова напиток.
+
+The asshole box bestowed five gold pieces and three little pieces of paper. Drink Ticket three pieces. Desperado Club. When I examined the little red paper, all it said was Redeem at the Desperado Club for a free drink. I stared dubiously at the quotation marks around drink.
+
+---
+
+Серебряная коробка механика содержала действительно интересный предмет. Инструмент. Я вытащил его из инвентаря и осмотрел. Он выглядел как серебряная увеличенная леденцовая конфета с кнопкой на ручке.
+
+The silver mechanics box contained a really interesting item. A tool. I pulled it out of my inventory and examined it. It looked like a silver, oversized lollipop with a button on the handle.
+
+---
+
+Гу-инатор 3000. Это инструмент для формовки. Может использоваться только у верстака. Помогает формировать материалы во что-то другое. Тебе, возможно, захочется держать рабочий конец подальше от лица. Это звучало довольно круто. Но я не смогу использовать его, пока не куплю личное пространство. Я не смогу сделать это до четвертого этажа. Пока что ему придется сидеть в моем инвентаре и ждать.
+
+The Goo-Inator 3000. This is a shaping tool. May only be used at a workbench. Assists in shaping materials into something else. You might want to keep the business end away from your face. That sounded pretty cool. But I wouldn't be able to use it until I bought a personal space. I couldn't do that until the fourth floor. For now it would have to sit in my inventory and wait.
+
+---
+
+Следующим был приз из серебряной коробки босса. Я получил 100 золотых монет и зелье. Зелье Чит-кода. Предупреждение. Этот предмет имеет короткий срок годности. Этот предмет истечет вскоре после того, как был создан. Другими словами, это не то, что можно копить. Не будь слабаком. Выпей это сейчас. Вызывает увеличение одного недавно использованного боевого или магического навыка на три. Выбор случайный и постоянный.
+
+Next up was the prize from the silver boss box. I'd received 100 gold coins and a potion. Cheat Code Potion. Warning. This item has a short shelf life. This item will expire shortly after it was generated. In other words, this isn't something you can hoard. Don't be a wuss. Drink it now. Causes one, recently-used combat or magic-themed skill to increase by three. Choice is random and permanent.
+
+---
+
+Красный мигающий таймер появился внизу описания. Он отсчитывал 17 минут и продолжал. Черт. Я добавил его в горячий список и выпил. Я почувствовал потрескивающее ощущение во рту. Как будто я только что проглотил целый пакет Pop Rocks.
+
+A red, flashing timer appeared at the bottom of the description. It was down to 17 minutes and counting. Shit. I added it to my hotlist and drank. I felt a crackling sensation in my mouth. Like I'd just downed a whole packet of Pop Rocks.
+
+---
+
+Твой навык Кулачного Боя был увеличен на 3. Твой навык Кулачного Боя теперь уровень 10. Черт. У меня теперь была куча бонусов. Все они относились к рукопашному бою. С комбинацией моих навыков Железный Удар и Мощный Удар, плюс мой бонус рукопашного боя и мой навык кулачного боя, мои кулаки наносили столько же урона, сколько молот Брэндона с молнией. Я знал, что уровни навыков теперь будут расти медленнее. Но я, вероятно, мог бы ударить стальную балку и оставить вмятину в ней.
+
+Your Pugilism Skill has been increased by 3. Your Pugilism Skill is now level 10. Damn. I had a pile of bonuses now. All relating to unarmed combat. With the combination of my Iron Punch and Powerful Strike skills, plus my unarmed combat bonus and my pugilism skill, my fists packed just as much damage as Brandon's lightning maul. I knew the skill levels would come more slowly now. But I could probably punch a steel beam and put a dent in it.
+
+---
+
+В то же время я знал, что мой прогресс не был чем-то особенным. Не по сравнению с некоторыми другими из последнего эпизода обзора. Этот ребенок Люсия Мар была полностью экипирована магическим снаряжением. У нее был очевидный бонус ловкости. Ребенок уже бегал по стенам и делал сальто и прочее. Она размазывала монстров своей булавой. Женщина с арбалетом и шлемом Валькирии также была безумно сильной. Вероятно, в два раза сильнее меня. Я смотрел с трепетом, как она подняла медведеразмерного слюнявого монстра с щупальцами и бросила его в воздух. Она выстрелила в него дважды из своего арбалета с магазином, прежде чем он взорвался.
+
+At the same time, I knew my progress wasn't anything special. Not compared to some of the others from the last recap episode. That Lucia Mar kid was completely decked out in magical gear. She had an obvious dexterity bonus. The kid was running on walls and doing flips and shit already. She was splattering monsters with her mace. The crossbow woman with the Valkyrie helmet was also crazy strong. Likely twice as powerful as me. I'd watched in awe as she picked up a bear-sized, slobbering tentacle monster and threw it into the air. She shot it twice with her repeating crossbow before it exploded.
+
+---
+
+Они давали нам эти невероятные улучшения. Но я также знал, что монстры будут идти в ногу с нашим прогрессом. И пока я чувствовал себя слишком сильным, часть меня боялась, что я на самом деле отстаю.
+
+They were giving us these incredible upgrades. But I also knew the monsters were going to keep pace with our progress. And while I felt overpowered, a part of me feared I was actually falling behind.
+
+---
+
+У меня был еще один предмет для изучения. Черт побери. Я пробормотал про себя. Я вытащил его в руку и изучил его свойства. Это была маленькая черная папка с молнией. Я расстегнул молнию и открыл ее. Там было несколько миниатюрных инструментов.
+
+I had one last item to examine. Goddamnit. I muttered under my breath. I pulled it into my hand and examined its properties. It was a little black folder with a zipper. I zipped it open, revealing multiple, miniature tools.
+
+---
+
+Зачарованный Педикюрный Набор Сильфы. Этот набор содержит 12 необходимых предметов для правильного ухода за ногами. Магические улучшения этого предмета могут быть применены только в Безопасном или Личном Пространстве. Предупреждение. Все эти улучшения требуют, чтобы ты оставался босым. Почему. Потому что ты знаешь почему.
+
+Enchanted Pedicure Kit of the Sylph. This kit contains 12 essential items for proper foot care. The magical enhancements of this item may only be imbued within a Safe or Personal Space. Warning. All of these enhancements require you to remain barefoot. Why. Because you know why.
+
+---
+
+От пемзы до инструмента для кутикулы, этот набор личной гигиены будет держать твои ноги и сочными, и в идеальной боевой форме. Ежевечерний уход за ногами и ногтями на ногах приведет к следующим бонусам. Плюс 15 процентов урона к атакам босыми ногами на 30 часов. Плюс 3 к навыку Раздавить на 30 часов. Плюс бафф Несломленный только для ног на 30 часов. Этот бафф держит твои милые маленькие плюсневые кости хорошими и несломанными.
+
+From a pumice stone to a cuticle pusher, this personal hygiene kit will keep your feet both luscious and in perfect fighting shape. Nightly care of your feet and toenails will result in the following bonuses. Plus 15% Damage to bare-foot attacks for 30 hours. Plus 3 to the Smush skill for 30 hours. Plus Unbreakable buff feet only for 30 hours. This buff keeps your pretty little metatarsals nice and unbroken.
+
+---
+
+Плюс бафф Небесно Ловкий и Аккуратный только для ног на 30 часов. Не только твои ножки будут выглядеть хорошо, ярко и блестяще. Но любая ловушка, активированная шагами, теперь будет подавать сигнал тревоги. И будет иметь задержку в 5 секунд перед срабатыванием. Я вздохнул. Этот последний бафф был отличным призом. Кроме гоблинского бульдозера, мы еще не сталкивались с ловушками. Мордекай упоминал о них. Но я не знал, когда они начнут появляться. Нам понадобится больше, чем просто предупреждение за пять секунд. Но это лучше, чем ничего.
+
+Plus Celestially Nimble and Tidy buff feet only for 30 hours. Not only will your tootsies look nice, bright, and shiny. But any trap set off by footfalls will now prompt an alarm. And have a 5-second delay before being triggered. I sighed. That very last buff was a great prize. Other than the goblin dozer, we hadn't dealt with any traps yet. Mordecai had mentioned them. But I didn't know when they would start showing up. We were going to need more than just a five-second warning. But this was better than nothing.
+
+---
+
+Я посмотрел на набор скептически, прежде чем засунуть его обратно в инвентарь. Я понятия не имел, что делают большинство этих маленьких металлических предметов. Мне придется использовать все из них, чтобы включить улучшения. Сколько времени это займет. Беатрис буквально могла проводить часы в ванной, тыкая, толкая и выщипывая себя. Донат обычно сидела на столешнице в ванной с ней. Она мяукала, чтобы привлечь внимание. Это означало, что Донат видела, как она делает это несколько раз. Мне придется спросить кошку, знает ли она, как использовать предметы. Черт.
+
+I looked at the kit dubiously before shoving it back into the inventory. I had no idea what most of those little metal items did. Would I have to use all of them to turn the enhancements on. How long would it take. Beatrice could literally spend hours in the bathroom poking, prodding, and plucking at herself. Donut usually sat on the counter in the bathroom with her. She was meowing for attention. Which meant Donut had watched her do it a number of times. I was going to have to ask the cat if she knew how to use the items. Shit.
+
+---
+
+Я смотрел, как Донат подбежала к почтовому ящику. Она прыгнула так, что стояла на его вершине. Затем она села, и передняя часть ящика открылась сама. Том выплыл и завис перед ней. Он исчез, когда она добавила его в свой инвентарь.
+
+I watched as Donut trotted over to the mailbox. She leaped so she was standing on top of it. Then she sat down, and the front of the box opened up on its own. A tome floated out and hovered before her. It vanished as she added it to her inventory.
+
+---
+
+Что это было, черт возьми. Я спросил. Она надула грудь. Благодаря той коробке босса, я теперь член Клуба Книги Подземелья Этажа. Я получаю одну книгу заклинаний за уровень. Она отправляется мне по почте. Что. Правда. Это намного лучше, чем то, что я получил. Какую книгу ты получила.
+
+What the hell was that. I asked. She poofed her chest out. Thanks to that boss box, I am now a member of the Dungeon Book of the Floor Club. I get one spellbook per level. Which is mailed to me. What. Really. That's way better than what I received. What book did you get.
+
+---
+
+Вместо того чтобы ответить мне, ее тело вспыхнуло светом. Она прочитала книгу и дала себе заклинание. Фу. Она сказала через мгновение. Какое ужасное заклинание. Нам действительно нужно сохранять эти книжные штуки вместо того, чтобы тратить их впустую. Черт побери, До. Я остановился. Ты знаешь это. Тебе нужно прочитать описание перед тем, как применять его к себе. Что это за заклинание. Что оно делает.
+
+Instead of answering me, her body flashed with light. She'd read the book, giving herself the spell. Ew. She said after a moment. What an awful spell. We really need to save these book things instead of wasting them. Goddamnit, Do. I caught myself. You know this. You have to read the description before applying it to yourself. What is the spell. What does it do.
+
+---
+
+Я не мог изучить ее заклинания, поэтому мне пришлось полагаться на то, что она мне сказала. Я знал, что у нее было четыре заклинания, не считая этого нового. У нее было заклинание лечения, с которым все начинают. У нее был Факел, Магическая Ракета и Прыжок в Лужу, которое она пробовала только один раз. У нее также был том Армии Миньонов, который она еще не могла прочитать. И у меня был тот том Доспехов Огненного Шара.
+
+I couldn't examine her spells, so I had to rely on what she told me. I knew she had four spells, not including this new one. She had the heal spell everyone started with. She had Torch, Magic Missile, and Puddle Jumper, which she'd only tried once. She also had a tome of Minion Army she couldn't yet read. And I had that tome of Wisp Armor.
+
+---
+
+Оно называется Второй Шанс. Оно стоит 10 маны для произнесения. Я могу воскресить монстра из мертвых. Он должен быть ниже меня по уровню. Они будут сражаться за нас столько минут, сколько уровень заклинания. Уровень один, поэтому это продлится только минуту. Святое дерьмо. Я сказал. Это круто. Это заклинание некромантии. Это отвратительно. Донат сказала. Она содрогнулась. Мертвые достаточно мерзкие. Это намного хуже, когда они двигаются. Они, вероятно, также стонут и прочее. Ты знаешь, как я отношусь к стонам.
+
+It's called Second Chance. It costs 10 mana to cast. I can raise a monster from the dead. It has to be a lower level than me. They will fight for us for as many minutes as the spell's level. The level is one, so it'll only last for a minute. Holy crap. I said. That's badass. It's a necromancy spell. It's disgusting. Donut said. She shuddered. The dead are gross enough. It's much worse when they're moving around. It probably groans and stuff, too. You know how I feel about groaning.
+
+---
+
+У меня было быстрое воспоминание о том, как меня однажды поцарапали, пока Беа и я занимались делом. Это было не очень смешно в то время. Но мы смеялись об этом позже. Донат была запрещена в спальне во время сексуального времени после этого. Она выла у двери. И нам приходилось включать музыку, чтобы заглушить ее.
+
+I had a quick memory of being slashed at once while Bea and I were getting busy. It wasn't very funny at the time. But we'd laughed about it later. Donut had gotten banned from the bedroom during sexy time after that. She'd howl at the door. And we'd have to put music on to drown her out.
+
+---
+
+Что случилось с убийством их со стилем. Я сказал, пытаясь не смеяться. Не нужно прибегать к насилию с гротескной тематикой, чтобы быть стильным. Да. Я сказал. Но представь, что ты воскрешаешь одного из тех динго из мертвых и используешь его, чтобы убить другого динго. И затем воскрешаешь и того тоже. Ты была бы как ребенок Люсия Мар с ее двумя собаками. Но твои будут зомби-собаками.
+
+Whatever happened to killing them with style. I said, trying not to laugh. One doesn't have to resort to gore-themed violence in order to be stylish. Yeah. I said. But imagine raising one of those dingoes back from the dead and using it to kill another dingo. And then raising that one too. You'd be like the Lucia Mar kid with her two dogs. But yours will be zombie dogs.
+
+---
+
+Ее глаза стали огромными. Это лучшее заклинание когда-либо. Брэндон и команда все еще приводили людей в безопасную комнату, когда начался следующий эпизод.
+
+Her eyes got huge. This is the best spell ever. Brandon and crew were still bringing people into the safe room as the next episode premiered.
+
+---
+
+Прямо когда шоу началось, таймер наконец истек. Мир задрожал. Земля под моими ногами затряслась. Тряска длилась всего секунду. Я остановился и посмотрел на число на телевизионном экране. Оно мигнуло. Оно изменилось с чуть более двух миллионов до 1,292,526.
+
+Right when the show started, the timer finally ran out. The world rumbled. The ground under my feet shook. The shaking lasted but a second. I stopped and gazed at the number on the television screen. It flashed, going from just over two million to 1,292,526.
+
+---
+
+Больше людей спустилось на следующий уровень, чем я ожидал. Все же эти числа. Эти чертовы числа. Я хотел, чтобы нам не пришлось смотреть на них. В тот краткий момент, пока я помогал вкатить женщину в инвалидной коляске в убежище от шторма, более 700,000 человек умерло. Треть оставшихся краулеров. Первый этаж забрал чуть более 10 миллионов человек.
+
+More people had made it down to the next level than I expected. Still, those numbers. Those goddamned numbers. I wished we didn't have to look at them. In that brief moment, as I helped push a woman in a wheelchair into the storm shelter, over 700,000 people died. A third of the remaining crawlers. The first floor had claimed a little more than 10 million people.
+
+---
+
+Спасибо, дорогая. Женщина сказала, когда я подкатил ее к другим. Можешь поставить Суд по Разводам на телевизор. Мой Барри смотрел это шоу. Это напоминает мне о нем. Я не думаю, что это шоу все еще идет, миссис Макгиббонс. Я сказал. Ничего страшного. Она сказала.
+
+Thank you, honey. The woman said as I rolled her to the others. Can you put Divorce Court on the television. My Barry used to watch that show. It reminds me of him. I don't think that show is on anymore, Mrs. McGibbons. I said. That's okay. She said.
+
+---
+
+Над числом с оставшимися краулерами обратный отсчет до обрушения уровня мигнул несколько раз, затем сбросился. Шесть дней и отсчет. Шесть дней. Брэндон сказал, подходя, чтобы встать рядом со мной. Госпожа Тиата сказала, что будет десять. Да, наш парень сказал то же самое. Я сказал. По крайней мере, мы знаем, где лестница на этот раз.
+
+Above the number with the remaining crawlers, the countdown to level collapse blinked a few times then reset. Six days and counting. Six days. Brandon said, coming to stand beside me. Mistress Tiatha had said it would be ten. Yeah, our guy said the same thing. I said. At least we know where the stairs are this time.
+
+---
+
+Пока сцены резни разыгрывались на телевизоре, они показывали мужчину и женщину, бегущих от бабуина с тремя головами, я оценил комнату. Мы получили только еще шесть жителей из безопасной комнаты Waffle House. Это означало, что 24 из них решили остаться позади. Я подумал об этом на мгновение. Хорошо для них, я решил. Они получили меру контроля в те последние несколько моментов. Они ушли на своих условиях. Брэндон сказал, что они все пели, когда он видел их в последний раз.
+
+As the scenes of carnage played out on the television, they were showing a man and a woman running from a three-headed baboon, I took stock of the room. We'd only gained six more residents from the Waffle House safe room. Meaning 24 of them had elected to stay behind. I thought about that for a moment. Good for them, I decided. They'd gained a measure of control in those last few moments. They went out on their own terms. Brandon said they'd all been singing when he'd last seen them.
+
+---
+
+Агата оставалась пропавшей. Крис сидел в углу, опустив голову. Он, возможно, плакал. Я хотел дать человеку пространство. Имани и Йоланда работали вокруг жителей. Йоланда помогала им в туалеты, пока Имани раздавала печенье краулера.
+
+Agatha remained missing. Chris sat in the corner, his head low. He might've been crying. I wanted to give the man space. Imani and Yolanda worked their way around the residents. Yolanda helped them to the bathrooms while Imani handed out crawler biscuits.
+
+---
+
+Донат ходила по полу перед телевизионным экраном. Она ждала вторую половину программы. Мы не сможем посмотреть шоу Одетты. И мы все еще не знали, получим ли мы эфирное время в основной программе.
+
+Donut paced the floor in front of the television screen. She was waiting for the second half of the program. We wouldn't be able to watch Odette's show. And we still didn't know if we'd get any airtime on the main program.
+
+---
+
+После того как все уснут, я надеялся получить твою помощь с чем-то. Брэндон сказал. Я уже знал, что он собирался спросить. Ты собираешься отправить их всех вниз по лестнице на третий этаж рано. Да. Он сказал. Они не могут тренироваться, поэтому нет смысла держать их здесь.
+
+After everyone sleeps, I was hoping to get your help with something. Brandon said. I already knew what he was going to ask. You're going to send them all down the stairs to the third floor early. Yes. He said. They can't train, so there's no point in keeping them here.
+
+---
+
+А что насчет тебя. Я спросил. Твоим уровням нужна работа. Он покачал головой. Мы говорили об этом. Все мы собираемся спуститься. Мы рискнем на третьем этаже. Мы не хотим рисковать быть разлученными.
+
+What about you. I asked. Your levels need work. He shook his head. We talked about it. All of us are going to go down. We'll take our chances on the third floor. We don't want to risk getting separated.
+
+---
+
+На экране женщина закричала, когда ее рука была откушена монстром, который выглядел как баклажан с зубами. Мы разведаем путь и расчистим его для тебя. Я сказал. Спасибо. Брэндон сказал.
+
+On the screen, a woman screamed as her arm was bitten off by a monster that looked like an eggplant with teeth. We'll scout the way and clear it out for you. I said. Thank you. Brandon said.
+
+---
+
+Ты получил что-то хорошее в своей коробке босса. Я спросил. Теперь у него была яркая серебряная звезда рядом с его именем в интерфейсе. Вместе с остальными из нас. Он ухмыльнулся. Я получил магический бумеранг. Крис получил какую-то книгу клуба. Имани не говорит нам, что она получает. А Йоланда получила новый тип колчана.
+
+Did you get anything good in your boss box. I asked. He now had a bright, silver star next to his name in the interface. Along with the rest of us. He grinned. I got a magic boomerang. Chris got some book of the club thing. Imani doesn't tell us what she gets. And Yolanda received a new type of quiver.
+
+---
+
+Есть кое-что, о чем я хотел спросить тебя об Агате. Я сказал. Все, тихо. Тише. Донат позвала. Время для хорошей части. Экран сфокусировался на той группе мужчин из Африки. Название их группы было Ле Мувман. Они сократились со 150 до около 80 после некоторого внутреннего конфликта. Несколько членов теперь имели черепа рядом со своими аватарами.
+
+There's something I've been wanting to ask you about Agatha. I said. Everyone, quiet. Quiet. Donut called. It's time for the good part. The screen focused on that group of men from Africa. Their party name was Le Mouvement. They'd gone from 150 to about 80 after some internal strife. Several of the members sported skulls by their avatars now.
+
+---
+
+Шоу полезно добавило графику, показывающую, сколько у них осталось боеприпасов. 80 мужчин были до менее чем 500 патронов.
+
+The show had helpfully added a graphic showing how much ammunition they had left. The 80 men were down to under 500 rounds.
+
+---
+
+Надеюсь они тренировались с другими видами оружия. Люсия Мар и её собаки уничтожили гнездо коричневых лохматых монстров перед спуском по лестнице. Я знал что сразу после этого её забрали на шоу Одетты. Она была на сцене прямо перед нами. Там одна из её собак напала на продюсера. Женщина с шлемом валькирии объединилась с группой из трёх других женщин. Они вместе убили босса йети перед спуском по лестнице. И вот мы здесь.
+
+Hopefully they were training themselves in other weapon types. Lucia Mar and her dogs obliterated a nest of brown shaggy monsters before descending the stairs. I knew right afterward she'd been whisked away to appear on Odette's show. She'd been on stage just before us where one of her dogs had attacked a producer. The woman with the Valkyrie helmet had teamed up with a group of three more women. They worked together to kill a yeti borough boss thing before using the stairs to descend. And just like that there we were.
+
+---
+
+Рядом со мной Донат ахнула когда мы появились. Мы были на экране меньше пятнадцати секунд. Программа показывала сцены из нескольких групп краулеров. Все они сражались с боссами или бежали к лестнице пока шёл таймер. Я знал что некоторые из этих сцен произошли всего тридцать минут назад.
+
+Beside me Donut gasped as we appeared. We were on screen for less than 15 seconds. The program was playing scenes from multiple groups of crawlers rapid-fire all of them fighting bosses or running toward the stairs as the timer ran down. I knew some of these scenes must have played out just thirty minutes earlier.
+
+---
+
+Оно показало нас сгрудившихся под редутом. Донат кричала вот оно идёт. Вид сменился на шар из свиней катящийся по рампе и застрявший. Он двинулся обратно внутрь нашей миниатюрной крепости когда опора сломалась и ударила Йоланду по голове. Оно показало как шар развалился. Потом оно переключилось на Донат кричащую когда она стреляла магическими ракетами в упор в тусклингов. Это закончилось тем что Имани скривила лицо когда уронила страпон дилдо на пол.
+
+It showed us huddled underneath the redoubt as Donut screamed Here it comes. The view changed to the ball of swine rolling up the ramp getting stuck. It moved back inside our miniature fort as the brace broke and smashed Yolanda in the head. It showed the ball break apart and then it cut to Donut screaming as she fired magic missiles point-blank into the tusklings. It ended with Imani making a sour face as she dropped the strapon dildo on the floor.
+
+---
+
+Все наши фотографии появились. Через мгновение шоу перешло к другой группе. Они не показали фотографию Агаты на экране сказала Йоланда. Это значит что она мертва. Я думаю это именно то что это значит сказал я голосом мрачным. Безумная старуха не могла выжить здесь в одиночку. Никто ещё не сказал это вслух но мы все об этом думали.
+
+All of our mugshots appeared. A moment later the show moved onto another group. They didn't put Agatha's picture on the screen Yolanda said. Does that mean she's dead. I think that's exactly what it means I said my voice grim. There was no way the crazy old woman could survive down here on her own. Nobody had said it out loud yet but we were all thinking it.
+
+---
+
+Подожди сказал Крис. Старший брат Брэндона говорил более низким голосом и это удивило меня когда он заговорил. Это был только второй раз когда я слышал как он говорит. Тут что-то ещё. Её вырезали из сцены. Она была рядом со мной под лежачим полицейским но её не было когда они это показали. О да сказал Брэндон. Странно. Что это значит спросила Йоланда. Кто его знает сказал я.
+
+Wait Chris said. Brandon's older brother had a deeper voice and it surprised me when he spoke. This was only the second time I'd heard him speak. There's more to it. She was edited out of the scene. She was next to me under the speedbump but she wasn't there when they showed it. Oh yeah Brandon said. Weird. What does that mean Yolanda asked. Who the hell knows I said.
+
+---
+
+Донат игнорировала всё это пока подпрыгивала вверх и вниз. Два шоу за один день Карл. Два шоу. Может быть их ещё больше. Ты думаешь мы в других шоу. Я вздохнул. Донат. Тебе нужно перестать зацикливаться на этом. Это опасно. Это нас убьёт. Я не зацикливаюсь сказала она. Что заставляет тебя думать что я зацикливаюсь.
+
+Donut was ignoring all of this as she hopped up and down. Two shows in one day Carl. Two shows. Maybe there is more too. Do you think we're on more shows. I sighed. Donut. You need to stop obsessing over this. It's dangerous. It's going to get us killed. I'm not obsessing she said. What makes you think I've been obsessing.
+
+---
+
+Людям ты нравишься из-за того что ты делаешь сказал я. Если ты начнёшь играть на камеру они будут любить тебя меньше. И если ты умрёшь тебя вообще не будут помнить. Так что постарайся не думать об этом. Я не знаю о чём ты говоришь Карл сказала она. Шоу закончилось. И через мгновение объявление прозвучало через убежище от шторма.
+
+People like you because of what you've been doing I said. If you start playing for the camera they're going to like you less. And if you die you won't be remembered at all. So try not to think about it. I don't know what you're talking about Carl she said. The show wrapped up. And a moment later the announcement rattled through the storm shelter.
+
+---
+
+Привет краулеры. Добро пожаловать на второй этаж. Поздравляем всех вас. У нас чуть меньше миллиона трёхсот тысяч краулеров всё ещё в игре. Это число немного ниже наших прогнозов поэтому мы ускоряем таймер второго этажа до минимума разрешённого правилами. У вас шесть дней чтобы найти лестницу вниз. Ещё раз мы призываем всех вас подождать до последнего возможного момента перед спуском.
+
+Hello crawlers. Welcome to the second floor. Congratulations to all of you. We have just under 1.3 million crawlers still in the game. That number is slightly lower than our projections so we are speeding up the second floor timer to the minimum legally allowed by the rules. You have six days to find a staircase down. Once again we urge you all to wait until the last possible moment to descend.
+
+---
+
+Как только это объявление закончится вы обнаружите что подписки и избранное включены для наших зрителей. Цифры будут появляться медленно в вашем интерфейсе так что не расстраивайтесь если пока ничего не видите. Мы улучшили как работает патронаж в этом сезоне. Это большое изменение так что пожалуйста обратите внимание.
+
+As soon as this announcement ends you will find that follows and favorites will be turned on for our viewers. The numbers will populate slowly on your interface so don't be too disappointed if you don't see anything just yet. We have improved how patronage works this season. This is a major change so please pay attention.
+
+---
+
+Все краулеры теперь ограничены тремя патронами. Все три места будут выставлены на аукцион на один день сразу после начала четвёртого этажа затем пятого затем шестого этажа соответственно. Ваши благодетели могут по своему усмотрению передать свой патронаж другим сторонам начиная с седьмого этажа. Все места патронажа станут доступны при ставке в один кредит. Это значит что в этом сезоне практически все живые краулеры будут иметь патронов.
+
+All crawlers are now limited to three patrons and all three spots will be up for auction for one day immediately upon the induction of the fourth floor then fifth then sixth floors respectively. Your benefactors may so choose to transfer their patronage to other parties at their own discretion starting on the seventh floor. All patronage spots will become available at a bid of one credit meaning this season virtually all living crawlers will have patrons.
+
+---
+
+Но будьте осторожны. Любые ставки которые патрон платит выше стандартной платы за патронаж будут отражены в скидках на лутбоксы для этого патрона. Любые средства ниже платы будут отражены в дополнительных расходах для этого патрона на лутбоксы. Другими словами чем больше ваш патрон платит за вас тем больше и качественнее ящиков благодетеля вы можете получить. Чем выше ваши социальные цифры тем лучше ваши шансы получить лучший лут.
+
+But be warned. Any bids the patron pays above the standard patronage fee will be reflected in loot box discounts for that patron. Any funds below the fee will be reflected in additional costs to that patron for loot boxes. In other words the more your patron pays for you the more and higher-quality Benefactor Boxes you may receive. The higher your social numbers the better your chances at receiving the best loot.
+
+---
+
+Ваш учебный гид должен иметь больше деталей и поможет вам если у вас есть дополнительные вопросы. Наконец мы должны сказать что мы разочарованы неуважением которое нам показывают относительно туалетов. С этого момента если любой краулер рождённый человеком намеренно мочится или испражняется где-либо вне обозначенной туалетной зоны они будут немедленно и быстро наказаны в виде элементала ярости взятого с тринадцатого этажа.
+
+Your tutorial guide should have more details and will help you if you have any additional questions. Finally we must say we are disappointed in the disrespect we are being shown regarding the bathrooms. As of this moment if any human-born crawler intentionally urinates or defecates anywhere outside a designated bathroom area they will be immediately and swiftly penalized in the form of a Rage Elemental plucked from the 13th floor.
+
+---
+
+Этот элементал убьёт их и всех в их группе прежде чем они успеют застегнуть штаны. На сегодня всё. Веселитесь там и помните убивать убивать убивать. Брэндон повернулся к Йоланде. Тебе лучше сказать Джеку чтобы он больше не писал в коридорах. Йоланда побледнела. Я даже не понимал что это была проблема.
+
+This elemental will kill them and everyone in their party before they can get their pants back up. That's it for tonight. Have fun out there and remember to kill kill kill. Brandon turned to Yolanda. You better tell Jack not to pee in the hallways anymore. Yolanda had gone pale. I hadn't even realized that this was a problem.
+
+---
+
+Джек был одним из парней который использовал ходунки а не инвалидное кресло. Он носил шляпу Цинциннати Бенгалс и всегда тыкал в жительниц женского пола говоря ты ещё жива Мэрибет. Никого из них не звали Мэрибет. У меня осталось несколько взрослых подкладок. Я прослежу чтобы он надел одну сказала Йоланда. Их обоснование для ускорения не имеет смысла сказала Имани.
+
+Jack was one of the guys who used a walker not a wheelchair. He wore a Cincinnati Bengals hat and was always poking at the female residents saying You still alive Marybeth. None of them were named Marybeth. I have a few adult pads left. I'll make sure he puts one on Yolanda said. Their reasoning for speeding it up doesn't make any sense Imani said.
+
+---
+
+Я кивнул соглашаясь. Если что-то кажется так что они пытаются избавиться от нас быстрее. Карл Карл. У меня есть подписчик. Мой первый подписчик. Ещё один. Просмотр. У меня есть просмотр. Да сказал я. Ты знаешь что этот зритель смотрит на тебя прямо сейчас. Так что может быть тебе стоит перестать вести себя как сумасшедшая. Мы говорили об этом.
+
+I nodded agreeing. If anything it seems like they're trying to get rid of us faster. Carl Carl. I have a follower. My first follower. Another. A view. I have a view. Yeah I said. You know that viewer is watching you right now. So maybe you should stop acting crazy. We talked about this.
+
+---
+
+Донат застыла её глаза расширились. Ты права сказала она. Она села и лизнула лапу внезапно выглядя беззаботно. Это была настоящая битва сегодня не думаешь Карл. Она сказала это странным скованным голосом пытаясь выглядеть непринуждённо но не очень хорошо это получается. Я вздохнул и мне потребовалось всё чтобы не сказать свою коронную фразу вслух.
+
+Donut stiffened her eyes going wide. You're right she said. She sat down and licked her paw suddenly looking nonchalant. That was quite the battle today don't you think Carl. She said this in a weird stilted I'm-trying-to-act-casual-but-I'm-not-very-good-at-it voice. I sighed and it took everything not to say my catchphrase out loud.
+
+---
+
+Она привыкнет к этому. Это новое так что нужно дать ей время. После того как шоу Одетты закончилось я знал что эти цифры взлетят. Это будет долгая ночь. Когда мы приблизились к квадранту с лестничной клеткой мы теперь могли видеть что там была учебная гильдия и ещё одна безопасная комната за лестницей. План был проверить монстров посмотреть насколько они сложные.
+
+She's going to get used to it. It's new so you gotta give her time. After Odette's show finished airing I knew those numbers were going to skyrocket. This was going to be a long night. As we approached the quadrant with the stairwell we could now see that there was a tutorial guild and another saferoom just beyond the stairs. The plan was to probe the monsters see how difficult they were.
+
+---
+
+Если это было что-то с чем мы могли справиться мы бы их вычистили. Как только мы найдём комнату босса мы примем решение как действовать дальше. После этого мы сопроводим команду Мэдоу Ларк к лестничной клетке. Мы легли спать и проснулись с нашими социальными цифрами в стратосфере. Просмотры и подписки Донат были примерно равны моим но её избранное было в два раза выше.
+
+If it was something we could handle we'd clear them out. Once we found the boss room we'd make a judgment call on how to proceed. After that we'd escort team Meadow Lark into the stairwell. We'd gone to sleep and woken up with our social numbers in the stratosphere. Donut's views and follows were about equal with my own but her favorites were twice as high.
+
+---
+
+Это имело смысл. Мордекай сказал что люди получают ограниченное количество избранного для использования и Донат была более развлекательным членом нашей пары. Меня это устраивало. Я пытался не думать об этом. У нас была важная работа сегодня. Даже Донат к счастью начала обращать внимание на задачу когда мы увидели первые несколько красных точек на нашей карте.
+
+It made sense. Mordecai had said people only got a limited number of favorites to use and Donut was the more entertaining member of our duo. I was okay with that. I tried not to think about it. We had important work to do today. Even Donut thankfully began to pay attention to the task at hand as we saw the first few red dots appear on our map.
+
+---
+
+Она говорила какую-то мотивационную чушь о том чтобы использовать день и сражаться за честь наших старейшин но я думаю даже она поняла что она раздражает. Несколько подписчиков отписались и можно было подумать что кто-то ударил её ножом в лицо по её реакции. Точки были чуть в стороне от главной дороги. Главные артерии на этом этаже не были такими широкими как на этаже выше и земля была менее ровной.
+
+She'd been saying some motivational bullshit about seizing the day and fighting for the honor of our elders but I think even she realized she was being annoying. A couple followers had ticked away and you'd have thought that someone had stabbed her in the face with the way she'd reacted. The dots were just off the main thoroughfare. The main arteries on this floor weren't as wide as they'd been one floor up and the ground was less even.
+
+---
+
+Внутри самих квадрантов нам приходилось смотреть под ноги. Бетонный пол был потрескавшимся и расколотым. Маленькие острые камни были везде. Я отшвырнул камень. Внизу мои блестящие пальцы ног сверкали. Я пытался заставить Донат показать мне как использовать набор для педикюра и она смеялась надо мной. Это была Имани из всех людей которая села со мной.
+
+Within the actual quadrants we had to watch our step. The concrete floor was cracked and splintered. Little sharp rocks were everywhere. I kicked a rock away. Below my shiny toes glittered. I'd tried to get Donut to show me how to use the pedicure kit and she'd laughed at me. It was Imani of all people who'd sat down with me.
+
+---
+
+Стоическая медсестра вытащила инструменты по одному спокойно объясняя как они работают. Все баффы активировались после примерно пятнадцати минут работы. Мне не нужно было использовать все предметы. Мне просто нужно было показать это. Но теперь мои ноги сверкали и хотя ощущение не было другим чем раньше я мог чувствовать неуязвимый аспект костей моих ног.
+
+The stoic nurse pulled the tools out one at a time matter-of-factly explaining how they worked. The buffs all activated after about fifteen minutes of work. I didn't need to use all the items. I just had to make a show of it. But now my feet glittered and while the sensation wasn't any different than it had been before I could sense the unbreakable aspect of my foot bones.
+
+---
+
+Я знал что если я уроню валун на мои пальцы ног они не расколются. Это всё равно будет больно но они останутся целыми и без шрамов и такими же красивыми как всегда для психотического ИИ. Я заглянул за угол на монстров. Их было трое сидящих в широкой комнате освещённой факелами. Они сидели в кругу играя в кости.
+
+I knew if I dropped a boulder on my toes they wouldn't splinter. It'd still hurt but they'd remain intact and unscarred and as pretty as ever for the psychotic AI. I peered around the corner at the monsters. There were three of them sitting in a wide room lit by torches. They sat in a circle playing dice.
+
+---
+
+Они были маленькими троллеподобными гуманоидами с непропорционально большими головами. У каждого был крючковатый нос красные щёки и рты с несколькими зубами. Они носили рваные зелёные комбинезоны покрытые заплатками. У каждого были паломнические туфли с пряжками. Слишком маленькие для меня.
+
+They were small troll-like humanoids with oversized heads. Each had hook noses ruddy cheeks and mouths with only a few teeth. They wore tattered green overalls covered in patches. Each had pilgrim style buckled shoes. Much too small for me.
+
+---
+
+Если бы не их пятнистая кожа и кудрявые чёрные волосы я бы подумал что они тип гоблина. У всех троих были сопливые носы. Они кашляли и чихали и фыркали и терли рукава руками пока играли в свою игру. У всех троих были рогатки на коленях. Дальнобойное оружие. Мне не нравилось дальнобойное оружие.
+
+If it wasn't for their mottled skin and curly black hair I'd think they were a type of goblin. All three of them had runny noses. They coughed and sneezed and snorted and rubbed their sleeves with their arms as they played their game. All three of them had slingshots on their laps. Ranged weapons. I didn't like ranged weapons.
+
+---
+
+Невакцинированный консультант Клурикаун Рев-Ап третий уровень. Если слышишь музыку банджо беги. Клурикауны это дальние деревенские родственники лепреконов. И пока лепреконы как говорят охраняют огромные кучи золота единственное что клурикауны могут копить это поляроиды своих собственных сестёр сидящих на унитазе и сомнительные бизнес-схемы.
+
+Unvaccinated Clurichaun Rev-Up Consultant Level 3. If you hear banjo music run. Clurichauns are distant hillbilly relatives of the Leprechauns. And while the Leprechauns are said to guard vast piles of gold the only thing Clurichauns might hoard are Polaroids of their own sisters sitting on the can and questionable business schemes.
+
+---
+
+Эта конкретная секта невакцинированного сорта. Не позволяй им чихать на тебя. ВНИМАНИЕ это моб класса фей. Мобы этого класса наносят на двадцать процентов больше урона против тебя из-за твоего пропуска гоблина. Я отступил обратно за угол. Чёрт я очень хочу чтобы мы могли найти способ сделать их точки белыми. Тогда мы могли бы использовать твой навык обаяния.
+
+This particular sect is of the unvaccinated variety. Don't let them sneeze on you. WARNING This is a fairy-class mob. Mobs of this class inflict 20% more damage against you due to your goblin pass. I eased back around the corner. Man I really wish we could figure out a way to turn their dots white. Then we could use your charm skill.
+
+---
+
+У них есть крылья. Мой ошейник-бабочка заставляет крылатых фей любить меня. Я не думаю что у них есть сказал я. Может быть если мы поймаем одного мы можем поговорить с ним сказала Донат. Я бы сказал что это хорошая идея сказал я. Но не с этими парнями. Нам нужно убить их на расстоянии. Они токсичные.
+
+Do they have wings. My butterfly collar charm causes winged fairies to like me. I don't think they do I said. Maybe if we capture one we can talk to it Donut said. I'd say that's a good idea I said. But not with these guys. We need to kill them from a distance. They're toxic.
+
+---
+
+Я довольно уверен что они накладывают что-то вроде твоего дебаффа сепсиса на нас. Давай попробуем ударить их тремя магическими ракетами очень быстро. Сделай четвёртую силу для каждой и посмотрим что произойдёт. Если они не упадут ударь их снова. Донат кивнула и прыгнула на моё плечо. Готова сказала она всё дело.
+
+I'm pretty sure they inflict something like your sepsis debuff on us. Let's try hitting them with three magic missiles super quick. Do a four power for each one and see what happens. If they don't go down hit them again. Donut nodded and jumped to my shoulder. Ready she said all business.
+
+---
+
+Мы выскочили из-за угла. Тхвап тхвап тхвап. Донат попала в каждого выстрелом в голову. Они даже не знали что их ударило. Они умерли там где сидели. Сколько у тебя осталось очков маны. Четырнадцать сказала Донат. Ты хочешь попробовать своё новое заклинание Второй Шанс. Оно стоит десять правда.
+
+We popped around the corner. Thwap thwap thwap. Donut struck each one with a headshot. They didn't even know what hit them. They died where they sat. How many mana points do you have left. Fourteen Donut said. Do you want to try your new Second Chance spell. It costs ten right.
+
+---
+
+Мне не пришлось спрашивать её дважды. Всё тело Донат засветилось неоновым фиолетовым. Через мгновение один из клурикаунов дёрнулся. Он засветился фиолетовым совпадая с оттенком Донат. Он встал на ноги шатаясь и просто стоял там его обугленная и взорванная голова склонилась набок. Стон исходил из его мокрого сопливого рта.
+
+I didn't have to ask her twice. Donut's whole body glowed a neon purple. A moment later one of the clurichauns twitched. It glowed purple matching Donut's hue. It stumbled to its feet and just stood there its scorched and blown-in head listing to the side. A moan emanated from its wet snotty mouth.
+
+---
+
+На моём плече Донат содрогнулась. Одноминутный таймер парил над неживым существом. Прозрачная жидкость сочилась из дыры в его голове. Он застонал снова на этот раз громче. Неживой прислужник краулера принцессы Донат невакцинированный консультант клурикаун первый уровень. Он продолжал качаться не двигаясь с того места.
+
+On my shoulder Donut shuddered. A one-minute timer hovered over the undead creature. A clear liquid oozed out of the hole in its head. It moaned again this time louder. Undead Minion of Crawler Princess Donut Unvaccinated Clurichaun Consultant Level 1. It continued to sway not moving from that spot.
+
+---
+
+Это очень неприятно сказала Донат. Она издала звук как будто собиралась вырвать. Мне это не нравится Карл. Интересно всегда ли они будут первого уровня сказал я очарованный. Ты можешь контролировать его. Я не знаю сказала Донат неуверенно. У меня нет никаких элементов управления.
+
+This is most unpleasant Donut said. She made a sound like she was going to retch. I do not like this Carl. I wonder if they'll always be level one I said fascinated. Can you control it. I don't know Donut said hesitantly. I don't have any sort of controls.
+
+---
+
+Она издала какой-то неудобный хныкающий звук что-то чего я никогда не слышал от неё раньше. Ты сказала она обращаясь к зомби. Он не казался реагирующим. Разорви мёртвые тела твоих друзей. Он качался там ещё мгновение. Обратный отсчёт был до двадцати пяти секунд. Потом он встал на колени и начал разбирать одного из своих товарищей.
+
+She made a kind of uncomfortable whimpering noise something I'd never heard from her before. You she said calling to the zombie. It didn't seem to react. Rip up the dead bodies of your friends. It swayed there for another moment. The countdown was down to 25 seconds. Then it went to its knees and started taking apart one of his companions.
+
+---
+
+Он засунул руку в живот и просто выдернул линию кишок как фокусник вытаскивающий ленты из шляпы. Они просто продолжали выходить и выходить. Зомби застонал с почти сексуальным удовольствием. Я почувствовал приступ тошноты булькающий в моём собственном желудке. Да это действительно отвратительно сказал я.
+
+It reached into the stomach and just yanked a line of intestines out like a magician pulling streamers from a hat. They just kept coming and coming. The zombie groaned with an almost sexual pleasure. I felt a twinge of sickness gurgle in my own stomach. Yeah that's really gross I said.
+
+---
+
+Зомби рухнул мёртвый снова через несколько коротких секунд. Он оставил свою работу незавершённой. Я сомнительно посмотрел на останки. Я знал что нам нужно уничтожить трупы но было только столько способов как игра могла предупредить меня что эти парни токсичные. Я даже не знал было ли хорошей идеей подойти достаточно близко чтобы их обыскать.
+
+The zombie clattered over dead once again a few short seconds later. It'd left its job unfinished. I eyed the remains dubiously. I knew we needed to destroy the corpses but there were only so many ways the game could warn me that these guys were toxic. I didn't even know if getting close enough to loot them was a good idea.
+
+---
+
+Прежде чем я мог протестовать Донат спрыгнула вниз и всё равно их обыскала. Как четвероногая она могла тянуть свободные не слотные предметы как рогатки и кости в свой собственный инвентарь не касаясь их на самом деле пока они не были слишком тяжёлыми или слишком далеко. Мне приходилось физически их поднимать что означало приближаться к заражённым телам.
+
+Before I could protest Donut jumped down and looted them anyway. As a quadruped she could pull the loose non-slotted items like the slingshots and the dice into her own inventory without actually touching them as long as they weren't too heavy or too far. I had to physically pick them up which meant getting close to the contaminated bodies.
+
+---
+
+У каждого из них есть глиняный кувшин чего-то называемого самогон туалетного качества сказала Донат. Они как ламы сказал я. Они вероятно продают это другим мобам. Мы решили пока отказаться от уничтожения трупов. Мы вернёмся на обратном пути и убьём любых личинок прячущихся в этом районе.
+
+Each of them has a clay jug of something called toilet-grade moonshine Donut said. They're like the llamas I said. They probably sell the stuff to the other mobs. We decided to forgo destroying the corpses for now. We'd angle back on our way out and kill any grubs skulking around the area.
+
+---
+
+Я размышлял просто взорвать тела но это казалось пустой тратой отличных взрывчаток. Я мог бы вероятно сконструировать что-то что сожжёт их. У меня были галлоны и галлоны легковоспламеняющейся жидкости. Их самогон вероятно тоже сработал бы. Но это потребовало бы некоторого размышления и проб и ошибок.
+
+I contemplated just blowing the bodies up but that seemed like a waste of perfectly good explosives. I could probably concoct something that would burn them. I had gallons and gallons of flammable liquid. Their moonshine would probably work too. But it would take some thinking and trial and error.
+
+---
+
+Мне действительно нужно было заполучить что-то вроде полэкса который я мог бы использовать чтобы рубить вещи издалека. У них была какая-нибудь амуниция для рогатки спросил я когда мы пробирались глубже в коридор. Да. У них маленькие мешки с камнями сказала Донат. Дай мне одну из рогаток и пару мешков. Я хочу попробовать.
+
+I really needed to get my hands on something like a poleax I could use to chop things up from afar. Did they have any slingshot ammo on them I asked as we crept deeper into the hallway. Yeah. They have little bags of rocks Donut said. Give me one of the slingshots and a couple bags. I want to try it out.
+
+---
+
+Мне потребовалось около трёх секунд чтобы понять что я не буду смертоносным владельцем рогатки в ближайшее время. Но я собирался практиковаться. Мне нужно было какое-то дальнобойное оружие немного более тонкое чем моя обычная палка динамита. В детстве у меня была рогатка и я был довольно хорош с ней.
+
+It took me about three seconds to realize I wasn't going to be a deadly wielder of the slingshot any time soon. But I was going to practice. I needed some sort of ranged weapon one a bit more subtle than my usual stick of dynamite. As a kid I'd had a slingshot and I'd been pretty good with it.
+
+---
+
+Я ставил игрушечные машинки на край забора и пытался попасть в них. Воспоминание внезапно стало горьким. Я вспомнил моего отца нашедшего мою рогатку. Он и его друзья играли с ней сломав резинку. Он пообещал что купит мне новую. Он никогда этого не сделал. В течение следующего часа мы вычистили всех клурикаунов вдоль внешнего кольца квадранта.
+
+I used to set toy cars up on the edge of the fence and try to hit them. The memory suddenly turned sour. I remembered my dad finding my slingshot. He and his friends had played with it breaking the band. He'd promised he'd get me a new one. He never did. For the next hour we cleared out all of the clurichauns along the outer ring of the quadrant.
+
+---
+
+И под мы я имею в виду Донат. Пока все кого мы нашли были третьего уровня. После каждой стычки Донат поднимала одного из них из мёртвых и я практиковался попадать в него рогаткой. Оружие почти не наносило урона вообще хотя я становился хорош в постоянном попадании в голову монстров.
+
+And by we I mean Donut. So far all we found were the level three version. After each skirmish Donut would raise one of them from the dead and I would practice hitting him with the slingshot. The weapon did hardly any damage at all though I was getting good at consistently hitting the monsters in the head.
+
+---
+
+Мой навык Рогатки в итоге поднялся до трёх но он не хотел двигаться дальше этого. Навык Донат в заклинании Второй Шанс также поднялся до третьего уровня. Зомби не стали более сильными но монстры теперь оставались на три минуты вместо одной. Донат обыскала что-то необычное с одного из тел.
+
+My Slingshot skill eventually raised to three but it didn't want to budge past that. Donut's skill in the Second Chance spell also rose to level three. The zombies weren't any more powerful but the monsters now hung around for three minutes instead of one. Donut looted something unusual from one of the bodies.
+
+---
+
+Брошюра озаглавленная Рев-Ап. Зарабатывай деньги. Будь своим собственным боссом. Перейди на следующий этаж вниз. Она не казалась магической. Это была просто обычная трёхсгибная брошюра. Дай мне посмотреть сказал я. Красочная обложка показывала группу из трёх смеющихся женских клурикаунов держащих кувшины самогона.
+
+A pamphlet entitled Rev-Up. Make Money. Be Your Own Boss. Move to the next floor down. It didn't appear to be magical. It was just a regular trifold pamphlet. Let me see it I said. The colorful front showed a group of three laughing female clurichauns holding jugs of the moonshine.
+
+---
+
+Несколько маленьких фраз покрывали брошюру написанные на стандартном синдиката. Вещи вроде Ты босс сейчас и Свои собственные часы и Это не пирамида и Безопасно. Внутри брошюры была стена текста в основном бессмыслицы о преимуществах становления консультантом по самогону Рев-Ап.
+
+Several little phrases covered the pamphlet written in Syndicate Standard. Things like You're the Boss Now and Your own hours and It's not a pyramid and Safe. Inside the pamphlet was a wall of text of mostly gibberish about the benefits of becoming a Rev-Up Moonshine Consultant.
+
+---
+
+Справа была картинка пирамиды с Это не пирамида написанным по всему этому. Внизу брошюры было заявлено Смотри Кракарен или одного из её консультантов ниже по линии и узнай как ты можешь Рев-Ап свою жизнь сегодня. На задней странице было написано Скоро. Рев-Ап Смузи. Портативные. Вкусные. Бодрящие.
+
+On the right was a picture of a pyramid with It's not a pyramid written all over it. The bottom of the brochure stated See Krakaren or one of her downline consultants and learn how you can Rev-Up your life today. On the back page it read Coming soon. Rev-Up Smoothies. Portable. Delicious. Invigorating.
+
+---
+
+Вся строка была зачёркнута с Прекращено написанным под ней. Ты думаешь мы можем стать консультантами спросила Донат после того как она потратила чрезмерное количество времени читая брошюру. Там говорится что как владельцы бизнеса мы получаем власть над собой и можем захватить свои собственные судьбы.
+
+The entire line was crossed out with Discontinued written under it. Do you think we can become consultants Donut asked after she spent an inordinate amount of time reading the pamphlet. It says as business owners we gain power over ourselves and can seize our own destinies.
+
+---
+
+Это даже ничего не значит сказал я. Они просто высмеивают пирамидальные схемы. Ты помнишь когда Беа хотела начать продавать те леггинсы. Это как то. Шкаф в трофейной комнате Донат был заполнен коробками этих вещей. Донат забралась в одну из коробок и пописала в неё.
+
+That doesn't even mean anything I said. They're just making fun of pyramid schemes. You remember when Bea wanted to start selling those leggings. It's like that. The closet in Donut's trophy room had been filled with boxes of the things. Donut had gotten into one of the boxes and peed in it.
+
+---
+
+Я улыбнулся вспоминая. Беа разъярилась на бедную кошку. Это не пирамида хотя. Там так прямо написано. Давай сказал я. Эти вещи враждебны к нам так что это всё равно не сработало бы. Я думаю эти брошюры для других мобов на этом этаже а не для краулеров.
+
+I smiled remembering. Bea had raged at the poor cat. It's not a pyramid though. It says so right here. Come on I said. These things are hostile toward us so it wouldn't work anyway. I think these pamphlets are for other mobs on this floor not crawlers.
+
+---
+
+Кроме того мы можем просто убить их и взять всё себе. Донат убрала брошюру. Да это кажется проще. Нам не придётся платить нашему вышестоящему или делать начальные инвестиции когда мы делаем это таким образом. Когда мы закончили наш круг внешнего кольца квадранта мне пришлось убить одного из клурикаунов ударом по голове.
+
+Besides we can just kill them and take it all for ourselves. Donut put the pamphlet away. Yeah that does seem easier. We won't have to pay our upline or make the initial seed investment when we do it that way. As we finished our circle of the outer ring of the quadrant I was forced to kill one of the clurichauns with a punch to the head.
+
+---
+
+Донат промахнулась и маленький монстр побежал прямо на меня невероятно быстро. Он не стал возиться со своей рогаткой выбрав схватку. Он булькал звуча как мопс царапая меня маленькими покрытыми ямками руками. Я сформировал кулак но это произошло слишком быстро.
+
+Donut missed a shot and the little monster came running right at me impossibly fast. It didn't bother with its slingshot opting to grapple. It gurgled sounding pug-like clawing at me with little pocked hands. I formed a fist but it happened too fast.
+
+---
+
+Моя перчатка занимала две секунды чтобы сформироваться что было долгим временем когда приходилось реагировать. Мой первый удар голыми костяшками оглушил его. Я ударил его второй раз на этот раз с перчаткой и монстр полетел его голова провалилась. Когда я открыл руку мои пальцы были покрыты известково-зелёным маслянистым остатком.
+
+My gauntlet took two seconds to form which was a long time when one was having to react. My first bare-knuckle hit stunned it. I hit it a second time this time with the gauntlet and the monster went flying his head caved in. When I opened my hand my fingers were covered with a lime green oily residue.
+
+---
+
+Предупреждение ты заражён Порчей. Блять. Мигающий пятиминутный таймер появился. В панике я открыл мой экран здоровья чтобы посмотреть что это было. Порча.
+
+Warning You've been infected with the Taint. Fuck. A blinking five-minute timer appeared. In a panic I pulled up my health screen to see what that was. The Taint.
+
+---
+
+Иметь Скверну это как страдать от хихиканья. Или как проводить лучшее время в жизни. Но вместо хорошего это балансирование на краю смерти. Вы не можете лечить здоровье никаким способом пока у вас этот дебафф.
+
+Having the Taint is like having the giggles. Or like having the time of your life. But instead of being good, you are balancing on the edge of death. You cannot heal your health in any way while you have this debuff.
+
+---
+
+Получение дебаффа напугало меня до чертиков. Я мог справиться с ядом и другими атаками благодаря броне. Но у нас не было защиты от этого типа нападения. Наши лечебные заклинания, зелья и свитки не помогали.
+
+Receiving the debuff scared the crap out of me. I could deal with poison and other attacks thanks to my armor. But we had no protection against this type of assault. Our heal spells, potions, and scrolls didn't help.
+
+---
+
+Нам нужно было что-то против таких вещей. В те пять секунд до чтения описания я был действительно напуган. Я думал что получил что-то смертельное.
+
+We needed something against stuff like this. In those five seconds before reading the description, I was genuinely scared. I thought I had received something lethal.
+
+---
+
+Сам по себе дебафф был не большой проблемой. Мне просто нужно было переждать. Я подозревал что это часть комбо-удара. Сначала они накладывают Скверну. Потом бьют чем-то что высасывает здоровье.
+
+On its own, the debuff wasn't a big deal. I simply had to wait it out. I suspected it was part of a combo attack. First they inflict the Taint. Then they hit with something that drains health.
+
+---
+
+Если это так то не важно что эти парни всего третьего уровня. Они опасны.
+
+If that's the case, it doesn't matter these guys are only level three. They are dangerous.
+
+---
+
+Мы больше не валяем дурака с этими парнями. Дай мне минуту подумать.
+
+We're not messing around with these guys anymore. Let me think a minute.
+
+---
+
+Мы собрали 25 кувшинов самогона. Пончик дала мне один. Я осмотрел большой глиняный контейнер.
+
+We collected 25 jugs of moonshine. Donut gave me one. I examined the large clay container.
+
+---
+
+Самогон марки Разгон туалетного класса. Тип ускоритель. Эффект высоко воспламеняющаяся жидкость. Взрывоопасные пары. Статус не активируется до контакта с огнем.
+
+Rev-Up Toilet-Grade Moonshine. Type accelerant. Effect highly flammable liquid. Explosive fumes. Status will not activate until introduced to flame.
+
+---
+
+При крепости 180 градусов этот самогон сожжет волосы на груди. Потом вернет их обратно. Версия Разгон перегоняется с двумя видами сахаров. Слизистые следы от Пестрого Личинки и секретный фирменный источник.
+
+At 180 proof, this moonshine will burn the hair off your chest. Then put it back on. The Rev-Up version is distilled using two types of sugars. The slime trails from the Brindle Grub and a secretive proprietary source.
+
+---
+
+Создается исключительно на втором этаже подземелья компанией Разгон. Кувшины этого напитка очень востребованы питейными заведениями. Они есть на третьем, шестом, девятом, двенадцатом, пятнадцатом и восемнадцатом этажах.
+
+Created exclusively on the dungeon's second floor by the Rev-Up company. Jugs of this concoction are highly sought after by drinking establishments. They populate the third, sixth, ninth, twelfth, fifteenth, and eighteenth floors.
+
+---
+
+Выпить глоток этого зелья немедленно даст вам дебафф Пьян в стельку. Есть 50% шанс ослепления на 30 часов. Есть 5% шанс мгновенно убить вас. Есть 45% шанс навсегда поднять случайную характеристику на два пункта.
+
+Drinking a swig of this potion will immediately give you the Shit-Faced debuff. There's a 50% chance of blindness for 30 hours. There's a 5% chance to instantly kill you. There's a 45% chance to permanently raise a random stat by two points.
+
+---
+
+Там написано что они ценные. Ты думаешь мы реально можем продать их если не станем консультантами?
+
+It says they're valuable. Do you think we can really sell them if we don't become consultants?
+
+---
+
+Похоже на то. Кроме той твоей тиары это первый раз когда мы видим что-то о глубоких этажах.
+
+That's what it sounds like. Other than that tiara of yours, this is the first time we see anything about the deeper floors.
+
+---
+
+Пончик указала на татуировку кинжала на моей шее. Клуб Отчаянных. Может он будет на следующем этаже. Держу пари они купят все у нас потому что мы члены клуба. Мы будем богаты.
+
+Donut indicated the dagger tattoo on my neck. The Desperado Club. Maybe it'll be on the next floor. I bet they'll buy everything from us because we're club members. We'll be rich.
+
+---
+
+Может быть. Посмотрим сколько кувшинов останется когда закончим. Что ты имеешь в виду? Что мы с ними делаем?
+
+Maybe. We'll see how many jugs are left when we're done. What do you mean? What are we doing with them?
+
+---
+
+Я усмехнулся. У тебя случайно нет лишних факелов?
+
+I grinned. Do you happen to have any extra torches?
+
+---
+
+Бум-кувшин Карла. Тип зажигательная бросалка. Эффект при поджоге и броске создает маленький взрыв. Потом горящий урон брызгами по широкой области. Пламя горит 15 секунд за уровень навыка обращения с зажигательными устройствами.
+
+Carl's Jug O' Boom. Type incendiary tossable. Effect when lit and tossed, results in a small explosion. Then burning splash damage over a wide area. Flames burn for 15 seconds per level of Incendiary Device Handling skill.
+
+---
+
+Статус инертен пока факел не активирован. Создано нестабильным мужчиной без штанов который разговаривает с кошкой. Бум-кувшин Карла использует подход больше значит лучше для бутылок хобгоблинов.
+
+Status inert until torch is activated. Created by an unstable pantsless man who talks to a cat. Carl's Jug O' Boom takes the bigger-is-better approach to hobgoblin fire bottles.
+
+---
+
+Горит жарче, больше и быстрее обычного коктейля Молотова. Использование стандартного факела вместо тряпичного фитиля делает устройства стабильнее. Просто не роняй его после поджога. Иначе будешь изображать Жанну д'Арк.
+
+Burns hotter, bigger, and faster than your normal Molotov Cocktail. Using a standard torch instead of a cloth wick makes the devices more stable. Just don't drop it once it's lit. Otherwise you'll do a Joan of Arc impersonation.
+
+---
+
+Я получил кучу достижений после создания бутылки. Я прочитал описание снова и вздохнул.
+
+I received a host of achievements after finishing the bottle. I read the description again and sighed.
+
+---
+
+Карл смотри они назвали это в твою честь. Да Пончик я вижу. Ты думаешь все увидят это так? Не знаю. Надеюсь нет.
+
+Carl look, they named it after you. Yeah Donut I see that. Do you think everybody will see it like that? I don't know. I hope not.
+
+---
+
+Мой навык обращения с зажигательными устройствами подскочил до пяти сразу после создания устройства. Все что я сделал это открыл кувшин. Вылил немного пока он не стал на три четверти полон. Добавил пару унций гоблинского масла из инвентаря. Потом воткнул факел в отверстие.
+
+My Incendiary Device Handling skill jumped to five immediately upon construction of the device. All I did was open the jug. I poured some out until it was about three quarters full. I added a couple ounces of goblin oil from my inventory. Then I stuck a torch in the hole.
+
+---
+
+Короткий конусообразный факел идеально вошел в горлышко кувшина. Запечатал его как пробка. Это было почти как будто сделано для этого.
+
+The short tapered torch fit perfectly into the mouth of the jug. It sealed it like a cork. It was almost like it had been made for it.
+
+---
+
+Мы испытали один чтобы посмотреть сработает ли. Глиняные кувшины для самогона казались прочными. Я боялся что они не разобьются. На бутылках было написано Разгон сбоку.
+
+We tested one to see if it would work. The clay moonshine jugs seemed pretty solid. I was afraid they wouldn't break. The bottles had Rev-Up written on the side.
+
+---
+
+Классная штука с факелами в том что я мог просто посмотреть на них и мысленно выбрать Активировать. Они начинали гореть. Зажигалка не нужна.
+
+The cool thing about torches was I could just look at them and mentally select Activate. They would start burning. No lighter required.
+
+---
+
+Я поджег факел. Схватил кувшин за маленькую круглую ручку. Подбросил его высоко в воздух дугой к группе из трех мертвых клурикаунов.
+
+I lit the torch. I grasped the jug by the little round handle. I tossed it high in the air, arcing it toward a group of three dead clurichauns.
+
+---
+
+Вжух! Кувшин разбился легко. Сам взрыв был незначительным. Но злые языки пламени разбрызгались как вода по широкой области. Они трещали и шипели сердито, светясь синим. Нам пришлось отступить.
+
+Whoosh! The jug shattered easily. The explosion itself was insignificant. But the angry flames splashed like water over a wide area. They crackled and hissed angrily, glowing blue. We had to step back.
+
+---
+
+Вау! Пончик закричала подпрыгивая вверх и вниз. Посмотри только на это!
+
+Wow! Donut cried, hopping up and down. Would you look at that!
+
+---
+
+Пламя достигло потолка. Нам пришлось отступить дальше из комнаты из-за жара. Когда оно наконец погасло через минуту пятнадцать секунд осталось только почерневшие рассыпающиеся оболочки тел и пепел.
+
+The flames reached the ceiling. We had to step further out of the room due to the heat. When it finally died out a minute and fifteen seconds later, only blackened crumbly husks of bodies and ash remained.
+
+---
+
+Что ж это чертовски круто. Мы сели и сделали еще десять устройств. После огня комната странно пахла виски и тостами. Большинство кувшинов уже были на три четверти полны. Это хорошо. Мне не пришлось тратить самогон.
+
+Well that's pretty damn cool. We sat down and made ten more devices. After the fire, the room smelled oddly of whiskey and toast. Most jugs were already about three quarters full. That's good. I didn't have to waste any moonshine.
+
+---
+
+Из любопытства я осмотрел кувшины в инвентаре. Сравнил их ценность с другими взрывными устройствами. Кувшины были довольно высоко в списке. Чуть выше дымовых бомб.
+
+Out of curiosity, I examined the jugs in my inventory. I compared their value to my other explosive devices. The jugs were pretty high on the list. Just above the smoke bombs.
+
+---
+
+Однако полные неизмененные кувшины самогона были ценнее. На самом деле они были почти в верхней части списка. Чуть выше Инженерного Стола который у меня остался. Единственный целый стол после постройки редута.
+
+However, the full unaltered jugs of moonshine were more valuable. In fact, they were near the top of my list. Just above the Engineer's Table I still had. The only intact table left after our construction of the redoubt.
+
+---
+
+Эти штуки были куда менее опасны для меня чем палки гоблинского динамита. Но они были слишком хороши. Мы теряли способность грабить трупы когда они сгорали. Это значило что мы теряли способность получать больше кувшинов.
+
+These things were much less dangerous to me than the sticks of goblin dynamite. But they were a little too good. We lost the ability to loot corpses when they burned away. That meant we lost our ability to get more jugs.
+
+---
+
+Мы двинулись к лестнице. Решили сжигать каждую вторую комнату. Это сохранит запас кувшинов стабильным. Мы продолжили наш паттерн. Пончик поднимает мертвых. Я тренируюсь с рогаткой.
+
+We moved toward the staircase. We decided to incinerate every other room. That would keep our jug supply stable. We continued our pattern. Donut raises the dead. I practice with the slingshot.
+
+---
+
+Это замедляло прогресс но давало столь нужную тренировку. Мой навык рогатки остался прежним. Однако я получил несколько других навыков включая Прицеливание и Твердая Рука. Навык Пончика Второй Шанс поднялся до четвертого уровня.
+
+That slowed our progress but gave us much-needed training. My slingshot skill remained constant. However, I received a few other skills including Aiming and Steady Hand. Donut's Second Chance skill ticked up to level four.
+
+---
+
+Мы наконец наткнулись на новый тип моба прямо снаружи комнаты босса. К счастью она была отдельно от лестничного пролета. Эта комната была большой. Как гоблинская мастерская заполнена десятками маленьких засранцев.
+
+We finally came across a new type of mob just outside the boss room. Thankfully it was separate from the stairwell. This room was big. Like the goblin workshop, filled with dozens of the little assholes.
+
+---
+
+Не было никакого гигантского механизма. Но труба тянулась по потолку из дальней комнаты босса к центру комнаты. Изгибалась вниз в то что выглядело как грязная алюминиевая ванна. Были груды бутылок пустых и полных в комнате.
+
+There wasn't any sort of giant machinery. But a tube ran along the ceiling from the far boss chamber to the center of the room. It curved down into what looked like a filthy aluminum bathtub. There were piles of bottles, both empty and full in the room.
+
+---
+
+Покрытые соплями третьего уровня брали кувшины и наклоняли их в ванну чтобы наполнить. В дальнем конце комнаты был дверной проем. Его охраняла пара маленьких летающих существ.
+
+The snot-covered level threes were taking the jugs and tipping them into the tub to fill them up. At the far end of the room was a doorway. It was guarded by a pair of small floating creatures.
+
+---
+
+Это были не клурикауны а маленькие толстые феи которые жужжали с парой крыльев колибри. Они выглядели как миниатюрные крылатые футбольные мамочки. Я выглянул за угол и осмотрел их свойства.
+
+These weren't clurichauns but small fat fairies who buzzed about with a pair of hummingbird wings. They looked like miniature winged soccer moms. I peered around the corner and examined their properties.
+
+---
+
+Ламинак Разгон Консультант Элита шестого уровня. Второй уровень империи Разгон. Эти консультанты Ламинак не нуждаются в разговоре с менеджером. Они и есть менеджеры. Они управляют бизнесом с жестокой эффективностью.
+
+Laminak Rev-Up Consultant Elite Level 6. The second tier of the Rev-Up empire. These Laminak consultants don't need to speak to a manager. They are the managers. They run their business with brutal efficiency.
+
+---
+
+Говорят если один из подчиненных отстает от квот продаж они наказывают их. Заставляют сделать глоток их собственного продукта. Выжившие переназначаются работниками для комнаты наполнения. Или хуже как инженеры перегонного куба работая прямо под самой Кракарен.
+
+It is said if one of their underlings falls behind on their sales quotas, they punish them. They require them to take a sip of their own product. Those that survive are repurposed as workers for the filling room. Or worse, as still engineers working directly under Krakaren herself.
+
+---
+
+Эти мобы не имеют специальных способностей кроме иммунитета к большинству атак высасывающих здоровье. Выжив годы питья их собственного продукта говорят их эссенция особенно ценна. Ценится как щит против болезни.
+
+These mobs do not have any special abilities other than immunity to most health-draining attacks. Having survived years drinking their own product, it is said their essence is especially valuable. Prized as a shield against disease.
+
+---
+
+В пыльном углу комнаты стояло то что выглядело как пара велотренажеров детского размера. Тех что спортзалы используют для спиннинг классов. Была какая-то гоблинская система блоков прикрепленная к ним. Но я не мог разобрать что происходит отсюда.
+
+In a dusty corner of the room stood what appeared to be a pair of child-sized stationary bikes. The kind gyms used for their spinning classes. There was some sort of goblin-style pulley system attached to it. But I couldn't tell what was going on from here.
+
+---
+
+Баннер висел с потолка в том же углу. Но он был прикреплен только одним концом. Он болтался вертикально забытый. На баннере было написано Смузи Разгон. Бодрящие.
+
+A banner hung from the ceiling in the same corner. But it was only attached by one end. It dangled vertically, forgotten. The banner read Rev-Up Smoothies. Invigorating.
+
+---
+
+Хорошо. Нам нужно убить всех в комнате. Но если мы хотим сохранить эти кувшины и самогон мы не можем взорвать или сжечь их. Плюс похоже мы можем получить что-то хорошее из трупов ламинаков.
+
+Okay. We need to kill everyone in the room. But if we want to keep those jugs and that moonshine, we can't blow them up or burn them out. Plus it sounds like we can get something good from the laminak corpses.
+
+---
+
+Боже мой. Как мы можем это сделать? Мы снова выглянули за угол оставаясь низко. Ты думаешь можешь перепрыгнуть туда? Я спросил указывая на дальнюю стену с двумя феями. Используя заклинание я имею в виду.
+
+Goodness me. How can we do that? We peeked again around the corner, keeping low. Do you think you can jump over there? I asked, pointing at the far wall with the two fairies. Using your spell, I mean.
+
+---
+
+О да. Определенно. Я кивнул. Хорошо. Вот план.
+
+Oh yes. Definitely. I nodded. Good. Here's the plan.
+
+---
+
+Две самые большие проблемы с заклинанием Прыжок по Лужам Пончика это время восстановления и стоимость маны. После применения она не может сделать это снова пять часов. Это значит что попав в комнату она не сможет телепортироваться наружу.
+
+The two biggest problems with Donut's Puddle Jumper spell were the cooldown and the mana cost. Once cast, she couldn't do it again for five hours. That meant once she was in that room, she couldn't teleport out.
+
+---
+
+Во-вторых это стоило 20 очков маны. У нее было только 26 маны. Хотя у нее было много зелий восстановления маны у нее все еще был ужасный двухминутный кулдаун между зельями. Ее очки восстанавливались все быстрее и быстрее. Но все еще слишком медленно чтобы полагаться на это в бою.
+
+Secondly, it cost 20 mana points. She only had 26 mana. While she had plenty of mana restoration potions, she still had that awful two-minute cooldown between potions. Her points were restoring themselves more and more quickly. But it was still too slow to count on it for combat.
+
+---
+
+Она будет прискорбно слабой. Так что если что-то пойдет не так а что-то всегда идет не так единственное что у нее есть это скорость.
+
+She was going to be woefully underpowered. So if something went wrong and something always went wrong the only thing she had going for herself was her speed.
+
+---
+
+Мы решили что я останусь позади во время этой части атаки. С моей дополнительной агрессией фей мы не были уверены что случится если мы оба покажемся. План был простым. Но он заставлял меня нервничать потому что у меня не было контроля. Это была моя идея но кошка делала всю тяжелую работу.
+
+We decided I would stay behind during this part of the assault. With my extra fairy aggro, we weren't certain what would happen if we both showed ourselves. The plan was simple. But it made me nervous because I didn't have any control. This was my idea, but the cat was doing all the heavy lifting.
+
+---
+
+Если попадешь в беду я брошу дымовую бомбу. Просто прыгай и беги хорошо? Пончик кивнула. Она держала храбрый вид. Но я мог сказать что она тоже волновалась.
+
+If you get in trouble, I'll toss a smoke bomb. Just jump and run, okay? Donut nodded. She was putting on a brave face. But I could tell she was also anxious.
+
+---
+
+Хорошо давай сделаем это. Мы вернулись к углу выглядывая за край. Пончик применила заклинание. У него был десятисекундный отсчет. Она вспыхнула. Ее форма начала исчезать пока она не пропала с громким мокрым хлопком.
+
+Okay let's do this. We moved back to the corner, peering around the edge. Donut cast her spell. It had a ten-second countdown. She flashed. Her form started to fade until she disappeared with a loud wet pop.
+
+---
+
+Она появилась в дальнем конце комнаты прямо между двумя феями ламинак. Она начала быстро говорить с ними пока все клурикауны в комнате вскочили на ноги и повернулись атаковать.
+
+She reappeared at the far end of the room, right between the two laminak fairies. She started rapidly speaking with them as all the clurichauns in the room jumped to their feet and turned to attack.
+
+---
+
+Футбольные мамочки феи были крылатыми. Поэтому Пончик могла превратить их точки в белые убрав враждебность. Проблема в том что только две из них были феями летающего типа. Остальные 40 или около того нет.
+
+The soccer mom fairies were winged. Therefore Donut had the ability to turn their dots white, removing their hostility. The problem was that only two of them were the airborne-type fairies. The other 40 or so were not.
+
+---
+
+Мы надеялись что Пончик сможет поговорить с двумя феями используя свое обаяние как с гоблинами. Феи тогда скажут подчиненным не атаковать Пончика.
+
+We were hoping Donut could talk to the two fairies, using her charm like she did with the goblins. The fairies would then tell their subordinates not to attack Donut.
+
+---
+
+С моей стороны комнаты я мог видеть что две феи к счастью попали под обаяние Пончика. Я не мог слышать что они говорят. Но как гоблины они были очарованы сразу.
+
+From my side of the room, I could see that the two fairies had thankfully fallen under Donut's charm. I couldn't hear what they were saying. But like the goblins, they'd been turned right away.
+
+---
+
+Одна из фей закричала клурикаунам говоря на Стандарте Синдиката. Возвращайтесь к работе! Это клиент а не враг.
+
+One of the fairies yelled at the clurichauns, speaking in Syndicate Standard. Get back to work! This is a client, not an enemy.
+
+---
+
+Десятки монстров посмотрели друг на друга. Неохотно вернулись на станции. Но все они держали глаза на Пончике. Все ворчали и выглядели беспокойно.
+
+The dozens of monsters looked at each other. They reluctantly returned to their stations. But all of them kept their eyes on Donut. All were grumbling and looking uneasy.
+
+---
+
+Карл их точки не становятся белыми. Только две феи. Хорошо мы планировали это. Не жди. Переходи к плану Б. Это называется План Крысолов а не План Б. Черт возьми Пончик. Просто будь осторожна.
+
+Carl their dots aren't turning white. Only the two fairies. Okay we planned for this. Don't wait. Go for plan B. It is called Plan Pied Piper not Plan B. Goddamnit Donut. Just be careful.
+
+---
+
+Несмотря на выдающуюся харизму в 43 мы все еще не знали насколько хорошо работает эта штука с обаянием. Было ясно что она не какая-то богиня ходячего контроля разума. По крайней мере не с монстрами запрограммированными не любить ее.
+
+Despite her charisma being an outstanding 43, we still didn't know how well this whole charm thing worked. It was clear she wasn't some sort of walking mind control goddess. At least not with monsters that were programmed to dislike her.
+
+---
+
+Как и со всем остальным было нечто большее. Скрытый баланс который я не мог видеть. Это работало отлично с белыми точками. Но получение белых точек все еще было загадкой.
+
+As with everything else, there was more to it. A hidden balance I couldn't see. It worked great with white dots. But getting the dots white was still a mystery.
+
+---
+
+Но это было нормально. Мы подготовились к этому варианту. Вместо того чтобы уговорить их отдать весь самогон у нас был план Б. План Крысолов.
+
+But that was okay. We'd prepared for this contingency. Instead of talking them into giving us all the moonshine, we had plan B. Plan Pied Piper.
+
+---
+
+Пончик уверенно вошла в комнату идя в моем направлении. Она держала широкую дистанцию от токсичных клурикаунов. Но двигалась ко мне. Две феи последовали. Блестки тянулись в воздухе пока они подпрыгивали вверх и вниз.
+
+Donut confidently stepped into the room, walking in my direction. She kept a wide distance from the toxic clurichauns. But she headed toward me. The two fairies followed. Sparkles trailed in the air as they bobbed up and down.
+
+---
+
+Это просто ужасно. Как будто кто-то пришел и вырезал их всех. Я лично была опустошена. Сначала я думала это один из тех грязных кроулеров. Но потом увидела одну из тех собак с раскрашенными мордами. Динго.
+
+It's just horrible. It's like someone came in and slaughtered them all. I for one was devastated. At first I thought it was one of those filthy crawlers. But then I saw one of those dogs with the painted faces. The dingoes.
+
+---
+
+Кобольды? Одна из фей сказала звуча озадаченно. Почему кобольды атакуют нас? Мы прекрасно ладим с кобольдами.
+
+The kobolds? One of the fairies said, sounding perplexed. Why would the kobolds attack us? We get along fine with the kobolds.
+
+---
+
+Идите идите смотрите. Все вы должны прийти. Им нужно остаться и работать. Фея сказала. Пухлая фея убрала волосы с глаз. Обе носили перевернутую прическу боб. Говорящая носила что-то вроде брючного костюма из листьев. Другая была в платье из тех же материалов.
+
+Come come see. All of you should come. They need to stay and work. The fairy said. The pudgy fairy swept her hair out of her eyes. Both of them wore an inverted bob haircut. The one doing the speaking wore what looked like a pantsuit made out of leaves. The other was in a dress made of the same materials.
+
+---
+
+Пончик остановилась и посмотрела прямо на фею. Нет они должны прийти тоже. Все они. Все идите сюда. Мы берем перерыв. Что? Один из клурикаунов спросил. Просто идите принцесса хочет показать нам что-то.
+
+Donut stopped and looked directly at the fairy. No they should come too. All of them. Everybody come on. We're taking a break. A what? One of the clurichauns asked. Just come the princess wants to show us something.
+
+---
+
+Я отошел от угла и помчался в следующую камеру. В центре были три мертвых клурикауна. Мы не бомбили эту комнату огнем. Хотя один из них был зомбифицирован. Я переместился в следующий коридор вниз прямо снаружи комнаты.
+
+I pulled away from the corner and rushed down to the next chamber. In the center were three dead clurichauns. We hadn't firebombed this room. Though one of them had been zombified. I moved into the next hall down, just outside of the room.
+
+---
+
+Как и с большинством этих комнат вход был маленькой комнатой сам по себе. Как фойе с поднятым округлым потолком. Пара пестрых личинок была в коридоре дальше. Они дюйм за дюймом двигались к трупам. Господи я подумал. Эти твари были повсюду.
+
+Like with most of these rooms, the entranceway was a small room of its own. Like a foyer with a raised rounded ceiling. A pair of brindle grubs were in the hall further down. They were inching their way toward the corpses. Jesus I thought. These things were everywhere.
+
+---
+
+Я помчался и растоптал их обоих вниз. Вернулся в фойе. Ждал пока Пончик Крысоловом заведет группу в камеру.
+
+I rushed over and stomped them both down. I returned to the foyer. I waited for Donut to Pied Piper the group into the chamber.
+
+---
+
+Пончик я на месте. Мы идем. Смотрите на это просто смотрите. Пончик говорила минуту спустя входя в комнату. Она обошла мертвых монстров широкой дугой идя в камеру. Идите все собирайтесь вокруг. Посмотрите.
+
+Donut I am in place. We are coming. Look at this just look. Donut was saying a minute later as she strode into the room. She gave the dead monsters a wide berth, walking into the chamber. Come everybody gather around. Take a look.
+
+---
+
+Я мог слышать как они теснятся в комнату пока я прислонился к стене. Скрытый за входом в следующий коридор вниз. Я вытащил два бум-кувшина из инвентаря. Держал по одному в каждой руке.
+
+I could hear them crowding into the room as I leaned against the wall. Hidden behind the entrance to the next hallway down. I pulled two boom jugs from my inventory. I held one in each hand.
+
+---
+
+Это не была атака динго. Одна из фей говорила. Один из них был поражен магией некромантии. Нет нет смотрите на это Каролина. Это в коридоре здесь. Скажи работникам остаться здесь. Им будет полезно посмотреть что случается с теми кто не работает усердно или что-то такое.
+
+This was not a dingo attack. One of the fairies was saying. One of them has been hit with necromancy magic. No no come look at this Caroline. It's in the hallway over here. Tell your workers to stay here. It'll be good for them to look at what happens to those who don't work hard or something.
+
+---
+
+Хорошо. Фея начала выкрикивать приказы толпе ворчащих клурикаунов. Момент спустя Пончик и две феи влетели в темное фойе проходя мимо меня. Пончик остановилась как раз когда две феи заметили меня стоящего там.
+
+Okay. The fairy started shouting orders at the crowd of grumbling clurichauns. A moment later Donut and the two fairies floated into the dark foyer, moving past me. Donut stopped just as the two fairies noticed me standing there.
+
+---
+
+Что это? Фея в брючном костюме сказала отлетая с удивлением. Она была меньше чем я думал. Не больше вороны. Ламинак выглядела как миниатюрная сорокалетняя женщина. Не несла оружия.
+
+What's this? The pantsuit fairy said, floating away with surprise. She was smaller than I realized. No bigger than a crow. The laminak looked just like a miniature forty-something woman. She carried no weapons.
+
+---
+
+Карл я хочу представить тебя Каролине и Макс. Все нормально дамы. Карл должен показать вам кое-что. Они смотрели вниз на пару кувшинов в моих руках. Где вы взяли это? Что вы сделали с нашим продуктом?
+
+Carl I'd like you to meet Caroline and Max. It's okay ladies. Carl needs to show you something. They were looking down at the pair of jugs in my hands. Where did you get this? What did you do to our product?
+
+---
+
+Я усмехнулся. Позвольте показать. Я мысленно щелкнул Активировать на обоих факелах. Шагнул в сторону к входу комнаты. Швырнул оба кувшина в группу из 40 монстров тупо смотрящих назад на нас.
+
+I grinned. Let me show you. I mentally clicked Activate on both torches. I stepped to the side to the room's entrance. I tossed both jugs in at the group of 40 monsters stupidly staring back at us.
+
+---
+
+Руки феи в брючном костюме начали светиться красным как раз когда Пончик прыгнула в воздух. Схватила ламинак как будто ловила птицу. Крупер кошки звякнул и раздулся как юбка пока она падала. Пончик зажала фею между двумя когтями и вцепилась зубами. Тряхнула головой ломая шею феи.
+
+The hands of the pantsuit fairy started glowing red just as Donut leaped into the air. She snagged the laminak like she was catching a bird. The cat's crupper jingled and poofed out like a skirt as she fell. Donut clasped the fairy between two claws as she chomped down. She shook her head, breaking the fairy's neck.
+
+---
+
+Вторая фея взлетела к потолку входного зала молниеносно. Вне досягаемости. Кричала пока я махал пытаясь поймать ее в воздухе. Черт. Я хотел убить их не повреждая хрупкие маленькие тела.
+
+The second fairy zipped up to the ceiling of the entrance hall, lightning fast. Out of reach. Screaming as I swiped at her, trying to catch her in the air. Damnit. I wanted to kill them without hurting their fragile little bodies.
+
+---
+
+Нечестно. Фея кричала. Воздух потрескивал от ее прохода. Она звучала отчаянно на грани слез. Нечестно. Мы собирались перейти вниз на третий этаж. Ее руки тоже засветились красным. Она выстрелила магической стрелой прямо в меня.
+
+Not fair. The fairy screamed. The air crackled with her passage. She sounded desperate, on the verge of tears. Not fair. We were going to move down to the third floor. Her hands also glowed red. She fired a magic missile right at me.
+
+---
+
+Попало мне прямо в грудь. Я полетел назад врезаясь на спину. Проскользил несколько футов в комнату с яростным адом. Вспыхнула заметка. Предупреждение урон усилен. Как будто меня лягнула чертова лошадь.
+
+It hit me square in the chest. I flew backward, slamming onto my back. I slid a few feet into the room with the raging inferno. A note flashed. Warning damage enhanced. It felt as if I'd been kicked by a damn horse.
+
+---
+
+Мое зрение вспыхнуло красным на этот раз предупреждение о здоровье. Я почувствовал сломанные кости в груди как раз когда жгучий жар угрожал поджечь мои волосы. Я щелкнул целебное зелье карабкаясь на ноги. Моя грудь затрещала пока срасталась. Я вытащил себя обратно в коридор из яростного жара. Дыхание все еще выбито из меня.
+
+My vision flashed red, this time a health warning. I felt broken bones in my chest just as the searing heat threatened to catch my hair on fire. I clicked a healing potion as I scrambled to my feet. My chest crackled as it mended itself. I pulled myself back into the hall, out of the raging heat. The breath still knocked out of me.
+
+---
+
+План план Б по крайней мере сработал без сучка и задоринки до сих пор. Фея осталась на потолке кричащая вниз на Пончика. Стреляла магическими стрелами вниз на кошку которая куда лучше уворачивалась. Через момент фея похоже исчерпала ману. Продолжала кричать вниз на нас. Она была в ловушке пока Пончик и я охраняли двери фойе.
+
+The plan, plan B at least, had gone off without a hitch until now. The fairy remained up on the ceiling, screaming down at Donut. She was shooting magic missiles down at the cat, who was doing a much better job at dodging them. After a moment, the fairy seemed to run out of mana. She continued to scream down at us. She was trapped as long as Donut and I each guarded one of the doors to the foyer.
+
+---
+
+Ты можешь прыгнуть так высоко не так ли? Наверное. Пончик сказала запыхавшись. Или я могу ударить ее Магической Стрелой. У меня куда лучше прицел чем у нее. Я могу ударить ее с силой три. Это наверное не повредит ее тело слишком сильно. Она шестого уровня все же.
+
+You can jump that high can't you? Probably. Donut said out of breath. Or I can hit her with Magic Missile. I have much better aim than she does. I can hit her with a three power. It probably won't hurt her body too much. She's level six after all.
+
+---
+
+Стреляй по ней если побежит. Я сказал вытаскивая рогатку из инвентаря. Понадобилось десять выстрелов прежде чем я попал. Камень поймал ее в крыло. Она упала на несколько футов прежде чем восстановиться. Ее здоровье едва упало. Она была быстрой маленькой ублюдком.
+
+Missile her if she runs. I said pulling the slingshot out of my inventory. It took ten shots before I hit her. The rock caught her in the wing. She dropped a few feet before recovering. Her health barely went down. She was a quick little fucker.
+
+---
+
+Она продолжала кричать чтобы кто-то по имени Дэмьен пришел помочь. Дэмьен так и не пришел. Она восстановит ману прежде чем ты достанешь ее. Пончик сказала. Поторопись или я это сделаю.
+
+She kept screaming for someone named Damien to come help. Damien never came. She's going to regenerate her mana before you get her. Donut said. Hurry up or I'm going to do it.
+
+---
+
+Я прицелился и выстрелил пытаясь предугадать где она будет. Камень срезал ее по крылу снова. Она закричала от боли падая снова. Пончик прыгнула в воздух и поймала ее прежде чем она смогла восстановиться. Они ударились о землю с хрустом.
+
+I aimed and fired trying to anticipate where she was going to be. The rock clipped her in the wing again. She cried out in pain dropping again. Donut leaped into the air and caught her before she could recover. They hit the ground with a crunch.
+
+---
+
+Честное слово Карл. Пончик сказала выплевывая мертвую фею на землю рядом с другой. Должна ли я делать всю работу? Я тренируюсь. Я сказал. Я указал на комнату позади меня где получил опыт за убийство 40 монстров за раз. Кстати я только что достиг 11 уровня.
+
+Honestly Carl. Donut said spitting the dead fairy onto the ground next to the other one. Must I do all the work? I'm training. I said. I indicated the room behind me where I'd received experience for killing 40 monsters all at once. Besides I just hit level 11.
+
+---
+
+Я тоже вообще-то. Пончик сказала. Мой навык Рогатка остался на трех. Но навык Прицеливание поднялся до четырех. Обе феи выбросили по 25 золотых монет. У каждой было пять брошюр в инвентаре.
+
+Me too actually. Donut said. My Slingshot skill remained at three. But my Aiming skill went up to four. Both of the fairies dropped 25 gold pieces. Each had five brochures in their inventory.
+
+---
+
+В описании говорилось что их эссенция ценна. Но единственное что осталось это их тела. Труп Ламинак Разгон Консультант Элита алхимический материал. Черт. Я сказал. Я надеялся они просто выбросят зелья. Что-то чтобы защитить нас от болезни Скверна.
+
+The description said their essence was valuable. But the only thing that remained was their bodies. Laminak Rev-Up Consultant Elite Corpse alchemy material. Damnit. I said. I'd been hoping they would just drop potions. Something to protect us against the Taint disease.
+
+---
+
+Пончик не хотела трупы в инвентаре так что я взял их оба. Когда я забрал их тела исчезли. Но их одежда и крылья остались на земле. Я взял и их тоже.
+
+Donut didn't want the corpses in her inventory so I took them both. When I pulled them in their bodies disappeared. But their clothes and wings remained on the ground. I took those too.
+
+---
+
+Мы не получили хорошее зелье но это все равно было довольно круто. Пончик сказала пока мы направлялись обратно к комнате наполнения. Моя первая сольная миссия. Держу пари я отлично справлюсь ползая по этому подземелью совсем одна.
+
+We didn't get a good potion but that was still pretty awesome. Donut said as we headed back toward the filling room. My first solo mission. I bet I'd be fine crawling this dungeon all by myself.
+
+---
+
+Я кивнул. Но все равно чувствовал себя ублюдком. Это было не так плохо как после истории с детенышами гоблинов. Но было что-то отвратительное в использовании способности обаяния Донат для убийства. Да, это были монстры. Они бы не задумывались убить нас. Но как с гоблинами, когда Донат делала их нейтральными, мы видели часть их личности. Эту часть обычно не видно у монстров.
+
+I nodded. But I still felt like an asshole. It wasn't as bad as after the goblin babies thing. But there was something disgusting about using Donut's charm ability to kill. Yes, these were monsters. They wouldn't hesitate to kill us. But like with the goblins, when Donut turned them neutral, we saw a part of their personality. You don't normally see this part with monsters.
+
+---
+
+Мы собирались спуститься на третий этаж. Боже. Ее голос был полон такой тоски. Он был полон такого отчаяния. Я вспомнил что сказал Мордекай. Мобы на более глубоких уровнях не будут такими сочувствующими. Я очень надеялся на это. Мне нужно было помнить кто настоящие враги. Синдикат. Борант. Куа-тин. Мне было плохо от убийства монстров. Они были просто пешками. Но факт был в том что нам нужно было стать как можно сильнее. Это был выбор между нами и ими.
+
+We were going to move down to the third floor. Jesus. Her voice was filled with such longing. It was filled with such despair. I remembered what Mordecai said. The mobs on deeper levels won't be as sympathetic. I really hoped so. I needed to remember who the real enemies were. The Syndicate. Borant. The kua-tin. I felt bad about killing monsters. They were nothing more than pawns. But the fact was we needed to get as strong as we could. It was us or them.
+
+---
+
+Ты не сломаешь меня, прошептал я. Это стало мантрой. Что, спросила Донат. Ничего, сказал я. Мы вошли в большую комнату. Я начал собирать все пустые и полные кувшины которые мог. Я взял еще два стола. Один назывался рабочей станцией алхимии. Когда мы закончили, у нас было восемьдесят пустых кувшинов и еще шестьдесят полных.
+
+You're not going to break me, I whispered. It became a mantra. What, Donut asked. Nothing, I said. We walked into the large room. I started grabbing all the empty and full jugs I could. I grabbed another two tables. One was called an alchemy workstation. By the time we were done, we had eighty empty jugs and another sixty full ones.
+
+---
+
+Я решил не наполнять пустые кувшины самогоном из бака. Металлический контейнер был прикручен к полу. Я не мог взять всю вещь. Я боялся что просто прикосновение к жидкости вызовет какой-то неприятный эффект. Например ослепление. Или хуже. Жидкость продолжала капать из соседней комнаты.
+
+I decided against filling the empty jugs with moonshine from the tub. The metal container was bolted to the ground. I couldn't take the whole thing. I feared just touching the liquid would cause some nasty effect. Like blinding me. Or worse. The liquid continued to drip in from the next room over.
+
+---
+
+Дверь в комнату босса выглядела как вход в какой-то общественный центр. Наверху двери были вырезаны маленькие деревянные буквы. Там было написано живи смейся люби. Под этим было расписание событий. Следующее событие было запланировано на полдень дня после коллапса. Там было написано хорошие новости все. У маленькой Брианнлин ветрянка. Вечеринка с ветрянкой здесь в полдень. Без арахиса. Давайте получим иммунитет.
+
+The door to the boss chamber looked like the entrance to some sort of community center. Little cutout wooden letters were on top of the door. It said live laugh love. Under that was a schedule of events. The next event was scheduled for noon on the day after the collapse. It said good news everyone. Little Breannlyne has the chickenpox. Potluck Pox party here at noon. No peanuts. Let's get that immunity.
+
+---
+
+Я думаю нам стоит просто оставить этого босса в покое, сказал я. Там могут быть еще дети. И если там есть самогонный аппарат, он взорвется так же легко как двигатель гоблина. У нас остался только один детонатор хобгоблина. Я не хочу тратить его если не нужно. Если мы просто бросим динамит или бум кувшин туда, мы можем не успеть уйти. Держу пари взрыв будет большим. Не стоит идти туда и сражаться лицом к лицу. Особенно когда у нас нет реальной защиты от дебаффа порчи. Мы не знаем сколько их там будет.
+
+I think we should probably just leave this boss alone, I said. There might be more kids in there. And if there's a moonshine still, it'll blow up just as easy as that goblin engine. We only have one hobgoblin detonator left. I don't want to waste it if we don't have to. If we just toss dynamite or a boom jar in there, we might not get away in time. I bet the explosion will be big. It's not worth going in there and fighting face to face. Not when we don't have real defense against that taint debuff. We don't know how many of those things there will be.
+
+---
+
+Я боялся что Донат будет протестовать. Но она не стала. Мы перешли в угол комнаты. Я сорвал баннер с стены. На нем было написано рев ап смузи бодрящие. Он был сделан из хлопковой ткани. Я положил его в инвентарь. Потом я пошел исследовать два велотренажера. Ремень шел от шины к маленькой плоской платформе. Платформа была приварена к передней части велосипеда. В середине платформы сидело маленькое черное сегментированное колесо. Оно было не больше монеты в полдоллара. Странно.
+
+I was afraid Donut would protest. But she didn't. We moved to the corner of the room. I pulled the banner off the wall. It said rev up smoothies invigorating. It was made of cotton-like cloth. I put it in my inventory. Then I moved to investigate the two stationary bicycles. A pulley ran from the tire to a small flat platform. The platform was welded onto the front of the bike. A little black segmented wheel sat in the middle of the platform. It was no bigger than a half-dollar coin. Weird.
+
+---
+
+Я заметил пару деревянных ящиков покрытых пылью. Они были спрятаны в углу. Я поднял один. Верх соскользнул. Я осмотрел содержимое. Он был заполнен пустыми стеклянными контейнерами. Они звенели. У них были завинчивающиеся крышки. В ящике было двенадцать штук. В ящик также была затолкана еще одна похожая черная крышка. На ней были маленькие лезвия.
+
+I noticed a pair of dust-covered wooden boxes. They were tucked away in the corner. I picked one up. The top slid off. I examined the contents. It was filled with empty clinking glass containers. They had screw-on lids. The box held twelve of them. Also shoved into the box was another similar black lid. It had little blades on it.
+
+---
+
+Я осмотрел маленькую крышку используя подсказки. О, сказал я. Понятно. Это блендер. Блендер работающий от велосипеда. Похоже он вообще не использовался. Я вытащил одну из стеклянных трубок. Я открутил крышку. Я мог накрутить крышку с лезвиями на стекло. Потом поставить всю вещь на платформу. Если я крутил педали на маленьком велосипеде, это крутило лезвия. Предположительно это смешивало что бы ни было в стекле. Потом я мог перевернуть его. Убрать крышку с лезвиями. Заменить ее на оригинальную крышку. Это оставляло мне стеклянную бутылку с тем что я решил смешать. Как смузи.
+
+I examined the little lid using the tooltips. Oh, I said. I see. It's a blender. A bicycle-powered blender. It looks like it hasn't been used at all. I pulled one of the glass tubes out. I unscrewed the cover. I could screw the bladed cover onto the glass. Then pop the whole thing onto the platform. If I turned the pedals on the small bike, it turned the blades. Supposedly blending whatever was in the glass. Then I could flip it over. Remove the bladed cover. Replace it with the original top. This left me with a glass bottle of whatever I decided to blend. Like a smoothie.
+
+---
+
+У нас было что-то похожее в нашей квартире. Но не работающее от велосипеда. Я заглянул во второй ящик. В этом было только шесть стаканов вместо двенадцати. Часть блендера с лезвиями отсутствовала. В ящике лежал лист бумаги. Я вытащил его. Рецепт рев ап иммунити смузи. Святое дерьмо, сказал я. Рецепт требовал только два ингредиента. Неудивительно что они прекратили это. Отвратительно.
+
+We had something similar in our apartment. Though not bicycle-powered. I peeked in the second box. This one only held six glasses instead of twelve. The bladed part of the blender was missing. A sheet of paper sat in the box. I pulled it free. Rev-Up Immunity Smoothie Recipe. Holy crap, I said. The recipe only required two items. No wonder they discontinued this. Gross.
+
+---
+
+Что что, спросила Донат. Это все игровая настройка, сказал я. Я начал класть все предметы в инвентарь. Один из велосипедов был прикручен к полу. Но второй не был. Я поднял его и затащил. Ты должен найти это и сделать рецепт. Если ты сделаешь смузи, у тебя будет иммунитет от дебаффа порчи. И от чего-то называемого энергичные корь. И тогда у тебя будет правильная защита чтобы сражаться с боссом. Я сглотнул. Это действительно отвратительно. Я не хочу идти туда. Я думаю нам стоит просто взять эти. Я не закончил предложение.
+
+What what, Donut asked. This is all game setup, I said. I started putting all the items into my inventory. One of the bikes was bolted to the ground. But the second wasn't. I picked it up and pulled it in. You're supposed to find this and make the recipe. If you make the smoothie, you'll have immunity from the Taint debuff. And something called the Vigorous Measles. And then you'll have the proper protection to fight the boss. I swallowed. It's really gross though. I don't want to go in there. I think we should just take these. I never finished the sentence.
+
+---
+
+Дверь в комнату босса взорвалась. Пара розовых щупалец вытянулась. Каждое было длиной не менее пятнадцати футов. Они качались в комнату. Ужасный пронзительный визг наполнил воздух. За ним последовал второй визг. Потом третий и четвертый. Каждое щупальце похожее на осьминога было покрыто ртами. Десятками их. Каждый рот был широким. Он был размером с фрисби. Но он был человеческой формы. С яркими красными человеческими губами. Не было глаз или других черт лица. Только какофония кричащих голосов. Они ничего не говорили. Просто кричали.
+
+The door to the boss room blasted open. A pair of pink tentacles reached out. Each was at least fifteen feet long. They swayed into the room. A terrible earsplitting screech filled the air. Followed by a second screech. Then a third and a fourth. Each octopus-like tentacle was covered with mouths. Dozens of them. Each mouth was wide. It was big around as a frisbee. But it was human-shaped. With bright red human lips. There were no eyes or other facial features. Just a cacophony of screaming voices. They were saying nothing. Just screaming.
+
+---
+
+Знакомая музыка начала играть. Ее едва можно было различить под постоянными визгами. В дальнем конце камеры где мы вошли упали решетки. Они заблокировали комнату. Какого черта, закричал я. Я отступил к стене. Это не комната босса. Появилось новое достижение. Оно объявило себя прежде чем я мог отмахнуть его в папку.
+
+Familiar music started to play. It was barely discernible under the constant shrieks. At the far end of the chamber where we'd walked in, bars dropped down. They locked up the room. What the hell, I cried. I backed against the wall. This isn't a boss chamber. A new achievement appeared. It announced itself before I could wave it into the folder.
+
+---
+
+Новое достижение. Подождите боссы могут покидать свои комнаты. Добро пожаловать на второй этаж суки. Награда эта хрень отлично играет в эпизоде с обзором. Если ты кричишь достаточно громко, может быть ты попадешь в шоу. Клон Кракарен. Босс района десятого уровня. Во-первых это не Кракарен. Это Кракарен. За каждого убитого Кракарен Прайм рожает еще двоих.
+
+New Achievement. Wait Bosses Can Leave Their Rooms. Welcome to the second floor bitches. Reward this shit plays great on the recap episode. If you scream loud enough maybe you'll make the show. Krakaren Clone. Level ten Neighborhood Boss. First off this isn't the Krakaren. This is a Krakaren. For every one that is killed, Krakaren Prime births two more.
+
+---
+
+Часть коллективного разума намеренного уничтожить любое подобие научного прогресса во вселенной. Кракарен это единственная коллективная мозговая сущность в галактике. Она на самом деле становится глупее со временем. Состоящая из множества визжащих щупалец. Члены кооператива Кракарен проводят дни рожая своих зараженных болезнями миньонов. Они создают и продают вредные продукты. Они пытаются спорить с научными экспертами. Они проповедуют слабоумным. Все это в попытке. Ну никто не знает какого черта их конечная цель. Даже Эрис богиня хаоса не хочет иметь ничего общего с этими сумасшедшими ублюдками.
+
+Part of a collective mind intent upon destroying any semblance of scientific progress in the universe. The Krakaren is the only communal brain entity in the galaxy. It actually gets stupider as time moves on. Consisting of multiple shrieking tentacles. Members of the Krakaren cooperative spend their days birthing their disease-laden minions. They create and sell harmful products. They attempt to debate scientific experts. They proselytize to the weak-minded. All in an attempt to. Well nobody knows what the hell their end goal is. Even Eris Goddess of Chaos doesn't want anything to do with these crazy assholes.
+
+---
+
+В момент когда описание закончилось, часть стены над дверью разломилась. Третье щупальце ворвалось в комнату из соседней камеры. Оно слепо размахивалось. Карл Карл что мы будем делать, закричала Донат. Она вжалась в угол. Оно огромное. Первые два щупальца втянулись. Пара консультантов клуричан вышла из двери. Они дико оглядывались.
+
+The moment the description ended, a portion of wall above the door broke open. A third tentacle burst into the room from the next chamber over. It swung blindly about. Carl Carl what are we going to do, Donut cried. She pushed herself into the corner. It's huge. The first two tentacles retracted. A pair of clurichaun consultants came out of the door. They looked wildly about.
+
+---
+
+Дерьмо, сказал я. Держи их подальше. Мне нужно сделать чертов смузи. А что насчет щупалец, закричала Донат. Я посмотрел на щупальце размахивающееся по потолку комнаты. Оно продолжало биться в трубу. Труба вела к баку с самогоном. Не атакуй босса пока. Я не думаю что он может видеть. Сосредоточься на тех парнях. Я вытащил стеклянный контейнер для смузи в правую руку. Я вытащил кувшин необработанного самогона из инвентаря в левую.
+
+Shit, I said. Keep them away. I need to make a goddamned smoothie. What about the tentacles, Donut cried. I eyed the tentacle sweeping about the ceiling of the room. It kept smashing into the pipe. The pipe led to the tub of moonshine. Don't attack the boss yet. I don't think it can see. Focus on those guys. I pulled a glass smoothie container into my right hand. I pulled a jug of unaltered moonshine from my inventory into my left.
+
+---
+
+Донат прыгнула мне на плечо. Она выстрелила парой магических ракет. Она попала в обоих клуричан. Они упали замертво у двери. Третий неуверенно выглянул. Он искал нас. Донат попала ему прямо в голову. Он тоже рухнул. Я вытащил пробку зубами. Я наполнил контейнер для смузи на треть самогоном. К счастью на стекле была маленькая линия. Я не знал насколько точно это должно быть.
+
+Donut leaped onto my shoulder. She shot a pair of magic missiles. She nailed both of the clurichauns. They dropped dead at the doorway. A third hesitantly peeked out. He was looking for us. Donut got him right in the head. He also collapsed. I pulled the cork with my teeth. I filled the smoothie container a third of the way with the moonshine. Thankfully it had a little line on the glass. I didn't know how exact this had to be.
+
+---
+
+Прямо над нами стена из шлакоблоков разломилась. Она осыпала нас камнями. Щупальце вырвалось наружу визжа. Оно царапалось. Оно размахивалось в никуда. Оно качалось всего в нескольких футах над нашими головами. Наверху рты капали слизью. Я отпрыгнул в сторону. Сопли брызнули рядом со мной. Самогон выплеснулся из стакана. Мне пришлось налить еще немного.
+
+Directly above us, the cinderblock wall broke apart. It showered us with rock. A tentacle burst forth screaming. It scrabbled. It swung at nothing. It swayed just feet over our heads. Above, the mouths dripped with goo. I jumped out of the way. Snot splashed near me. Moonshine sloshed out of the glass. I had to pour a little more in.
+
+---
+
+Черт возьми. Я бросил кувшин к входу. Он разбился. Самогон разбрызгался. Через мгновение еще одно щупальце снова вырвалось из дыры в двери. Оно отправило трех мертвых клуричан в полет. Я вытащил труп ламинака из инвентаря. Я держал вялое голое тело без крыльев в руке. Оно было еще теплым. Ее маленькие мертвые глаза смотрели вверх. В них был финальный шок от того что ее выхватили из воздуха Донат.
+
+Jesus fuck. I tossed the jug toward the entrance. It shattered. Splashing moonshine. A moment later, another tentacle once again burst from the door hole. It sent the three dead clurichaun flying. I pulled the corpse of the laminak from my inventory. I held the limp naked wingless body in my hand. It was still warm. Her little dead eyes stared up. In her final shock at having been snatched out of the air by Donut.
+
+---
+
+Ощущение было странным. Как держать анатомически правильную куклу пухлой женщины среднего возраста. У меня не было времени думать об этом. Я затолкал ее головой вперед в стеклянный контейнер. Ее плечи были немного слишком широкими чтобы поместиться. Мне пришлось давить. Плечи треснули. Я использовал палец чтобы втиснуть ее туда полностью. Как пытаться запихнуть корнуолльскую дичь в термос. Я достал крышку блендера с лезвиями. Мне пришлось сильно давить чтобы вкрутить ее на место.
+
+The sensation was odd. Like holding an anatomically-correct doll of a pudgy middle-aged woman. I didn't have time to think about it. I shoved her headfirst into the glass container. Her shoulders were a little too wide to fit. I had to push. The shoulders cracked. I used my finger to ram her all the way in there. Like trying to stuff a Cornish game hen into a thermos. I produced the blender top with the blades. I had to push hard to get it to screw into place.
+
+---
+
+Карл что во имя бога ты делаешь. Это рецепт, закричал я. Я вкрутил контейнер на платформу блендера. Он защелкнулся. Я сел на слишком маленький велосипед. Мои колени были на уровне груди. Я молился чтобы велосипед не сломался. Я молился чтобы мои шипованные наколенники не активировались. Чтобы они не пронзили мой собственный подбородок. Я прочитал рецепт вслух. Ты наполняешь треть стеклянного контейнера самогоном. Добавляешь один труп феи ламинака. Смешиваешь до розового цвета. Пьешь теплым или холодным. Каждый смузи содержит десять доз.
+
+Carl what in god's name are you doing. It's the recipe, I cried. I screwed the container onto the blender platform. It attached with a click. I sat atop the much-too-small bicycle. My knees were as high as my chest. I prayed the bike wouldn't break. I prayed my spiked kneepads wouldn't activate. Impaling my own chin. I recited the recipe out loud. You fill a third of the glass container with moonshine. Add one corpse of a laminak fairy. Blend until pink. Drink warm or chilled. Each smoothie contains ten doses.
+
+---
+
+Если ты думаешь что я буду это пить. Через комнату появилось еще одно щупальце. На этот раз на полу. Следующее щупальце которое прорвется будет прямо здесь. Я крутил ногами. Велосипед сначала протестовал. Но он быстро набрал обороты. Он крутился как обычный блендер. В маленьком стеклянном контейнере мертвая фея смотрела на меня. Она крутилась пока ее не засосало. Смесь сначала была зеленой. Потом красной. Потом розовой. Через мгновение она начала сверкать.
+
+If you think I'm going to drink that. Across the room, yet another tentacle appeared. This one on the ground. The next tentacle to break through would be right here. I spun my legs. The bike protested at first. But it quickly gained steam. Spinning like a regular blender. Within the little glass container, the dead fairy stared back at me. Spinning until she was sucked away. The concoction first green, then red, and then pink. After a moment, it started to sparkle.
+
+---
+
+Я снял стеклянную бутылку с верха. В этот момент еще два клуричана вошли в камеру. Они протиснулись мимо единственного щупальца которое все еще тянулось по комнате. Щупальце обернулось вокруг металлического бака. Оно сжало его. Он смялся как банка из-под пива. Наверху капля соплей упала. Она брызнула с моей головы и стекала на мое лицо. Тебе нанесена порча. Черт, сказал я. Мне действительно нужно начать поднимать капюшон.
+
+I pulled the glass bottle off the top. Just as another two clurichauns entered the chamber. They squeezed past the single tentacle that still reached about the room. The tentacle wrapped around the metallic tub. It squeezed. It crumpled like a beer can. Above, a glob of snot fell. Splashing off my head and oozing onto my face. You have been inflicted with the Taint. Damnit, I said. I really need to start sticking my hood up.
+
+---
+
+Беги, сказал я. К задней части комнаты. Позади нас стена взорвалась. Она отправила одинокий велосипед в полет. Он разбился на куски когда ударился о пол. Пока я бежал, я осмотрел смузи в руке. Рев ап иммунити смузи. Одна часть самогона и одна часть феи. Этот смузи предлагает десять доз по цене одной. Каждый глоток этого восхитительного зелья дает следующие эффекты. Временный иммунитет ко всем условиям и дебаффам высасывающим здоровье. Временная защита от всех заразных болезней. Наносит дебафф подвыпивший. Плюс три харизмы. Минус одна ловкость. Плюс дебафф трясущейся камеры. Плюс дебафф сыворотки правды.
+
+Run, I said. Toward the back of the room. Behind us, the wall exploded. It sent the lone bike flying. It shattered into pieces when it hit the floor. As I ran, I examined the smoothie in my hand. Rev-Up Immunity Smoothie. One part moonshine and one part fairy. This smoothie offers ten doses for the price of one. Each sip of this delicious concoction imbues the following effects. Temporary immunity to all health-seeping conditions and debuffs. Temporary protection against all communicable diseases. Inflicts the Buzzed debuff. Plus three Charisma. Minus one Dexterity. Plus Shaky Cam debuff. Plus Truth Serum Debuff.
+
+---
+
+У меня не было времени думать об этом. Я сделал глоток. На вкус было как будто я выпил прямо из больной задницы недержащего скунса. Мне потребовалась вся моя сила чтобы не вырвать. Засунь это в свой горячий список и пей, закричал я. Я сунул это Донат когда мы достигли конца комнаты. Это исчезло из моей руки. Она не спорила. Она светилась когда зелье подействовало. Пара иконок мигнула. Они указывали на мой иммунитет. Дебафф порчи не исчез однако. Это означало что я не мог лечить себя. Но по крайней мере теперь я не мог быть заражен смертельной корью или как там это называлось.
+
+I didn't have time to think about it. I took a sip. It tasted as if I'd taken a drink directly from the diseased asshole of an incontinent skunk. It took all of my strength not to vomit. Stick it in your hotlist and drink, I cried. I shoved it at Donut as we reached the end of the room. It disappeared from my hand. She didn't argue. She glowed as the potion took hold. A pair of icons flashed. Indicating my immunity. The taint debuff didn't go away however. Which meant I couldn't heal myself. But at least now I couldn't be inflicted with the death measles or whatever it was called.
+
+---
+
+Смертельная корь, услышал я как говорю сам. Теперь это смешно. Это было не смешно. Я снова засмеялся. Что черт не так с. Ой, закричал я. Камень отскочил от моей головы. Мое здоровье мигнуло. Моя полоса двинулась дальше вниз чем должна была. Меня ударили чертовой рогаткой. Урон был усилен из-за моей глупой татуировки гоблина. Я был одурманен. Я понял что это был дебафф подвыпивший. Вау. Мне приходилось сознательно удерживать себя от падения. Если это был подвыпивший, я бы не хотел видеть как ощущается дебафф в стельку.
+
+Death measles, I heard myself say. Now that's funny. It wasn't funny. I laughed again. What the hell is wrong with. Ow, I cried. A rock bounced off my head. My health flashed. My bar moved further down than it should've. I'd been hit with a damn slingshot. The damage was enhanced because of my stupid goblin tattoo. I was woozy. I realized it was the Buzzed debuff. Whoa. I had to consciously keep myself from falling over. If this was Buzzed, I'd hate to see what the Shit-Faced debuff felt like.
+
+---
+
+Я вытащил угловатую все еще целую секцию редута из инвентаря. Я поставил щит когда мы достигли заднего угла комнаты. Пять щупалец размахивались вокруг. Пара клуричан бросилась на нас. Оба стреляли камнями. Камни отскакивали от стального стола. Какая у тебя мана, спросил я. Шестнадцать, закричала Донат. Ее голос был невнятным. Она выскочила и выстрелила ракетой в клуричана. Она попала ему в плечо. Но он все равно упал. Теперь двенадцать. Умри ублюдок умри.
+
+I pulled an angled still-intact section of the redoubt from my inventory. I put the shield up as we reached the back corner of the room. Five tentacles smashed about. A pair of clurichauns rushed at us. Both of them shooting rocks. Which pinged off the steel table. What's your mana, I asked. Sixteen, Donut cried. Her voice was slurred. She popped up and fired a missile at a clurichaun. She hit him in the shoulder. But he still went down. Now twelve. Die motherfucker Die.
+
+---
+
+У меня едва было время понять что Донат тоже пьяна. В это время визжащее щупальце ударило по столу. Оно отправило нас обоих в заднюю стену. Мое здоровье уже было в красной зоне. Оно двинулось еще дальше вниз. Монстр не казался понимающим что он ударил. Я смотрел как он схватил последнего стоящего клуричана. Он обернулся вокруг него. Рты перестали кричать. Все они открыли длинные острые зубы. Они потянули визжащего монстра обратно в комнату босса. Они жевали. Оно вернулось через мгновение. Кровь капала с ртов. Они возобновили свой визг.
+
+I barely had time to parse that Donut was also drunk. As a screaming tentacle smashed against the table. Rocketing us both against the back wall. My health already in the red moved further down. The monster didn't seem to realize what it hit. I watched as it grasped on the last standing clurichaun. Wrapping around him. The mouths stopped screaming. All revealing long sharp teeth. They pulled the shrieking monster back into the boss room. Chewing. It returned a moment later. Blood dripping from the mouths. Which resumed their caterwaul.
+
+---
+
+Еще четыре клуричана бросились в комнату. Еще одно щупальце появилось. Оно протолкнулось через еще одну дыру в стене. Это щупальце было другим. Вместо ртов оно было покрыто сотнями крошечных отверстий. Более длинная более тонкая рука протянулась в комнату. Она издавала звук псс псс. Как распылитель. Тонкий зеленый туман наполнил камеру. Ты заражен энергичными корью. Заражение отменено из-за иммунитета. Не стреляй больше ракет, сказал я. Моя голова кружилась.
+
+Four more clurichauns rushed into the room. Another tentacle emerged. Pushing through yet another hole in the wall. This tentacle was different. Instead of mouths it was covered in hundreds of tiny little orifices. The longer thinner arm reached into the room. It made a psst psst noise. Like a spray bottle. A fine green mist filled the chamber. You've been infected with the Vigorous Measles. Infection negated due to immunity. Don't fire any more missiles, I said. My head swam.
+
+---
+
+Если мы умрем, я хочу чтобы ты знал что я люблю тебя Карл, сказала Донат. Я не люблю тебя так сильно как я люблю мисс Беатрис. Потому что она знаешь она моя хозяйка. Или так сильно как я люблю Фердинанда. Но я люблю тебя. Сосредоточься Донат, сказал я. Я попытался не позволить тому что она сказала ужалить. Но это ужалило. Кто черт вообще был Фердинанд. Беа отдавала тебя Донат. Она отдавала тебя. Она меняла тебя на более молодую модель. Но я не сказал это. Не вслух. Сейчас было не время для этого разговора. Никогда не было времени для этого разговора. Больше не было. Но особенно не сейчас. Не когда Беа была чертовски мертва.
+
+If we die I want you to know that I love you Carl, Donut said. I don't love you as much as I love Miss Beatrice. Because she's you know she's my person. Or as much as I love Ferdinand. But I love you. Focus Donut, I said. I tried not to let what she'd said sting. But it did. Who the fuck was Ferdinand anyway. Bea was giving you up Donut. She was giving you up. Trading you in for a younger model. But I didn't say it. Not out loud. Now was not the time for that conversation. Never was the time for that conversation. Not anymore. But especially not now. Not when Bea was fucking dead.
+
+---
+
+Видишь того клуричана там, сказал я. Я указал трясущейся рукой. Воскреси его из мертвых. Двое клуричан бегущих на нас закричали. Их подняли и раздавили их собственным боссом. Я подпрыгнул. Я споткнулся и отступил. Еще одно щупальце потянулось ко мне. Я пригнулся. Оно пронеслось мимо. Я внезапно оказался на земле. Когда я пригнулся, я просто продолжал падать. Я поднял себя и продолжил бежать.
+
+See that Clurichaun there, I said. I pointed a shaking hand. Raise him from the dead. Two of the clurichauns running at us cried out. They were picked up and crushed by their own boss. I leaped up. I stumbled away. As yet another tentacle reached for me. I ducked. And it sailed past. I was suddenly on the ground. When I'd ducked I just kept going down. I pulled myself up and kept running.
+
+---
+
+Я сжал кулак. Я бросился на двух оставшихся монстров. Я пнул одного. Он полетел. Потом я пьяно размахнулся по другому. Я попал правым хуком в его гигантскую голову. Я отдернул руку. Ухо прилипло к моему шипу. Я упал на землю. Щупальце пронеслось над моей головой. Впереди меня зомби клуричан поднялся. Он стонал.
+
+I formed a fist. I rushed at the two remaining monsters. I kicked one. He went flying. Then I drunkenly swung at another. Connecting with his giant head with a right hook. I pulled back. An ear attached to my spike. I dropped to the ground. As a tentacle swooped over my head. Ahead of me a clurichaun zombie rose up. Groaning.
+
+---
+
+Скажи ему держать это над головой и бежать в комнату босса, закричал я. Я вытащил бум кувшин из инвентаря. Зомби стоял там качаясь. Он смотрел на меня. Для верности я вытащил самую стабильную палку динамита которая у меня была. Я затолкал ее ему в комбинезон. Наверное плохая идея, подумал я сразу после того как сделал это. Ну ладно. Зомби схватил кувшин по инструкции Донат. Он держал его над головой. Как тот парень держащий бумбокс в том фильме Скажи что угодно. Я зажег факел и отправил его в путь.
+
+Tell him to hold this over his head and run into the boss chamber, I cried. I pulled a boom jug from my inventory. The zombie stood there swaying. Looking at me. For good measure I pulled the most stable stick of dynamite I had. I shoved it down his overalls. Probably a bad idea I thought right after I did it. Oh well. The zombie grabbed the jug on Donut's instruction. He held it over his head. Like that guy holding the boombox in that Say Anything movie. I lit the torch and sent him on his way.
+
+---
+
+Он повернулся к дверному проему. Он был сейчас пустым. Он побежал. Он едва избежал того чтобы быть сметенным другим щупальцем. Он достиг двери. В этот момент седьмое щупальце прорвалось через стену. Еще пять клуричан появились. Все они уставились неподвижно на зомби бегущего прямо на них. Они отступили в сторону. Они не понимали что происходило. Я повернулся в противоположном направлении. Я побежал к нашему маленькому щиту. Я нырнул за него. Я едва увернулся от другого щупальца которое пронеслось прямо над моей головой.
+
+He turned toward the doorway. It was currently empty. He ran. He barely missed being swept away by another tentacle. He reached the door. Just as a seventh tentacle broke through the wall. Five more clurichauns emerged. They all stared unmoving at the zombie rushing right at them. They moved out of the way. Uncomprehending what was happening. I turned in the opposite direction. I ran toward our small shield. I dove behind it. Barely dodging another tentacle that swooped right over my head.
+
+---
+
+Когда я прыгнул за металлический щит, Донат закричала. Я думала ты сказал что взрыв будет слишком большим чтобы использовать его здесь. Я посмотрел на свое здоровье. Оно уже опасно низкое. У Донат не было ни царапины. Я вытащил алхимический стол из инвентаря. Я поставил его прямо над нами. Это поместило нас в раковину. Я чувствовал что меня сейчас вырвет. Моя голова продолжала кружиться. Наверное так, сказал я. И я наверное сейчас умру. Но я думаю ты будешь в порядке.
+
+As I jumped behind the metal shield, Donut yelled. I thought you said the explosion was going to be too big to use it in here. I looked at my health. Already perilously low. Donut didn't have a scratch on her. I pulled the alchemy table out of my inventory. I put it directly over us. Placing us within a clamshell. I felt as if I was going to vomit. My head continued to swim. It probably is, I said. And I'm probably about to die. But I think you'll be okay.
+
+---
+
+Карл нет, сказала Донат. Нет. Все в порядке, сказал я. Вернись к Брэндону. Они будут присматривать за тобой. Я обернулся вокруг кота. Я не хочу делать это без тебя, закричала Донат. Карл я солгала раньше. Я не буду в порядке одна. Ты мне нужен. Нет нет. Я не мог ответить ей прежде чем пришел взрыв.
+
+Carl no, Donut said. No. It's okay, I said. Go back to Brandon. They'll watch over you. I wrapped myself around the cat. I don't want to do this without you, Donut cried. Carl I lied before. I won't be fine on my own. I need you. No no. I couldn't answer her before the explosion came.
+
+---
+
+Я не был мертв. Я был глух. Я был слеп. Я был в чертовски сильной боли. Я не мог чувствовать свои ноги. Но я не был мертв. Я задыхался от воздуха. Мой индикатор здоровья мигал. Он был самым низким каким когда-либо был. Мои барабанные перепонки были разорваны. Все мое лицо чувствовалось обожженным. Мои глаза включительно. Боль была подавляющей. Как сотни когтей тянущих меня из разных направлений одновременно. Они все еще тянули. Они разрывали куски меня.
+
+I wasn't dead. I was deaf. I was blind. I was in a fuck ton of pain. I couldn't feel my legs. But I wasn't dead. I gasped for air. My health indicator blinked. The lowest it had ever been. My eardrums had been blown out. My entire face felt burned. My eyes included. The pain was overwhelming. Like hundreds of claws pulling at me from different directions at once. They were still pulling. Ripping pieces of me away.
+
+---
+
+Порча все еще имела минуту до того как закончится. Я еще не был вне опасности. Я мог чувствовать Донат стоящую на мне. Я мог чувствовать вибрацию ее голоса. Она кричала. Она отчаянно лапала меня. Если ты что-то говоришь мне, я не могу слышать тебя, сказал я. Я кричал слова. Донат тебе нужно встать. Комната в огне. Мы убили босса. Дверь открыта. Но огонь приближается. Торопись. Я не могу. Я думаю мои ноги сломаны. Я не могу чувствовать их.
+
+The Taint still had a minute left before it would run out. I wasn't out of danger yet. I could feel Donut standing on top of me. I could feel the vibration of her voice. She was shouting. Pawing at me desperately. If you're saying something to me I can't hear you, I said. Shouting the words. Donut you have to stand up. The room is on fire. We killed the boss. The door is open. But the fire is getting closer. Hurry. I can't. I think my legs are broken. I can't feel them.
+
+---
+
+Я открыл интерфейс здоровья. Я смотрел на урон моему телу. Вся круговая диаграмма мигала красным. Все кроме моих ног. Мое здоровье было на шести процентах. Оно все еще тикало вниз. У меня было внутреннее кровотечение. У меня были ожоги третьей степени на лице. Мои ноги были сломаны там где стол ударил в них. Через мгновение я почувствовал себя движущимся через обломки. Я понял что это была Донат. Она тащила меня за плащ. Она тянула меня из комнаты. Все мое тело кричало от боли. Мигающее сообщение предупреждало что я вот-вот потеряю сознание.
+
+I pulled up my health UI. Looking at the damage to my body. The entire pie chart was blinking red. All except my feet. My health was at six percent. Still ticking downward. I was bleeding internally. I had third-degree burns on my face. My legs were broken where the table had smashed into them. A moment later I felt myself moving through the debris. I realized it was Donut. Dragging me by my cloak. Pulling me from the room. My whole body screamed with pain. A blinking message warned I was about to pass out.
+
