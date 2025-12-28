@@ -1,0 +1,856 @@
+Недавно меня заинтересовал один троп из ситкомов. Этот троп существует уже десятилетия. Это троп тупого персонажа. В ситкомах часто есть один персонаж. Он слишком глуп чтобы нормально жить. Этот персонаж заставляет думать. Как он вообще одевается по утрам. Или почему он не падает чаще.
+
+Recently I've been intrigued with a common trope we've seen in sitcoms for decades. That's the dumb character trope. You know that one character in a lot of sitcoms. That's just too dumb to function. The character that makes you go hm. How do they even get dressed in the morning. Or how do they not fall down more.
+
+---
+
+В ситкомах много очень тупых персонажей. Например Кело из сериала "Шоу 70-х". Бритни из "Хор". Карен из "Дрянных девчонок". Да я знаю что "Дрянные девчонки" это фильм. Но Карен просто смешно тупая.
+
+There are lots of really dumb characters in sitcoms. Like Kelo from That 70 Show. Britney from Glee. Karen from Mean Girls. Yeah I know Mean Girls is a movie. But Karen's just so funnily dumb.
+
+---
+
+Но меня больше интересуют другие персонажи. Они не были тупыми с самого начала. Они могли быть умными. Но со временем становились все глупее и глупее.
+
+But I'm more interested in characters that did not start off being really dumb. Characters that might have actually started off being smart. But as time went on they got progressively more and more stupid.
+
+---
+
+Я нашел этих персонажей более интересными. Потому что ты буквально видишь как они становятся глупее со временем. Меня очень завораживает эта перемена в персонаже.
+
+I found those characters to be more interesting. Because you can literally see them get progressively dumb as time goes on. And I'm just so fascinated by that change in character.
+
+---
+
+Но почему это вообще происходит. Почему некоторые персонажи начинают как нормальные. А потом становятся все тупее. И почему сценаристы вообще делают такие изменения.
+
+But why is that even a thing. Why do some characters start off being relatively normal only to get increasingly dimwitted. And why do the writers choose to make those changes to begin with.
+
+---
+
+Есть много разных персонажей которые воплощают этот троп. Но для этого анализа я посмотрю только на несколько. Посмотрю как они постепенно деградировали. И становились хуже по мере того как сериал продолжался.
+
+There are a lot of different characters that embody this trope. But in order to do this analysis I will only be looking at a couple different characters to start off with. And see how they progressively devolved. And got worse as the length of their series dragged on.
+
+---
+
+Джоуи был причиной почему я вообще хотел сделать это видео. Потому что когда я пересматривал "Друзей" одна из первых вещей что бросилась в глаза в первом сезоне. Это то что Джоуи не был идиотом.
+
+Joey was actually the reason I wanted to make this video in the first place. Because in rewatching Friends one of the first things that stood out to me in the first season. Was that Joey wasn't brain dead.
+
+---
+
+Часто с такими тупыми персонажами дело не в том что они не знают столицу Австралии. Конечно это Марго Савон. Дело в том что у них буквально мозги шестилетнего ребенка.
+
+Often with these dumb characters it isn't just that they don't know what the capital of Australia is. Which of course is Margo Savon. It's that they quite literally have the brains of a six-year-old.
+
+---
+
+Ты получаешь впечатление что они наверное даже не могут посчитать до двадцати. Я встречал много тупых людей. Но никогда таких как мы видим по телевизору.
+
+You get the impression they probably couldn't even count to 20. And you know I've met my fair share of dumb people. But never quite like the ones we see on TV.
+
+---
+
+Джоуи Триббиани идеально воплощает эту идею для меня. Но интересно что он никогда не начинал таким. У каждого из друзей есть очень четкие характеристики. Они отличают их друг от друга.
+
+Joey Tribiani perfectly encapsulates that idea for me. But what's interesting is that he never started off that way. Each of the friends have very defining characteristics. That set them apart from each other.
+
+---
+
+Когда ты смотришь пилотный эпизод "Друзей" становится ясно. Определяющая характеристика Джоуи это то что он должен быть супер крутым нью-йоркским привлекательным бабником.
+
+When you watch the pilot episode of Friends it becomes clear. That Joy's defining characteristic is that he's supposed to be this super New York cool attractive ladies man.
+
+---
+
+Это его фишка. Он был крутым горячим актером в группе друзей. И такая характеристика очень заметна в первых нескольких эпизодах "Друзей".
+
+That's his thing. He was the cool hot actor guy in the friend group. And that kind of characterization is very prominent in the first couple episodes of Friends.
+
+---
+
+Но я хочу сказать что примерно к четвертому эпизоду происходит сдвиг в характере Джоуи. Он становится очень тупым. И это продолжается по мере развития сериала. Он становится все тупее и тупее.
+
+But I want to say by like episode 4 there's a shift in Joy's character. Where he gets really dumb. And that continues as the series goes on. He gets more and more dumb.
+
+---
+
+Я думаю так потому что Джоуи из десятого сезона сильно отличается от Джоуи из начала сериала. И потому что Джоуи больше всего известен как самый тупой в группе друзей.
+
+I think that because the Joey we get in Season 10 is so vastly different from the Joey we get in the beginning of the series. And because Joy is most well known for being the clueless one among the friend group.
+
+---
+
+Есть много людей которые могут даже не понимать. Что персонаж не начинал таким. Даже создатели шоу когда описывали персонажа в начале сериала. Описывали его как борющегося актера который много встречается с девушками.
+
+There's a lot of people who might not even realize the character didn't start off that way. Even the creators of the show when describing the character in the beginning of the series. Described him as a struggling actor who gets a lot of girls.
+
+---
+
+Это должно было быть его фишкой. Но Джоуи становится очень тупым по мере развития шоу. И это стало тем за что его больше всего знают. Он тупой друг.
+
+That was supposed to be his thing. But Joey gets really dumb as the show goes on. And that kind of became what he was most known for. He's the dumb friend.
+
+---
+
+Я очень заинтересован почему вообще было сделано это изменение. Почему его сделали таким тупым. И почему это должно было быть таким экстремальным.
+
+I am super interested about why this change was even made. Why make him so dimwitted. And why did it have to be that extreme.
+
+---
+
+Джоуи также в какой-то момент пытался стать умнее. Просто чтобы успевать за разговорами с друзьями. Это немного грустно. Потому что Джоуи часто чувствует себя исключенным из разговоров в своей группе друзей.
+
+Joey also at one point tried to be smarter. Just so he could keep up with conversations with his friends. It's kind of sad. Because Joey often times feels left out of conversations among his friend group.
+
+---
+
+Ему приходится притворяться что он понимает о чем они говорят. И он искренне пытается стать умнее. Просто чтобы чувствовать себя более включенным в группу друзей.
+
+He has to pretend that he has any idea what they're talking about. And he earnestly does try to become smart. Just so he can feel more included among the friend group.
+
+---
+
+Это на самом деле довольно грустно. Но я не понимаю почему им вообще нужно было делать это изменение. Он был нормальным в первых нескольких эпизодах.
+
+It's actually kind of sad. But I don't understand why they had to make this change to begin with. He was fine in the first couple episodes.
+
+---
+
+Но похоже они нашли что проще сделать его смешным. Просто заставив его не понимать о чем вообще кто-то говорит.
+
+But it was like they found it easier to make him funny. By having him just not be able to understand what anybody's talking about.
+
+---
+
+Кэт довольно интересный персонаж для меня. Потому что сейчас я думаю самая популярная версия этого персонажа которая закрепилась в умах людей. Это эта версия.
+
+Cat's a pretty interesting character to me. Because now I think the most popular version of this character that is cemented in people's minds. Is this version.
+
+---
+
+Но что если я скажу тебе что Кэт раньше была умной. В пилотном эпизоде "Викториус" при представлении Кэт персонаж был очень энергичной молодой девушкой. Она драматически переключалась от одной эмоции к другой за миллисекунду.
+
+But what if I told you that cat used to be smart. So in the pilot episode of Victorious in cat's introduction the character was this very energetic young girl. That would switch dramatically from one emotion to the next in a millisecond.
+
+---
+
+Самая ранняя характеристика Кэт была что она была немного рассеянной. Легко отвлекалась. И у нее были эти резкие перепады настроения.
+
+Cat's earliest characterization was that she was a bit ditzy. Easily distracted. And would have these drastic changes in mood.
+
+---
+
+Они казалось исходили из ее глубоко травматичной домашней жизни. Но по мере развития сериала Кэт не только становилась все более бестолковой. Но также произошла странная инфантилизация персонажа.
+
+Seemingly stemming from her deeply traumatic home life. But as the series went on Kent not only became increasingly clueless. But there was also this weird infantilization of the character.
+
+---
+
+Теперь дело было не только в том что Кэт была тупой. Дело было в том что у Кэт по сути был мозг шестилетнего ребенка. И она была неспособна общаться со сверстниками на их уровне.
+
+Now it wasn't just that cat was dumb. It was that cat essentially had the brain of a six-year-old. And was incapable of engaging with her peers on their level.
+
+---
+
+Это усугубляется тем фактом что Кэт более сексуализирована чем другие. Так что она одновременно обрабатывается как ребенок в шоу. Пока также помещается в эти действительно странные обстоятельства.
+
+But also that's compounded by the fact that cat is more sexualized than the others. So she's simultaneously treated like a child in the show. While also being put in these really weird circumstances.
+
+---
+
+Я на самом деле нашел что самые ранние изображения Кэт были более интересными. Потому что она в основном путала всех вокруг себя постоянно.
+
+I actually found that the earliest depictions of cat were more interesting. Because she basically confused everyone around her constantly.
+
+---
+
+Снова не потому что она была тупой. А просто из-за того насколько она была сверхчувствительной и драматичной. Но эта постоянная шутка была быстро отброшена.
+
+Again not because she was stupid. But just because of how overly sensitive and dramatic she was. But that running gag was quickly dropped.
+
+---
+
+Мы видели меньше этих резких перепадов настроения. И теперь Кэт путала всех вокруг себя. Потому что она просто не имеет представления как работает мир.
+
+We saw less of these drastic mood changes. And now cat was confusing everyone around her. Because she simply has no idea how the world works.
+
+---
+
+Я также просто люблю что канонически в "Викториус" у Кэт нет мозга. Прогрессия Кэт как персонажа продолжает становиться все более и более бессвязной.
+
+I also just love that canonically in Victorious cat doesn't have a brain. Cat's progression as a character continues to be more and more incoherent.
+
+---
+
+Даже в спин-офф сериале "Сэм и Кэт". И честно говоря Кэт из "Сэм и Кэт" это как если бы ты взял версию Кэт из "Викториус". И утопил ее в красной краске для волос.
+
+Even into the spin-off series Sam and Cat. And honestly cat from Sam and Cat is like if you took the Victorious version of cat. And drowned her in red hair dye.
+
+---
+
+Эта девушка была тупее мешка с камнями. И ты можешь заметить изменения в характере Кэт по тому насколько более высоким становится голос Арианы.
+
+This girl was dumber than a bag of rocks. And you can noticed the changes in cat's character with how much more high pitched Ariana's delivery becomes.
+
+---
+
+Потому что этот знаковый голос Кэт не присутствовал в более ранних эпизодах шоу. Это было что-то что Ариана развила и освоила по мере развития шоу.
+
+Because this iconic cat voice was not present in the earlier episodes of the show. This was something that Ariana developed and mastered as the show went on.
+
+---
+
+И к тому времени когда мы достигаем более поздних сезонов "Викториус" Кэт била свистковые тона в своем разговорном голосе.
+
+And by the time we reach the later seasons of Victorious cat was hitting whistle tones in her speaking voice.
+
+---
+
+С большинством тупых персонажей есть проблески блеска время от времени. Ты знаешь те моменты где ты такой. О боже я не могу поверить что этот тупой персонаж сделал что-то умное.
+
+With most dumb characters there are glimmers of brilliance every now and again. You know those moments where you're like oh my God I can't believe this dumb character did something smart.
+
+---
+
+Сама шутка в том что тупой персонаж был связным две минуты. А потом сразу возвращается к тому чтобы быть бестолковым.
+
+The joke itself is that the dumb character was coherent for 2 minutes. And then immediately goes back to being clueless.
+
+---
+
+Лондон Типтон из "Сладкой жизни Зака и Коди" это еще один очень популярный тупой персонаж. На самом деле персонаж основан на Пэрис Хилтон.
+
+London Tipton from The Sweet Life Of Zack and Cody is another really popular dumb character. In fact the character is based on Paris Hilton.
+
+---
+
+Чья публичная персона воплощала троп тупой блондинки. Пэрис играла персонажа. И действовала более тупо чем она была на самом деле. Потому что именно на это люди реагировали.
+
+Who public persona embodied the dumb blonde trope. Paris was playing a character. And acted more dimwitted than she actually was. Because that's what people responded to.
+
+---
+
+Но Лондон была смоделирована по тупой персоне которую Пэрис изображала. Хотя в начале Лондон казалась более сложным персонажем. Чем просто тупая богатая наследница.
+
+But London was modeled of the dumb persona Paris portrayed. In the beginning though London seemed like a more complex character. Than just the dumb rich heiress persona.
+
+---
+
+На самом деле Лондон вроде как действовала как контраст к Мэдди. Которая была очень умной но очень бедной девушкой. Которая работала в отеле.
+
+In fact London kind of acted as a foil to Maddie. Who was a very smart but very poor girl. That worked at the hotel.
+
+---
+
+И они часто играли друг против друга в шоу. В более раннем изображении Лондон она была немного туповатой. Но ты никогда не получал впечатление что она просто действительно тупая.
+
+And they would often time play off each other in the show. In London's earlier depiction she was kind of dimwitted. But you never got the impression that she was just really stupid.
+
+---
+
+Особенно в начале это было скорее так что Лондон была так изолирована своим привилегированным положением и богатством. Что она просто не заботилась о школе.
+
+Especially in the beginning it was more so that London was so insulated by her privilege and wealth. That she simply did not care about school.
+
+---
+
+Или практически ни о чем что не имело отношения к ее светской жизни. И именно поэтому она так хорошо играла против Мэдди.
+
+Or pretty much anything that didn't have anything to do with her socialite lifestyle. And that's exactly why she played so well off Maddie.
+
+---
+
+Мэдди была действительно умной. И очень гордилась своим интеллектом. Потому что это было практически все что у нее было.
+
+Maddie was really smart. And took a lot of pride in her intellect. Because it was pretty much all she had.
+
+---
+
+Ей пришлось устроиться на работу. Ее семья была действительно бедной. И образование было способом Мэдди выбраться из этого.
+
+She had to get a job. Her family was really poor. And education was Maddy's way out of that.
+
+---
+
+Лондон не нужно было беспокоиться об этом. Так что она просто никогда не относилась к школе или образованию серьезно. Потому что она знала что ей никогда не нужно будет устраиваться на работу.
+
+London didn't have to worry about that. So she just never took school or education seriously. Because she knew she would never have to get a job.
+
+---
+
+На самом деле есть один эпизод где мы узнаем что Лондон не была в своей частной школе вечность. Так что ее отправляют в государственную школу Мэдди чтобы преподать ей урок.
+
+In fact there's one episode where we found out that London has not been to her private school in forever. So she's sent to Maddie's public school to teach her a lesson.
+
+---
+
+И этот контраст между Мэдди и Лондон работает действительно хорошо. Потому что они обе учатся друг у друга.
+
+And this contrast between Maddie and London works really well. Because they both learn from each other.
+
+---
+
+Лондон учится быть более благодарной. И ценить все что у нее есть. И даже завидовать некоторому из того что есть у Мэдди.
+
+London learns to be more grateful. And appreciative of all she has. And even envy some of what Maddie has.
+
+---
+
+Потому что ее отец постоянно женится снова. И никогда не навещает ее. Лондон на самом деле не имеет близкой семьи.
+
+Because her father is constantly getting remarried. And never visits her. London doesn't really have a close-knit family.
+
+---
+
+Но у Мэдди есть. И она даже получает возможность испытать это немного. Мэдди также учится у Лондон.
+
+But Maddie does. And she even gets to experience that for a little bit. Maddie also learns from London.
+
+---
+
+Раннее предположение было что Мэдди была книжно умной. Но Лондон была уличной умной. И могла дать Мэдди советы о мальчиках и свиданиях и социальной жизни.
+
+The earlier supposition was that Maddie was book smart. But London was street smart. And could give Maddie advice on boys and dating and social life.
+
+---
+
+И они по сути обе помогали друг другу расти. Но потребовалось всего несколько эпизодов в первом сезоне. Чтобы все это изменилось.
+
+And that they essentially both helped each other grow. But it only took a couple episodes into the first season. For all of that to change.
+
+---
+
+Больше не было так что Лондон просто не была книжно умной. Она просто вообще не была умной.
+
+No longer was it just that London wasn't book smart. She just was not smart at all.
+
+---
+
+Эта девушка даже не знает алфавит. Или даже как работать с рычагом переключения передач.
+
+This girl doesn't even know the alphabet. Or even how to work a gear shift.
+
+---
+
+Я все еще думаю что потому что Лондон была так изолирована своим богатством и привилегиями. Она никогда не пыталась очень усердно улучшить себя академически.
+
+I still think that because London was so insulated by her wealth and privilege. She never really tried super hard to better herself academically.
+
+---
+
+Я имею в виду ей пришлось повторить среднюю школу. И присоединиться к близнецам на круизе. Из-за того насколько плохими были ее оценки.
+
+I mean she had to repeat high school. And join the twins on the cruise. Because of how bad her grades were.
+
+---
+
+Но я все еще думаю что это была более интересная концепция. Супер богатая наследница которая просто не может заставить себя заботиться о ком-то или чем-то.
+
+But I still think that was a more interesting concept. A super rich heiress that just cannot bring herself to care about anyone or anything.
+
+---
+
+Потому что ей никогда не нужно беспокоиться о деньгах. Чем просто действительно тупая девушка которая делает Макса похожим на гения.
+
+Because she never has to worry about money. Than just a really dumb girl who makes Max look like a genius.
+
+---
+
+Все еще мне нравится прогресс Лондон как персонажа. Она становится более настроенной на людей вокруг себя. Она заботится больше.
+
+Still I do like London's progress as a character. She becomes more in tune with the people around her. She cares more.
+
+---
+
+И она развивает сильные отношения со своими друзьями. Включая Мосби который всегда был для нее фигурой отца.
+
+And she develops strong relationships with her friends. Including Mosby who has always been a father figure to her.
+
+---
+
+И зная все это когда мы наконец добираемся до финала сериала. Где Лондон заканчивает среднюю школу. Это делает этот момент еще более впечатляющим.
+
+And knowing all of that when we finally get to the series finale. Where London is graduating high school. It makes this moment even more impactful.
+
+---
+
+У Дрейка Паркера был действительно резкий сдвиг характера от первого сезона ко второму сезону. В первом сезоне "Дрейк и Джош" Дрейк действовал как контраст к Джошу.
+
+Drake Parker had a really drastic character change from the first season to the second season. In season one of Drake and Josh Drake acted as a foil to Josh.
+
+---
+
+Где Джош был действительно прилежным ребенком соблюдающим правила. Который не был действительно популярным. Дрейк был очень популярным бунтующим подростком.
+
+Where Josh was a really studious rule obeying kid. Who wasn't really popular. Drake was a very popular rebellious teen.
+
+---
+
+Который не очень заботился о школе. Мы снова видим где Дрейк совсем не тупой. На самом деле он делает много остроумных шуток.
+
+Who didn't really care that much about school. Again we see where Drake isn't stupid at all. In fact he makes a lot of witty jokes.
+
+---
+
+Которые Дрейк из более раннего сезона даже не был бы способен сделать. Отношение Дрейка к образованию было скорее так что он был слишком крут для школы.
+
+That earlier season Drake would not even be capable of making. Drake's relationship to education was more so that he was too cool for school.
+
+---
+
+И не следовал правилам. Но никогда не так что он был просто действительно тупым парнем. Ты знаешь он должен был быть крутым парнем.
+
+And didn't follow rules. But never that he was just a really dumb guy. You know he was supposed to be the cool guy.
+
+---
+
+Чтобы контрастировать с Джошем будущим неудачником. Он брат который получает всех девушек. Нарушает правила. И подталкивает Джоша быть более уверенным.
+
+To contrast Josh being a loser. He's the brother that gets all the girls. Breaks the rules. And pushes Josh to be more confident.
+
+---
+
+И Джош подталкивает Дрейка быть более внимательным к другим людям. И быть менее эгоистичным. Но произошло что-то странное.
+
+And Josh pushes Drake to be more considerate of other people. And be less selfish. But something strange happened.
+
+---
+
+Первый сезон "Дрейк и Джош" имеет шесть эпизодов. А второй сезон имеет более чем в два раза больше эпизодов.
+
+The first season of Drake and Josh has six episodes. And the second season has more than twice as many episodes.
+
+---
+
+Но к тому времени когда мы добираемся до второго сезона у Дрейка происходит значительный сдвиг характера. Он все еще сохраняет много характеристик которые у него были в раннем сезоне.
+
+But by the time we get to season 2 Drake has a considerable character change. He still maintains a lot of the characterization he had in the early season.
+
+---
+
+Но его счетчик тупости включается на одиннадцать. Он больше не был просто крутым бунтующим музыкантом который много встречается с девушками.
+
+But his dumb meter gets dial up to an 11. He wasn't just a cool rebellious musician who gets a lot of girls.
+
+---
+
+Он пошел полным химбо. Что для людей которые не знают это мужской бимбо. Парень который красивый но очень тупой.
+
+He went full himbo. Which for people who don't know is a male bimbo. A guy who's handsome but is very stupid.
+
+---
+
+Я думаю изменение в характере Дрейка было более вопиющим для меня чем другие. Потому что все мое впечатление о том кем был Дрейк как персонаж было что он был тупым братом.
+
+I think the change in Drake's character was more egregious to me than the others. Because my whole impression of who Drake was as a character was that he was the dumb brother.
+
+---
+
+Так что было действительно удивительно смотреть эти шесть эпизодов. Где это вообще не существенная часть его характера.
+
+So it was really surprising watching these six episodes. Where this is not essential part of his character at all.
+
+---
+
+Дрейк остроумен. Он придумывает хорошие планы. Они часто опасны и не срабатывают. Но снова он должен был быть уличным умным.
+
+Drake is witty. He comes up with good plans. They're often dangerous and don't work out. But again he's supposed to be the street smart.
+
+---
+
+Позиция к книжному уму Джоша. Я всегда думаю что это так интересно что они решили пойти с этим изменением.
+
+Just position to Josh's book smart. I always think it's so interesting that they decided to go with this change.
+
+---
+
+Потому что это действительно могла быть очень другая версия персонажа. Я думаю Дрейк в основном все еще действительно интересный и смешной персонаж.
+
+Because it really could have been a very different version of the character. I think Drake for the most part is still a really interesting and funny character.
+
+---
+
+Даже с этим странным изменением. Но они забрали так много динамизма персонажа. Сделав его таким тупым.
+
+Even with this strange change. But they took so much of the dynamicism of the character. By making him this dimwitted.
+
+---
+
+Но часто мы все еще получали проблески Дрейка из первого сезона. Есть моменты двигаясь вперед в шоу где Дрейк говорит или делает что-то.
+
+But often times we would still get flashes of season one Drake. Like there are moments moving forward in the show where Drake says or does something.
+
+---
+
+Что заставило бы тебя поверить что происходит гораздо больше за этими глазами. Чем они изначально заставили нас поверить.
+
+That would lead you to believe there's a lot more going behind those eyes. Than they had initially led us to believe.
+
+---
+
+Это как если бы молодой Дрейк его истинное я было похоронено под поверхностью. Запертое умоляющее и царапающее свой путь к свободе.
+
+It's as if younger Drake his true self was buried beneath the surface. Trapped begging and clawing his way to freedom.
+
+---
+
+В этих кратких проблесках глубокомыслия я часто чувствую грусть о Дрейке которого мы упустили. Персонаж который действительно мог быть очень сложным.
+
+In these brief flashes of profoundness I often feel sad about the Drake we missed out on. A character that truly could have been very complex.
+
+---
+
+Но был принесен в жертву чтобы создатели могли сделать одну из своих глупых шуток. Но ты знаешь я даже не могу быть слишком зол.
+
+But was sacrificed so the writers could make one of their silly jokes. But you know I can't even be too mad.
+
+---
+
+Потому что тупой Дрейк дал нам этот момент. Что. Где дверь. Дыра идет прямо туда. Видишь я нарисовал ее маркером.
+
+Because dumb Drake did give us this moment. What. Where's the door. Hole goes right there. See I drew it with a magic marker.
+
+---
+
+Ты должен был вырезать ее циркулярной пилой. Чувак я собираюсь. Ох правда. Да так возьми циркулярную пилу. Хорошо я возьму. Я вижу проблему.
+
+You were supposed to cut it out with the power saw. Dude I'm going to. Oh really. Yes so get the power saw. Okay I will. I see the problem.
+
+---
+
+Ох ты видишь. Если это не хорошее телевидение я не знаю что это.
+
+Oh do you. If that's not good TV I don't know what it is.
+
+---
+
+Кевин из "Офиса" был действительно интересным персонажем. Потому что он начинал будучи действительно непритязательным в начале.
+
+Kevin from the office was a really interesting character. Because he started off being really unassuming in the beginning.
+
+---
+
+В первом сезоне Кевин как и большинство других второстепенных персонажей в "Офисе" были просто обычными людьми. Которые либо не любили свою работу либо не заботились о своей работе.
+
+In the first season Kevin like most of the other supporting characters in the office were just regular people. Who either didn't like their job or didn't care about their job.
+
+---
+
+Но по мере развития шоу Кевин претерпел такой резкий сдвиг от своих более ранних сезонов. Что он стал вроде карикатуры на то чем он когда-то был.
+
+But as the show went on Kevin took on such a drastic change from his earlier seasons. That he became kind of a caricature of what he once was.
+
+---
+
+Кевин работал в бухгалтерском отделе. Но к более поздним сезонам ты задаешься вопросом как кто-то настолько тупой. Не только смог получить эту работу.
+
+Kevin worked in the accounting department. But by the later seasons you're questioning how someone this stupid. Not only was able to get this job.
+
+---
+
+Но даже закончить среднюю школу. Шоу даже в какой-то момент шутит над тем фактом. Что тупость Кевина граничила с умственной отсталостью.
+
+But even graduate from high school. The show even at one point jokes at the fact. That Kevin's stupidity bordered on mental disability.
+
+---
+
+Кевин из более позднего сезона становится почти неузнаваемым от своего я из первого сезона. Он был на самом деле действительно умным.
+
+Later season Kevin becomes almost unrecognizable from his first season self. He was actually really smart.
+
+---
+
+Он был просто обычным парнем работающим на тупиковой работе. И да он мог быть грубым и делать неуместные шутки.
+
+He was just a regular guy working a dead end job. And yeah he could be crass and make inappropriate jokes.
+
+---
+
+Но никогда потому что он был тупым. Это было скорее так что он был просто действительно грубым парнем.
+
+But never because he was dumb. Was more of that he was just a really brash guy.
+
+---
+
+Кевин вроде претерпел похожий сдвиг как Кэт. Где он стал инфантилизирован. Шоу обрабатывало его как ребенка.
+
+Kevin kind of underwent a similar change to cat. Where he became infantilized. The show treated him as a child.
+
+---
+
+Кто-то настолько неспособный даже быть способным позаботиться о себе. Он просто стал этим большим тупым парнем который постоянно ел.
+
+Someone so incapable of even being able to take care of themselves. He just became this big dumb guy that was constantly eating.
+
+---
+
+И не знал что происходило половину времени. Но снова мы видели проблески блеска в Кевине тоже.
+
+And didn't know what was happening half of the time. But again we would see flashes of brilliance in Kevin too.
+
+---
+
+Моменты где казалось что он знал больше чем он показывал. У него были эти моменты где на самом деле казалось что Кевин был умным.
+
+Moments where it seems like he knew more than what he was letting on. He would have these moments where it actually seemed as if Kevin was smart.
+
+---
+
+До такой степени что некоторые онлайн теории развились. Что Кевин тайно гений. И только притворяется тупым.
+
+To the point where some online theories have developed. That Kevin is secretly a genius. And is only pretending to be dumb.
+
+---
+
+Чтобы у него не было много работы. Но я не думаю что это так. Даже в его частных интервью Кевин не кажется осознающим что происходит.
+
+So he wouldn't have a lot of work to do. But I don't think that's the case. Even in his private interviews Kevin doesn't seem to be aware of what's going on.
+
+---
+
+Он такой же тупой в шоу как и в своих интервью. Есть так много других персонажей в ситкомах которые подходят под этот троп.
+
+He's just as dimwitted in the show as he is in his interviews. There are so many other characters in sitcoms that fit into this trope.
+
+---
+
+Есть Челси из "Вот так Рэйвен". Патрик из "Губки Боба Квадратные Штаны". Энди из "Парков и зон отдыха".
+
+There's Chelsea from That So Raven. Patrick from SpongeBob SquarePants. Andy from Parks and Recreation.
+
+---
+
+Даже в некотором смысле Майкл из "Офиса". Но почему происходят эти формы деградации персонажа.
+
+Even in a sense Michael from the office. But why do these forms of character degradation happen.
+
+---
+
+Ну все эти персонажи становятся жертвами фландеризации. Которая относится к способу которым маленький аспект персонажа становится преувеличенным.
+
+Well all of these characters fall victim to flanderization. Which refers to the way in which a small aspect of a character becomes exaggerated.
+
+---
+
+До такой степени что это все за что этот персонаж известен или признается. Термин произошел от Неда Фландерса персонажа в "Симпсонах".
+
+To the point where that's all that that character is known for or recognized as. The term originated from Ned Flanders a character in The Simpsons.
+
+---
+
+Когда более ранний сезон шоу показал что он был религиозным. По мере развития сериала это стало всем за что его знали.
+
+When the earlier season of the show was shown to be religious. As the series went on that became all he was known for.
+
+---
+
+До комически смехотворной степени. И мы видим что это происходит со всеми этими персонажами.
+
+To a comically ridiculous degree. And we see that happen with all these characters.
+
+---
+
+Джоуи не может просто быть крутым нью-йоркским актером который много встречается с девушками. Бестолковые части его персоны должны быть включены на максимум.
+
+Joey can't just be a cool New York actor that gets a lot of girls. The clueless parts of his persona has to be dialed up to 11.
+
+---
+
+Драматические перепады настроения Кэт и неспособность улавливать социальные сигналы заменены бессмысленным бормотанием.
+
+Cat's dramatic mood swings and inability to pick up on social cues are replaced with nonsensical babbling.
+
+---
+
+Лондон не просто не заботится о школе потому что она супер богатая. Она не понимает как работают слова.
+
+London doesn't just not care about school because she's super rich. She doesn't understand how words work.
+
+---
+
+Я также просто думаю что этот вид преувеличения. И создание этих персонажей карикатурами самих себя делает огромную медвежью услугу их сюжетным линиям.
+
+I also just think this kind of exaggeration. And making these characters caricatures of themselves does a huge disservice to their story lines.
+
+---
+
+Моменты уязвимости и искренности которые эти персонажи могут иметь время от времени. Постоянно подрываются.
+
+Moments of vulnerability and earnestness these characters may have from time to time. Are constantly undercut.
+
+---
+
+Потому что быть преувеличенным до этой степени означает что они не могут измениться. Они не могут расти и развиваться.
+
+Because being exaggerated to this degree means they cannot change. They cannot grow and evolve.
+
+---
+
+И если они изменяются это только чтобы стать еще более преувеличенными и чрезмерными. И я не думаю что это было просто иметь этих персонажей играющих роли химбо и бимбо.
+
+And if they do change it's only to become even more exaggerated and over the top. And I don't think it was just having these characters playing to himbo and bimbo roles.
+
+---
+
+Я думаю что произошло так что все эти персонажи начинали быть немного тупыми. И так по мере развития шоу и было все больше и больше эпизодов.
+
+I think what happened was that all of these characters started off dimwitted. And so as the show went on and there were more and more episodes.
+
+---
+
+Стало проще просто опереться на этот один аспект персонажа. Пока это не стало практически всем чем они были.
+
+It became easier to just lean into that one aspect of the character. Until that was pretty much all they were.
+
+---
+
+Для некоторых персонажей хотя это было более резким как Дрейк. Он не был тупым вообще в первом сезоне.
+
+For some characters though it was more drastic like Drake. He wasn't dimwitted at all in season 1.
+
+---
+
+Он был просто действительно бунтующим и не относился к школе серьезно. Так что Дрейк со второго сезона и далее был огромным сдвигом для персонажа.
+
+He was just really rebellious and didn't take school seriously. So Drake from season 2 onwards was a huge shift for the character.
+
+---
+
+Для других это было немного более тонкой деградацией как Кевин и Лондон. Они начинали быть тупыми и туповатыми.
+
+For others it was a bit more of a subtle degradation like Kevin and London. They started off being dumb and dimwitted.
+
+---
+
+До того чтобы быть настолько тупыми что ты должен серьезно задаваться вопросом как они даже посещают среднюю школу.
+
+To being so dumb you have to seriously wonder how they're even attending high school.
+
+---
+
+Как они должны все еще быть в детском саду. Но их тупые однострочники получают много запрограммированных смеховых дорожек.
+
+Like they should still be in kindergarten. But their dumb one liners gets a lot of programmed laugh tracks.
+
+---
+
+Так что они просто продолжают делать это снова и снова. Пока персонаж известен только за то насколько он тупой.
+
+So they just keep doing that over and over again. Until the character is only known for how dumb they are.
+
+---
+
+Теперь часто есть огромные изменения в шоу от их пилотного эпизода. Ситкомы напишут и снимут пилотный эпизод.
+
+Now often times there are huge changes in shows from their pilot episode. Sitcoms will write and shoot a pilot episode.
+
+---
+
+И предложат его вокруг. И после того как он получит зеленый свет от студии некоторые изменения могут быть сделаны.
+
+And shop it around. And after it gets green lit by a studio some changes may be made.
+
+---
+
+Так что не редкость что пилотный эпизод ситкома чувствуется почти неузнаваемым от остальной части шоу.
+
+So it's not uncommon for the pilot episode of a sitcom to feel almost unrecognizable to the rest of the show.
+
+---
+
+Иногда сценаристы могут придумать новые идеи для своих шоу. Или иногда студии отправляют заметки и требуют чтобы изменения были сделаны.
+
+Sometimes writers may come up with new ideas for their shows. Or sometimes studios send notes and demand changes be made.
+
+---
+
+Например пилотный эпизод "Сайнфелда" не имел женского лидера. Не было Элейн.
+
+For example the pilot episode of Seinfeld had no female lead. There was no Elaine.
+
+---
+
+Но студия чувствовала что нужен ведущий женский персонаж. Так что она представлена во втором эпизоде.
+
+But the studio felt there needed to be a leading female character. So she gets introduced in the second episode.
+
+---
+
+Или в "Новая девушка" персонаж тренера был в пилотном эпизоде. Но актер покинул сериал после того как пилот был снят.
+
+Or in New Girl the character of coach was in the pilot episode. But the actor left the series after the pilot was filmed.
+
+---
+
+Так что во втором эпизоде мы представлены совершенно новому персонажу Уинстону. Который занимает его место.
+
+So in episode two we're introduced to a brand new character Winston. Who takes his place.
+
+---
+
+Эти виды вещей происходят все время. Так что не необычно для персонажа вести себя по-другому в остальной части сериала.
+
+These sorts of things happen all the time. So it's not unusual for a character to behave differently in the rest of the series.
+
+---
+
+Чем как они появляются в пилотном эпизоде. Но в каждом отдельном случае который я упомянул в этом видео.
+
+Than how they appear in the pilot episode. But in every single case I mentioned in this video.
+
+---
+
+Это не просто изменение от пилотного эпизода ко второму эпизоду. Это огромное изменение от эпизодов установления персонажа.
+
+This isn't just a change from the pilot episode to the second episode. This is a huge change from episodes worth of establishing a character.
+
+---
+
+Так что это делает прогрессивную деволюцию еще более шокирующей чтобы наблюдать. Когда ты садишься смотреть эти шоу с начала до конца.
+
+So it makes a progressive devolution even that more jarring to witness. When you sit down to watch these shows from beginning to end.
+
+---
+
+Фландеризация происходит в разных формах тоже. Это не только тупость которая становится преувеличенной.
+
+Flanderization happens in different forms too. It's not only the stupidity that gets exaggerated.
+
+---
+
+Но по мере того как делается все больше ситкомов я действительно надеюсь что мы отойдем от этого тренда.
+
+But as more sitcoms are being made I really do hope we move away from this trend.
+
+---
+
+Это одно дело если персонаж начинал тупым чтобы быть комедийным облегчением телевизионного шоу.
+
+It's one thing if a character started off dumb to be the comedic relief of a TV show.
+
+---
+
+Но меня всегда беспокоило это резкое изменение в персонажах. Где это никогда не было огромной частью их характеристики чтобы начать с.
+
+But I've always been bothered by this drastic change in characters. Where that was never a huge part of their characterization to begin with.
+
+---
+
+Так что в любом случае это мои мысли о тропе фландеризации. И оглуплении этих персонажей.
+
+So anyways those are my thoughts and the flanderization trope. And the dumbification of these characters.
+
+---
+
+Дай мне знать каковы твои мысли. И если ты хочешь поддержать этот канал обязательно поставь лайк прокомментируй и подпишись.
+
+Let me know what your thoughts are. And if you want to support this channel be sure to like comment and subscribe.
+
+---
+
+И я увижу вас ребята в следующем.
+
+And I'll see you guys in the next one.
+

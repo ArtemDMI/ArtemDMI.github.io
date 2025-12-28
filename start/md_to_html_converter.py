@@ -123,6 +123,40 @@ def generate_html(pairs, output_filename):
     with open(output_filename, 'w', encoding='utf-8') as f:
         f.write(html_content)
 
+def cleanup_orphaned_html_files():
+    """
+    Removes HTML files from 'pages' that don't have corresponding .md files in 'sources'.
+    """
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    
+    sources_dir = os.path.join(project_root, 'sources')
+    pages_dir = os.path.join(project_root, 'pages')
+
+    if not os.path.isdir(pages_dir):
+        return
+
+    # Scan all HTML files in pages/
+    for dirpath, _, filenames in os.walk(pages_dir):
+        # Determine relative path to sources folder
+        relative_path = os.path.relpath(dirpath, pages_dir)
+        source_dir = os.path.join(sources_dir, relative_path)
+        
+        for filename in filenames:
+            if filename.endswith('.html'):
+                html_path = os.path.join(dirpath, filename)
+                # Look for corresponding .md file
+                md_filename = os.path.splitext(filename)[0] + '.md'
+                md_path = os.path.join(source_dir, md_filename)
+                
+                # If .md file doesn't exist - remove HTML
+                if not os.path.exists(md_path):
+                    try:
+                        os.remove(html_path)
+                        print(f"Removed orphaned file: {html_path}")
+                    except OSError as e:
+                        print(f"Error removing {html_path}: {e}")
+
 def process_all_files():
     """
     Processes all .md files in the 'sources' directory and its subdirectories
@@ -160,6 +194,7 @@ def process_all_files():
 def main():
     """Main function to run the conversion process."""
     process_all_files()
+    cleanup_orphaned_html_files()
 
 if __name__ == '__main__':
     main()
