@@ -1,0 +1,204 @@
+Биологическая война вызывает массовое уничтожение. Она отравляет воздух и делает его непригодным для дыхания. Правительство США в панике строит временные подземные бункеры. Там ученых держат в глубоком сне. Этих ученых считают надеждой на будущее. Рабочие обслуживают эти особые бункеры. Они живут вместе с учеными. Рабочих будят на 2 часа каждые 6 месяцев. Они проводят техническое обслуживание и проверки.
+
+Biochemical warfare causes mass destruction. It poisons the air and makes it unbreathable. The US government panics and builds temporary underground bunkers. Scientists are kept there in deep sleep. These scientists are considered hope for the future. Workers maintain these special bunkers. They live together with the scientists. Workers are awakened for 2 hours every 6 months. They run maintenance and do inspections.
+
+---
+
+Важные интеллектуалы исчезают из мира в бункера. Общественность начинает задавать вопросы о бункерах. Люди спрашивают что правительство делает для безопасности населения. Президент уклоняется от вопроса. Он уверяет обеспокоенную публику что принимаются все необходимые меры предосторожности. В бункере рабочий Бауэр просыпается на свою смену. Он борется за воздух и адаптируется к новой кислородной среде.
+
+Important intellectuals keep disappearing from the world into the bunkers. The public starts asking questions about the bunkers. People ask what the government is doing to ensure the safety of the general population. The president deflects the question. He assures the worried public that every necessary precaution is being taken to safeguard everyone. In the bunker maintenance worker Bowers awakens for his shift. He struggles for air and adapts to his new oxygenated environment.
+
+---
+
+Бауэр ходит по объекту и разминает ноги. Он разогревает тело. Скоро его партнер Картрайт просыпается. Он тоже борется за дыхание и адаптируется к другому составу воздуха. Бауэр говорит что думал что тот кто только что проснулся через 6 месяцев будет в лучшем настроении.
+
+Bower walks around the facility stretching his legs. He warms up his body. Soon his partner Cartwright awakens. He too struggles to breathe and adapts to the different air composition. Bower says he thought that somebody who just woke up after 6 months would be in a better mood.
+
+---
+
+Картрайт успокаивается и спешит отметиться на контрольном мониторе. Он сообщает другим бункерам что у них все в порядке. Он рад видеть что у всех все хорошо. Потом Картрайт просматривает отчеты от последних рабочих. Он в ужасе видит что зафиксирована вулканическая активность. Потом дуэт делит чеклисты и каждый идет своей дорогой. Они пытаются выполнить каждую задачу вовремя.
+
+Cartwright settles down and rushes to clock in on the control monitor. He lets other bunkers know that they are all right. He is happy to see that everyone is okay. Then Cartwright reviews the reports from the last maintenance workers. He is terrified to see that some volcanic activity has been recorded. Then the duo divides the checklists and each goes their different ways. They try to complete each task in time.
+
+---
+
+На середине смены мужчины усердно работают. Картрайт тайно начинает видеть галлюцинации своей жены Эбби. Он разговаривает с ней. Потом Бауэр цинично жалуется партнеру. Он говорит что чувствует себя пешкой застрявшей в бункере. Он говорит что их держат только чтобы сохранить важных людей живыми. Картрайт не соглашается и рассуждает что они сохраняют будущее. Он говорит что они заботятся об интеллектуалах которые должны возродить мир.
+
+Halfway through their shift the men are hard at work. Cartwright secretly starts hallucinating his wife Abby. He converses with her. Then Bower cynically complains to his partner. He says he feels like a pawn stuck in the bunker. He says they are kept just to keep some important people alive. Cartwright disagrees and reasons that they are preserving the future. He says they are taking care of the intellectuals that are meant to revive the world.
+
+---
+
+Они заканчивают все и у них остается 20 минут до конца смены. Бауэр пересматривает старую бейсбольную игру. Картрайт читает как рассчитать время восстановления окружающей среды. Он взволнованно делится что все может вернуться к норме всего через несколько лет. Однако Бауэр игнорирует это как оптимистичную ерунду. Часы идут вниз и Картрайт смешивает их снотворное лекарство. Потом он мысленно готовится идти в свою камеру. Он начинает видеть Эбби и делится с ней как трудно и клаустрофобично ему весь этот процесс.
+
+They finish everything and have 20 minutes left on their shift. Bower rewatches an old baseball game. Cartwright reads up on how to calculate the environmental rehabilitation time. He excitedly shares that everything might go back to normal in just a few years. However Bower disregards this as optimistic nonsense. As the clock runs down Cartwright mixes their sleeping medication. Then as he mentally prepares to go to his chamber he starts seeing Abby. He shares with her how difficult and claustrophobic the whole process makes him feel.
+
+---
+
+Картрайт говорит себе что каждый раз. Скоро Картрайт в полном шоке видит что его камера загорается. Это происходит из-за небольшой сейсмической активности. Он бежит тушить огонь и зовет Бауэра на помощь. Он просит открыть дверь.
+
+Cartwright tells himself that every time. Soon Cartwright is utterly shocked to see his chamber go up in flames. This happens as a result of a small seismic activity. He runs to extinguish it and calls on Bower for help. He asks to open the door.
+
+---
+
+Мужчинам удается потушить огонь. Но камера Картрайта полностью разрушена. Бауэр говорит что это неправильно. Он говорит что Картрайт отвечал за проверку диагностики. Потом мужчины пытаются разобраться что еще делать. Но их время смены заканчивается. Это вызывает отключение электричества и прекращение подачи воздуха. Бауэр говорит что у них закончился воздух.
+
+The men manage to extinguish the fire. But Cartwright's chamber is completely ruined. Bower says that is not right. He says Cartwright was responsible for checking the diagnostics. Then the men try to figure out anything else. But their shift time runs out. This causes a blackout and ceases the air supply. Bower says they are out of air.
+
+---
+
+Дуэт использует фонарики чтобы найти инструкции. Они облегченно находят аварийные резервные баллоны. Потом они забираются на камеры маршрутизации воздуха и ползут к аварийному предохранительному клапану. Они находят клапан и включают его. Но они разочарованы видя что он не работает.
+
+The duo uses their flashlights to locate the manuals. They are relieved to locate the emergency reserve cylinders. Then they climb onto the air routing chambers and crawl to the emergency safety valve. They find the valve and turn it on. But they are disappointed to see that it is not working.
+
+---
+
+Мужчины сидят и размышляют о своей смерти. Бауэр делится что он солгал о том что холост чтобы получить работу. На самом деле он был женат и у него было трое детей. После того как он делится как сильно он скучает по семье Бауэр подчеркивает что теперь их только двое. Он говорит что им нужно относиться друг к другу и заботиться друг о друге как семья чтобы выжить. К облегчению мужчин аварийный выпуск скоро работает и время смены перезапускается. Это обеспечивает бункер энергией и воздухом.
+
+The men sit around contemplating their deaths. Bower shares that he had lied about being single to get the job. He was in fact married with three children. After sharing how much he misses his family Bower stresses that since it is just the two of them now they have to treat each other and care for one another like family in order to survive. To the men's relief the emergency release works soon and the shift time is restarted. This provides the bunker with power and air.
+
+---
+
+Бауэр говорит что пора делать следующий шаг. Как первое дело мужчины решают починить камеру Картрайта. Они идут в склад чтобы найти запасные части. Но скоро они разочарованы не найдя ничего. Бауэр говорит что вот что происходит когда все делается в последнюю минуту.
+
+Bower says it is time to make their next move. As the first order of business the men decide to repair Cartwright's chamber. They go to the storage room to find spare parts. But they are soon disappointed to find nothing. Bower says this is what happens when you slap things together at the last minute.
+
+---
+
+Мужчины направляются в большую запечатанную кладовую. Они надеются найти что-то полезное. После нескольких минут поиска в больших темных кладовых мужчины попадают в джекпот и находят нужные им предметы. Картрайт говорит что нашел его. Бауэр соглашается.
+
+The men head to a large sealed storage room. They have hopes of finding something helpful. After searching through large dark storage rooms for a few minutes the men hit the jackpot and find the items they need. Cartwright says he found him. Bower agrees.
+
+---
+
+У них остается час на часах и мужчины заканчивают ремонт камеры Картрайта. Однако Картрайт сомневается в безопасности и колеблется войти. Желая закончить тестирование и вернуться в глубокий сон до того как время закончится Бауэр добровольно вызывается протестировать ее сам. Он входит пока Картрайт стоит рядом готовый отреагировать на любую чрезвычайную ситуацию. Скоро Бауэр сообщает что в камере есть утечка. Он просит Картрайта проверить воздушный баллон.
+
+With an hour left on the clock the men finish repairing Cartwright's chamber. However Cartwright doubts the safety and hesitates to enter. Wishing to finish the testing and go back to deep sleep before their time runs out Bower volunteers to test it himself. He enters while Cartwright stands close by ready to respond to any emergency. Soon Bower reports that there is a leak in the chamber. He asks Cartwright to check the air tank.
+
+---
+
+Пока Картрайт идет проверить это воздух в камере внезапно начинает редеть. Бауэр кричит о помощи и начинает задыхаться. Через несколько минут Картрайт возвращается. Он в полном ужасе видит что камера обрушилась на Бауэра. Потом он лихорадочно разрезает уплотнения открывает освобождает своего друга и извиняется. Он объясняет что пошел найти канцелярский нож чтобы открыть воздушный баллон.
+
+While Cartwright goes to check it out the air in the chamber suddenly starts thinning. Bower screams for help as he starts to suffocate. A few minutes later Cartwright returns. He is utterly terrified to see that the chamber has collapsed on Bower. Then he frantically cuts the seals open frees his friend and apologizes. He explains he had gone to find a box cutter to open the air tank.
+
+---
+
+Мужчины вступают в спор. Взволнованный Бауэр обвиняет Картрайта в халатности. Когда все успокаивается Бауэр ведет Картрайта в комнату заполненную спальными камерами. Он предлагает случайно выбрать одну выбросить ее обитателя и использовать для Картрайта. Картрайт сначала в шоке. Но после долгого обсуждения он убеждается и готовит укол морфина чтобы усыпить выброшенную жертву.
+
+The men get into an argument. The agitated Bower accuses Cartwright of negligence. Once everything calms down Bower leads Cartwright to a room filled with sleeping chambers. He suggests randomly picking one ejecting its occupant and using it for Cartwright. Cartwright is shocked at first. But after a lengthy discussion he becomes convinced and prepares a shot of morphine to sedate the ejected victim.
+
+---
+
+Однако Эбби приходит в его видения. Она подробно описывает что то что он делает это убийство. Она призывает его не идти на это. Картрайт быстро меняет свое мнение и отказывается от плана. Это раздражает Бауэра. Между партнерами вспыхивает драка.
+
+However Abby comes into his visions. After detailing that what he is doing is murder she urges him not to go along with it. Cartwright swiftly changes his mind and opts out of the plan. This annoys Bower. Hence a fight breaks out between the partners.
+
+---
+
+После долгой драки мужчины успокаиваются. Картрайт придумывает план. После консультации с мониторами Картрайт подробно описывает что рядом с ними есть сестринский бункер названный ABC. Он недавно отметился и сообщил что он работает. Картрайт предлагает осторожно пойти туда и поискать запасные части. После долгого обсуждения Бауэр соглашается с идеей. Он помогает Картрайту ориентироваться через интерком радио.
+
+After a lengthy fight the men calm down. Cartwright comes up with a plan. After consulting the monitors Cartwright details that there is a sister bunker around them named ABC. It has recently clocked in and reported that it is operational. Cartwright suggests carefully going there and looking for spare parts. After a lengthy discussion Bower gets on board with the idea. He helps Cartwright navigate his way through the intercom radio.
+
+---
+
+Картрайт надевает защитный костюм и отправляется в воздух. Однако через несколько минут Картрайт видит мертвого солдата прямо снаружи их стороны двери воздуховода. Он в ужасе. Он говорит что часы их.
+
+Cartwright dons a hazmat suit and sets off in the air. However minutes later Cartwright sees a dead soldier right outside their side of the air duct door. He is terrified. He says the hours are theirs.
+
+---
+
+У них остается полчаса на часах. Картрайт начинает ориентироваться в полной темноте. Бауэр настраивает мониторы и готовится направлять его. Бауэр просит дать ему большой палец вверх. Картрайт соглашается и говорит продолжать двигаться.
+
+With half an hour left on the clock Cartwright begins navigating through pitch darkness. Bower configures the monitors and prepares to guide him. Bower asks to give him a thumbs up. Cartwright agrees and says to keep moving.
+
+---
+
+После минут ходьбы Картрайт взволнован находит объект глубокого сна ABC. Он сообщает о своем открытии Бауэру который делает заметку об этом. Картрайт говорит что думает что нашел это. Бауэр соглашается. Однако когда он входит Картрайт сбит с толку видя что весь объект без электричества. Это делает двери неработоспособными. Надеясь что кто-то откроет ему Картрайт громко стучит в дверь безрезультатно.
+
+After minutes of walking Cartwright is excited to find the ABC deep sleep facility. He reports his discovery to Bower who makes a note of it. Cartwright says he thinks he found it. Bower agrees. However once he enters Cartwright is confused to see that the whole facility is out of power. This makes the doors inoperable. Hoping someone would open it for him Cartwright loudly knocks on the door to no avail.
+
+---
+
+Бауэр говорит остановиться и что он тратит воздух. Картрайт говорит что надеялся что кто-то услышит его. Потом с помощью Бауэра и видений поддерживающей Эбби Картрайт продолжает. Он находит воздуховод и прыгает в него чтобы обойти дверь и войти в бункер.
+
+Bower says to stop and that he is wasting air. Cartwright says he was hoping somebody could hear him. Then with the help of Bower and the visions of a supportive Abby Cartwright carries on. He finds an air duct and jumps in to bypass the door and enter the bunker.
+
+---
+
+Однако скоро Картрайт в шоке находит воздуховоды заполненные трупами. Он задается вопросом есть ли какая-то надежда найти помощь. Бауэр спрашивает все ли в порядке приятель. Картрайт говорит что это место полно мертвых людей. Бауэр успокаивает паникующего Картрайта и продолжает направлять его через воздуховоды.
+
+However soon Cartwright is shocked to find the air ducts filled with corpses. He wonders if there is any hope of finding help. Bower asks if he is okay buddy. Cartwright says this place is full of dead people. Bower calms the panicked Cartwright and keeps guiding him through the air ducts.
+
+---
+
+Скоро радиосвязь начинает прерываться. Бауэр оглядывается вокруг мониторов чтобы исправить это. Он озадачен находя канцелярский нож который Картрайт утверждал что искал сидящим в ящике с инструментами рядом со спальной камерой. Это настораживает Бауэра и он становится подозрительным. Он поддерживает радиосвязь с Картрайтом. Но он использует один из мониторов чтобы проверить видеозапись наблюдения бункера.
+
+Soon the radio communication starts breaking up. Bower looks around the monitors to fix it. He is perplexed to find the box cutter Cartwright had claimed to search for sitting in the toolbox next to the sleeping chamber. This raises Bower's antenna and he becomes suspicious. He maintains the radio communication with Cartwright. But he uses one of the monitors to check the surveillance video of the bunker.
+
+---
+
+В другом месте Картрайт проходит через воздуховоды к бункеру ABC. Он в шоке находит его полностью разрушенным. Чтобы усугубить ситуацию Картрайт продолжает внутрь. Он находит лестницу которая ведет к земле. Он поднимается и в полном ужасе видит что человечество было уничтожено и мир рухнул.
+
+Elsewhere Cartwright makes it through the air ducts to the ABC bunker. He is shocked to find it completely dilapidated. To make matters worse Cartwright continues inside. He finds a ladder that leads to the ground. He climbs up and is utterly terrified to see that mankind has been wiped out and the world has collapsed.
+
+---
+
+Картрайт возвращается в бункер ABC. Он сообщает что увидел Бауэру. Он заключает что катастрофа должна была произойти давно. Потом он понимает что их бункер единственный оставшийся. Он понимает что автоматизированный компьютер отмечался за все другие бункеры. Это делалось чтобы выжившие чувствовали себя лучше и чтобы защитить их от безумия.
+
+Cartwright returns to the ABC bunker. He reports what he saw to Bower. He concludes that the catastrophe must have happened a long time ago. Then he realizes that their bunker is the only one left. He realizes that an automated computer has been clocking in for all the other bunkers. This was done to make the survivors feel better and to protect them from insanity.
+
+---
+
+В другом месте Бауэр наконец находит соответствующую видеозапись наблюдения. Он довольно ранен видя что Картрайт стоял рядом с неисправной камерой все время пока он задыхался. Потом он внимательно анализирует кадры. Он понимает что Картрайт хотел чтобы он умер. Он понимает что Картрайт изменил свое мнение только в последнюю минуту.
+
+Elsewhere Bower finally finds the relevant surveillance video. He is quite hurt to see that Cartwright had been standing next to the malfunctioning chamber the whole time he was choking. Then he analyses the footage closely. He realizes that Cartwright had wanted him to die. He realizes that Cartwright only changed his mind at the last minute.
+
+---
+
+Пока Бауэр борется со своим открытием Картрайт сообщает что у него заканчивается воздух. Он возвращается в бункер. Потом он достигает двери воздуховода. Но когда он стучит Бауэр появляется и противостоит ему насчет канцелярского ножа из ящика с инструментами. Он раскрывает что видел видеозаписи. В отчаянии Картрайт просит Бауэра впустить его чтобы он мог все объяснить. Но скоро он в шоке видя что Бауэр вооружен пистолетом который он взял у мертвого солдата.
+
+As Bower grapples with his discovery Cartwright reports that he is running low on air. He makes his way back to the bunker. Then he reaches the air duct door. But when he knocks Bower appears and confronts him about the toolbox cutter. He reveals that he saw the video recordings. Desperate Cartwright asks Bower to let him in so that he can explain everything. But he is soon shocked to see that Bower is armed with a gun he took from the dead soldier.
+
+---
+
+Бауэр спрашивает действительно ли он пытался убить его. Картрайт просит просто впустить его и говорит что можно поговорить об этом. Потом Бауэр объявляет что Картрайт опасность для него для спящих и для всего объекта. Он отказывается впустить его. В панике и заканчиваясь воздух Картрайт бежит обратно надеясь найти другой способ войти.
+
+Bower asks if he really tried to kill him. Cartwright asks to just let him in and says they can talk about it. Then Bower announces that Cartwright is a danger to him to the sleepers and to the whole facility. He refuses to let him in. Panicked and running out of air Cartwright runs back hoping to search for another way in.
+
+---
+
+Скоро Картрайт видит галлюцинацию Эбби. Она указывает ему направление воздуховода. Она поощряет его проползти через него и направиться к бункеру. Бауэр наблюдает как Картрайт ползет через воздуховоды. После того как он ругает его за предательство он пытается заставить его вернуться. Он говорит что там ничего нет и некуда идти. Он спрашивает как ощущается знать что он умрет там.
+
+Soon Cartwright hallucinates Abby. She points him in the direction of an air duct. She encourages him to crawl through and head to the bunker. Bower watches Cartwright crawling through the air ducts. After scolding him for his betrayal he tries to force him to return. He says there is nothing out there and there is nowhere to go. He asks how it feels knowing he is going to die out there.
+
+---
+
+У них остается только 15 минут на часах. Картрайт возвращается в бункер и пробирается внутрь. Однако Бауэр скоро находит его и начинает стрелять в него в темных коридорах бункера. Скоро начинается тихая погоня в темных коридорах бункера. Бауэр использует разные тактики чтобы найти Картрайта но терпит неудачу.
+
+With only 15 minutes left on the clock Cartwright makes it back to the bunker and sneaks in. However Bower soon finds him and starts shooting at him in the dark corridors of the bunker. Soon a quiet chase ensues in the dark corridors of the bunker. Bower uses different tactics to find Cartwright but fails.
+
+---
+
+Потом Картрайт убегает в главную область бункера. Он направляется в лазарет чтобы приготовить смертельную инъекцию. Но потом мысль об убийстве его друга беспокоит его и он колеблется. Однако скоро у него появляется видение Эбби. Она поощряет его пройти через свой первоначальный план. Она цитирует что это ситуация убить или быть убитым. Она убеждает его. Она говорит что если он не сделает это Бауэр убьет его. Она говорит что он должен сделать это для них.
+
+Then Cartwright escapes to the main area of the bunker. He heads to the infirmary to prepare a lethal injection. But then the thought of killing his friend troubles him and he hesitates. However he soon has a vision of Abby. She encourages him to go through with his original plan. She cites that this is a kill or be killed situation. She convinces him. She says if he does not do this Bower will kill him. She says he has to do this for them.
+
+---
+
+Скоро Картрайт становится преследователем. Он незаметно ходит вокруг бункера и ищет Бауэра. Однако когда он добирается до контрольной станции Бауэр появляется из ниоткуда и стреляет ему в плечо. Бауэр говорит что не очень больно. Потом Бауэр находит свадебную фотографию Картрайта. Он понимает что Эбби одна из спящих в бункере.
+
+Soon Cartwright becomes the chaser. He discreetly goes around the bunker looking for Bower. However just when he gets to the control station Bower comes out of nowhere and shoots him in the shoulder. Bower says it does not hurt much. Then Bower finds a wedding picture of Cartwright. He realizes that Abby is one of the sleepers in the bunker.
+
+---
+
+Потом надеясь заманить Картрайта чтобы он раскрыл себя Бауэр угрожает убить Эбби. Это дает обратный эффект и заставляет Картрайта подкрасться к Бауэру. Он вводит ему смертельную дозу морфина. Бауэр который сделал все чтобы помочь своему партнеру падает и умирает мирно. Он говорит позаботиться о его девушке и что часы тикают.
+
+Then hoping to bait Cartwright to reveal himself Bower threatens to kill Abby. This backfires and forces Cartwright to sneak up on Bower. He injects him with a lethal dose of morphine. Bower who has done everything to help his partner falls down and dies peacefully. He says to take care of his girl and that the clock is ticking.
+
+---
+
+У них остается 5 минут на часах. Картрайт быстро забирается в камеру Бауэра и укладывает себя спать. Он говорит что держит это место сильным. Некоторое время спустя когда окружающая среда восстановлена и воздух становится пригодным для дыхания компьютерная система пробуждает всех спящих в бункере включая Эбби. Эбби и Картрайт наконец воссоединяются.
+
+With 5 minutes left on the clock Cartwright quickly gets into Bower's chamber and puts himself to sleep. He says he is keeping this place strong. Sometime later once the environment is rehabilitated and the air becomes breathable the computer system awakens all of the sleepers in the bunker including Abby. Abby and Cartwright finally reunite.
+
+---
+

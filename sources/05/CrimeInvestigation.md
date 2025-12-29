@@ -1,0 +1,58 @@
+Роб и Джесс привели Легаси в дом Элиотта. Линнея забрала вещи племянниц из этого места. Желтая лента перекрывала входную дверь. Они прошли под лентой и сразу попали на место преступления.
+
+Rob and Jess brought Legacy to Eliott's home. Linnea had taken her nieces' things from the place. Yellow tape marked off the front door. They ducked under it and were led right to the murder scene.
+
+---
+
+Большие пятна крови покрывали паркетный пол и дорогой персидский ковер. Они выглядели как застывшие во времени. Бумаги были разбросаны по всей комнате. Книги были разбросаны повсюду. По словам полиции, Элиотт скорее всего пытался спастись.
+
+Large patches of blood stained the hardwood floor and expensive Persian carpet. They looked as if frozen in time. Papers were strewn all over the room. Books were tossed around. According to the police report, Elliot was most likely trying to save himself.
+
+---
+
+Джесс сказала, что они могут не торопиться. Они могут пройтись по месту преступления вместе со всеми. Но криминалисты все еще обрабатывают взятые образцы.
+
+Jess said they could take their time. They could walk through it with everyone. But the crime scene technicians were still processing the samples they took.
+
+---
+
+Бакки ответил, что спасибо. Он попросил всех осмотреться. Нужно было найти точку проникновения.
+
+Bucky replied thank you. He asked everyone to look around. They needed to figure out the point of entry.
+
+---
+
+Лэнс и Бобби пошли обедать. Пара вышла из отеля, чтобы поужинать в местном кафе. Они заказали обычные американские бургеры и картошку фри. Они пили холодный чай и говорили о чем-то, что не было связано с делом. Им нужно было морально подготовиться к тому, с чем им предстоит иметь дело.
+
+Lance and Bobbi went out for lunch. The couple stepped out of their hotel to have dinner in the local diner. They ordered regular all-American burgers and fries. They sipped on their iced tea and talked about something that wasn't the case for a bit. They needed to mentally prepare for what they would have to deal with.
+
+---
+
+Бакки и Стив разговаривали с Сарой и детьми по Скайпу. Дети были очень рады увидеть своих родителей. Прошел всего один день, но они уже скучали по семье. Айзобел и Тоуя больше понимали работу родителей. Младшие дети знали только, что родители на работе.
+
+Bucky and Steve talked with Sarah and the kids over Skype. The kids were all so excited to see their parents. It had only been a day, but they already missed their family. Isobel and Touya were more aware of their parents' work. The younger kids only knew they were at work.
+
+---
+
+Пара просто слушала, как дети рассказывают о своем дне. Когда дети убежали, Сара рассказала им о своих делах и обо всем, что произошло. Простой видеозвонок помог им расслабиться перед тем, как они действительно погрузились в дело.
+
+The pair just listened to their kids talk about their day. Once the kids ran off, Sarah caught them up on her hobbies and anything that came up. Something as simple as a video call helped them relax before they really got into the case.
+
+---
+
+Где-то в другом месте кто-то из группы друзей разговаривал по телефону со своим сообщником. Он рассказал партнеру о текущем расследовании. Новые прибывшие встревожили их.
+
+Elsewhere, someone from the friend group was on the phone talking with their accomplice. They filled their partner in on the ongoing investigation. The new arrivals alarmed them.
+
+---
+
+Партнер заявил, что они привели команду из ЩИТ. Другой преступник поднял взгляд от чая. Он бросил взгляд на маленькую комнату в углу здания. Она наконец замолчала после большого движения и жалоб от нового гостя.
+
+The partner stated they had brought in that team from SHIELD. The other criminal looked up from their tea. They spared a glance at the small room in the corner of the building. It finally fell silent after a lot of movement and whining from their new guest.
+
+---
+
+Убийца предупредил, что они знают, что делать, если те подойдут слишком близко. У них были планы на случай таких ситуаций.
+
+The killer warned they knew what to do if they got too close. They had contingencies for things like this.
+

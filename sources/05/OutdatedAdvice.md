@@ -1,0 +1,562 @@
+В начале 2010-х годов рассказчик путешествовал за границу. В то время во многих европейских ресторанах и туристических киосках еще упоминали дорожные чеки. С тех пор он их не видел. Его друг Google сказал ему что существующие чеки технически все еще действительны. Но их больше не выпускают так часто. Сейчас можно купить подарочную карту которая работает как дорожный чек. Она работает почти как кредитная карта.
+
+In the early 2010s the narrator traveled overseas. Many European restaurants and tourist stands still mentioned traveler's checks at that time. He hasn't seen any since then. His friend Google told him that existing checks are still technically valid. But they aren't issued as much anymore. Now you can buy a gift card that works like a traveler's check. It works more or less like a credit card.
+
+---
+
+За неделю до того как он уехал в колледж его отец купил дешевый электрический гравировщик. Отец выгравировал номер социального страхования на телевизоре и велосипеде. Он также выгравировал номер на нескольких других вещах. Так если их украдут и найдут он сможет доказать что они его. Вероятно сейчас так не делают.
+
+A week before he left for college his dad bought a cheap electric etcher. His dad etched his social security number onto his TV and bike. He also etched the number onto a couple of other things. That way if they were stolen and recovered he could prove they were his. Probably not done today.
+
+---
+
+Отец другого человека делал то же самое. Он думал что это просто какая-то безумная идея его отца. Удивительно думать что выгравировать номер социального страхования было обычным советом отцов в то время.
+
+Another person's dad did the same thing. He thought it was just some madness his dad came up with. It's amazing to think that putting your SSN out there was commonplace dad wisdom one time.
+
+---
+
+Всегда носи с собой четвертак на случай если нужно будет позвонить. Один человек достаточно стар чтобы помнить когда звонок с таксофона стоил десять центов. Родители его друга очень разозлились когда цена выросла. Им пришлось давать каждому из детей четвертак для экстренного звонка вместо десяти центов. В таком случае звонок должен быть настоящей экстренной ситуацией.
+
+Always keep a quarter on you in case you need to make a call. One person is old enough to remember when a pay phone call still cost a dime. His friend's parents were really annoyed when the price went up. They had to give each of their kids a quarter for an emergency phone call instead of a dime. That call had better be a real emergency in that case.
+
+---
+
+Будь добр. Пожалуйста перемотай. Никто не будет платить тебе за то что ты смотришь на экран компьютера весь день. Так сказала мама одного человека в 1996 году на заре интернета. Он учился на степень по информатике с 1994 по 1998 год.
+
+Be kind. Please rewind. Nobody's going to pay you to stare at a computer screen all day. That's what one person's mom said in 1996 at the dawn of the internet. He was working on his computer science degree from 1994 to 1998.
+
+---
+
+Вскоре после окончания учебы он навещал семью. Один из его дядей отвел его в сторону. Он сказал что его сын хочет заниматься компьютерными делами. Он спросил занимается ли он компьютерными делами. Он спросил может ли его сын действительно получать за это деньги. Он ответил что его первая работа после колледжа приносила 48 тысяч долларов в год. Он работал младшим разработчиком. Для его семьи это были большие деньги для первой работы. Дядя поднял брови и кивнул. Его двоюродный брат сын дяди в итоге не занялся компьютерными делами.
+
+Shortly after graduating he was visiting his family. One of his uncles pulled him aside. He said his son wants to do this computer thing. He asked if he does the computer thing. He asked if his son can actually get paid for it. He responded that his first job out of college was making 48K a year. He worked as a junior developer. To his family that's a lot of money for a first-time job. His uncle raised his eyebrows and nodded. His cousin his uncle's son did not end up doing the computer thing.
+
+---
+
+Однако не рекомендуется заниматься кантри-танцами во время месячных. Один из любимых видео одного человека из 1940-х годов дает советы девочкам о половом созревании. Это история о менструации 1946 года. Его теща сказала ему что он никогда не должен поднимать ничего во время месячных. Напряжение может привести к тому что матка выпадет.
+
+However it is not advised to square dance on your period. One of one person's favorite videos from the 1940s gives advice for girls on puberty. It's the story of menstruation 1946. His mother-in-law told him that he should never lift anything while on his period. The strain will cause his uterus to fall out.
+
+---
+
+В оригинальном справочнике бойскаутов если он правильно помнит способ справиться с самоубийцей который бросился на рельсы был такой. Нужно прыгнуть на него сверху и удержать его конечности в пределах рельсов. Затем позволить поезду просто проехать над ним. Однако насколько он знает большинство современных поездов имеют гораздо меньший зазор. У них есть мониторинг и другое оборудование выступающее снизу. Это оставляет зазор всего в несколько дюймов. Насколько распространено было самоубийство поездом что это нужно было включить в чертов справочник бойскаутов.
+
+In the original Boy Scouts Handbook if he recalls correctly the way to deal with a suicidal person who threw themselves onto train tracks was this. You jump on top of them and restrain their extremities within the confines of the rails. Then allow the train to simply pass over them. However as far as he's aware most modern trains have much lower clearances. They have monitoring and other equipment jutting from the bottom. This leaves clearances of mere inches. How common was suicide by train that it needed to be in the goddamn boy scout handbook.
+
+---
+
+Регулярно чисти шарик и ролики на своей мыши. Если изображение на мониторе компьютера обесцвечено или искажено попробуй нажать кнопку дегауссер. Убедись что у тебя есть мелочь для таксофона на всякий случай. Если у ученика старшей школы есть пейджер он вероятно торговец наркотиками.
+
+Regularly clean out the ball and rollers on your mouse. If the picture on your computer monitor is discolored or distorted try pressing the degausser button. Make sure to keep spare change on you for the pay phone just in case. If a high school student has a pager he's probably a substance dealer.
+
+---
+
+Да они действительно говорили нам это в моей старшей школе. Один человек ходил в среднюю школу когда пейджеры были популярны. Они были запрещены в его школе. Девочка которую он знал имела инсулиновую помпу для диабета. Она выглядела очень похоже на пейджер. Одна злая учительница попыталась забрать ее у нее думая что это пейджер.
+
+Yeah they actually told us this at my high school. One person went to middle school back when pagers were a thing as well. They were banned in his school. A girl he knew had an insulin pump for her diabetes. It looks a lot like a pager. A witch of a teacher tried to take it from her thinking it was a pager.
+
+---
+
+Учительница отказалась верить что это инсулиновая помпа. Возможно она не знала что такое инсулиновая помпа. Она либо отправила девочку в офис либо дала ей наказание. Когда родители девочки узнали обо всем этом они обрушились на школу с яростью тысячи титанов. Он не знает конкретно что сказали или сделали родители. Но они внушили такой страх что девочка стала практически неуязвимой.
+
+The teacher refused to believe that it was an insulin pump. Or possibly she didn't know what an insulin pump was. She either sent the girl to the office or gave her detention. When her parents found out about the whole thing they came down on that school with the fury of a thousand titans. He doesn't know specifically what the parents said or did. But they put the fear of God into them so hard that the girl essentially became invincible.
+
+---
+
+Она могла бы открыть бордель в библиотеке и начать торговать наркотиками. Администрация не сказала бы ни слова. Одному человеку дали книгу Чего ожидать когда ты ожидаешь напечатанную в начале или середине 1970-х годов. И боже в ней есть настоящие жемчужины. До пяти бокалов вина в день безопасно. По крайней мере два рекомендуются.
+
+She could have opened a brothel in the library and actually started dealing. The administration wouldn't have said a thing. One person was given a What to Expect When You're Expecting book printed in the early or mid 70s. And boy that thing has some gems in it. Up to five glasses of wine a day is safe. At least two are recommended.
+
+---
+
+До четырех крепких алкогольных напитков в неделю нормально. Используй комбинезоны и автокресла чтобы согреть младенцев в машине. Естественное вскармливание нормально но смесь лучше потому что она научно лучше. Грудное вскармливание должно выполняться только если ты не можешь позволить себе смесь. До двух унций воды начиная с восьми недель возможно с шести.
+
+Up to four hard alcoholic beverages a week is okay. Use snowsuits and car seats to keep babies warm in the car. Natural feeding is okay but formula is better because it's scientifically better. Chest feeding should only be done if you're not able to afford formula. Up to 2 ounces of water beginning at 8 weeks maybe six.
+
+---
+
+До половины пачки сигарет в день нормально. Книга также прославляла шов мужа. Погугли это если хочешь возненавидеть патриархат. Слишком много кардио больше двадцати минут легких или умеренных упражнений в день или любые тяжелые упражнения увеличивают мертворождения и синдром внезапной детской смерти после этого.
+
+Up to half a packet of cigarettes a day is all right. The book also glorified the husband stitch. Google that if you want to hate the patriarchy. Too much cardio more than 20 minutes of mild to moderate exercise a day or actual hard exercises at all increases still births and SIDs afterwards.
+
+---
+
+Когда брат одного человека был еще маленьким ребенком в самом начале 2000-х годов врачи сказали его родителям чтобы они заставляли его избегать продуктов вызывающих аллергию. Когда ему было два года он съел арахис. Его родители не думали об этом ничего. Они ждали пару лет прежде чем дать ему что-то подобное. Но у него была аллергическая реакция и они срочно отвезли его в больницу.
+
+When one person's brother was just a little baby right at the start of the 2000s the doctors told his parents to have him avoid commonly allergenic foods. When he was two he had peanuts. His parents didn't think anything of it. They'd waited a couple of years to give him anything like that. But he had an allergic reaction and they rushed him to the hospital.
+
+---
+
+У него развилась опасная для жизни аллергия на арахис и орехи. Два года спустя родился он. Та же ситуация. Ему не давали орехи хотя его проверили когда ему было около четырех лет. Признаков аллергии не было. Так он продолжал жить без каких-либо орехов вообще. Не потому что у него была аллергия. А потому что у его брата была аллергия.
+
+He had developed a life-threatening allergy to peanuts and tree nuts. 2 years later he was born. Same deal. He wasn't given nuts though he was tested when he was around four with no sign of an allergy. So he went on living his life without any nuts whatsoever. Not because he has an allergy. But because his brother had one.
+
+---
+
+В пятом классе ему дали батончик мюсли на бейсбольной тренировке. Он не знал что в нем есть арахис. Но он попросил отца отвезти его домой потому что чувствовал себя ужасно. У него была очень больная горло. Его отец предположил что он просто не хочет быть там и хочет играть в видеоигры или что-то в этом роде.
+
+In fifth grade he was given a granola bar at baseball practice. He didn't know it had peanuts in it. But he asked his dad to take him home because he felt horrible. He had an extremely sore throat. His dad assumed he just didn't want to be there and to play video games or something.
+
+---
+
+Но его параноидальная мама можно представить почему спросила его ел ли он что-нибудь. Ему сделали еще один тест. И конечно же у него была опасная для жизни аллергия на арахис и орехи. Обычно не опасная для жизни в первый раз. Оказывается после более недавних исследований нужно делать прямо противоположное маленьким детям.
+
+But his paranoid mom you can imagine why asked him if he had anything to eat. He had another test. And sure enough he had a life-threatening allergy to peanuts and tree nuts. Not life-threatening the first time usually. It turns out after more recent studies the exact opposite is supposed to be done to young children.
+
+---
+
+Они должны есть все виды продуктов которые обычно вызывают аллергию. Это нужно чтобы их тела привыкли к еде и были гораздо менее склонны к развитию аллергии. Если тебе интересно он и его брат прошли экспериментальное новое лечение за последние пару лет. Оно называется оральная иммунотерапия или ОИТ. Теперь они принимают ежедневные дозы около пяти арахисов и других орехов на которые у них аллергия.
+
+They must eat all kinds of foods that are commonly allergenic. This is to make their bodies used to food and much less likely to develop an allergy. If you're wondering he and his brother underwent an experimental new treatment over the past couple of years. It's called oral immunity therapy or OIT. Now they take daily doses of around five peanuts and other nuts they're allergic to.
+
+---
+
+Теперь они могут есть где хотят без необходимости носить с собой эпинефрин. Спасибо что послушали мой TED talk. Ну все эти вещи о преследовании девушек которые играют в труднодоступных определенно не выдержали испытания временем. Если тебе нравится парень играй в труднодоступную. Мальчики любят вызов.
+
+Now they can eat anywhere they want without needing to carry epinephrine. Thanks for listening to my TED talk. Well all the stuff about pursuing girls that are playing hard to get certainly hasn't aged well. If you're into a guy play hard to get. Boys love a challenge.
+
+---
+
+Одна женщина всегда знала что этот совет ужасен. Это токсичная чушь в ее подростковом возрасте. Но она думала что она просто легкомысленная или что-то в этом роде. Она не хотела играть в игры с любым парнем который ей нравился. Оказывается она была просто нормальным функционирующим человеком. Она хотела иметь настоящий разговор с кем-то с кем она могла бы встречаться.
+
+One woman always knew that advice was horrible. It's toxic bull crap in her teens. But she thought she was just easy or something. She didn't want to play games with any guy she liked. Turns out she was just a normal functioning human being. She wanted to have an actual conversation with someone she might want to date.
+
+---
+
+Что ты знаешь. Знаешь что действительно не выдержало испытания временем так это то что ее мать была той кто дал ей такой совет. Ее отца не было рядом. Так что она дала ей некоторые из этих типичных разговоров когда она росла. Ее мать сказала что она должна научиться что иногда нет значит нет. А иногда нет значит продолжай пытаться. Она должна была выяснить разницу.
+
+What do you know. You know what really hasn't aged well is the fact that her mother was the one who gave her that kind of advice. Her father wasn't around. So she gave her some of those typical talks growing up. Her mother said she had to learn that sometimes no means no and sometimes no means keep trying. She had to figure out the difference.
+
+---
+
+Ее дедушка сказал что это глупо. Он сказал не мирись с женщинами которые играют в игры. Он был прямым парнем. К счастью она последовала его совету. Это имело гораздо больше смысла для нее и было проще. Хорошо знать что даже когда эту чушь распространяли были умные люди обоих полов которые инстинктивно знали что это ерунда.
+
+Her grandfather said that was stupid. He said don't put up with women that play games. He was a straightforward kind of guy. Luckily she took his advice. It made much more sense to her and it was easier. Good to know that even when that bull crap was being peddled there were smart people in both genders who instinctively knew it was nonsense.
+
+---
+
+Хорошо для них. Хотелось бы чтобы мы могли полностью удалить это раз и навсегда. Потому что мы все еще имеем дело с последствиями сегодня. Если видеоигра не работает с первого раза просто подуй на нее. О это сберегательный счет это хорошая инвестиция. Что с процентом 0.05 и всем прочим.
+
+Good for them. Wish we could fully excise it once and for all. Because we're still dealing with the ramifications today. If a video game doesn't work at first just blow on it. Oo that savings account is a good investment. What with the 0.05 interest and all.
+
+---
+
+Не разговаривай с незнакомцами в интернете. Также не встречайся и не ходи на свидания с незнакомцами из интернета. Одна женщина была ранним пионером здесь. Она встретила своего нынешнего мужа онлайн в 1999 году. Это было скандально и рискованно в то время. Лол.
+
+Don't talk to strangers on the internet. Also don't meet or date strangers from the internet. One woman was an early pioneer here. She met her now husband online in 1999. It was scandalous and risky back then. Lol.
+
+---
+
+Она сказала своей маме встреча с парнем в баре или спортзале это безопасно да. По крайней мере парни онлайн имели достаточно вместе чтобы выйти в интернет в то время. Это было не то что все делали в то время. О если ты хочешь использовать интернет убедись что никто не использует стационарный телефон.
+
+She said to her mom meeting a guy in a bar or gym is safe is it. At least the guys online had their crap enough together to get online back then. It wasn't something everyone did back then. Oh if you want to use the internet make sure no one's using the landline.
+
+---
+
+Чтобы заплатить за колледж просто работай неполный рабочий день в ресторане официантом. Тогда ты можешь избежать всего этого студенческого долга. Когда люди говорят просто будь терпелив и любовь найдет путь это говорилось во времена когда люди были на улице гораздо больше.
+
+To pay for college just work part-time at a restaurant waiting tables. Then you can avoid all of that student debt. When people say just be patient and love will find a way this was said in a time when people were outside a lot more.
+
+---
+
+В наши дни кто-то может ходить на работу и домой и сидеть за компьютером каждый день годами. И никогда не быть близко к тому чтобы найти кого-то. Она думает что в наши дни ты должен приложить усилия чтобы найти кого-то. Или по крайней мере выйти из своего пузыря и быть общительным.
+
+Nowadays someone can go to work and go home and sit at their computer every day for years. Without ever being close to finding someone. She thinks nowadays you have to go out of your way to find someone. Or at the very least go out of your bubble and be social.
+
+---
+
+Добавляя к этому есть концепция в социологии называемая третье место. Первое место это дом. Второе это работа. В основном у тебя есть домашнее сообщество и рабочее сообщество. Третье место раньше были такие вещи как церкви социальные клубы и братства. По сути вращающаяся дверь новых людей.
+
+Adding to this there's a concept in sociology called the third place. The first place is home. The second is work. Basically you have a home community and a work community. The third place used to be things like churches social clubs and fraternities. Essentially a revolving door of new people.
+
+---
+
+Но мы не заменили эти вещи с тех пор как они вышли из моды. У большинства людей есть только два места. Это делает встречу с новыми людьми и участие в своем сообществе невероятно трудным. Это также почему для многих людей было так намного проще заводить новых друзей и встречать новых людей когда они еще ходили в школу.
+
+But we haven't really replaced those things since they fell out of style. Most people only have two places. This makes meeting new people and being involved with your community immensely difficult. It's also why for a lot of people it was so much easier to make new friends and meet new people when they were still going to school.
+
+---
+
+Школа была твоим третьим местом когда ты был молод. Ты можешь отправить свои собственные истории чтобы их показали здесь на канале. Ссылка на отправку истории в описании ниже. И если ты хочешь послушать какую-то расслабляющую музыку на фоне проверь Easy Mode также связанный ниже. И подписывайся.
+
+School was your third place when you were young. You can submit your own stories to be featured here on the channel. The story submission link is in the description below. And if you want to listen to some viby music in the background check out Easy Mode also linked below. And subscribe.
+
+---
+
+Просто приди в офис с резюме и не уходи пока не получишь собеседование. Одна из любимых историй одного человека с Reddit за последний год была о парне который написал о том как его отец уволенный из-за COVID-19 сказал ему ленивому сыну что он собирается показать ему как это делается.
+
+Just show up at the office with a resume and don't leave until you get an interview. One of one person's favorite Reddit stories from the last year was a guy who posted about how his father laid off due to COVID-19 told him the lazy son how he was going to show him how to do it.
+
+---
+
+Отец решил в какое место он теперь будет работать. Он ворвался в офис менеджера с подходом я не уйду пока ты не наймешь меня. Его арестовали. Парень который написал об этом отметил что за 3 недели с момента события всякий раз когда это всплывало отец настаивал что это было недоразумение. Он говорил что компания одумается в любой день сейчас.
+
+He made his decision about what place he was now going to work for. He basically burst into the manager's office with the I'm not leaving until you hire me stick. He was arrested. The guy who wrote about it noted that in the 3 weeks since the event anytime it came up the dad insisted it was a misunderstanding. He said the company would come around any day now.
+
+---
+
+Что никогда не хорошая идея носить маску в банк. Хотя это только старомодно сейчас из-за причин связанных с пандемией. Если они говорят нет в первый раз просто продолжай пытаться. Отец одного человека случайно воспитал его очень хорошо в этом отношении. Если ты не слышишь да ответ это нет.
+
+That it's never a good idea to wear a mask to the bank. Although that's only old-fashioned now due to pandemic related reasons. If they say no the first time just keep trying. One person's dad accidentally raised him really well in that respect. If you don't hear yes the answer is no.
+
+---
+
+Если ответ нет не спрашивай снова. Просто потому что ответ был да один раз это не значит что ответ всегда да. Чтобы найти свою первую работу например как подросток просто ходи от места к месту заполняя бумажные заявления. Нет. Теперь почти везде просто говорят подавай заявление онлайн и мы можем позвонить.
+
+If the answer is no don't ask again. Just because the answer was yes once it doesn't mean the answer is always yes. To find your first job like as a teenager just go from place to place filling out paper applications. Nope. Now pretty much everywhere just says apply online and we might call.
+
+---
+
+В прошлом году он подал заявление в In-N-Out популярное место с бургерами на юго-западе США. На их веб-сайте они рекомендовали прийти лично и попросить заявление. Он пришел туда и они сказали ему что они только действительно делают онлайн заявления. Так он подал заявление онлайн и никогда не получил ответа.
+
+Last year he applied at the In-N-Out a popular burger place in the Southwest US. On their website they recommended going in in person and requesting an application. He got there and they told him they only really do online applications. So he applied online and never got a response.
+
+---
+
+Ты можешь очаровать женщину подав ей кусок сыра. Один человек имеет в виду что это все еще правда. Он определенно был бы очарован если какой-то случайный человек дал ему сыр вне контекста. Покажи своему работодателю лояльность и они будут лояльны к тебе.
+
+You may fascinate a woman by handing her a piece of cheese. One person means this one's still true. He'd definitely be fascinated if some rando handed him cheese out of context. Show your employer loyalty and they'll be loyal to you.
+
+---
+
+Его семья очень старомодна и совсем не понимает что это чушь. Его отец провел 30 лет в военных и затем должен был уйти потому что он был слишком толстым. Он вошел на рынок труда почти в 50 лет и провалился ужасно. Он не имел понятия как конкурировать.
+
+His family is super old-fashioned and don't understand that this is bull crap at all. His father spent 30 years in the military and then had to leave because he was too fat. He entered the job market at almost 50 and failed miserably. He had no idea how to compete.
+
+---
+
+Все что он знал было то чему его отец научил его 50 лет назад. Бедный парень почти потерял свой дом прежде чем нашел работу чтобы поддерживать себя. Он получил предложение через 2 года за больше денег. И это было все еще близко к дому. И он отказался от него потому что чувствует что он должен своей текущей работе.
+
+Everything he knew was what his father taught him 50 years ago. The poor guy almost lost his house before he found a job to support himself. He got an offer 2 years later for more money. And it was still close at home. And he turned it down because he feels like he owes his current job.
+
+---
+
+Он просто не понимает. Друг одного человека верил в это так долго и оставался допоздна каждый день. Даже после того как все они сказали ему что они бизнес и им наплевать на тебя. Когда его в итоге уволили после сокращений COVID он понял. Он надеется.
+
+He just doesn't get it. One person's friend believed this for so long and would stay late every day. Even after all of us told him they're a business and don't give a crap about you. When he was eventually released after COVID cutbacks he understood. He hopes.
+
+---
+
+В любом случае его бабушка говорила не пей воду после того как ешь фрукты или ты заболеешь. Очевидно это происходит из времени когда люди пили из колодцев. Сахар из фруктов позволил бы бактериям из воды бродить в желудке. Это больше не проблема с современными водоснабжением.
+
+Anyway his grandmother used to say don't drink water after eating fruit or you'll get sick. Apparently this comes from a time when people drank from wells. The sugar from the fruit would allow bacteria from the water to ferment in the stomach. It's no longer a problem with modern water supplies.
+
+---
+
+О если у тебя есть хулиганы просто игнорируй их. Честно говоря это никогда не было применимо. Как кто-то кто имел дело с хулиганами столько сколько он может помнить это нереалистичное ожидание что придурки как он просто остановятся потому что тебе все равно.
+
+Oh if you have bullies just ignore them. Honestly this was never applicable. As someone who's dealt with bullies for as long as he can remember it's an unrealistic expectation that a-holes like him would just stop because you don't care.
+
+---
+
+Очень трудно игнорировать хулигана который сбивает тебя на землю. И его друзья начинают пинать тебя как футбольный мяч. Пока он буквально прыгает всем своим весом на твою голову в попытке разбить твой череп. Сломанные кости и синяки под глазами заставляют их остановиться.
+
+It's really hard to ignore a bully that knocks you to the ground. And has his buddies start kicking you like a football. While he literally jumps his whole weight on your head in an attempt to break open your skull. Broken bones and black eyes make them stop.
+
+---
+
+Честно говоря ничто кроме этого не работает. Жарь их так сильно что все остальные будут смеяться над ними какое-то время. Ты будешь избит на выходе в конце дня. Если ты игнорируешь их они удваивают ставки. Если ты говоришь об этом никто не является разумным хулиганом.
+
+Honestly nothing short of that works. Roast them so hard that everyone else is making fun of them for a while. You're going to get jumped on the way out at the end of the day. If you ignore them they double down. If you talk it out no one is a reasonable bully.
+
+---
+
+Просто следуй лучшему совету. Будь профессионалом. Будь вежлив. Но имей план избить каждого кого ты встречаешь. О медицина 1900-х годов. Больное горло выкури сигарету. Депрессия выкури сигарету. Боль от схваток при беременности выкури целую пачку.
+
+Just follow better advice. Be professional. Be polite. But have a plan to beat up everyone you meet. Oh 1900's medicine. Sore throat smoke a cigarette. Depression smoke a cigarette. Pain from pregnancy contraction smoke a whole pack.
+
+---
+
+Так современный капитализм может иметь свой собственный набор ужасающих дистопийных проблем. Но по крайней мере мы временно прошли стадию где реклама может сказать тебе выпить кока-колу или выкурить сигареты если ты чувствуешь себя плохо. Хотя с текущей администрацией кто знает.
+
+So modern capitalism may have its own host of horrifying dystopian problems. But at least we're temporarily past the stage where adverts can tell you to drink a Coca-Cola or smoke cigarettes if you're feeling unwell. Although with the current administration who knows.
+
+---
+
+Чтобы получить работу просто зайди в любое место бизнеса. Они всегда нанимают и разговор с менеджером даст тебе эту работу начиная с сегодня. Крепкое рукопожатие. Возьми хорошую бумагу для копий твоего резюме. Один человек помнит как его учителя говорили ему не изучай эти новые модные предметы в университете как медиа видеомонтаж или технологии.
+
+To get a job walk on into any place of business. They're always hiring and talking to the manager will get you that job starting today. Firm handshake. Get the nice paper for your copies of your CV. One person remembers his teachers telling him don't study these new trendy subjects at university like media video editing or tech.
+
+---
+
+Ты должен сосредоточиться на традиционных предметах как литература история и так далее. Через 15 лет после окончания учебы со степенью бакалавра искусств и магистра искусств по английской литературе он теперь работает за минимальную зарплату в магазине. Чертова его жизнь.
+
+You should focus on traditional subjects like literature history and so on. 15 years after graduating with his bachelor of arts and master of arts and English lit he now works minimum wage in a shop. Freick my life.
+
+---
+
+Не говори о зарплатах на работе. Это была просто чушь которую работодатели распространяли чтобы остановить тебя от выяснения что ты получаешь меньше чем другие коллеги. Один человек работает изо всех сил и далеко за рабочие часы чтобы управлять ужасными клиентами которых команда продаж привлекает.
+
+Don't talk about salaries at work. That was just bull crap employers perpetuated to stop you working out you were on less than other colleagues. One person works his butt off and well out of working hours to manage awful clients that the sales team wrangles in.
+
+---
+
+А также остальные его коллеги в его отделе. Он недавно узнал что команда продаж получает около 40000 больше стартовой зарплаты и получает ежемесячный бонус. Он был на звонках продаж раньше где они перепродают. И затем они умывают руки от проблем. И затем они могут закончить свой день в разумный час.
+
+As well as the rest of his colleagues in his department. He recently found out that the sales team makes about 40000 more starting pay and gets a monthly bonus. He's been on the sales calls before where they oversell. And then wash their hands of the issues. And then they're able to end their day at a reasonable hour.
+
+---
+
+Он не понял бы насколько обмануты и недооценены некоторые отделы если люди не обсуждали свои зарплаты. И он знает что команды продаж жизненно важны для роста. Но удержание клиентов важно для поддержания этого. В общем не перегружай сотрудников и плати им то что они стоят.
+
+He wouldn't have realized just how screwed over and undervalued some departments are if people didn't discuss their salaries. And he knows sales teams are vital to growth. But client retention is important in maintaining that. In general don't overwork employees and pay them what they're worth.
+
+---
+
+Если твоя команда тонет тогда дай им ресурсы. Взрослые в 90-х и начале 2000-х не размещай свою личную информацию онлайн. Так перенесемся в 2021 год. 500 миллионов пользователей Facebook их номера телефонов имена и электронные письма были утечка. Он задается вопросом сколько из них люди в возрасте 50 лет и старше.
+
+If your team is drowning then get them resources. Adults in the 90s and early 2000s don't put your personal information online. So fast forward to 2021. 500 million Facebook users phone numbers names and emails were leaked. He wonders how many of those are people aged 50 or up.
+
+---
+
+Если ты усердно работаешь с тобой будут хорошо обращаться. У тебя не всегда будет калькулятор с тобой. Научись делать математику правильно. Стоимость жилья никогда не превысит доступность. Просто иди и получи работу в почтовой комнате и работай свой путь вверх.
+
+If you work hard you'll be treated right. You're not always going to have a calculator on you. Learn to do the math properly. The cost of housing will never outpace affordability. Just go get a job in the mail room and work your way up.
+
+---
+
+О совет данный молодым девочкам. Этот мальчик груб с тобой потому что ты ему нравишься. Нет. Этот мальчик просто придурок и это поведение не хорошая вещь. Отец одного человека неоднократно советовал ему заходить в как можно больше мест и оставлять напечатанное резюме для их записей.
+
+Oh that advice given to young girls. That boy is being mean to you because he has a crush on you. Nope. That boy is just being a jerk and that behavior is not a good thing. One person's dad would repeatedly advise that he go into as many places as he could and drop off a printed CV for their records.
+
+---
+
+И что это был лучший способ получить работу. Это не было правдой тогда. Немногие места принимали нежелательные заявления. И затем они их выбрасывали. И это определенно не правда сейчас. Нигде не принимает нежелательные заявления. Заявления все делаются онлайн.
+
+And that this was the best way to get a job. It wasn't true then. Few places accepted unsolicited applications. And then they threw them out. And it definitely isn't true now. Nowhere accepts unsolicited. Applications are all done online.
+
+---
+
+Нужно доедать свою тарелку. Один человек просто учит своих детей переставать есть когда они чувствуют что им достаточно. Нет нужды набивать их лица большим количеством еды просто из-за чего бы то ни было. Он не американец кстати. Он абсолютно согласен.
+
+H to finish your plate. One person just teaches his kids to stop eating when they feel they've had enough. No need to stuff their faces with more food just because of whatever. He's not American by the way. He absolutely agrees.
+
+---
+
+Но их дочь пяти лет делает два укуса своего ужина. И затем говорит я больше не голодна. И затем через 5 минут после того как стол убран она говорит я голодна. Так да они начали быть немного более строгими с ней заставляя ее есть свою еду.
+
+But their daughter of 5 years takes two bites of her dinner. And then goes I'm not hungry anymore. And then 5 minutes after the table is cleared she goes I'm hungry. So yeah they've started being a little more strict with her having to eat her food.
+
+---
+
+Иди в колледж и ты получишь хорошую работу. Однажды ты встретишь правильного человека. Влюбись и женись и ты будешь счастлив. Что за кучу конского дерьма. Если ребенок не перестанет плакать проверь чтобы убедиться что булавка подгузника не вонзается в него.
+
+Go to college and you'll get a good job. One day you'll meet the right person. Fall in love and get married and you'll be happy. H what a load of horse crap. If the baby won't stop crying check to make sure the diaper pin isn't sticking into him.
+
+---
+
+Ты должен вызвать своего друга на дуэль на мечах за клевету на тебя. О боже мой. Дедушки всегда такие. Так я приставал к ней и следовал за ней месяцами и месяцами. Даже хотя она говорила мне уйти. Пока она наконец не пошла со мной на свидание.
+
+You should jewel your friend in a sword fight for slandering you. Oh my god. Grandpas are always like so I pestered her and followed her around for months and months. Even though she told me to go away. Until she finally went out with me.
+
+---
+
+И мы женаты 50 лет в этом месяце. Да не делай этого. При вождении держи руки на 10 и 2. Это на самом деле увеличивает шанс того что твои руки будут раздавлены раскрывающейся подушкой безопасности. Один человек учился в 2016 году и ему рекомендовали использовать позиции 8 и 4 по этой причине.
+
+And we've been married for 50 years this month. Yeah don't do that. When driving keep your hands at 10 and two. That actually increases the chance of having your arms crushed by a deploying airbag. One person learned in 2016 and was encouraged to use positions 8 and four for that reason.
+
+---
+
+Клиент всегда прав. Этот совет все еще правилен но большинство людей не понимают его. Это не значит делай что хочет твой клиент. Или они имеют право быть придурками. Но скорее если ты создаешь продукт или услугу которую никто не хочет ты провалишься или что-то в этом роде.
+
+The customer is always right. This advice is still correct but most people don't understand it. It doesn't mean do whatever your customer wants. Or they have a right to be a buttthead. But rather if you create a product or service that nobody wants you'll fail or something like that.
+
+---
+
+Эта поговорка была грубо неправильно использована за эти годы. Чем больше ты знаешь. Если ты хочешь показать компании насколько ты заинтересован в позиции продолжай проверять. Не позволяй им забыть тебя. Человек оказывается многие из нас были просто вынуждены пройти через это да.
+
+The saying has been grossly misused over the years. The more you know. If you want to show a company how interested you are in a position keep checking back. Don't let them forget you. Man turns out a lot of us were just forced to see this one through huh.
+
+---
+
+Один человек помнит как думал что нет никакого способа что это сработает когда он был моложе. И его все равно заставили это сделать. И он был полностью прав. Кроме одного джентльмена который действительно взял его резюме. И сказал что ему нравится его напор. Затем никогда не перезвонил и исчез из магазина после этого.
+
+One person remembers thinking there was no way this would work when he was younger. And was forced to do it anyway. And he was completely correct. Apart from one gentleman who actually took his CV. And said he liked his drive. Then never called back and disappeared from the store afterwards.
+
+---
+
+Хорошие времена. Покажи ей кто главный. Просто подойди прямо и поцелуй ее. Так сказал Крид в офисе. Отец одного человека всегда шутливо говорил обними свою симпатию когда никто не смотрит. И если она не сопротивляется у нее симпатия к тебе.
+
+Good times. Show her who's the boss. Just go right up and kiss her. Said by Creed in the office. One person's dad would always jokingly say hug your crush when no one's looking. And if she doesn't resist she has a crush on you.
+
+---
+
+И если она сопротивляется просто притворись что это была случайность. И очевидно его брат попробовал это. Угадай какой родитель отказался показать свое лицо когда школа позвонила. Прими это как мужчина. Мужчины не плачут.
+
+And if she does just pretend it was an accident. And apparently his brother tried this. Guess which parent refused to show his face when the school called. Take it like a man. Men don't cry.
+
+---
+
+Как женщина которая хочет видеть мужчин расти и выражать свои эмоции кажется вредным заставлять их придерживаться устаревшей гендерной нормы. Сортируй белье по типу. О тебе нужно будет научиться писать курсивом для тех заявлений о работе.
+
+As a woman who wants to see men grow and express their emotions it seems damaging to make them adhere to an outdated gender norm. Sort laundry by type. Oh you're going to need to learn cursive for those job applications.
+
+---
+
+О ты можешь доверять ему. Он банкир. То же самое с политиками. Тебе нужно идти в колледж. Мать одного человека все еще верит что ты можешь бомбардировать людей запросами о трудоустройстве. Даже после того как начались карантины пандемии.
+
+Oh you can trust him. He's a banker. Ditto with politicians. You need to go to college. One person's mother still believes you can bombard people with inquiries about employment. Even after the pandemic lockdowns started.
+
+---
+
+Если ты слишком много мастурбируешь ты ослепнешь. Один человек уверен что средний человек в интернете знает к настоящему времени что это не правда. Если ты пощадишь Switch ты испортишь ребенка. Ты должен баловать своих детей. Купи Nintendo Switch.
+
+If you crank your eggplant too much you'll go blind. One person is sure the average person on the internet knows by now this isn't true. If you spare the Switch you'll spoil the child. You should spoil your children. Buy the Nintendo Switch.
+
+---
+
+Да может быть просто не Nintendo Switch 2 пока еще. Та пресс-конференция была катастрофой и выглядит очень плохо. 20 лет назад люди говорили что ты захочешь накопить от 30 до 50 тысяч. Чтобы сделать первоначальный взнос на дом. Теперь ты просто добавляешь еще один ноль к этому.
+
+Yeah maybe just not the Nintendo Switch 2 just yet. That press conference was a disaster and it looks real bad. 20 years ago people said you'll want to save up 30 to 50 grand. So you can put a down payment down on a house. Now you just add another zero onto that.
+
+---
+
+И надеешься что кто-то не придет с предложением наличными. Ты должен есть устрицы только в месяцах с буквой Р в них. Это было что-то связанное с сезоном устриц. И как они не хороши во время лета. Май июнь июль август.
+
+And hope that someone doesn't come in with a cash offer. You should only eat oysters in months with an R in them. It was something to do with oyster season. And how they aren't any good during the summer. May June July August.
+
+---
+
+В наши дни с устричными фермами это больше не риск. Ты не должен встречаться с кем-то из другой этнической группы. Это то чему научила меня моя мать. Не проводи слишком много времени онлайн. Ты испортишь свою карьеру.
+
+Nowadays with oyster farms it's not really a risk anymore. You shouldn't date someone from another ethnic background. That's the one my mother taught me. Don't spend too much time online. You'll ruin your career.
+
+---
+
+Теперь тот же учитель преподает через Teams. О дорогая. Можешь ли ты подождать до 11 вечера чтобы сделать междугородний телефонный звонок. Это когда тарифы снижаются. Если ты хочешь поговорить с кем-то снова убедись что у тебя есть пейджер с тобой.
+
+Now that same teacher is teaching via Teams. Oh sweetie. Can you wait until after 11 p.m. to make a longdistance phone call. That's when the rates go down. If you want to talk to someone again make sure that you've got your pager on you.
+
+---
+
+Завтрак это самый важный прием пищи дня. Да это было когда мы ели завтрак. Затем работали в полях 12 часов. Теперь ты должен есть когда ты голоден. Не трать все в одном месте. Один человек любит удобство получения всего что ему нужно в одном месте.
+
+Breakfast is the most important meal of the day. Yes it was when we ate breakfast. Then worked in the fields for 12 hours. Now you should eat when you're hungry. Don't spend it all in one place. One person loves the convenience of getting everything he needs in one place.
+
+---
+
+Как ты вызываешь бумера который жалуется на детей в наши дни. Разве у вас не было домашних камней в ответ на взрослого который устраивал истерику из-за спиннеров. А твое поколение мягкое. Это все трофеи за участие которые тебе дали.
+
+How do you call out a boomer complaining about kids these days. Didn't you guys have pet rocks in response to an adult having a temper tantrum over fidget spinners. Ah your generation is soft. It's all the participation trophies you were given.
+
+---
+
+Конечно но кто дал нам эти трофеи за участие снова. Кто это был. Знаешь что действительно странно в трофеях за участие. Другие родители действительно навязывают их тебе если ты не хочешь участвовать. После футбольного сезона в прошлом году один человек сказал что им не нужно получать трофеи потому что они не выиграли лигу.
+
+Sure but who gave us those participation trophies again. Who was that. You know what's really strange about participation trophies. The other parents really push them on you if you don't want to participate. After soccer season last year one person said that we didn't need to get trophies because we didn't win the league.
+
+---
+
+Он тренер команды девочек до 10 лет. Родители вышли и купили трофеи для детей в любом случае. Он думает что смысл был потерян на них. Дети не могли меньше заботиться о трофеях. Он думает что родители были теми кто хотел их больше.
+
+He's the coach of a U10 girls team. The parents went out and bought the trophies for the kids anyway. He guesses the point was lost on them. The kids could not have cared less about the trophies. He thinks the parents were the ones that wanted them more.
+
+---
+
+Да. Теперь заткнись Джордж. Ты делал наркотики когда был в их возрасте. До этого дня один человек все еще думает о той бабушке в продуктовом магазине. Какая отличная жена. Контекст он делал покупки со своей девушкой.
+
+Yeah. Now shut the f up George. You were doing lines when you were their age. To this day one person still thinks about that grandma at the grocery store. What a great wife. Context he was shopping with his girlfriend.
+
+---
+
+Они смеялись и он случайно столкнулся с тележкой старого ворчуна. Он взбесился с целой тирадой о том какие ужасные молодые люди сегодня. И его жена усадила его на место. Один человек живет в Германии и там был старик который жаловался без причины ему и другу.
+
+They were laughing and he accidentally bumped the old geyser's cart. He flipped the freak out with a whole rant about how horrible young people are today. And his wife sat him the f down. One person is living in Germany and there was an old man complaining for no reason to a friend and him.
+
+---
+
+Он говорил что-то вроде с солдатами как вы нет войны чтобы выиграть. Его друг посмотрел ему в глаза и сказал а с солдатами как вы мы проиграли две из них. Это может быть его самый любимый комментарий во всем мире. Это просто бонус что это Германия.
+
+He was saying something like with soldiers like you there's no war to win. His friend looked him in the eyes and said and with soldiers like you we lost two of them. This might be his most favorite comment in the entire world. It's just a bonus that it's Germany.
+
+---
+
+Не чтобы оскорбить большинство немцев в наши дни. Вы все довольно крутые. Бабушка одного человека сказала что-то вроде молодые люди так обижены в наши дни. Так он напомнил ей что когда она родилась женщин арестовывали за ношение брюк на публике.
+
+Not to diss most Germans nowadays. Y'all are pretty cool. One person's grandma said something along the lines of young people are so offended these days. So he reminded her that back when she was born women were being arrested for wearing pants in public.
+
+---
+
+Он обычно отвечает говорит поколение которое устраивает полномасштабную истерику каждый раз когда кто-то говорит счастливых праздников. Его тесть 55 лет. Всякий раз когда он начинает с этого твое поколение так обижено всем дерьмом он просто случайно напоминает ему что он происходит из времени когда люди закрывали вещи.
+
+He usually comes back with says the generation that has a full-blown temper tantrum every time someone says happy holidays. His father-in-law is 55. Whenever he starts with that h your generation is so offended by everything crap he just casually reminds him that he comes from a time when people would shut stuff down.
+
+---
+
+Если кто-то с более темным тоном кожи пил из того же питьевого фонтана что и они. Его дядя жалуется на детей в наши дни перед своей матерью которой 96 лет и у нее все еще есть вся ее дерзость. Она ответила да потому что ты был просто чертовым лучом солнца чтобы воспитывать не так ли.
+
+If someone of a darker skin tone drank out of the same water fountain as them. His uncle complaining about kids these days in front of his mother who's 96 and still has all of her sass. She responded with yeah because you were just a freaking ray of sunshine to raise weren't you.
+
+---
+
+Для протокола дядя придурок полностью по своей собственной воле. Он не знает как он так получился учитывая замечательную женщину которая его воспитала. Он не знает почему половина дерзких бабушкиных персонажей рассказчика в этом видео выходят с австралийскими акцентами.
+
+For the record the uncle is a butthole completely of his own valition. He doesn't know how he turned out that way considering the wonderful woman who raised him. He doesn't know why half of the narrator's sassy grandma characters in this video are coming out with Aussie accents.
+
+---
+
+Он думает это потому что есть что-то присущее смешное в злобной старой австралийской утке. Они великолепный вид. Действительно. Один человек работает в книжном магазине в небольшом городе с большим количеством пенсионеров. Так как ты можешь догадаться они получают тонны старых людей каждый день.
+
+He guesses it's because there's something inherently funny about a vicious old Aussie duck. They're a magnificent species. Truly. One person works at a bookstore in a smaller retirementheavy town. So as you can guess they get tons of old people in every day.
+
+---
+
+И все они думают что они самый важный человек в магазине. Один раз у них была особенно плохая старая леди которая хотела книгу которой у них не было в наличии еще. Так он попытался объяснить ей что книга вышла чуть меньше чем пару месяцев назад.
+
+And they all think they're the most important person in the store. One time they had this particularly bad old lady who wanted a book that they didn't have in stock yet. So he tried to explain to her that the book came out in just shy of a couple of months.
+
+---
+
+И если она хочет они могут предзаказать ее для нее. Она не принимала ничего из этого. Она утверждала что он лжет и пытается украсть ее деньги. Так он предложил показать ей другие книги которые у них были от того автора. Это было встречено строгим нет.
+
+And if she wanted then they could pre-order it for her. She was not having any of that. She claimed he was lying and trying to steal her money. So he offered to show her the other books they had by that author. Which was met with a stern no.
+
+---
+
+И она информировала его очень громко что она прочитала все другие книги автора. И что он может найти способ получить ей эту книгу сегодня. И она не уйдет пока не получит ее в свои руки. Он позвал менеджера на переднюю часть который снова попытался объяснить ситуацию.
+
+And she informed him very loudly that she had read all of the author's other books. And that he could find a way to get her that book today. And she wasn't leaving until she had it in her hand. He called a manager to the front who again tried to explain the situation.
+
+---
+
+Абсолютно без положительных результатов. В конце концов она наконец посмотрела на него за прилавком. И на другой стороне его менеджера. И сказала ему мои внуки могут заказать что угодно онлайн. И это там через пару дней.
+
+Absolutely no positive results. Eventually she finally looked at him behind the counter. And on the other side of his manager. And told him my grandkids can order anything they want online. And it's there in a couple of days.
+
+---
+
+Но моя книга займет мне 2 месяца чтобы добраться до моего дома. Ты просто пытаешься наказать меня за то что я старая. Затем она потребовала чтобы его менеджер отослал его. И что он очень расстроил ее. Он посмотрел ей прямо в глаза и сказал ей что он может отослать его.
+
+But my book will take me 2 months to get to my home. You're just trying to punish me for being old. She then demanded his manager send him away. And that he's made her very upset. He looked her dead in the eyes and told her that he could send him away.
+
+---
+
+Но если она хочет чтобы эта книга когда-либо была заказана она может рассмотреть возможность быть немного добрее к людям чья работа была получить ее ей. Он никогда не видел ходунки двигаться так быстро из магазина. Она исчезла за секунды.
+
+But if she wanted this book to ever get ordered she might consider being a little nicer to the people whose job it was to get it to her. He has never seen a walker move so quickly out of a store. She was gone in seconds.
+
+---
+
+Он и двое его друзей сидели в автобусе. Это была пятница днем и они шли на концерт. Так что у каждого из них было пару пива в руке. Три старые леди сели в автобус и сказали им что они должны отдать им свои места.
+
+He and two of his friends were sitting on a bus. It was a Friday afternoon and they were going to a concert. So each of them had a couple of beers in hand. Three old ladies got on the bus and told them that they should give them their seats.
+
+---
+
+Поскольку половина мест в автобусе была пуста они просто сказали им сесть где-то еще. Они сели позади них и начали громко говорить дерьмо о них и их поколении. Они сказали что они ленивые пьяницы которые ни на что не годны. Все обычные вещи.
+
+Since half the seats on the bus were empty they just told them to sit somewhere else. They sat down behind them and started crap talking really loudly about them and their generation. They said they were lazy drunkards who were good for nothing. All the usual stuff.
+
+---
+
+Они ругались хорошие 10 минут. Пока одна из них не сказала что-то вроде я просто надеюсь когда они будут такими старыми они будут знать каково это быть так обработанными. В этот момент парень лет тридцати который сидел рядом с ними встал.
+
+They were ranting for a good 10 minutes. Until one of them said something like I just hope when they're this old they'll know what being treated like this feels like. At this moment a 30-some year old guy who sat near them stood up.
+
+---
+
+И сказал что-то вроде боже знаешь что. Я надеюсь я умру до 60 чтобы не стать горькой старой каргой как вы. И затем он вышел из автобуса. Старые ведьмы были безмолвны.
+
+And said something like God you know what. I hope I die before 60 so I won't become a bitter old crone like you are. And then he got off the bus. The old hags were speechless.
+
