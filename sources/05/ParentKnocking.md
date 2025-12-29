@@ -1,0 +1,352 @@
+Родители стучат и потом входят без разрешения. Какие секреты были раскрыты в вашем доме? Врач моего сына сказал мне начать стучать в дверь сына и ждать пока он ответит "Войди". Это было на осмотре в десять лет. Я раньше об этом не думал. Но я стал так делать. Теперь я вхожу только если стучу много раз и думаю что он спит. Он засыпает в очках и с включенным телевизором. Поэтому я вхожу чтобы убрать это.
+
+Parents knock and then barge in. What secrets have been blown open in your house? My son's doctor told me to start knocking on my son's door and wait until he responds "Come in". This was at his ten-year-old checkup. I hadn't really thought about it before. But I made sure to do just that. The only time I come in now is if I've knocked multiple times and I figure that he's asleep. He'll fall asleep with his glasses and TV on. So I come in to take care of that.
+
+---
+
+У меня есть задвижка на двери изнутри для таких ситуаций. Когда я был подростком и одевался люди просто входили несмотря на то что я вешал табличку не беспокоить. Стук стук. Не входи. Я одеваюсь. И дверь все равно открывается. Это часто происходило в мои подростковые годы. Я всегда думал что стук означает убери свои вещи я вхожу.
+
+I have a bolt lock on the inside of my door for this sort of situation. When I was a teen and getting dressed people would just wander in despite me putting a do not disturb sign on the door. Knock knock. Don't come in. I'm getting dressed. And door opens anyway. It happens so often in my teenage years. I always assumed the knock meant put your trouser equipment away I'm coming in.
+
+---
+
+Как бывший подросток я всегда был готов убрать свои вещи при малейшем угрожающем звуке. Мне пришлось вернуться жить к родителям после расставания с женой. Моя мама пыталась делать то же самое. Но я был умным и дверь всегда была заперта. Поэтому вместо этого я слышал почему дверь заперта. Да без вопросов. Почему ты пытаешься ворваться сюда? Я мог быть раздетым с расческой в заднице для всего что ты знаешь.
+
+And as a former teenager I was always ready to put my meat away at the slightest threatening noise. I had to move back in with my folks after splitting from my wife. My mom tried to pull that crap on me. But I was smart and the door was always locked. So instead I'd get why is the door locked. Yeah no crap. Why are you trying to barge in here? I could be undressed with my hairbrush up my butt for all you know.
+
+---
+
+У меня была кровать на платформе и она очень скрипела. Я убирался один день. Я тянулся влево и бросал вправо. Все время скрипела кровать. Моя мама не постучала и сразу открыла. Она просто ворвалась в дверь так быстро как могла. Она подошла к двери скрытно. В любое другое время она тащила ноги по коридору как ленивец. Это почти вызвало у меня сердечный приступ. Я подпрыгнул почти на полметра. Это было так внезапно.
+
+I had a bed platform for a while and it got very squeaky. I was cleaning one day. I was reaching to my left tossing on my right. The whole time squeaking the bed. My mom didn't knock and immediately open. She just straight up burst through the door as quick as she could. She had approached it with stealth. Whereas any other time she had dragged her feet through the hall like a sloth. What it did accomplish is it almost gave me a heart attack. I jumped nearly half a foot. It was that abrupt.
+
+---
+
+Не нужно говорить что я не могу перестать думать что моя мать надеялась увидеть. Я не могу даже смотреть на нее без мысли что она какой-то странный человек. Ты слышишь как скрипит кровать сына. Поэтому ты подкрадываешься и врываешься в дверь? Почему? Да там идет мыслительный процесс который я уверен ускользает от большинства разумных взрослых. И я не уверен что она могла бы объяснить почему если бы ее спросили.
+
+Needless to say I haven't been able to stop wondering what my mother was hoping to see. I can't even look at her without thinking she's some kind of creep. You hear your son's bed squeaking. So you sneak up and bust through the door? Why? Yeah there's a thought process going on there that I'm pretty sure escapes most reasonable adults. And I'm not even sure she could explain why if she was asked.
+
+---
+
+Я просто буду предполагать что она часть консервативной части общества. Эта часть одновременно одержима спальней и контролем над ней. Я помню свои дни дома после развода. Один раз я взрослый человек был дома весь день. Одежда снималась и я надевал домашний халат если выходил из комнаты. Я слышал как мать подходит к двери моей спальни.
+
+I'm just going to assume she's part of that conservative part of society. That part is simultaneously obsessed with bedroom activities and the policing thereof. I remember my days back at home post divorce. Once I a grown adult was home for the day. The clothes came off and I'd throw on a house coat if I was venturing out of my room. I'd hear my mother approaching my bedroom door.
+
+---
+
+Она звала мое имя. Потом не прошло и двух секунд она пыталась повернуть ручку. Заперто. У меня даже не было шанса попытаться ответить ей. А она уже пыталась открыть дверь. Когда я получал шанс сказать ей секундочку и встать за дверью чтобы приоткрыть ее это происходило так. Почему твоя дверь заперта? Чтобы ты не ворвалась ко мне раздетому. Ох пожалуйста. Не то чтобы я просто собираюсь ворваться. Если ты не собиралась ворваться как ты узнала что дверь заперта?
+
+She'd call my name. And then not two seconds later she'd try the door knob. It's locked. I haven't even had the chance to try to respond to her. And she's already trying to open the door. When I get the chance to tell her just a second and position myself behind the door to crack it open it goes something like this. Why is your door locked? To stop you barging in on me undressed. Oh please. It's not like I'm just going to barge in. If you weren't about to barge in how did you know the door was locked?
+
+---
+
+Это был не единичный случай. Моя мама ворвалась один раз пока я занимался самоудовлетворением. И это было чтобы сказать мне что мой друг умер. И да я действительно закончил. Я был почти там в любом случае. И не собирался страдать от прерванного процесса и эмоционального опустошения от потери друга. Это был последний кусочек самолюбия на какое-то время. Из-за грусти и всего такого. Шоу должно продолжаться.
+
+This was not a one-off incident either. My mom barged in once while I was cranking it. And it was to tell me that my friend had died. And yes I actually finished. I was almost there anyway. And wasn't about to suffer through a blue storage unit and the emotional devastation of losing a friend. It was the last bit of self-love for a while though. What with the sadness and all. The show must go on.
+
+---
+
+Очень современная семейная вещь здесь. Мои родители никогда не стучат. Поэтому я обычно запираю дверь чтобы они не могли открыть и поймать меня делающим что-то неправильное. Но эта привычка никогда не стучать как-то укоренилась в моем мозгу. Поэтому я тоже никогда не стучал как ребенок. Я видел кое-что когда однажды заходил в комнату брата. Также знал что каждый раз когда мои родители запирают дверь они занимаются сексом.
+
+Very modern family thing here. My parents never knock. So I usually lock it so they can't open and catch me doing something wrong. But that habit of never knocking kind of instilled in my brain. So I never knocked as a kid either. I saw some crap when I was walking into my brother's room once. Also knew that every time my parents do lock the door they're doing the deed.
+
+---
+
+Поэтому учите детей стучать и ждать пока вы откроете. Делайте то же самое для них. Не входите без стука. Не врывайтесь потому что они будут делать это вам тоже. Учитесь у меня. Эти истории напоминают мне почему я переехал в квартиру на пятом этаже без лифта. Моя мать ненавидит подниматься по лестнице. У нее медицинская проблема. И она была бы в моей квартире каждый день если бы не лестница.
+
+Therefore teach kids to knock and wait until you open. Do the same for them. Don't waltz in. Don't barge in because they'll do that to you too. Learn from me. These stories remind me of why I moved into a fifth floor apartment with no elevator. My mother hates taking a lot of stairs. She has a medical problem. And she'd be in my apartment every day if it weren't for the stairs.
+
+---
+
+Я люблю свою мать. Но у нее ноль чувства приватности. Все кончено мама. У меня высокое положение. У тебя есть две секунды чтобы убрать это и закрыть окно инкогнито. Мне за тридцать. Моя мама дает мне знать что решила прийти прижав лицо к окнам. Иногда со двора.
+
+I love my mother. But she has zero sense of privacy. It's over mother. I have the high ground. You have 2 seconds to put that away and close that incognito window. I'm in my 30s. My mom lets me know she decided to come over by pressing her face up against the windows. Sometimes from the backyard.
+
+---
+
+Стучать. Родители стучат. Моя мама забрала ручку двери потому что я закрыл дверь чтобы сменить инсулиновую помпу. А она кричала на меня за то что я не закончил заявки в колледж за два месяца раньше. Прямо перед тем как я ушел из дома моя мама и я поссорились из-за того что я спал весь день. Я работал в ночную смену в то время. Я пошел в свою комнату и запер дверь. Это было видимо запрещено в девятнадцать лет.
+
+Knocking. Parents knock. My mom took away my doorknob because I shut the door to change my insulin pump. While she was yelling at me for not having my college apps done 2 months early. Just before I left home my mom and I got in an argument about me sleeping all day. As I worked night shift at the time. Went in my room and locked the door. Which was apparently a no no at 19.
+
+---
+
+Она сняла ручку двери. Поэтому я пошел и купил одну с ключом. Я дал очень строгое предупреждение своим родственникам когда дал им ключ от моего дома. Если вы когда-нибудь придете без предупреждения и просто войдете сами я брошу все и буду ходить раздетым чтобы встретить вас у входной двери и забрать ваш ключ. Почему я дал ключ? Ну сиделки для птиц во время отпуска. И на случай катастрофы или чрезвычайной ситуации.
+
+She took the doorknob off. So I went and bought one with a key. I gave my in-laws a very stern warning when I gave them a key to my house. If you ever come over unannounced and just let yourself in I'll drop everything and walk around undressed to meet you at the front door to collect your key. Why did I give a key? Well bird sitters while on vacation. And in case of a catastrophe or emergency.
+
+---
+
+Почему так много людей не понимают почему я не хочу чтобы они просто врывались без предупреждения? Моя жена однажды пригласила своих родителей прийти сделать что-то пока ее не было. И не сказала мне. Поэтому они застали меня раздетым. Позже у меня был следующий разговор. Почему ты не сказала мне что твои родители придут? Что? Ты был дома. В этом моя точка. Что если бы я танцевал раздетым под Барри Манило? У нас даже нет Барри Манило. Хорошо. Я танцевал раздетым под тебя тоже. Все равно предупреждение было бы приятно.
+
+Why are so many people confused as to why I don't want them to just barge in unannounced? My wife once invited her parents over to do something while she was out. And didn't tell me. So they walked in on me. Later I had the following conversation. Why didn't you tell me your parents were coming over? What? You were home. That's my point. What if I was dancing around undressed to Barry Manilow? We don't even have any Barry Manilow. Fine. I was dancing undressed to you too. Still a heads up would be nice.
+
+---
+
+Однажды они найдут почему мы всегда смотрим на наши обои. Новичок. Всегда держи другое окно браузера открытым в фоне. О боже я не могу дождаться чтобы выйти из комнаты не закрыв дверь на выходе. Я наконец получил смелость позвать маму на это после двух лет жизни самостоятельно. Моя мама ответила мне потому что я и твой отец знали что это беспокоило тебя до чертиков.
+
+One day they're going to find why we're always staring at our wallpaper. Rookie move. Always keep another browser window open in the background. Oh boy I can't wait to leave the room without closing the door on my way out. I finally got the courage to call my mom out on that after 2 years of living on my own. My mom hits me with because me and your dad knew it bothered the crap out of you.
+
+---
+
+Также почему они оставляют дверь немного открытой когда наконец уходят? Почему немного? Моя мама просто оставляет мою дверь широко открытой все время. Заставляя меня делать эти болезненные шаги к двери от моей кровати. Я не могу представить. Мои родители стучали в дверь и не входили пока я не открывал ее для них. Это действительно помогло почувствовать что у меня было личное пространство в очень переполненном доме.
+
+Also why do they leave the door a little bit open when they finally leave? Why a little bit? My mom just leaves my door wide open all the time. Making me walk those painful steps to the door from my bed. I can't imagine. My parents would knock on the door and wouldn't come in until I opened it for them. Really helped feel like I had some personal space in a very crowded house.
+
+---
+
+Ох. Моя мама раньше делала это если вообще стучала. Поэтому в моем доме с моим ребенком я стучу. Я даю ребенку знать что я делаю. Эй ребенок у меня есть белье для тебя. Или эй ребенок мне нужно поговорить с тобой. Потом я жду окей. И только тогда открываю дверь. Если случайно я получаю не сейчас мама я говорю я вернусь ровно через три минуты. И это происходит.
+
+Gh. My mom used to do this if she knocked at all. So at my house with my kid I knock. I let the kid know what I'm doing. Hey kid I've got laundry for you or hey kid I need to talk to you. Then I wait for an okay and only then do I open the door. If by chance I get a not right now mom I say I'll be back in exactly 3 minutes and that's what happens.
+
+---
+
+Я тоже. В основном потому что я никогда не хочу видеть что происходит. Как наверное неприличные фильмы. Я стучу. Говорю им что хочу. Если ужин готов или у меня есть их белье. Потом они отвечают обычно не открывая дверь. Я люблю свою приватность и обращаюсь с ними как хочу чтобы обращались со мной. Хм. Теперь я чувствую себя еще большим ботаником. Мои родители делали то же самое.
+
+Me too. Mostly because I don't ever want to see what's going on. Like naughty movies most likely. I knock. Tell them what I want. If dinner's ready or I've got their laundry. And then they respond usually without opening the door. I love my privacy and treat them as I want to be treated. Huh. Now I feel like an even bigger nerd. My parents did the same thing.
+
+---
+
+Обычно когда я отвечал что мне нужна минута я был либо в середине чтения книги в которую я был действительно погружен. Либо играл в онлайн многопользовательскую игру. И прежде чем кто-то назовет это ложью я сохранял свои развлечения на ночь. Специально чтобы меня не прерывали. Да. К счастью мои родители не были такими любопытными как другие. Я получал хорошие пять секунд чтобы собраться в редких случаях когда они делали это.
+
+Usually when I'd respond that I needed a minute I was either in the middle of reading a book I was really into. Or playing an online multiplayer game. And before anyone calls BS I saved my fun times for at night. Specifically so I wouldn't get interrupted. Yep. Thankfully my parents weren't as nosy as others. I got a good 5 seconds to get my act together on the rare occasion they did pull this though.
+
+---
+
+И да почти каждый раз я играл в компьютерные игры когда должен был делать домашнее задание. Моя мать зашла ко мне один раз когда я использовал электрическую машинку для стрижки купальника. У меня была одна нога поднята на край ванны. И я откинулся назад к стене с тазом наклоненным вверх. Итак вот я укрощаю дикий куст и бум. Моя мать распахивает дверь и действует шокированной тем что я делаю.
+
+And yeah almost every single time I was playing computer games when I should have been doing my homework. My mother walked in on me using an electric swimsuit line trimmer once. I had one leg propped up on the edge of the tub. And was leaning back against the wall with my pelvis tilted upwards. So here I am taming the wild bush and boom. My mother throws open the door and acts shocked at what I'm doing.
+
+---
+
+Потом она позже сказала мне что любой мужчина который хотел женщину с выбритой нижней частью был хищником. Потому что взрослые должны иметь это. Это было типа что за фигня мама? Я брилась потому что волосы чешутся и мне это не нравится. Хорошо чтобы ответить на комментарии которые я получаю просто потому что моя мать сказала несколько сумасшедших комментариев в своей жизни не значит что она плохой человек.
+
+She then later told me that any man that wanted a woman with a shaved downstairs hair was a predator. Because adults are meant to have that. It was like what the freak mom? I shaved because the hair itches me and I don't like it. Okay to answer the comments I'm getting just because my mother said a few crazy comments in her life doesn't mean she's a bad person.
+
+---
+
+Я уверен что все сказали хотя бы несколько сумасшедших вещей в своей жизни. Пожалуйста успокойтесь все. Это просто забавная история которая произошла пятнадцать лет назад. Разве мы не можем все просто посмеяться над моим подростковым я пойманным за бритьем паха? Это не так серьезно. Я люблю как родители всегда предполагают что молодая женщина бреет что-то имеет все отношение к занятию сексом.
+
+I'm sure everyone said at least a few crazy things in theirs. Please chill everyone. It's just a funny story that happened 15 years ago. Can't we all just laugh at my teenage self getting caught shaving my groin? It's not this serious. I love how parents always assume that a young woman shaving anything has everything to do with doing the deed.
+
+---
+
+Моя мама рассердилась что я начала бриться из-за плавания и летних активностей. Может быть у тебя нет проблем показывать свой куст и волосатые ноги в бассейне. Но у меня точно есть. Я стучу в двери моих дочерей. Потом если они не отвечают или говорят подожди минуту или что-то еще я ухожу. Моя младшая дочь говорит что я единственный родитель о котором она когда-либо слышала который делает это.
+
+My mom got angry that I started shaving due to swimming and summer activities. Maybe you don't have any issue showing off your bush and furry legs at the pool. But I sure do. I knock on my daughter's doors and then if they don't answer or say hang on a minute or whatever I leave. My youngest daughter says I'm the only parent she's ever heard of who does this.
+
+---
+
+Для протокола если они не отвечают я предполагаю что они спят и возвращаюсь позже. Шансы что они действительно в процессе умирания от аспирации собственной рвотой после передозировки автомобильным фентанилом поразительно низки. Они обычно просто спят. Или у них наушники в ушах и они слушают подкаст DND. Если это не самая важная вещь в мире это просто не большое дело.
+
+For the record if they don't answer I assume they're asleep and come back later. The chances they're actually in the process of dying by aspirating on their own throw up after a car fentanyl overuse are astoundingly low. They're usually just asleep. Or they have their headphones in listening to a DND podcast. Unless it's the most important thing in the world it's just not a big deal.
+
+---
+
+Мой муж напротив делает одновременный стук костяшками и открытие двери. Когда мне было одиннадцать лет или около того я постучал в дверь родителей чтобы они помогли мне открыть что-то. И они не ответили. Поэтому я сам вошел. Они делали именно то что ты думаешь. Поэтому я никогда не сделаю это снова. Я также просто не хожу в дома людей даже если они говорят мне. Я жду пока они откроют дверь для меня.
+
+My husband by contrast does do the simultaneous rolling knuckle knock and door open. When I was 11 or so I knocked on my parents' door to have them help me open something. And they didn't answer. So I let myself in. They were doing exactly what you think. So I'll never do that again. I also just don't walk into people's houses even if they tell me to. I wait for them to open the door for me.
+
+---
+
+Когда мне было восемь у меня был друг внизу по улице который позвонил и попросил меня прийти. Он сказал мне просто войти. Я делаю это. И случайно увидел его отца ходящего полностью раздетым. Поэтому не нужно говорить что я довольно травмирован на всю жизнь. Я продавал рождественские букеты для денег на поездку класса. Сначала ты заказываешь. Потом через две недели я доставляю и получаю оплату.
+
+When I was 8 I had a friend down the street call and ask me to come over. He told me just to walk in. I do. And happened to see his dad walking around completely undressed. So needless to say I'm pretty scarred for life. I sold Christmas bouquets for class trip money. First you order. Then 2 weeks after I deliver and get paid.
+
+---
+
+Мой сосед финн. Я постучал и нет ответа. Снова нет ответа. Я посмотрел вокруг и вижу его полностью раздетым снаружи его сауны. Спиной ко мне. Я собирался крикнуть. Но потом он повернулся. Я решил медленно отступить и вернуться домой. Поэтому после пяти лет мой самый популярный комментарий о том что я почти видел ягоды моего финского соседа.
+
+My neighbor is a Finn. I knocked and no answer. Again no answer. I looked around and I see him completely undressed outside his sauna. With his back turned to me. I was about to shout. But then he had turned around. I decided to slowly back away and go back home. So after 5 years my most popular comment is about almost seeing my Finnish neighbors lingberries.
+
+---
+
+Черт мои родители быстро научились. Мой отец всегда говорил эй ты и твоя серьезная подруга можете прийти и посмотреть телевизор наверху с нами когда вы не заняты. Нет мы в порядке. И обычно это было просто потому что какая пара старшеклассников любит тусоваться с родителями? Мы просто не хотели проводить время тусуясь с ними. Но очевидно есть и более приватные причины тоже.
+
+Man did my parents learn quickly. My dad would always say hey you and your serious girlfriend can come and watch TV upstairs with us when you aren't. Nah we're cool. And usually it was just because what high school couple loves hanging out with their parents? We just didn't want to spend our time hanging out with them. But obviously there are some more private reasons too.
+
+---
+
+Поэтому однажды ночью прежде чем у нас было время среагировать мой отец постучал и распахнул дверь. И посмотрел прямо в мою заднюю дыру из-за того как кровать была расположена в то время. Честно говоря я рад что этот травматический опыт произошел с ним. У меня никогда не было причины в чьем-либо доме просто распахивать закрытую дверь. Единственное оправдание это если дверь ванной закрыта. И тогда ты медленно открываешь идя привет чтобы дважды проверить живы ли они еще.
+
+So one night before we had time to react my dad knocked and threw open the door. And looked straight into my rear hole with the way the bed was positioned at that time. Honestly I'm glad that traumatic experience happened to him. I've never had a reason in anyone's house to just throw open a closed door. The only excuse is if a bathroom door is closed. And then you slowly open going hello to double check if they're still alive.
+
+---
+
+Вы можете отправить свои собственные истории чтобы их показали здесь на канале. Ссылка на отправку истории в описании ниже. Не забудьте подписаться на Я гений? Я знаю в последний раз когда я зашла в комнату Джона сразу после того как он принял душ он был раздет. И я кричала на него за то что он раздет в своей собственной спальне. Но может быть на этот раз он выяснил как одеться за двадцать секунд.
+
+You can submit your own stories to be featured here on the channel. The story submission link is in the description below. Don't forget to subscribe to Am I the Genius? I know last time I went into John's room just after he had showered he was undressed. And I yelled at him for being undressed in his own bedroom. But maybe this time he'll have figured out how to get dressed in 20 seconds.
+
+---
+
+Вероятно мозг моей матери. Мне нравится сушиться на воздухе. Женщина оставь меня в покое. Этот вопрос может быть также о матери моего парня. Она в итоге застала нас занимающихся сексом. Теперь она ждет. Подожди она ждет пока он закончит? Моя мама делала это нам каждый день пока мы росли. У меня шесть братьев и сестер. И боже мой она умудрялась разозлить всех нас каждый день этой фигней.
+
+My mother's brain probably. I like to air dry. Woman leave me alone. This question may as well be about my boyfriend's mother. She ended up walking in on us doing the deed. She now waits. Wait she waits for him to finish? My mom did this to us every day growing up. I have six siblings and my god she managed to tee all of us off every single day with this crap.
+
+---
+
+Средняя школа была худшей. Мне не нужно чтобы ты напоминала мне шесть раз за тридцать минут проснуться. Она все еще делает это моему дедушке который живет с ними. Потому что он не слышит тебя. Просто иди внутрь. Мой дедушка иногда ставит стул перед своей дверью. Чтобы она врезалась в дверь когда она внезапно останавливается. Но она все еще не учит урок. Я люблю свою маму. Она просто сводит меня с ума.
+
+High school was the worst. I don't need you to remind me six times in 30 minutes to wake up. She still does this to my granddad who lives with them. Because he can't hear you. Just go in. My granddad will occasionally put a chair in front of his door. So that she walks into the door when it suddenly stops. But she still doesn't learn her lesson. I love my mom. She just drives me up the wall.
+
+---
+
+Это полсекунды предупреждения чтобы свернуть эту веб-страницу. Никогда этого не было достаточно долго для меня. Меня ловили каждый раз. Моя свекровь распахнула дверь спальни в первый раз когда я осталась в их доме. Мне было двадцать пять и ему было двадцать семь. Мой нынешний муж и я даже не собирались спать в одной комнате. Мы разговаривали приватно. И она открыла дверь потому что не хотела чтобы у нас были отношения в ее доме.
+
+It's the half a second of minimize that web page warning time. Never has it ever been long enough for me. I've been caught every time. My mother-in-law popped the bedroom door open the first time I stayed at their house. I was 25 and he was 27. My now husband and I weren't even going to be sleeping in the same room. We were talking privately. And she opened the door because she didn't want us having relations in her house.
+
+---
+
+Ради бога. Переключатель переключился после того как мы поженились. Она дала нам подарочный пакет который включал презервативы для нашей брачной ночи. Что за фигня женщина? Хм? Это мой счастливый день если моя мама даже стучит. Она также проверяет есть ли кто-то в ванной когда дверь закрыта и свет включен внутри. Пытаясь повернуть ручку и предполагая что никого нет внутри если она не заперта.
+
+For freak's sake. The switch flipped after we got married though. She gave us a gift bag that included condoms for our wedding night. What the freak woman? Huh? It's my lucky day if my mom even knocks. She also checks if someone's in the bathroom when the door is closed and the light is on inside. By trying the handle and assuming nobody's inside if it's not locked.
+
+---
+
+Оба моих родителя оставят дверь ванной открытой и свет выключенным если достаточно света идет из коридора когда они тоже используют ее. Моя мама раньше врывалась. За этим следовало рыться в моем телефоне компьютере и школьной сумке. Это создало много недоверия. Которое закончилось тем что я ушел из дома в четырнадцать. И не возвращался пока мне не исполнилось семнадцать. Когда я узнал что мой отец был намного хуже.
+
+Both of my parents will leave the bathroom door open and the light off if there's enough light coming in from the hallway when they're using it too. My mom used to barge in followed by rooting through my phone computer and school bag. Created a lot of distrust. That ended up with me leaving the house at 14 and not coming back until I was 17. When I found out that my father was way worse.
+
+---
+
+Мой отец раньше делал это все время. Пока один день я не остановил его и не сказал ему смотри ты свободен врываться когда хочешь. Но однажды ты войдешь и у меня будет вещь в руке и зрительный контакт. Он засмеялся. Я засмеялся. Он стучит и ждет теперь. Моя мама делала это моему бывшему. Мы были под одеялом с ним в моей заднице. Весь разговор был так.
+
+My dad used to do this all the time until one day I stopped him and told him look you're free to barge in whenever you want. But someday you're going to come in and I'll be equipment in hand making eye contact. He laughed. I laughed. He knocks and waits now. My mom did this to my ex. We were under the covers with him up my rear end. Had an entire conversation like that.
+
+---
+
+Его мама делала это нам. Но акт был намного более явным. Не было разговора в тот раз. В основном крики. Хорошо так у меня никогда не было этого. Но у меня был целый разговор с соседом по квартире. Одеяло кровати натянуто на мою иначе обнаженную нижнюю половину. Чтобы скрыть факт что я действительно работал со старым органом. Я уверен что так же как мой сосед по квартире твоя мать в первой истории наверное имела свои подозрения.
+
+His mom did this to us but the act was much more blatant. There was no conversation that time mostly screaming. Okay so I've never had this but I have had an entire conversation with a flatmate. The bed covers pulled over my otherwise exposed lower half to conceal the fact that I had in fact been working the old organ. I'm sure though that much like my flatmate your mother in the first story probably had her suspicions.
+
+---
+
+У меня никогда даже не было двери в мою комнату. Оправдание было что они купили дом когда мне было два. Дверь не была прикреплена. Поэтому в течение девятнадцати лет они никогда не думали установить одну. Я сижу в своей комнате сейчас в возрасте двадцати одного года. Все еще нет двери. Правда в том что моя мать не хочет чтобы у меня была приватность. Она злится когда я спрашиваю о двери.
+
+I never even had a door to my room. The excuse was that they bought the house when I was two. The door wasn't attached. So for 19 years they never thought to install one. I'm sitting in my room now age 21. Still no door. The truth is my mother doesn't want me to have privacy. She gets mad when I ask about the door.
+
+---
+
+Она просматривала мои личные сообщения с друзьями на моем компьютере когда я пошел в ванную. Кричит на меня когда я запираю дверь ванной когда я писаю. Даже хотя она ворвется если я не сделаю это. Она отдернула занавеску душа потому что ты был там долго и я хотела знать что ты делал. Вместо того знаешь использовать ее слова чтобы либо спросить почему я так долго. Либо просто сказать что я слишком долго как нормальный человек.
+
+She's gone through my personal messages with friends on my computer when I went to the bathroom. Yells at me when I lock the door to the bathroom when I'm peeing. Even though she'll barge in if I don't. She's pulled back the shower curtain because you've been in there a long time and I wanted to know what you were doing. Instead of you know using her words to either ask why I was taking so long. Or just say that I was taking too long like a sane person.
+
+---
+
+Да моя мать ужасна. К счастью мои родители разводятся. Поэтому она больше не живет здесь. Но мое предположение что родитель не заботится о приватности ребенка. Что они имеют право знать что они делают все время. Но они не хотят чтобы казалось что это то что происходит. Поэтому они сначала стучат чтобы быть вежливыми. Я знаю много людей которые делают это и не родители.
+
+Yep my mother is awful. Luckily my parents are getting divorced so she doesn't live here anymore. But my assumption is the parent doesn't care about the child's privacy. That they're entitled to know what they're doing all the time. But they don't want to make it seem like that's what's going on. So they knock first to be polite. I know many people who do this and aren't parents.
+
+---
+
+И это потому что они не думают о приватности человека. Только о том что они хотят или нужно в данный момент. Я думаю это относится и к маленьким детям тоже. Но они не знают лучше. И не понимают важность приватности других людей. И да я пытаюсь переехать. Моя мама больше не живет здесь. Но у меня слишком много плохих воспоминаний. И мне нужно выбраться отсюда для моего собственного рассудка.
+
+And it's because they don't think about the person's privacy. Just whatever they want or need in the moment. I think it applies to young kids too. But they don't know better and don't understand the importance of other people's privacy. And yes I'm trying to move out. My mom doesn't live here anymore but I have too many bad memories. And I need to get out of here for my own sanity.
+
+---
+
+Я обычно живу в кампусе. Но это каникулы поэтому я здесь. В общем я в безопасности когда меня не заставляют проводить время с ней. И пока я не поднимаю ее поведение моему отцу он все еще не верит мне. Хм моя мама. Ну она говорит что хочет приватность. Но то что я хочу важнее. Она сняла замок с моей двери ванной. Потому что я закрывал ее чтобы принять душ. И она хотела чтобы я оставил ее открытой.
+
+I usually live on campus. But it's the holidays so I'm here. In general I'm safe when I'm not forced to spend time with her. And as long as I don't bring up her behavior to my dad he still doesn't believe me. H my mom. Well she says she wants privacy. But what I want is more important. She took the lock off my bathroom door because I was closing it to shower. And she wanted me to leave it open.
+
+---
+
+Я перееду как можно скорее. Моя мать никогда не позволяет мне закрыть дверь в мою комнату. Я в колледже и сейчас на каникулах. Я привык не ложиться спать до трех утра. Поэтому я просто не спал смотрел Netflix. И в три утра она встала потому что моя дверь была закрыта. И открыла ее. Хорошая женщина но делает самую нелепую фигню иногда. Моя мама раньше делала это пока один день я не закрыл браузер.
+
+I will be moving out ASAP. My mother never lets me close the door to my room. I'm in college and I'm on break now. I'm used to staying up until 3:00 in the morning. So I was just up watching Netflix. And at 3:00 in the morning she got up because my door was closed and opened it. Nice woman but does the most ridiculous crap sometimes. My mom used to do this until one day I didn't close the browser.
+
+---
+
+Я не убрал свои вещи. Я просто смотрел на нее и сказал простое да. И она никогда не делала это снова. Видишь вот это настоящий сильный ход. О боже моя мама даже не позволяет мне закрыть мою дверь. Ну представь иметь тип родителя который даже не стучит. Просто входит. Я мог бы бить черт знает что из моих нижних регионов. И они все равно просто войдут.
+
+I didn't put my equipment away. I just stared at her and said a simple yes. And she never did it again. You see that right there is the real power move. Oh man my mom doesn't even let me close my door. Well imagine having the type of parent who doesn't even knock. Just walk in. I could be beating the heck out of my nether regions. And they'd still just walk in.
+
+---
+
+Это произошло со мной когда я собирался заняться сексом со своей девушкой в ее спальне. Был стук. Поэтому мы бросились в действие. И она натягивала свою школьную юбку обратно вниз. И я скатывался с кровати чтобы поспешно забраться обратно в свои джинсы. Но ее мама открыла дверь примерно через одну секунду после стука. И это поймало меня бегущим как черт раздетым с подпрыгивающей быстро сдувающейся колбасой.
+
+This happened to me when I was about to mount my significant other in her bedroom. There was a knock. So we sprung to action and she was pulling her school skirt back down. And I was rolling off the bed to hastily get back into my jeans. But her mom opened the door approximately 1 second after knocking. And it caught me running like heck undressed with a bouncing rapidly deflating salami.
+
+---
+
+Пытаясь попасть за дверь. Но наши глаза встретились. Поэтому я знаю что она видела меня. Я стоял за дверью. И она сразу закрыла ее снова когда до нее дошло что происходило. Нет никакого способа что мои родители ушли бы. Я был бы заперт на всю жизнь. И запрещен встречаться с тем парнем. Единственный раз когда я когда-либо делаю это моему ребенку я обычно жду четкого ответа. Это когда я просил их сделать что-то слишком много раз. И они не сделали это.
+
+Trying to make it behind the door. But our eyes met so I know she saw me. I stood behind the door. And she immediately closed it again when it clicked to her what was happening. There is no way my parents would have left. I'd be grounded for life and forbidden to date that guy. The only time I ever do that to my kid I usually wait for a clear response is when I've asked them to do something one too many times and they haven't done it.
+
+---
+
+Типа помни нам нужно уйти через час. Хорошо мы уходим через пятнадцать минут. Убедись что ты готов. Хорошо пять минут пожалуйста. Тебе нужно скоро спуститься вниз. Хорошо. Потом я стучу в дверь и открываю сразу. Вниз сейчас. Мне все равно если ты не готов. Я понесу тебя если ты не начнешь двигаться прямо сейчас. Начинаются нытье и жалобные звуки. Я мама подростков. И я всегда стучу несколько раз и жду.
+
+Like remember we need to leave in an hour. Okay we're leaving in 15 minutes. Make sure you're ready. Okay 5 minutes please. You need to come downstairs soon. Okay. Then I bang on the door and open immediately. Downstairs now. I don't care if you aren't ready. I'll carry you if you don't start moving right the second. Cue the whining and complaining noises. I am a mom of teenagers and I always knock a few times and wait.
+
+---
+
+Я не хочу видеть что ты делаешь не больше чем ты хочешь чтобы я видела. Мне не нужен этот образ в моей голове. С количеством времени которое я даю я даю тебе достаточно времени чтобы убрать себя. Но не скрыть что на экране. Боже моя мама раньше стучала и врывалась все время ко мне как подростку. Потом когда моя девушка и я переехали к ним чтобы сэкономить деньги она все еще делала это.
+
+I don't want to see what you're doing any more than you want me to see. I don't need that image in my head. With the amount of time I give I'm giving you enough time to put yourself away. But not hide what's on the screen. God my mom used to knock and barge all the time to me as a teenager. Then when my significant other and I moved into their place to save some money she still did it.
+
+---
+
+Это не только раздражало меня. Но и мою девушку тоже. Мы приходили домой и должны были убрать всю комнату. Я многократно просил ее перестать входить в комнату когда нас не было. Потому что я находил это не только нарушением моей собственной приватности. Но и приватности моего партнера тоже. Я наконец получил достаточно один день и кричал на нее когда она зашла ко мне пока я одевался.
+
+It not only irritated me. But my significant other as well. We'd come home and should have cleaned the entire room. I repeatedly asked her to stop entering the room when we weren't there. As I found it to not only be a breach of my own privacy. But my partners as well. I finally had enough one day and yelled at her when she walked in on me while I was dressing.
+
+---
+
+Ее реакция была сказать ну это мой дом. И потом топать прочь как ребенок. Я люблю свою маму. Но ради бога. Для меня это потому что мой ребенок три года. И не выяснил что нужно отвечать когда кто-то стучит. Потому что ей ну три года. Но не входить после этого стука может быть разницей между тем что она играет хорошо. Или выяснением что у нее есть какие-то новые навыки ниндзя.
+
+Her reaction was to say well it's my house. And then stomp away like a child. I love my mom but for freak's sake. For me it's because my kid is three and hasn't figured out that you need to answer when someone knocks because she's well three. But not walking in after that knock can be the difference between her playing nicely. Or finding out she has some new ninja skills.
+
+---
+
+Которые позволили ей достать блестки для поделок которые мы спрятали в офисе. И теперь они везде. Это определенно привычка о которой мне нужно будет знать. И которую нужно сломать когда она станет старше. Моему шесть лет. Когда она запирает дверь это обычно потому что она собирается сделать что-то что знает что не должна. Поэтому мы открываем дверь. Это замок-кнопка который можно открыть булавкой с другой стороны.
+
+That allowed her to get the craft glitter that we hid in the office. And now it's everywhere. It's definitely a habit I'm going to have to be aware of and break when she gets older. Mine is six. When she locks the door it's usually because she's about to do something she knows she's not supposed to. So we open the door. It's a button lock that you can pin open from the other side.
+
+---
+
+Я хочу уважать ее приватность. Но боже мой. Родитель здесь. Пришел сюда чтобы ответить. И понял что мне нечего сказать. Я переосмыслю в будущем. Спасибо. Я думаю потому что большую часть времени это безобидно и без происшествий. Поэтому это обуславливает сокращение времени ожидания ответа. И уменьшает усилия потраченные на обработку того каким был ответ.
+
+I want to respect her privacy. But my god. Parent here. Came here to respond and realized I have nothing. I will rethink in the future. Thank you. I think because most of the time it's benign and uneventful. So this conditions shortening the waiting time for an answer. And reduces the effort spent processing whatever the answer was.
+
+---
+
+Стук просто становится вежливостью по привычке. Но родитель более озабочен тем что привело их к двери в первую очередь. И практически слеп к возможности что что-то неприличное может происходить за закрытой дверью. Эй посмотри на это. Кто-то читает другие ответы и учится. Надеюсь несколько родителей прочитают это. И это может даже заставить их переосмыслить тоже.
+
+The knock just becomes courtesy of habit. But the parent is more preoccupied with whatever brought them to the door in the first place. And is virtually blind to the possibility that something unseemly might be happening behind the closed door. Hey look at that. Someone's reading the other answers and learning. Hopefully a few parents have this on. And it may even make them reconsider as well.
+
+---
+
+Не только ради их детей. Но чтобы избежать некоторых очень графических и разочаровывающих сценариев которые мы видели сегодня. Пока ты под моей крышей я могу стучать и открывать любые двери которые хочу. Моя мать отец и младшая сестра все застали меня занимающимся самоудовлетворением. Давайте просто скажем что они знают больше не входить.
+
+Not just for their children's sake. But to avoid some of the very graphic and disappointing scenarios that we've witnessed today. As long as you're under my roof I can knock and open any doors I want. My mother father and younger sister have all walked in on me tickling the old pickle. Let's just say they know not to come in anymore.
+
+---
+
+Я помню один раз когда мне был двадцать один. У меня была подруга и мы ну мы занимались сексом. Моя мама постучала в дверь. И я ответил мы заняты. Она постучала снова. Поэтому я крикнул громче мама мы занимаемся сексом. Нет недостаточно. Она открывает дверь и просовывает голову прямо туда. Видит что мы под одеялом. И потом решает войти и сесть на конец кровати.
+
+I remember one time when I was 21. I had my girlfriend over and we were well we were doing the deed. My mom knocked on the door. And I responded with we're busy. She knocked again. So I called out louder mom we're doing the deed. Nope not enough. She opens the door and sticks her head right on in there. Sees that we're under the covers. And then decides to waltz in and sit on the end of the bed.
+
+---
+
+И говорить с нами о какой-то обыденной ерунде. Все время я все еще внутри моей подруги в состоянии шока. Не на сто процентов релевантно но был напомнен об этом и хотел поделиться. Я недавно закончил колледж и переехал обратно домой с родителями. Я буквально держу свою дверь запертой каждый раз когда я в своей комнате именно по этой причине. Я обычно только частично одет. И мои родители не имеют уважения к моей приватности.
+
+And talk to us about some mundane cramp. All the while I'm still inside my girlfriend in a state of shock. Not 100% relevant but was reminded of it and wanted to share. I recently graduated college and moved back home with my parents. I literally keep my door locked every time I'm in my room for this very reason. I'm usually only partially clothed. And my parents have no respect for my privacy.
+
+---
+
+Что было самым быстрым убийцей настроения для комнаты полной счастливых людей? Раньше когда я работал официантом был парень идущий к своему столу. У него был массивный сердечный приступ. И он упал на пол. Парамедик сказал что он умер прежде чем упал на землю. Я никогда не видел ресторан который стал таким тихим так быстро. Друг мой посещал христианский пятидесятнический летний лагерь несколько лет назад.
+
+What was the quickest buzz kill to a room full of happy people? Back when I waited tables there was a guy walking to his table. He had a massive heart attack and hit the floor. EMT said he was gone before he hit the ground. I've never seen a restaurant go so silent so quickly. A friend of mine was attending a Christian Pentecostal summer camp a few years ago.
+
+---
+
+С некоторыми старшеклассниками и другими взрослыми лидерами. Для любого кто не знаком с пятидесятническими молодежными лагерями вечерние церковные службы могут стать довольно оживленными и заряженными эмоциями. Люди пораженные духом говорящие на языках много поклонения и исповедующие грехи такая вещь. Было наверное пара сотен студентов. Поэтому вещи могли стать хаотичными. В любом случае мой друг и один из других взрослых лидеров были вытащены на сцену чтобы исповедовать грехи перед аудиторией.
+
+With some high school students and other adult leaders. For anyone who's unfamiliar with Pentecostal youth camps the evening church services can get pretty lively and charged with emotion. People being slain in the spirit speaking in tongues lots of worship and confessing sins that sort of thing. There were probably a couple of hundred students. So things might have gotten chaotic. Anyway my friend and one of the other adult leaders got pulled on stage to confess sins to the audience.
+
+---
+
+Не уверен кто думал что это была хорошая идея. Но это произошло. И мой друг был вынужден признаться в чем-то перед всеми. Он признался что он гей. И это убило настроение в комнате быстрее чем что-либо еще что я когда-либо видел. Это было как если бы кто-то выключил переключатель. Вся энергия и эмоции просто исчезли. И комната стала тихой как библиотека.
+
+Not sure who thought this was a good idea. But it happened. And my friend was forced to confess something in front of everyone. He confessed that he was gay. And that killed the mood in the room faster than anything else I've ever seen. It was like if someone flipped a switch. All the energy and emotions just disappeared. And the room became quiet as a library.
+

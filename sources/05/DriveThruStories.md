@@ -1,0 +1,190 @@
+Мы сидели там и говорили про все наггетсы. Когда мы подъехали к окну, там работала моя подруга, которая только начала работать в тот день. Она спросила, не под кайфом ли мы. Мы ответили, что еще нет. Она сказала, что раньше работала в Макдональдсе.
+
+We sat there talking about all the nuggets. When we got to the window, it was a friend of mine who started that day. She asked if we were high. We said not yet. She said she used to work at McDonald's.
+
+---
+
+Я работал в Макдональдсе. Я услышал, как женщина ругала пассажира-мужчину. Это было странно слышать. Мой шестнадцатилетний мозг не мог понять это, потому что женщины обычно не считаются агрессорами. Это было шоком для меня.
+
+I worked at McDonald's. I overheard a woman verbally berating a passenger who was a male. It was definitely odd to overhear. My sixteen-year-old brain couldn't make sense of it because socially women are never seen as aggressors. It was just a shock to me.
+
+---
+
+Несколько раз мы слышали, как кто-то говорит на другом языке несколько минут. Потом через минуту или две мы слышали детский голос, который начинал заказывать на английском. Это раздражает работника drive-thru на любом языке.
+
+Several times we'd hear someone speaking in a different language for a few moments. Then finally after a minute or two we'd hear a child's voice finally start ordering it in English. This is annoying as a drive-through worker in any language.
+
+---
+
+Таймер начинается с того момента, когда машина подъезжает к динамику. Неважно, сколько времени клиенты тратят на заказ. Многие родители плохо знали английский и не чувствовали уверенности при заказе еды. Поэтому они просили своих детей сделать это.
+
+The timer starts the second a car pulls up to the speaker. No matter how long the customers take to order. A lot of parents hadn't learned English well enough to feel confident ordering food. So they'd have their kids do it.
+
+---
+
+Это могло быть сложно в зависимости от возраста ребенка. Но я всегда восхищался этим. Я не работал в drive-thru и ничего не слышал. Но моя работа находилась прямо за Jimmy John's. Мне нравилось смотреть на машины, проезжающие через drive-thru, пока я курил сигарету.
+
+This could be difficult depending on the age of the child. But I always admired it. I wasn't working at a drive-thru and I didn't overhear anything. But my job sat right behind a Jimmy John's. I liked to watch the cars pulling through while I smoked a cigarette.
+
+---
+
+Однажды я увидел женщину. Это было днем. Она подъехала к маленькому дереву, которое стояло недалеко от динамика drive-thru. Она начала заказывать там. Это был хороший день.
+
+One day I watched a lady. It was in broad daylight. She pulled up to the small tree that sat not far from the drive-through intercom of the place. She started ordering there. That was a good day.
+
+---
+
+Я очень надеюсь, что она потом пошла и попыталась достать свою еду из почтового ящика поблизости. Потом пошла и пожаловалась в ближайшее почтовое отделение, что ее бургер плоский и на вкус как бумага. Потому что это похоже на сцену из мультфильма.
+
+I really hope that she then went and tried to pull her food out of a nearby mailbox. Then went and complained at a nearby post office that her burger was flat and tasted like paper. Because that is just like a scene straight out of a cartoon.
+
+---
+
+Парень постоянно менял свой заказ. Я наконец составил что-то, что, как я думал, его устроит. Я прочитал ему заказ обратно. Мы согласились, что это подойдет.
+
+A guy kept changing his order. I finally worked out something that I thought would appease him. I read it back to him. We agreed that this would do.
+
+---
+
+Он не мог отъехать, потому что drive-thru был немного забит. Там была Карен, которая не могла понять, что из-за политики компании я не собирался принимать ее заказ у окна. Просто потому что ей пришлось ждать, чтобы сделать заказ у динамика.
+
+He couldn't move out of range because the drive-thru was a little backed up. There was a Karen who couldn't understand that due to company policy I wasn't going to take her order at the window. Just because she had to wait to place it at the speaker.
+
+---
+
+Это не так работает в реальном мире. Не когда у меня есть очередь за тобой, которая прекрасно смогла сделать заказы у окна. В любом случае, прямо перед тем как я отключился с ним, я был занят приготовлением напитков, чтобы отнести их к машине за Карен.
+
+That's not how the real world works. Not when I have a line behind you that was perfectly able to place their orders at the window. Anyway right before I disconnected with him I'd been busy making drinks to carry out to the car behind Karen.
+
+---
+
+Я услышал, как он ругает меня по телефону тому, с кем разговаривал. Он говорил, что я глухой идиот. Можете поверить, что они прекратили продавать настоящие фруктовые слаши здесь. Это все вина этой суки, очевидно.
+
+I overheard him cursing me out on the phone to whoever he was talking to. He said how I was a stupid deaf idiot. Can you believe they discontinued real fruit slushies here. It's all that bitch's fault obviously.
+
+---
+
+Она неправильно приняла мой заказ. Бла-бла-бла. Я наконец решил притвориться, что не расслышал. Я спросил его, извините сэр, что это было. Хотели бы вы добавить что-то к заказу. И был какой-то странный звук.
+
+She got my order all wrong. Yada yada. I finally decided to act like I hadn't heard. I asked him I'm sorry sir what was that. Would you like to add to your order. And there was a strange sort of noise.
+
+---
+
+Кто-то в машине, кого раньше не было слышно, начал смеяться. Потом все заглушилось, потому что он закрыл окно. Я повесил трубку и продолжил дальше. Карен в конце концов выехала с парковки так быстро, как будто опаздывала на свою игру в шахматы с Сатаной в четыре часа дня.
+
+Someone in the car who had not previously been heard in the car started laughing. Then it got all muffled because he rolled up his window. I hung up and proceeded onwards. Karen eventually peeled out of the parking lot like she was late for her four p.m. chess game with Satan.
+
+---
+
+Как только я смог передвинуть несколько машин, последняя машина, которая делала заказ, извинилась и тоже уехала. Это был настоящий фруктовый задница. Я знаю, потому что проверил с машинами вокруг него.
+
+As soon as I was able to move some cars the last car to place an order excused him from the line and peeled out as well. It was real fruit butthole. I know because I checked with the cars around him.
+
+---
+
+Да, мы все еще можем слышать тебя до определенного момента, идиот. Я надеюсь, ты чему-то научился. Но да, наверное нет. Мы с мужем намеренно ведем смешные разговоры, чтобы люди их подслушивали. Мне нравится видеть улыбающиеся лица людей.
+
+Yeah we can still hear you up to a certain point idiot. I hope you learned something. But yeah probably not. My husband and I purposefully have ridiculous conversations for people to overhear. I love seeing people's smiling faces.
+
+---
+
+Все что угодно от нашего спора про единорогов и Пегасов до того, как они выбирают тестовую команду для ароматизированной смазки и рифленых презервативов. Мой голос обслуживания клиентов звучит очень счастливо. Но он очень фальшивый. Это привело ко многим интересным случаям с клиентами.
+
+Anything from our unicorn versus Pegasus debate to how they pick the test team for flavored lubricant and ribbed condoms. My customer service voice sounds very happy. But it is very much fake. It has led to a lot of interesting customer experiences.
+
+---
+
+Однажды я сделал все вступительное, что нужно делать в drive-thru Starbucks. Женщина пробормотала, что я слишком громкий и слишком счастливый. Поэтому я просто спросил ее, что она сказала, еще громче и счастливее. Она не повторила свое замечание и просто заказала.
+
+One time I did my whole introductory thing that you have to do in the Starbucks drive-thru. The lady mumbled about me being way too loud and too happy. So I just asked her what she said even louder and happier. She did not repeat her remark and just ordered.
+
+---
+
+У меня также было несколько случаев, когда люди говорили, вау, кто-то выпил много кофе. В одном случае, когда кто-то это сказал, я просто ответил, о нет, чувак. Это просто мой голос обслуживания клиентов. Который очень фальшивый.
+
+I also had multiple incidents where people are like wow somebody's had a lot of coffee. And one incident where someone said that I just responded with oh no man. This is just my customer service voice. Which is very much fake.
+
+---
+
+Drive-thru Starbucks это очень интересное место. Я работал в Макдональдсе очень долго, с средней школы до колледжа. Самая смешная вещь, которую я слышал до сих пор, это мужчина, заказывающий чизбургеры для своего ребенка. У него был очень сильный акцент.
+
+Starbucks drive-thru is one hell of an interesting place. I worked at McDonald's for a very long time from middle school through college. The funniest thing I've heard to this day is a man ordering cheeseburgers for his kid. He had a very thick accent.
+
+---
+
+Он сказал чизбургеры. И четырнадцатилетний я не мог с этим справиться. Когда я стоял в очереди в Макдональдсе, парень позади меня непрерывно сигналил. Он кричал, поторопитесь, черт возьми, ублюдки.
+
+He said cheeseburgers. And fourteen-year-old me could not handle it. When I was in line at McDonald's the guy behind me was blaring his horn non-stop. He was yelling hurry the freak up you motherfuckers.
+
+---
+
+Он был пьяным идиотом. Он был водителем и единственным в машине. Парень у окна спросил, останусь ли я в очереди. Он хотел, чтобы я притворился, что не получил еду. Чтобы полиция успела приехать до того, как у него появится возможность сбежать.
+
+He was being a total drunk idiot. He was the driver and the only one in the car. The guy at the window asked if I'd stay in line. He wanted me to pretend I didn't have my food. So the police could get there before he had any opportunity to escape.
+
+---
+
+Полиция приехала, забрала машину и посадила парня в полицейскую машину. Это был действительно выигрышный момент для того парня. Я клиент. Я обычно просто ругаю водителя передо мной за то, что он не подъезжает ближе к машине перед ним.
+
+The police came towed the vehicle and put the guy in the back of a cop car. Really a winning moment for that dude. Customer here. I'm usually just cussing out the driver in front of me for not pulling up closer to the car in front of them.
+
+---
+
+Да, правильно, Карен. Тебе определенно нужно три длины машины между тобой и следующей машиной. Это нормально, потому что у меня явно есть весь чертов день. И у всех остальных за мной тоже. И мы хотели бы заказать.
+
+Yeah that's right Karen. You definitely need three car lengths between you and the next car. That's okay because I clearly have all freaking day. And so does everyone else who's behind me. And we'd like to order.
+
+---
+
+Кто знал, что я буду есть в том же Макдональдсе, что и чертова королева вселенной. Я так польщен. Пожалуйста, положите свои проклятые телефоны и проезжайте дальше. Другие люди голодны и тоже хотели бы получить еду.
+
+Who knew I was going to eat at the same McDonald's as the freaking queen of the universe. I'm so honored. Please put your goddamn phones down and roll on through. Other people are hangry and would also like to get some food.
+
+---
+
+Это было объявление общественной службы от интернет-человека, который хотел бы, чтобы все подтянулись. Я раньше работал в Starbucks. Какая-то мама кричала на своего ребенка. Я думал, что ему должно быть лет десять, потому что по голосу и всем ругательствам.
+
+This has been a public service announcement from an internet person who'd like everyone to tighten their crap up. I used to work at Starbucks and some mom was yelling at her kid. I thought he must have been a teenager because of her voice and all the cussing.
+
+---
+
+Она подъехала, и ее ребенку было около шести лет. Он называл свою маму сукой, шлюхой, дерьмовой головой и всем таким. Я все слышал. Мы с мамой поехали в drive-thru Steak and Shake. Там было очень занято.
+
+She pulls up and her kid is like six years old. He was calling her mom a bitch a c-word a crap head all of that. I heard everything. My mom and I drove to a Steak and Shake drive-thru. It was super busy.
+
+---
+
+Нам не пришлось долго ждать, чтобы добраться до динамика и сделать заказ. Когда мы добрались туда, женщина у динамика сказала, привет, добро пожаловать в Steak and Shake. Она не спросила наш заказ и не сказала подождать немного. Только это.
+
+We didn't have to wait long to get to the speaker to order though. Once we got there the woman over the speaker said hi welcome to Steak and Shake. She didn't ask for our order or tell us to wait a bit. Just that.
+
+---
+
+Мы ждали по крайней мере пятнадцать минут. Моя сестра и я были очень нетерпеливы и устали. Поэтому мы продолжали говорить усталым голосом, привет, добро пожаловать в Steak and Shake. Как я могу принять ваш заказ. Мы были усталыми и думали, что это смешно.
+
+We were waiting for at least fifteen minutes. My sister and I were super impatient and tired. So we kept saying in a tired voice hi welcome to Steak and Shake. How may I take your order. We were tired and thought this was funny.
+
+---
+
+Плюс мы просто надеялись, что если мы будем повторять это снова и снова, скоро человек у динамика спросит наш заказ. Через несколько минут мы все делали это и смеялись. Моя мама не делала этого, но она смеялась вместе с нами.
+
+Plus we were just hoping if we said it over and over again soon the person over the speaker would ask for our order. After a few minutes of all of us doing this and laughing my mom wasn't doing it. But she was laughing along.
+
+---
+
+Мы услышали, как женщина на другом конце очень зло спросила нас, вы насмехаетесь надо мной. И все трое из нас просто сидели там. Потому что никто из нас не знал, что она все еще может нас слышать. Как черт объяснить кому-то, что мы просто смеялись над собой.
+
+We hear the woman on the other end very angrily ask us are you mocking me. And all three of us just sat there. Because none of us knew that she could still hear us. How the freak do you explain to someone that we were just laughing at ourselves.
+
+---
+
+Поскольку мы колебались, она спросила снова. Вы, ребята, насмехаетесь надо мной. На этот раз громче и злее. Моя мама и я оба сказали очень жалким тоном, нет, мы смеялись над нашими собственными шутками. Женщина фыркнула на нас и больше ничего не сказала.
+
+Since we hesitated and she asked again are you guys mocking me. This time louder and angrier. My mom and I both said in a very pathetic tone no we were laughing at our own jokes. The lady scoffed at us and didn't say anything else.
+
+---
+
+Мы чувствовали себя ужасно, что она думала, что мы над ней насмехаемся. Когда на самом деле мы были просто усталыми и глупыми. Поэтому мы уехали без заказа и поели где-то еще. Как собаки с хвостами между ног.
+
+We felt terrible that she thought we were mocking her. When in reality we were just tired and stupid. So we drove off without ordering and got food somewhere else. Like dogs with their tails between their legs.
+

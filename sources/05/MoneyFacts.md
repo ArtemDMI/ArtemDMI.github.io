@@ -1,0 +1,298 @@
+Британский фунт стерлингов старше тысячи лет. Это самая старая валюта в мире. Она используется до сих пор. Фунт появился в англосаксонский период 1200 лет назад. Он произошел от серебряного пенни. Пенни впервые ввели в 760 году нашей эры. Вероятно это сделал король Оффа из Мерсии.
+
+The British pound sterling is over a thousand years old. It is the oldest currency in the world. It is still in use today. The pound appeared during the Anglo-Saxon period 1200 years ago. It evolved from the silver penny. The penny was first introduced in 760 AD. King Offa of Mercia probably did this.
+
+---
+
+Долгое время американский монетный двор производил пенни в убыток. Когда производство пенни официально остановили, каждый пенни стоил 3.69 цента. Это включало стоимость материалов и труда.
+
+For a long time the US Mint produced pennies at a loss. When penny production was officially stopped, each penny cost 3.69 cents. This included material and labor costs.
+
+---
+
+Деньги буквально грязные. Мы говорим не только о коррупции. Средняя долларовая купюра в Нью-Йорке содержит следы кокаина. Это осталось с 80-х годов. Исследование 2014 года показало, что на купюрах более 3000 видов бактерий. Среди них есть устойчивые к лекарствам штаммы. Их опасно допускать в организм.
+
+Money is literally dirty. We are not just talking about corruption. The average dollar bill in New York contains traces of cocaine. This remains from the 80s. A 2014 study found over 3000 types of bacteria on bills. Some are drug-resistant strains. They are dangerous to let into your body.
+
+---
+
+Зимбабве выпустила банкноту в 100 триллионов долларов. Гиперинфляция реальна. Зимбабве пережила легендарный случай гиперинфляции. Банкноту ввели в январе 2009 года. Экономика полностью рухнула. Цены на товары выросли до абсурда. Монетный двор Зимбабве создавал все большие номиналы. Теперь Зимбабве в лучшем состоянии. Эти безумные банкноты приносят прибыль. Люди покупают банкноту в 100 триллионов как сувенир.
+
+Zimbabwe issued a 100 trillion dollar banknote. Hyperinflation is real. Zimbabwe had a legendary case of hyperinflation. The banknote was introduced in January 2009. The economy completely collapsed. Prices for goods rose to absurd levels. The Zimbabwean mint created larger and larger denominations. Now Zimbabwe is in better condition. These insane banknotes are turning a profit. People buy the 100 trillion banknote as a souvenir.
+
+---
+
+Есть американская монета, которую запрещено иметь. Это двойной орел 1933 года. Одна из самых редких монет в мире. Она сделана из 90 процентов золота и 10 процентов меди. Ее выпустили в очень ограниченном количестве во время Великой депрессии. Но она никогда не попадала в обращение. Правительство приказало переплавить все монеты кроме двух. Но 20 монет украли. Девять нашли и уничтожили. Осталось только 13. Секретная служба до сих пор ищет их. Если вы получите одну из них в частную собственность, вы нарушаете закон.
+
+There is a US coin that is illegal to own. It is the 1933 double eagle. One of the rarest coins in the world. It is made of 90 percent gold and 10 percent copper. It was produced in very limited numbers during the Great Depression. But it never actually circulated. The government ordered all but two to be melted down. But 20 were stolen. Nine were found and destroyed. Only 13 remain. The Secret Service is still hunting them down. If you come into private ownership of one, you are breaking the law.
+
+---
+
+В 2018 году Samsung случайно сделала 2000 сотрудников мультимиллионерами. Инцидент с толстым пальцем 2018 года стал катастрофой. Samsung Securities торговая часть технологического гиганта совершила большую ошибку. Они выдавали дивиденды по акциям 2000 корейским сотрудникам. Они случайно выдали 2.8 миллиарда акций. Каждая стоила около 1000 корейских вон. Акции стоили более ста миллиардов. Это в 30 раз больше рыночной капитализации самой компании. Проблему позже исправили. Но акции Samsung упали на 11 процентов.
+
+In 2018 Samsung accidentally made 2000 employees multi-millionaires. The 2018 Fat Finger incident was a catastrophe. Samsung Securities the trading wing of the tech giant made a big mistake. They were issuing stock dividends to 2000 Korean employees. They accidentally issued 2.8 billion shares. Each was worth about 1000 Korean won. The shares were worth over a hundred billion. That is 30 times the market cap of the company itself. The issue was later rectified. But Samsung stock tanked 11 percent.
+
+---
+
+Состояние в биткоинах спрятано на свалке в Уэльсе. Джеймс Хауэллс валлийский компьютерный инженер совершил одну ошибку. Она наверное мучает его каждый день. Он случайно отдал своей подруге жесткий диск с биткоин кошельком. Она выбросила его с мусором. Содержимое кошелька сейчас стоит около 751 миллиона долларов. Он закопан под тоннами мусора на свалке в Ньюпорте. Местный суд постановил, что у Джеймса нет надежды найти его снова.
+
+A fortune in Bitcoin is hidden in a Welsh landfill. James Howells a Welsh computer engineer made one mistake. It probably haunts him daily. He accidentally gave his girlfriend a hard drive with his Bitcoin wallet. She threw it out with the trash. The wallet content is currently around 751 million dollars. It is buried under tons of trash in the Newport landfill. The local high court ruled that James had no hope of ever finding it again.
+
+---
+
+Есть секретный символ, который объединяет почти все бумажные деньги в мире. Символ называется созвездие Эурион. Это узор символов основанный на созвездии Ориона. Его стандартизировали в 1996 году вместе с развитием компьютерных технологий. Это не какая-то странная штука про иллюминатов. Это постоянный узор. Он помогает программам распознавания изображений находить такие документы. Его используют как механизм для остановки подделок.
+
+There is a secret symbol that unites almost all paper money worldwide. The symbol is called the Eurion constellation. It is a pattern of symbols based on the Orion constellation. It was standardized in 1996 along with advances in computer technology. This is not some weird Illuminati thing. It is a consistent pattern. It helps imaging software recognize these kinds of documents. It is mainly used as a mechanism to stop counterfeiting.
+
+---
+
+Почти ни одна валюта не была более неудачной, чем венгерский пенго. Эту валюту ввели в первый день 1927 года. Она не просуществовала даже 20 лет. Гиперинфляция сделала ее совершенно бесполезной. Как и в Зимбабве, когда гиперинфляция ударила по Венгрии в конце Второй мировой войны, начали печатать номиналы в триллионах. Последняя банкнота пенго была на один секстиллион. Это худший случай гиперинфляции в истории человечества.
+
+Almost no currency was more unlucky than the Hungarian pengo. This currency was introduced on the first day of 1927. It did not even last 20 years. Hyperinflation made it utterly worthless. Much like Zimbabwe, when hyperinflation hit Hungary at the end of World War II, denominations in the trillions started getting printed. The last banknote for the pengo was for one sexillion. This is the worst case of hyperinflation in human history.
+
+---
+
+Мемкоины делают деньги действительно глупыми. Это особая подгруппа криптовалют. Они основаны на интернет мемах или других сомнительно юмористических концепциях онлайн. Самые известные примеры включают Догикоин, Пепе, Бонк, Хок, монету на основе мема Хактуа и конечно Манки Джей. Такие вещи могут быть причиной, почему инопланетяне не посещают нас.
+
+Memecoins make money really stupid. This is a particular subset of cryptocurrencies. They are based on internet memes or other dubiously humorous concepts online. Some of the most infamous examples include Dogecoin, Pepe, Bonk, Hawk, the coin based on the Haktua meme, and of course Monkey J. Things like this might be why aliens do not visit us.
+
+---
+
+Вы возможно никогда не слышали о самой сильной валюте в мире. Это не доллар США или фунт стерлингов или евро. Это кувейтский динар. Его позиция на международном рынке укрепляется нефтяными богатствами Кувейта. Правительство жестко контролирует инфляцию. Это делает его одной из самых стабильных валют в мире.
+
+You might have never heard of the world's strongest currency. It is not the US dollar or the pound sterling or the euro. It is the Kuwaiti dinar. Its position on the international market is bolstered by Kuwait's oil riches. The government tightly controls inflation. This makes it one of the most stable currencies in the world.
+
+---
+
+Нацисты пытались использовать гиперинфляцию как оружие. Имеет смысл, что одно из самых злых правительств в истории попыталось использовать темный призрак гиперинфляции против врагов. Но станет еще хуже. Операция называлась Бернхард. План был простым. Подделать фальшивые британские деньги. Затем распространить их по Англии, чтобы обесценить фунт. Что делало этот план особенно дьявольским? Они заставляли заключенных концлагерей делать поддельные деньги.
+
+The Nazis tried to use hyperinflation as a weapon. It makes sense that one of the most evil governments in history would try to wield the dark specter of hyperinflation against their enemies. But it gets worse. It was called Operation Bernhard. The plan was simple. Forge fake British money. Then distribute it through England to devalue the pound. What made this plan particularly diabolical? They forced concentration camp prisoners to make the counterfeit money.
+
+---
+
+Рай это самая неудобная валюта в мире. Даже более неудобная, чем сперма обезьяны, если вы можете в это поверить. Это потому что эта странная древняя валюта была буквально гигантским круглым куском известняка с дыркой посередине. Когда мы говорим гигантский, мы имеем в виду физически больше человека. Вам было бы очень трудно поместить это в кошелек. Рай использовали люди Айси в Микронезии. Это работало совсем не так, как современные деньги. Камни оставались на месте. Но когда право собственности переходило, передачу добавляли в устную историю области. Это давало владельцу определенный авторитет.
+
+Rai is the world's most inconvenient currency. Yes, even more inconvenient than monkey jizz, if you can believe it. This is because this bizarre ancient money was literally a giant circular piece of limestone with a hole in the middle. When we say giant, we mean physically larger than a person. You would have a really hard time fitting that into your wallet. Rai was employed by the Aisi people of Micronesia. It worked very differently from money today. The stones would stay in place. But when ownership was transferred, the transfer would be added to the oral history of the area. This would confer a kind of clout value to the owner.
+
+---
+
+В Гонконге актер может тайно контролировать фондовый рынок. Ну это немного упрощение. Но эффект Тин Хай был странным самоисполняющимся пророчеством. Он поразил гонконгский фондовый рынок несколько раз начиная с 1992 года. Актер Адам Чанг играл злодея по имени Тин Хай в финансовой драме Жадность человека. Его ужасная сцена смерти некоторые восприняли как проклятие фондового рынка. С тех пор некоторые биржевые брокеры наблюдали странное явление. Каждый раз когда новый сериал с Адамом Чангом выходит в эфир, происходит необъяснимое падение гонконгского фондового рынка. Действительно ли Чанг отравляет индекс? Наверное нет. Но это идеальный пример того, как игра на фондовом рынке часто больше похожа на суеверные азартные игры, чем на точную науку.
+
+In Hong Kong an actor might secretly control the stock market. Okay, that is oversimplifying it a little. But the Ting Hai effect was a bizarre self-fulfilling prophecy. It struck the Hong Kong stock market several times starting in 1992. The actor Adam Chang played a villain called Ting Hai in the financial drama The Greed of Man. His gruesome death scene was seen by some as a curse on the stock market itself. Since then, some stock brokers have observed a bizarre phenomenon. Every time a new show starring Adam Chang airs, there is an inexplicable dip in the Hong Kong stock market. Is Chang really stock index poison? Probably not. But it is a perfect example of how playing the stock market is often much more a bunch of superstitious gambling than any kind of exact science.
+
+---
+
+Три девочки-подростка почти обрушили банк в Японии. Это не история о трех амбициозных молодых грабителях банков. Они пытались финансировать свою J-pop группу награбленным. Мы говорим об инциденте с банковской паникой в банке Тойокаба Шинкин. В декабре 1973 года три девочки-подростка обсуждали будущие карьеры по дороге в школу. Одна пошутила, что банк Шинкин опасен. Она имела в виду опасен для работы, если появится грабитель. Но это быстро переросло в слух, что банк Шинкин опасное место для хранения денег. Слух быстро передавался от человека к человеку. Он превратился в веру, что банк вот-вот рухнет. Это привело к банковской панике. Люди запаниковали и начали забирать свои деньги. Около 5000 клиентов втянулись в это безумие.
+
+Three teen girls almost collapsed a bank in Japan. This is not a story of three ambitious young bank robbers. They were trying to fund their J-pop idol group with ill-gotten gains. We are talking about the Toyokaba Shinkin bank run incident. In December 1973, three teen girls were chatting about future careers on their way to school. One joked that Shinkin Bank is dangerous. She meant dangerous to work at if a robber shows up. But that rapidly spiraled into a rumor that Shinkin Bank is a dangerous place to put your money. The rumor quickly passed from person to person. It mutated into the belief that the bank was imminently about to collapse. This led to a bank run. People panicked and started taking out their money. Around 5000 customers got roped into the madness.
+
+---
+
+Бесполезная банкнота Индии была создана, чтобы досадить политикам. С момента создания в 2007 году антикоррупционная НПО под названием пятый столп в Индии печатала фальшивые новинные банкноты. Они были основаны на банкноте в 50 рупий. Но на этих банкнотах была большая жирная нуль. Почему? Эти банкноты предназначены для того, чтобы давать их как фальшивые взятки коррумпированным политикам. Это чтобы высмеять их и протестовать против избранных чиновников, которые продают свое влияние за деньги.
+
+India's worthless bank note was here to spite politicians. Since their creation in 2007, an anti-corruption NGO called the fifth pillar in India has printed fake novelty banknotes. They were based on the 50 rupee banknote. But these notes had a big fat zero on them. Why? These notes are designed to be given as fake bribes to corrupt politicians. It is to make fun of them and protest these elected officials selling their influence for cash.
+
+---
+
+В отличие от этого США думали о создании монеты в триллион долларов. В 2011 году во время кризиса потолка долга США одно сумасшедшее предложенное решение было платиновой монетой в триллион долларов. Она бы сразу обошла лимит заимствований страны. Экономист Пол Кругман поддержал эту спорную идею. Он сказал, что любой, кто против нее, просто некомфортно чувствует себя с тем, как она раскрывает деньги как социальную конструкцию. Но идею официально отклонила Федеральная резервная система в 2013 году. Хотя ее предлагали еще несколько раз с тех пор.
+
+In contrast, the US thought about making a trillion dollar coin. Back in 2011, during the United States debt ceiling crisis, one wacky proposed solution was a platinum trillion dollar coin. It would immediately bypass the country's borrowing limit. Economist Paul Krugman threw his weight behind the controversial idea. He said that anyone who opposed it was just uncomfortable with the way that it revealed money as a social contrivance. But the idea was officially rejected by the Federal Reserve in 2013. Though it has been proposed again a few more times since then.
+
+---
+
+Великобритания действительно имеет банкноту в 100 миллионов фунтов. Ее также называют Титаном, потому что она абсурдно огромная. Эта необращающаяся банкнота была создана для поддержки стоимости шотландских и североирландских банкнот. Она создает связь между ними и валютой, отчеканенной в Англии и Уэльсе. Они все заперты вместе в хранилище Банка Англии.
+
+The UK actually does have a 100 million pound bank note. It is also known as the Titan because it is absurdly huge. This non-circulating note was created to back the value of the Scottish and Northern Irish banknotes. It creates a link between them and the currency minted in England and Wales. They are all locked away together in the Bank of England vault.
+
+---
+
+Китайские адские деньги держат мертвых вне долгов. Это форма жертвенной бумаги. Церемониальная бумага для благовоний используется в китайской практике поклонения предкам. Она сделана так, чтобы выглядеть как современные деньги. Ее сжигают как форму уважения. Это должно держать ваших мертвых членов семьи платежеспособными в загробной жизни. Однако если вы получите адские деньги, убедитесь, что не даете их живым людям в Китае. Это считается серьезным оскорблением. Может быть даже угрозой смерти. Как будто сказать, что вам понадобятся эти деньги позже, когда я убью вас.
+
+Chinese hell money keeps the dead out of debt. This is a form of joss paper. Ceremonial incense paper is used in Chinese ancestor worship practices. It is designed to look like modern money. They are burned as a form of respect. It is meant to keep your dead family members solvent in the afterlife. However, if you happen to get your hands on some hell money, make sure you do not give it to any living people in China. It is considered a grave insult. Maybe even a death threat. As if to say you are going to need this money later when I kill you.
+
+---
+
+В 1997 году Конго пробило дырку во всех своих деньгах. Они сделали это не просто для развлечения. До этого момента они страдали под тоталитарной диктатурой Жозефа Мобуту. У него был национальный рейтинг одобрения как у генитального герпеса в то время. Но после того как Мобуту ушел, было трудно заменить всю валюту за одну ночь. Но никто не хотел смотреть на его лицо каждый раз, когда они совершали финансовую транзакцию. Поэтому решение было пробить дырку прямо во всех деньгах. Это убрало лицо Мобуту с денег, пока они не смогли напечатать новые купюры.
+
+In 1997, the Congo punched a hole through all of its money. They did not just do it for fun. Prior to that point, they had suffered under the totalitarian dictatorship of Joseph Mobutu. He had the national approval rating of genital herpes at the time. But after Mobutu was gone, it was hard to change out all the currency overnight. But nobody wanted to look at his face every single time they made a financial transaction. So the solution was to punch a hole right through all their money. This removed Mobutu's face from the money until they could print new bills.
+
+---
+
+В 1920-х годах немцы нашли творческие способы использовать свои бесполезные деньги. Первая мировая война была экономически разрушительной для Германии. Она создала нашего старого друга гиперинфляцию. Она также подготовила почву для демагога вроде Гитлера, чтобы прийти к власти. Но до того как человек с глупыми усами попытался уничтожить несколько рас и сексуальностей, у обычных немцев было много денег, которые теперь не стоили ничего. Но будучи трудолюбивыми людьми, некоторые использовали свои бесполезные деньги как кич обои. Другие люди давали их своим детям как игрушки. Учитывая, что немецкая марка была менее ценной, чем современная стикер-нота в этот момент, мы действительно не можем их винить за это.
+
+In the 1920s, Germans found creative ways to use their useless money. World War I was economically devastating for Germany. It created our old friend hyperinflation. It also set the stage for a demagogue like Hitler to rise to power. But before a man with a silly mustache tried to wipe out multiple races and sexualities, average Germans had a lot of money that was now not really worth anything. But being industrious people, some folks used their worthless money as kitschy wallpaper. Other people gave it to their kids to use as toys. Seeing as the German mark was less valuable than the modern-day sticky note at this point, we really cannot fault them for that.
+
+---
+
+Скрипт держал людей живыми во время Великой депрессии. Скрипт это любой источник замены законного платежного средства. От долговой расписки до деревянного никеля, выданного работникам плантаций на глубоком юге. Во время Великой депрессии огромные количества скрипта были сделаны разными сообществами. Они выдавали их американским рабочим, когда печать законной валюты не справлялась. Скрипт часто имел ограниченное окно использования. Это держало его в обращении и предотвращало накопление, которое блокирует экономики. Может быть мы бы жили в лучшем мире, где миллиардеры тоже должны были бы тратить свои деньги.
+
+Script kept people alive during the Great Depression. Script is any source of replacement for legal tender. From an IOU to a wooden nickel given out to plantation workers in the deep south. And during the Great Depression, huge amounts of script were made by different communities. They gave it out to American workers when the printing of legal currency fell short. Script would often have a limited use window. This kept it circulating and prevented the kind of hoarding that makes economies lock up. Maybe we would live in a better world where billionaires had to actually spend their money too.
+
+---
+
+Бывший министр финансов Афганистана теперь водитель Uber. Халид Панда когда-то имел довольно сладкую работу. Он управлял казначейством более 6 миллиардов долларов. Но когда он услышал, что американские военные выводят войска из страны в 2022 году, он решил, что лучше уехать. Талибан неизбежно вернет страну. С тех пор как он переехал в США, его жизнь не была такой гламурной. Теперь он водит Uber в Вашингтоне округ Колумбия. Он зарабатывает 150 долларов за 6-часовые рабочие сессии.
+
+The former Afghanistan finance minister is an Uber driver now. Khaled Panda once had a pretty sweet gig. He managed a treasury of over 6 billion dollars. But when he heard that the US military were pulling out of the country in 2022, he decided it was probably best to make tracks. The Taliban would inevitably retake the country. Since moving to the US, his life has not been quite so glamorous. He now drives an Uber in Washington DC. He makes 150 dollars for 6-hour work sessions.
+
+---
+
+Американские деньги раньше напрямую угрожали вам. В наши дни фраза, которую вы видите на американских купюрах, это мы верим в Бога. Но в 18 веке колониальные деньги должны были быть намного более жесткими. Пока молодая страна еще находила свои ноги, некоторые купюры вместо этого имели лозунг. Он говорил, что подделка это смерть. Потому что подделка в то время была преступлением, караемым смертной казнью.
+
+US money used to directly threaten you. These days, the catchphrase you see on American bills is In God We Trust. But back in the 18th century, colonial money needed to be a lot more hardcore. While the fledgling country was still finding its feet, some bills instead featured a slogan. It said to counterfeit is death. Because counterfeiting was at the time a capital offense.
+
+---
+
+Пабло Эскобар потратил 2500 долларов на резинки. Что это имеет общего с деньгами? Это то, почему он потратил столько на резинки. Как король кокаина, Эскобар работал только с наличными. Это специальность наркодилера. Он зарабатывал так много на пике своего богатства, что ему нужно было купить все эти резинки. Это чтобы держать остальные его деньги вместе.
+
+Pablo Escobar spent 2500 dollars on rubber bands. What does this have to do with money? It is why he spent that much on rubber bands. As the king of cocaine, Escobar dealt in cash only. It is the drug dealer special. He was making so much at the height of his riches that he needed to buy all those rubber bands. It is to keep the rest of his cash together.
+
+---
+
+Одна из самых ценных монет в мире также одна из самых больших. Канадский большой кленовый лист, да, его действительно так называют, это гигантская канадская монета в 1 миллион долларов. На ней лицо королевы Елизаветы. Она сделана из 99.999 процентов золота. Это одно из самых чистых золот в мире. Она весит 220 фунтов. Несмотря на то, что монета имеет номинальную стоимость крутого миллиона, фактическая стоимость монеты составляет 12 миллионов. Это отлично, предполагая, что вы могли бы понять, как таскать эту штуку.
+
+One of the most valuable coins in the world is also one of the largest. Canada's big maple leaf, yeah, it is really called that, is a giant Canadian 1 million dollar coin. It has Queen Elizabeth's face on it. It is made of 99.999 percent gold. It is some of the purest gold in the world. It weighs in at 220 lbs. Despite the coin having a face value of a cool million, the actual value of the coin is 12 million. That is great, assuming you could figure out how to haul the thing around.
+
+---
+
+Разрывание австралийских денег пополам также имеет свою ценность. Есть очень конкретные правила вокруг этого. Если 50 процентов банкноты отсутствует, банкнота стоит половину своей первоначальной стоимости. Если у вас есть половина разорванной банкноты в 100 долларов, у вас есть 50 баксов. Деньги становятся бесполезными только если осталось менее 80 процентов.
+
+Ripping Australian money in half also has its value. There are actually some very specific rules around this. If 50 percent of the banknote is missing, the banknote is worth half of its original value. And if you have got half of a ripped up 100 dollar banknote, you have got 50 bucks. The money is only worthless if there is less than 80 percent remaining.
+
+---
+
+Много наличных денег не дружелюбны к веганам. Разница между вегетарианцами и веганами в том, что веганы не будут использовать ничего, что включает побочные продукты животных вообще. В результате есть много денег, включая бумажные наличные Британии и Австралии, которые веганы не могут использовать. Это потому что эти деньги, а также деньги из более чем 22 других стран, сделаны с использованием говяжьего сала.
+
+A lot of cash is not vegan friendly. The difference between vegetarians and vegans is that vegans will not use anything that involves animal byproducts at all. As a result, there is a lot of money, including the paper cash of Britain and Australia, that vegans cannot use. That is because this money, as well as the money from over 22 other countries, is made using beef tallow.
+
+---
+
+Гарвард мог бы позволить себе дать всем своим студентам бесплатное обучение. Этот престижный университет Массачусетса имеет невероятный эндаумент в 51.9 миллиарда. Это привело к тому, что люди подсчитали цифры. Если бы они платили полную плату за обучение, комнату и питание для всех своих 6700 студентов с этим эндаументом, у них все еще осталось бы 32.3 миллиарда. Они просто не хотят.
+
+Harvard could afford to give all of its students a free ride. This prestigious Massachusetts university has an incredible endowment of 51.9 billion. This has led to people crunching the numbers. If they paid full tuition, room, and board for all of its 6700 undergrads with this endowment, they would still have 32.3 billion left over. They just do not want to.
+
+---
+
+Менее трети американских взрослых могут пройти базовый тест на финансовую грамотность. Фонд FINRA провел национальное исследование финансовых возможностей. Как часть этого, они дали викторину из семи вопросов по базовым финансовым концепциям репрезентативной выборке американских взрослых. Только 27 процентов прошли.
+
+Less than a third of American adults can pass a basic financial literacy test. The FINRA Foundation ran a national financial capability study. As part of it, they gave a seven question quiz on basic financial concepts to a representative sample of American adults. Only 27 percent passed.
+
+---
+
+Разные купюры имеют свой собственный срок службы. Каждая разная американская купюра имеет свой уникальный срок службы. Мы перечислим их здесь быстро. Купюры в 1 доллар служат 6.6 лет. Купюры в 5 долларов 4.7 лет. Купюры в 10 долларов 5.3 лет. Купюры в 20 долларов служат 7.8 лет. Купюры в 50 долларов служат 12.2 лет. А купюры в 100 долларов служат 22.9 лет. Но ни одна из них не выживает больше выходных в наших банковских счетах.
+
+Different bills have their own lifespan. Each different US bill has its own unique lifespan. We are going to list them here real quick. 1 dollar bills last for 6.6 years. 5 dollar bills 4.7 years. 10 dollar bills for 5.3 years. 20 dollar bills last for 7.8 years. 50 dollar bills last for 12.2 years. And 100 dollar bills last for 22.9 years. But none of them survive more than a weekend in our bank accounts.
+
+---
+
+Вам нужно сложить долларовую купюру 4000 раз, чтобы разорвать ее. Это официально подтвердило Бюро гравировки и печати. Они утверждали, что долларовая купюра должна быть сложена вдвое 4000 раз вперед и назад, чтобы сломать ее. Почему они такие прочные? Потому что они на самом деле не сделаны из бумаги. Они сделаны из 25 процентов льна и 75 процентов хлопка. В этом смысле они намного более прочные, чем люди, которые разорвутся, если вы сложите их четыре раза.
+
+You would need to fold a dollar bill 4000 times to tear it. This was officially confirmed by the Bureau of Engraving and Printing. They claimed that a dollar bill would need to be double-folded 4000 times forwards and backwards to break it. Why are they so durable? Because they are not actually made of paper. They are made of 25 percent linen and 75 percent cotton. In that sense, they are a lot more durable than people who will tear if you fold them four times.
+
+---
+
+Знаменитый знак доллара впервые использовали в 1785 году. Несмотря на то, что это довольно вездесущий символ в наши дни, ему меньше 400 лет. Широко считается, что символ произошел от букв PS, представляющих испанское песо. Буквы медленно перекрывали друг друга, пока он не превратился в отличительный символ знака доллара, который мы знаем сегодня.
+
+The iconic dollar sign was first used in 1785. Despite being a pretty ubiquitous symbol these days, it is less than 400 years old. It is widely believed that the symbol originated from the letters PS representing a Spanish peso. The letters slowly overlapped one another until it morphed into the distinctive dollar sign symbol we know today.
+
+---
+
+Есть много купюр в 2 доллара там. Это самый редкий номинал американской валюты. И как пенни, их больше не делают. Однако все еще есть 1.6 миллиарда этих купюр в обращении. И странный фольклор построился вокруг идеи, что это какое-то плохое предзнаменование. Когда эти верующие встречают купюру в 2 доллара, они отрывают угол, чтобы сломать проклятие. Это делает купюру бесполезной в процессе. Потеря двух баксов кажется настоящей неудачей здесь.
+
+There are plenty of 2 dollar bills out there. It is the rarest denomination of US currency. And like the penny, they do not make it anymore. However, there are still 1.6 billion of these bills floating around out there. And a strange folklore has built up around the idea of it being some kind of bad omen. When these believers encounter the 2 dollar bill, they tear off the corner to break the curse. This renders the bill useless in the process. Losing two bucks seems like the real bad luck here.
+
+---
+
+Есть банкомат буквально на каждом континенте Земли. Да, мы очень включаем Антарктиду в это, потому что есть банкомат на станции Мак-Мердо в замерзшей пустыне. Есть также один на острове Пасхи. Вы не можете избежать денег нигде.
+
+There is an ATM on literally every continent of the Earth. Yes, we are very much including Antarctica in that because there is an ATM at McMurdo station in the frozen wasteland. There is also one on Easter Island. You cannot escape money anywhere.
+
+---
+
+Рыцари Тамплиеры управляли одними из первых банков в мире. Во время крестовых походов почти тысячу лет назад благочестивые рыцари Тамплиеры управляли серией фортов по всему Ближнему Востоку. Они могли помочь защитить путь для христианских религиозных паломников. Поскольку было невероятно опасно нести большие количества золота во время этих паломничеств, рыцари предложили систему. Вы могли оставить свое золото в одном из их фортов. Затем они давали вам письмо о кредите. Вы могли обналичить эти деньги в любом другом форте Тамплиеров по пути. Такие услуги сделали Тамплиеров невероятно богатыми. Настолько, что это начало немного беспокоить Ватикан. Папа приказал казнить Тамплиеров в результате. Мы можем только представить, что это вызвало адскую банковскую панику.
+
+The Knights Templar ran some of the first banks in the world. Back during the Crusades almost a millennium ago, the Devout Knights Templar ran a series of forts throughout the Middle East. They could help protect the path for Christian religious pilgrims. Since it was incredibly dangerous to carry large amounts of gold during these pilgrimages, the knights offered a system. You could leave your gold at one of their forts. They would then give you a letter of credit. You could redeem that money at any other Templar fort along the path. Services like these made the Templars incredibly rich. So much so that it started to make the Vatican a little bit nervous. The Pope ordered the Templars to be executed as a result. We could only imagine that caused one hell of a bank run.
+
+---
+
+Только 8 процентов денег в мире на самом деле физические наличные. Это довольно страшно, не так ли? В нашем храбром новом мире онлайн банкинга большинство глобальной валюты это очень пыль на различных компьютерных жестких дисках по всему миру. Это действительно заставляет думать, что правительства мира должны, возможно, инвестировать немного больше в кибербезопасность.
+
+Only 8 percent of the world's money is actually physical cash. That is kind of terrifying, is not it? In our brave new world of online banking, the majority of global currency is very dust on various computer hard drives the world over. It really makes you think that the world's governments should be maybe investing a little more heavily into cybersecurity.
+
+---
+
+TSA грабит нас вслепую через мелочь. За последние 13 лет TSA подобрала более 10 миллионов долларов мелочи. Она остается на различных пунктах безопасности аэропортов. Эти монеты кладут в специальный фонд. Предположительно для улучшения безопасности. Хотя мы задаемся вопросом, улучшают ли они безопасность, ставя более удобные диваны и большие телевизоры в комнаты отдыха TSA на наши буквальные центы.
+
+The TSA is robbing us blind through loose change. Over the last 13 years, the TSA has picked up over 10 million dollars in loose change. It gets left at different airport security checkpoints. These coins are put into a special fund. Allegedly to improve security. Though we wonder if they are improving security by putting nicer couches and bigger TVs into the TSA break rooms on our literal dimes.
+
+---
+
+Если вы сложите долларовые купюры в милю высотой, у вас будет 14.5 миллионов. Это может быть не самое ответственное использование ваших денег.
+
+If you stacked dollar bills a mile high, you would have 14.5 million. That is maybe not the most responsible use of your money.
+
+---
+
+Американские деньги наполнены защитными нитями для предотвращения подделок. Это ультрафиолетовые реактивные нити, вплетенные в ткань купюр. Они светятся разными цветами в зависимости от номинала купюры. Возьмите ультрафиолетовый свет, если он у вас есть, и посмотрите. Купюры в 5 долларов имеют синие нити. Купюры в 10 долларов имеют оранжевые нити. Купюры в 20 долларов имеют зеленые нити. Купюры в 50 долларов имеют желтые нити. А купюры в 100 долларов имеют розовые нити. Как одна дорогая радуга.
+
+US money is filled with security threads to prevent counterfeiting. These are UV reactive threads woven into the fabric of the bills. They glow different colors depending on the denomination of the bill. Grab a UV light if you have got one and take a look. 5 dollar bills have blue threads. 10 dollar bills have orange threads. 20 dollar bills have green threads. 50 dollar bills have yellow threads. And 100 dollar bills have pink threads. Like one expensive rainbow.
+
+---
+
+Правительство США однажды принимало почтовые марки как деньги. Во время Гражданской войны монеты все еще были желаемой валютой. Люди не хотели расставаться с ними, потому что в военное время металл ценен. Чтобы решить проблему, правительство ввело временный закон. Он позволял использовать американские почтовые марки как законное платежное средство. Проблема была в том, что это затем привело к нехватке марок. В правительстве действительно трудно выиграть. Вы заметили это?
+
+The US government once accepted postage stamps as money. Back in the Civil War, coins were still the currency desired and people were not eager to part with them. Because in wartime, metal is valuable. In order to address the issue, the government put into place a temporary law. It allowed US postage stamps to be used as legal tender. The problem was this then resulted in a shortage of stamps. It is really hard to win in government. Have you noticed that?
+
+---
+
+История полна съедобных денег. Одна из самых старых валют в мире это соль. Она жизненно важна как приправа и способ сохранения пищи. Соль так связана с деньгами, что слово зарплата фактически происходит от латинского салариум. Это означает деньги, данные римским солдатам, использованные для покупки соли. И затем есть ранг, шарик специи куркумы, который действовал как валюта на Соломоновых островах. И конечно какао, вкусные шоколадные бобы в Мексике и Центральной Америке. Но мы думаем, что наш абсолютный фаворит это Пармезано Реджано, используемый как валюта и даже банковский залог в Италии. Нужно получить этот сыр.
+
+History is littered with edible money. One of the oldest currencies in the world is salt. It is vital as both a condiment and a way of preserving food. Salt is so tied in with money that the word salary is actually derived from the Latin salarium. It means the money given to Roman soldiers used to buy salt. And then there is rang, a ball of turmeric spice that acted as currency on the Solomon Islands. And of course, cocoa, the delicious chocolate beans in Mexico and Central America. But we think our absolute favorite is Parmesano Reggiano, used as currency and even bank collateral in Italy. Got to get that cheese.
+
+---
+
+Шкуры животных также исторически были основой валюты. Бобровые шкуры и оленьи шкуры были одним из краеугольных камней торговли между народами первых наций и европейскими захватчиками в 1700-х годах. Это даже почему некоторые люди называют доллары баксами в современное время. Но за сотни лет до этого, в средневековой России и Финляндии, беличьи шкуры были популярной формой валюты. Как и баксы, наследие сохраняется. Финское слово для денег Раха первоначально относилось к меху белки. Все связано.
+
+Animal pelts have also historically been a currency mainstay. Beaver pelts and buckskins were one of the cornerstones of trade between the First Nations people and the European invaders in the 1700s. It is even why some people call dollars bucks in the modern day. But hundreds of years before this, back in medieval Russia and Finland, squirrel pelts were a popular form of currency. Much like bucks, the legacy lingers. The Finnish word for money Raha originally referred to fur of squirrel. It is all connected.
+
+---
+
+Святой доллар воды одна из самых странных памятных монет когда-либо. В 2007 году островное государство Палау выпустило ограниченную серию серебряных долларов. На них изображена Дева Мария. Каждая содержит крошечный флакон святой воды. Она взята непосредственно из грота в Лурде Франция, где Дева Мария якобы явилась 150 лет назад. На монете были слова А Мария Лурд. Замечательный подарок для всех больших фанатов Девы Марии там, мы думаем.
+
+The holy water dollar is one of the weirdest commemorative coins ever. In 2007, the island nation of Palau released a limited series of silver dollars. They depict the Virgin Mary. Each one contains a tiny vial of holy water. It is taken directly from a grotto in Lourdes France where the Virgin Mary was supposedly cited 150 years prior. The coin bore the words A Maria Lourdes. A wonderful gift for all the big Virgin Mary fans out there, we guess.
+
+---
+
+Глобальная экономика когда-то зависела от голубей. До того как телеграфные сети были установлены по всей Европе, почтовые голуби были ключом к транспортировке обновлений рынка, финансовых новостей, курсов валют и цен на акции. Это было потому что они часто были быстрее и точнее, чем поезда в то время. В этом есть определенная романтика. Мы бы жили в лучшем мире, если бы вы могли отправить свои намерения покупки акций через почтового голубя, а не просто открыть приложение Робин Худ.
+
+The global economy was once reliant on pigeons. Before telegraph networks were set up across Europe, messenger pigeons were the key to transporting market updates, financial news, currency exchange rates, and stock prices. This was because they were often faster and more accurate than trains at the time. There is a certain romance to that. We would live in a better world if you could send your stock purchasing intentions via a messenger pigeon rather than just opening the Robin Hood app.
+
+---
+
+Вы знаете этот странный металлический запах, который вы получаете после обращения с мелочью? Это не монеты, это вы. Ваши кожные масла реагируют с металлом и распадаются на соединения, которые дают ему уникальный запах. В следующий раз, когда вы понюхаете центовую монету, просто помните, что вы вдыхаете пот и масла других людей. Внезапно Apple Pay кажется намного более привлекательным.
+
+You know that weird metal smell you get after handling loose change? That is not the coins, it is you. Your skin oils react with the metal and break down into compounds that give it a unique smell. Next time you give a dime a sniff, just remember you are huffing other people's sweat and oils. Suddenly, Apple Pay seems so much more attractive.
+
+---
+
+50 миллиардов денег Монополии печатается каждый год. Это каким-то образом единственная вещь, более способная разорвать счастливые семьи, чем настоящие деньги.
+
+50 billion of Monopoly money is printed each year. It is somehow the only thing more capable of tearing happy families apart than real money.
+
+---
+
+В мире 182 официальные валюты. И нет, мы не считаем те крипто мемкоины, или мы бы попадали в тысячи, и большинство из них были бы бесполезны.
+
+There are 182 official currencies in the world. And no, we are not counting those crypto meme coins or we would be getting into the thousands and most of them would be worthless.
+
+---
+
+Есть на самом деле много хороших причин, почему есть гребни по бокам монет. Наиболее заметно, отличительный узор гребней делает монеты труднее подделать. Как и меры против подделок бумажных денег, которые мы упоминали ранее, гребни также дают монетам тактильное ощущение. Это дает им классический вес старых валют, где люди делали ручные надрезы на краях монет, чтобы показать их подлинность. И для любителей барных трюков там, гребни на монетах это то, что дает им способность правильно переворачиваться в воздухе, когда вы подбрасываете монету. И мы думаем, что это стоит того только за это.
+
+There are actually plenty of good reasons why there are ridges on the sides of coins. Most prominently, the distinctive ridge pattern makes the coins harder to counterfeit. Just like the paper money anti-counterfeit measures we mentioned earlier, the ridges also give coins a tactile feeling. This gives them a classic heft of older currencies where people would make manual cuts into the edges of the coins to show their authenticity. And for lovers of bar tricks out there, the ridges on coins are what gives them the ability to properly flip in midair when you toss a coin. And we think it is worth it for that alone.
+
+---
+
+Люди изначально не хотели ставить лица президентов или других известных людей на свои монеты в США. Изначально они все собирались иметь более нерепрезентативные символы Америки, как Леди Свобода и белоголовый орел. И это было потому что британские монеты имели лица монархов. И недавно независимые США, ну, они не чувствовали, что повторяют старые ошибки. О, если бы они могли видеть нас сейчас.
+
+People initially did not want to put faces of presidents or other famous people on their coins in the US. Initially, they were all going to have more non-representational symbols of America, like Lady Liberty and the bald eagle. And this was because British coinage featured the faces of monarchs. And the newly independent US, well, they did not feel like repeating old mistakes. Oh, if they could see us now.
+
