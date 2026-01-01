@@ -158,7 +158,7 @@ def update_index_html(project_root: str) -> None:
     # Add or update folder-name style in CSS
     if '.folder-name' not in index_html:
         # Insert before closing </style>
-        index_html = re.sub(r'(</style>)', folder_style + '\n' + r'\1', index_html, count=1)
+        index_html = re.sub(r'(\n)([ \t]*</style>)', r'\1' + folder_style + r'\n\2', index_html, count=1)
     else:
         # Replace existing folder-name style - match any whitespace before .folder-name
         # Use multiline pattern to match across lines
@@ -168,12 +168,12 @@ def update_index_html(project_root: str) -> None:
     # Ensure nested list item style exists
     if 'ul ul li' not in index_html:
         # Add nested list style if not present
-        index_html = re.sub(r'(</style>)', '\n' + nested_list_style + '\n' + r'\1', index_html, count=1)
+        index_html = re.sub(r'(\n)([ \t]*</style>)', r'\1' + nested_list_style + r'\n\2', index_html, count=1)
     else:
-        # Remove all existing ul ul li styles first
-        index_html = re.sub(r'[ \t]*ul ul li\s*\{[^}]*\}\s*', '', index_html, flags=re.MULTILINE | re.DOTALL)
+        # Remove all existing ul ul li styles and extra blank lines
+        index_html = re.sub(r'[ \t]*ul ul li\s*\{[^}]*\}\n*', '', index_html, flags=re.MULTILINE | re.DOTALL)
         # Add single style before </style>
-        index_html = re.sub(r'(</style>)', '\n' + nested_list_style + '\n' + r'\1', index_html, count=1)
+        index_html = re.sub(r'(\n)([ \t]*</style>)', r'\1' + nested_list_style + r'\n\2', index_html, count=1)
 
     # Replace everything between </h1> and last </ul> in body
     # Find the position after <h1>Список страниц</h1>
