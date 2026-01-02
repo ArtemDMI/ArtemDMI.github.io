@@ -394,7 +394,7 @@ And every time they're going to try and get away, something new and exciting. Uh
 
 ---
 
-Ну, действительно, это то, на что я надеялся с тех пор, как играл в Planet Coaster и Zoo. Как мы можем иметь наш собственный особый вид веселья? Мне нравится, как тем временем все эти вертолеты все еще выгружают больше динозавров. Я понимаю, сэр.
+Ну, действительно, это то, на что я надеялся с тех пор, как играл в Planet Coaster и Zoo. Как мы можем иметь наш собственный особый вид веселья? Мне нравится, как тем временем все эти вертолеты все еще выгружают больше динозавров. Я понимаю, сэр. 1
 
 Well, really, this is what I've been hoping for ever since I played Planet Coaster and Zoo. How can we have our own special kind of fun? I like how Meanwhile, all these helicopters are still dropping off more dinosaurs. I get it, sir.
 
