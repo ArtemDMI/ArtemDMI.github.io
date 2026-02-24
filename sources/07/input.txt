@@ -10,3 +10,6 @@
 Вещей со мной было немного – всего один чемодан. Я подхватил его и преувеличенно бодро пошел вперед, надеясь быстро найти кеб[2], который отвезет меня в Нейквилл.
 
 Ветер бросал под ноги пожухлые листья, опавшие слишком рано в этом году. Осень – прекрасная пора, воспетая поэтами и музыкантами, но я всегда был к ней равнодушен. Даже не так, сезон увядания пугал меня, напоминал о скоротечности жизни и неотвратимости смерти. Я всегда предпочитал прятаться от осенних ветров и дождей в залах семинарии, библиотеках, а до учебы – в отвоеванной у младшего брата комнате под крышей.
+
+I understand that the previous Elder Scrolls games all used a proprietary Bethesda engine that allowed users to easily drop in mod packs and create Nexus mod friendly mods. So the past engine that they were using was proprietary, like I get that. When they switched it up and went to unreal though, they made modding virtually impossible. I would estimate that 99% of users probably cannot figure out how to create a mod in unreal, and even in the modding Community where I was, about 80% of us could not figure out how to create mod packs the same way we did for Skyrim. Like, I had created dozens of mods for Skyrim I'm not posting them here but at least several of them had 100K downloads easily... And I could not figure out unreal modding.
+
