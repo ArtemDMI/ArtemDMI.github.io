@@ -64,6 +64,68 @@ def _build_items(project_root: str) -> tuple[dict[str, list[tuple[str, str]]], l
     return groups, excluded
 
 
+GITIGNORE_EXCLUDED_START = "# === Excluded from index (no double-dash pattern) - auto-updated by update_index.py ==="
+GITIGNORE_EXCLUDED_END = "# === End excluded ==="
+
+
+def _excluded_to_paths(excluded: list[tuple[str, str]]) -> list[str]:
+    """Convert (group_name, stem) to POSIX paths for sources/.gitignore (group/stem.txt or stem.txt)."""
+    paths: list[str] = []
+    for group_name, stem in excluded:
+        if group_name == "root":
+            paths.append(f"{stem}.txt")
+        else:
+            paths.append(f"{group_name}/{stem}.txt")
+    return sorted(paths)
+
+
+def _update_gitignore(project_root: str, excluded: list[tuple[str, str]]) -> int:
+    """
+    Update sources/.gitignore: add excluded paths, remove paths that are no longer excluded.
+    Replaces the block between GITIGNORE_EXCLUDED_START and GITIGNORE_EXCLUDED_END.
+    """
+    gitignore_path = os.path.join(project_root, "sources", ".gitignore")
+    try:
+        with open(gitignore_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except FileNotFoundError:
+        content = ""
+
+    start_marker = GITIGNORE_EXCLUDED_START + "\n"
+    end_marker = "\n" + GITIGNORE_EXCLUDED_END
+
+    start_pos = content.find(GITIGNORE_EXCLUDED_START)
+    if start_pos == -1:
+        before = content.rstrip()
+        if before:
+            before += "\n\n"
+        else:
+            before = ""
+        after = ""
+    else:
+        end_pos = content.find(GITIGNORE_EXCLUDED_END, start_pos)
+        if end_pos == -1:
+            end_pos = len(content)
+        before = content[:start_pos].rstrip()
+        if before:
+            before += "\n\n"
+        after_part = content[end_pos + len(GITIGNORE_EXCLUDED_END) :].lstrip()
+        after = "\n\n" + after_part if after_part else ""
+
+    new_paths = _excluded_to_paths(excluded)
+    if new_paths:
+        new_block_lines = [GITIGNORE_EXCLUDED_START]
+        new_block_lines.extend(new_paths)
+        new_block_lines.append(GITIGNORE_EXCLUDED_END)
+        new_block = "\n".join(new_block_lines)
+        new_content = before + new_block + after
+    else:
+        new_content = before.rstrip() + (after.lstrip() if after else "")
+    with open(gitignore_path, "w", encoding="utf-8") as f:
+        f.write(new_content.rstrip() + "\n")
+    return len(new_paths)
+
+
 def _format_unable_links(excluded: list[tuple[str, str]]) -> str:
     """
     Format excluded (group_name, stem) list for console: compress consecutive stems
@@ -222,6 +284,10 @@ def update_index_html(project_root: str) -> None:
     print(f"Index updated: {len(groups)} groups, {total} files included. Pages written: {pages_written}.")
     if excluded:
         print("List unable links:", _format_unable_links(excluded))
+
+    excluded_count = _update_gitignore(project_root, excluded)
+    if excluded_count > 0:
+        print(f"sources/.gitignore updated: {excluded_count} excluded paths.")
 
 
 def main() -> None:
