@@ -1,4 +1,12 @@
-# === Excluded from index (no double-dash pattern) - auto-updated by update_index.py ===
+07/explaining_the_4_targaryen_brothers_in_a_knight_of_the_seven_kingdoms.txt
+07/txt.txt
+08/tmp.txt
+08/tmpS001.txt
+08/tmpS002.txt
+08/tmpS003.txt
+08/tmpS004.txt
+08/tmpS005.txt
+08/tmpS006.txt
 08/tmpS007.txt
 08/tmpS008.txt
 08/tmpS009.txt
@@ -72,6 +80,12 @@
 08/tmpS077.txt
 08/tmpS078.txt
 08/tmpS079.txt
+09/The_Devils_-_Joe_Abercrombie.txt
+09/The_Devils_-_Joe_AbercrombieS001.txt
+09/The_Devils_-_Joe_AbercrombieS002.txt
+09/The_Devils_-_Joe_AbercrombieS003.txt
+09/The_Devils_-_Joe_AbercrombieS004.txt
+09/The_Devils_-_Joe_AbercrombieS005.txt
 09/The_Devils_-_Joe_AbercrombieS006.txt
 09/The_Devils_-_Joe_AbercrombieS007.txt
 09/The_Devils_-_Joe_AbercrombieS008.txt
@@ -235,6 +249,10 @@
 09/The_Devils_-_Joe_AbercrombieS166.txt
 09/The_Devils_-_Joe_AbercrombieS167.txt
 09/The_Devils_-_Joe_AbercrombieS168.txt
+10/Island.txt
+10/IslandS001.txt
+10/IslandS002.txt
+10/IslandS003.txt
 10/IslandS004.txt
 10/IslandS005.txt
 10/IslandS006.txt
@@ -248,9 +266,13 @@
 10/IslandS014.txt
 10/IslandS015.txt
 10/IslandS016.txt
+10/Kesam.txt
+10/KesamS003.txt
 10/KesamS004.txt
 10/KesamS005.txt
 10/KesamS006.txt
+10/Narrow.txt
+10/NarrowS003.txt
 10/NarrowS004.txt
 10/NarrowS005.txt
 10/NarrowS006.txt
@@ -270,6 +292,9 @@
 10/NarrowS020.txt
 10/NarrowS021.txt
 10/NarrowS022.txt
+11/red_dis.txt
+11/red_disS002.txt
+11/red_disS003.txt
 11/red_disS004.txt
 11/red_disS005.txt
 11/red_disS006.txt
@@ -365,6 +390,7 @@
 11/red_disS096.txt
 11/red_disS097.txt
 12_couz/Союз трех.txt
+12_couz/Союз трехS001.txt
 12_couz/Союз трехS002.txt
 12_couz/Союз трехS003.txt
 12_couz/Союз трехS004.txt
@@ -432,4 +458,11 @@
 12_couz/Союз трехS066.txt
 12_couz/Союз трехS067.txt
 12_couz/Союз трехS068.txt
-# === End excluded ===
+ABtest/Auto.txt
+ABtest/Grok 4_1 Fast.txt
+ABtest/MiniMax.txt
+ABtest/composer.txt
+ABtest/gemini_3_1.txt
+ABtest/gemini_flash.txt
+ABtest/glm.txt
+ABtest/haiku.txt

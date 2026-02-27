@@ -9,29 +9,58 @@ def _to_posix_path(path: str) -> str:
     return path.replace("\\", "/")
 
 
-def file_passes_double_dash_pattern(file_path: str) -> bool:
+def _is_dash_separator(line: str) -> bool:
+    """True if line after strip() is non-empty and consists only of '-'."""
+    s = line.strip()
+    return bool(s) and all(c == "-" for c in s)
+
+
+def _split_by_dash_separators(lines: list[str]) -> list[str]:
     """
-    True if file contains two consecutive lines that after strip() consist only of dashes.
-    Used to detect processed files (e.g. by translate-post.py).
+    Split lines into segments: content between runs of dash-only lines.
+    One or more consecutive dash lines count as a single separator (not included in segments).
+    """
+    segments: list[str] = []
+    current: list[str] = []
+    i = 0
+    while i < len(lines):
+        if _is_dash_separator(lines[i]):
+            segments.append("\n".join(current))
+            current = []
+            while i < len(lines) and _is_dash_separator(lines[i]):
+                i += 1
+            continue
+        current.append(lines[i])
+        i += 1
+    segments.append("\n".join(current))
+    return segments
+
+
+def file_passes_bilingual_pattern(file_path: str) -> bool:
+    """
+    True if file has full bilingual structure: segments alternate RU/EN between
+    dash separators, and every English segment (indices 2, 4, 6, ...) is non-empty.
+    Files with empty English slots are excluded from index and Pages.
     """
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             lines = f.read().splitlines()
     except (OSError, UnicodeDecodeError):
         return False
-    for i in range(len(lines) - 1):
-        a = lines[i].strip()
-        b = lines[i + 1].strip()
-        if a and b and all(c == "-" for c in a) and all(c == "-" for c in b):
-            return True
-    return False
+    segments = _split_by_dash_separators(lines)
+    if len(segments) < 3:
+        return False
+    for i in range(2, len(segments), 2):
+        if not segments[i].strip():
+            return False
+    return True
 
 
 def _build_items(project_root: str) -> tuple[dict[str, list[tuple[str, str]]], list[tuple[str, str]]]:
     """
     Returns (groups, excluded).
-    groups: group_name -> list of (href, file_title) for .txt that pass double-dash pattern.
-    excluded: list of (group_name, stem) for .txt that did not pass.
+    groups: group_name -> list of (href, file_title) for .txt that pass bilingual pattern.
+    excluded: list of (group_name, stem) for .txt that did not pass (missing/empty English segments).
     Group = direct subfolder of sources/ or 'root' for files in sources/ root.
     """
     sources_dir = os.path.join(project_root, "sources")
@@ -51,7 +80,7 @@ def _build_items(project_root: str) -> tuple[dict[str, list[tuple[str, str]]], l
             group_name = "root" if rel_dir == "." else _to_posix_path(rel_dir)
             file_title = os.path.splitext(filename)[0]
 
-            if not file_passes_double_dash_pattern(full_path):
+            if not file_passes_bilingual_pattern(full_path):
                 excluded.append((group_name, file_title))
                 continue
 
@@ -62,10 +91,6 @@ def _build_items(project_root: str) -> tuple[dict[str, list[tuple[str, str]]], l
             groups[group_name].append((rel_href, file_title))
 
     return groups, excluded
-
-
-GITIGNORE_EXCLUDED_START = "# === Excluded from index (no double-dash pattern) - auto-updated by update_index.py ==="
-GITIGNORE_EXCLUDED_END = "# === End excluded ==="
 
 
 def _excluded_to_paths(excluded: list[tuple[str, str]]) -> list[str]:
@@ -81,48 +106,13 @@ def _excluded_to_paths(excluded: list[tuple[str, str]]) -> list[str]:
 
 def _update_gitignore(project_root: str, excluded: list[tuple[str, str]]) -> int:
     """
-    Update sources/.gitignore: add excluded paths, remove paths that are no longer excluded.
-    Replaces the block between GITIGNORE_EXCLUDED_START and GITIGNORE_EXCLUDED_END.
+    Обновляет sources/.gitignore: только список исключённых путей, по одному на строку, без комментариев.
     """
     gitignore_path = os.path.join(project_root, "sources", ".gitignore")
-    try:
-        with open(gitignore_path, "r", encoding="utf-8") as f:
-            content = f.read()
-    except FileNotFoundError:
-        content = ""
-
-    start_marker = GITIGNORE_EXCLUDED_START + "\n"
-    end_marker = "\n" + GITIGNORE_EXCLUDED_END
-
-    start_pos = content.find(GITIGNORE_EXCLUDED_START)
-    if start_pos == -1:
-        before = content.rstrip()
-        if before:
-            before += "\n\n"
-        else:
-            before = ""
-        after = ""
-    else:
-        end_pos = content.find(GITIGNORE_EXCLUDED_END, start_pos)
-        if end_pos == -1:
-            end_pos = len(content)
-        before = content[:start_pos].rstrip()
-        if before:
-            before += "\n\n"
-        after_part = content[end_pos + len(GITIGNORE_EXCLUDED_END) :].lstrip()
-        after = "\n\n" + after_part if after_part else ""
-
     new_paths = _excluded_to_paths(excluded)
-    if new_paths:
-        new_block_lines = [GITIGNORE_EXCLUDED_START]
-        new_block_lines.extend(new_paths)
-        new_block_lines.append(GITIGNORE_EXCLUDED_END)
-        new_block = "\n".join(new_block_lines)
-        new_content = before + new_block + after
-    else:
-        new_content = before.rstrip() + (after.lstrip() if after else "")
+    content = "\n".join(new_paths) + ("\n" if new_paths else "")
     with open(gitignore_path, "w", encoding="utf-8") as f:
-        f.write(new_content.rstrip() + "\n")
+        f.write(content)
     return len(new_paths)
 
 
@@ -216,14 +206,14 @@ def _write_page_html(project_root: str, group_name: str, items: list[tuple[str, 
 
 
 def update_index_html(project_root: str) -> None:
-    """Update index.html with list of links to .txt files from sources/ (only files passing double-dash pattern)."""
+    """Update index.html with list of links to .txt files from sources/ (only files passing bilingual pattern)."""
     index_path = os.path.join(project_root, "index.html")
 
     try:
         with open(index_path, "r", encoding="utf-8") as f:
             index_html = f.read()
     except FileNotFoundError:
-        print(f"Error: file not found: {index_path}")
+        print(f"[ERROR] Error: file not found: {index_path}")
         return
 
     groups, excluded = _build_items(project_root)
@@ -244,7 +234,7 @@ def update_index_html(project_root: str) -> None:
             if stem not in valid_subdirs:
                 path = os.path.join(pages_dir, filename)
                 os.remove(path)
-                print(f"Removed obsolete page: Pages/{filename} (no sources/{stem})")
+                print(f"[INFO] Removed obsolete page: Pages/{filename} (no sources/{stem})")
 
     # Step 2: generate Pages/<name>.html only for non-root groups that have at least one file
     pages_written = 0
@@ -268,12 +258,12 @@ def update_index_html(project_root: str) -> None:
     h1_end_marker = '<h1>Список страниц</h1>'
     h1_pos = index_html.find(h1_end_marker)
     if h1_pos == -1:
-        print("Error: marker '<h1>Список страниц</h1>' not found in index.html")
+        print("[ERROR] Error: marker '<h1>Список страниц</h1>' not found in index.html")
         return
     h1_end = h1_pos + len(h1_end_marker)
     body_end = index_html.find("</body>")
     if body_end == -1:
-        print("Error: </body> tag not found in index.html")
+        print("[ERROR] Error: </body> tag not found in index.html")
         return
 
     new_html = index_html[:h1_end] + "\n" + ul_block + "\n" + index_html[body_end:]
@@ -281,13 +271,13 @@ def update_index_html(project_root: str) -> None:
         f.write(new_html)
 
     total = sum(len(items) for items in groups.values())
-    print(f"Index updated: {len(groups)} groups, {total} files included. Pages written: {pages_written}.")
+    print(f"[INFO] Index updated: {len(groups)} groups, {total} files included. Pages written: {pages_written}.")
     if excluded:
-        print("List unable links:", _format_unable_links(excluded))
+        print("[INFO] List unable links:", _format_unable_links(excluded))
 
     excluded_count = _update_gitignore(project_root, excluded)
     if excluded_count > 0:
-        print(f"sources/.gitignore updated: {excluded_count} excluded paths.")
+        print(f"[INFO] sources/.gitignore updated: {excluded_count} excluded paths.")
 
 
 def main() -> None:

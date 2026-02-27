@@ -150,7 +150,7 @@ def get_part_paths(file_path: str, count: int) -> list:
 def iter_source_files(project_root: Path) -> list[Path]:
     sources_dir = project_root / "sources"
     if not sources_dir.exists():
-        print(f"Error: sources dir not found: {sources_dir}")
+        print(f"[ERROR] Error: sources dir not found: {sources_dir}")
         raise SystemExit(1)
 
     result: list[Path] = []
@@ -174,20 +174,20 @@ def process_file(file_path: Path) -> tuple[bool, str]:
       - status: 'complete' | 'skipped' | 'split' | 'error'
     """
     if not file_path.exists():
-        print(f"Error: file '{file_path}' not found.")
+        print(f"[ERROR] Error: file '{file_path}' not found.")
         return False, "error"
 
     try:
         original_text = file_path.read_text(encoding="utf-8-sig")
     except UnicodeDecodeError:
-        print(f"Error reading file (encoding): {file_path}")
+        print(f"[ERROR] Error reading file (encoding): {file_path}")
         return False, "error"
     except Exception as e:
-        print(f"Error reading file '{file_path}': {e}")
+        print(f"[ERROR] Error reading file '{file_path}': {e}")
         return False, "error"
 
     if not original_text.strip():
-        print(f"Error: file is empty: {file_path}")
+        print(f"[ERROR] Error: file is empty: {file_path}")
         return False, "error"
 
     # Если файл уже размечен блоками перевода — не трогаем его, даже если он большой.
@@ -199,7 +199,7 @@ def process_file(file_path: Path) -> tuple[bool, str]:
 
     parts = split_into_parts(original_text, MAX_PART_SIZE)
     if not parts:
-        print(f"Error: split produced no parts: {file_path}")
+        print(f"[ERROR] Error: split produced no parts: {file_path}")
         return False, "error"
 
     total_parts = len(parts)
@@ -209,7 +209,7 @@ def process_file(file_path: Path) -> tuple[bool, str]:
     try:
         file_path.write_text(remove_empty_lines(parts[0]), encoding="utf-8")
     except Exception as e:
-        print(f"Error writing file '{file_path}': {e}")
+        print(f"[ERROR] Error writing file '{file_path}': {e}")
         return False, "error"
 
     # Части 2, 3... — создаём новые файлы
@@ -217,7 +217,7 @@ def process_file(file_path: Path) -> tuple[bool, str]:
         try:
             Path(part_path).write_text(remove_empty_lines(part_text), encoding="utf-8")
         except Exception as e:
-            print(f"Error writing file '{part_path}': {e}")
+            print(f"[ERROR] Error writing file '{part_path}': {e}")
             return False, "error"
 
     return True, "split"
@@ -243,7 +243,7 @@ def main():
                 had_errors = True
         if had_errors:
             raise SystemExit(1)
-        print("complete")
+        print("[OK] complete")
         return
 
     # Одиночный режим: совместимость со старым вызовом
@@ -251,7 +251,7 @@ def main():
     ok, _status = process_file(file_path)
     if not ok:
         raise SystemExit(1)
-    print("complete")
+    print("[OK] complete")
 
 
 if __name__ == "__main__":

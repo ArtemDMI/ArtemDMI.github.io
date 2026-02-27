@@ -145,7 +145,7 @@ def build_blocks(text: str, block_size: int = BLOCK_SIZE) -> str:
 def iter_source_files(project_root: Path) -> list[Path]:
     sources_dir = project_root / "sources"
     if not sources_dir.exists():
-        print(f"Error: sources dir not found: {sources_dir}")
+        print(f"[ERROR] Error: sources dir not found: {sources_dir}")
         raise SystemExit(1)
 
     result: list[Path] = []
@@ -168,20 +168,20 @@ def process_file(file_path: Path) -> tuple[bool, str]:
       - status: 'complete' | 'skipped' | 'processed' | 'error'
     """
     if not file_path.exists():
-        print(f"Error: file '{file_path}' not found.")
+        print(f"[ERROR] Error: file '{file_path}' not found.")
         return False, "error"
 
     try:
         original_text = file_path.read_text(encoding="utf-8-sig")
     except UnicodeDecodeError:
-        print(f"Error reading file (encoding): {file_path}")
+        print(f"[ERROR] Error reading file (encoding): {file_path}")
         return False, "error"
     except Exception as e:
-        print(f"Error reading file '{file_path}': {e}")
+        print(f"[ERROR] Error reading file '{file_path}': {e}")
         return False, "error"
 
     if not original_text.strip():
-        print(f"Error: file is empty: {file_path}")
+        print(f"[ERROR] Error: file is empty: {file_path}")
         return False, "error"
 
     if is_already_processed(original_text):
@@ -192,7 +192,7 @@ def process_file(file_path: Path) -> tuple[bool, str]:
     try:
         file_path.write_text(result, encoding="utf-8")
     except Exception as e:
-        print(f"Error writing file '{file_path}': {e}")
+        print(f"[ERROR] Error writing file '{file_path}': {e}")
         return False, "error"
 
     return True, "processed"
@@ -212,21 +212,31 @@ def main():
     if len(sys.argv) == 1:
         files = iter_source_files(project_root)
         had_errors = False
+        processed_count = 0
         for fp in files:
-            ok, _status = process_file(fp)
+            ok, status = process_file(fp)
             if not ok:
                 had_errors = True
+            elif status == "processed":
+                print(f"[INFO] Processed: {fp}")
+                processed_count += 1
         if had_errors:
             raise SystemExit(1)
-        print("complete")
+        if processed_count == 0:
+            print("[INFO] No files were processed.")
+        print("[OK] complete")
         return
 
     # Одиночный режим: совместимость со старым вызовом
     file_path = Path(sys.argv[1])
-    ok, _status = process_file(file_path)
+    ok, status = process_file(file_path)
     if not ok:
         raise SystemExit(1)
-    print("complete")
+    if status != "processed":
+        print("[INFO] No files were processed.")
+    else:
+        print(f"[INFO] Processed: {file_path}")
+    print("[OK] complete")
 
 
 if __name__ == "__main__":
