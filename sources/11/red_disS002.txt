@@ -1,11 +1,11 @@
 -
+-
 – Ты стал юношей, и дядя, кажется, всё ещё хочет нас поженить. – Тебе нравится эта идея? Сердце Савьера забилось быстрее. – Мне всё равно на твою ногу. Нам всегда было хорошо вместе. Она не сказала о любви, но мог ли он ждать этого? Кто полюбит такого, как он? Хромого калеку от рождения, который едва поднимается по лестнице.
 -
 -
 -
 You've grown into a young man, and uncle still seems to want us to get married. Do you like that idea? Savier's heart beat faster. I don't care about your leg. We've always been fine together. She didn't say she loved him, but could he expect that? Who would fall for someone like him? A lame cripple from birth who can barely make it up the stairs.
 -
-
 -
 Собственное тело стало для него тюрьмой, из которой не выйти. Женщина, которая станет его женой, обречёт себя на скучную жизнь. – Я буду рад, если ты выйдешь за меня, – Савьер смущённо проговорил. – А я с удовольствием стану Амели из Дома Багряных Вод. Она подмигнула ему и улыбнулась. – Ну же, Савьер, ты меня знаешь!
 -
@@ -13,7 +13,6 @@ You've grown into a young man, and uncle still seems to want us to get married. 
 -
 His own body had turned into a prison he couldn't get out of. The woman who would become his wife would doom herself to a dull life. I'd be glad if you married me, Savier said shyly. And I'd be happy to become Amelie of the House of Crimson Waters. She winked at him and smiled. Come on, Savier, you know me!
 -
-
 -
 Если бы я не хотела за тебя выходить, меня бы не заставили. Он хотел сказать что-то тёплое, поблагодарить её, но отвлёкся и уставился на низкие тучи, пытаясь разглядеть что-то тёмное – фигуру высоко в небе. Савьер моргнул, чтобы прояснить зрение, но тень уже исчезла. Показалось? Наверное, это была птица.
 -
@@ -21,7 +20,6 @@ His own body had turned into a prison he couldn't get out of. The woman who woul
 -
 If I didn't want to marry you, nobody could make me. He wanted to say something warm, to thank her, but he got distracted and stared at the low clouds, trying to make out something dark – a figure high up in the sky. Savier blinked to clear his vision, but the shadow was already gone. Did he imagine it? Maybe it was a bird.
 -
-
 -
 Громада Дома-Над-Водой накрыла их тенью. Савьеру всегда было неуютно в фамильном замке. Многие верили, что замок проклят, потому что первая жена отца была из Дома Алых Шипов, но Савьер никогда не слышал ни шёпота, ни голосов. Мрачные гулкие коридоры пугали его в детстве, но он вырос, и страхи остались в прошлом.
 -
@@ -29,7 +27,6 @@ If I didn't want to marry you, nobody could make me. He wanted to say something 
 -
 The bulk of the House-over-the-Water cast a shadow over them. Savier never felt at ease in the family castle. Many believed the castle was cursed because father's first wife was from the House of Scarlet Thorns, but Savier had never heard any whispers or voices. The gloomy echoing corridors had scared him as a child, but he'd grown up and the fears were in the past.
 -
-
 -
 Фрий говорил, что сплетни – это способ необразованных людей объяснить себе внезапную смерть сначала Лорейн, потом Мэриэль. Учитель верил, что в их смертях не было ничего странного: первая жена отца была слаба здоровьем, а мать Савьера умерла при родах, ей просто не смогли помочь. Но что с самим отцом?
 -
@@ -37,7 +34,6 @@ The bulk of the House-over-the-Water cast a shadow over them. Savier never felt 
 -
 Frie said that gossip was how uneducated people tried to explain the sudden deaths of Lorraine first, then Mariel. The teacher believed there was nothing odd about their deaths: father's first wife had been weak and sickly, and Savier's mother had died in childbirth – they simply couldn't save her. But what about father himself?
 -
-
 -
 Савьер часто задавал себе этот вопрос. Лаверн Первый был крепок умом и телом и заботился о здоровье. Смерть второй жены подкосила его, но затворником он стал много лет спустя. Статный мужчина, выправкой которого Савьер восхищался всё детство, исчез и превратился в запуганного старика, который постоянно кутался в тёплый плащ и вздрагивал, когда к нему обращались.
 -
@@ -45,7 +41,6 @@ Frie said that gossip was how uneducated people tried to explain the sudden deat
 -
 Savier often asked himself that. Lavern the First had been strong in mind and body and had taken care of his health. The second wife's death had broken him, but he only turned into a recluse many years later. The tall, well-built man whose bearing Savier had admired all through his childhood had vanished and turned into a frightened old man who kept wrapping himself in a warm cloak and flinched whenever anyone spoke to him.
 -
-
 -
 Что-то выжгло из него жизнь, выпило силу и оставило пустую оболочку, которую можно только сжечь на погребальном костре. Савьер с неприязнью взглянул на Дом-Над-Водой. Амели поежилась, когда шум реки стал слишком громким. Огромную крепость на скале построили сотни лет назад. Багровая река огибала её, потоки неслись мимо с оглушающим ревом, который слышно даже внутри.
 -
@@ -53,7 +48,6 @@ Savier often asked himself that. Lavern the First had been strong in mind and bo
 -
 Something had burned the life out of him, drained his strength and left an empty shell that could only be put on a funeral pyre. Savier looked at the House-over-the-Water with dislike. Amelie shivered when the noise of the river got too loud. The huge fortress on the rock had been built hundreds of years ago. The crimson river flowed around it, the currents rushed past with a deafening roar that you could hear even inside.
 -
-
 -
 Подсвеченные изнутри окна источали слабое алое сияние, и замок казался ещё страшнее. – И ты согласишься здесь жить? – Савьер. – Может, мой муж увезёт меня подальше от этого жуткого места? Амели усмехнулась. – Мне становится не по себе каждый раз, когда я к нему подхожу. «Мне тоже», – хотел сказать Савьер, но промолчал.
 -
@@ -61,7 +55,6 @@ Something had burned the life out of him, drained his strength and left an empty
 -
 The windows lit from inside gave off a faint red glow, and the castle looked even scarier. And you'd agree to live here? Savier. Maybe my husband will take me away from this creepy place? Amelie smirked. I feel uneasy every time I get close to it. "Me too," Savier wanted to say, but he kept quiet.
 -
-
 -
 Он и так выглядел достаточно жалко. Они вошли в замок и расстались. Амели ушла искать сестру, Савьер стал медленно подниматься по лестнице и проклинал свою жизнь. Каждый шаг причинял ему боль – не такую острую, как раньше, но ощутимую и изматывающую. Держась за перила, которые приколотили специально для него, он пытался выглядеть достойно, чтобы гости не увидели его мучений.
 -
@@ -69,7 +62,6 @@ The windows lit from inside gave off a faint red glow, and the castle looked eve
 -
 He already looked pathetic enough. They went into the castle and went their separate ways. Amelie went off to find her sister, Savier started slowly climbing the stairs and cursed his life. Every step hurt – not as sharp as before, but noticeable and exhausting. Holding on to the railings that had been put up specially for him, he tried to look dignified so the guests wouldn't see him suffering.
 -
-
 -
 Он стыдился своего увечья. Савьер стиснул зубы и подтянул ногу. Говорящие предлагали отцу расторгнуть брак и объявить ребёнка незаконным. Но Лаверн Первый поступил как достойный лорд: принял новорождённого калеку и похоронил жену, с которой прожил в браке десять месяцев. Савьер никогда не видел мать – в замке не сохранилось даже её портретов.
 -
@@ -77,7 +69,6 @@ He already looked pathetic enough. They went into the castle and went their sepa
 -
 He was ashamed of his disability. Savier clenched his teeth and pulled his leg up. The Speakers had suggested that father end the marriage and declare the child illegitimate. But Lavern the First did the right thing as a lord: he took in the newborn cripple and buried his wife, whom he'd been married to for ten months. Savier had never seen his mother – not even her portraits had been kept in the castle.
 -
-
 -
 Отец часто говорил, что Савьер на неё похож: у неё были такие же непослушные кудрявые волосы цвета благородного дерева и тёмные глаза, которые сияли ярче звёзд, когда она была счастлива. Отец своим примером показал слугам, что младшего сына нужно любить и оберегать. Никто не смел относиться к нему плохо.
 -
@@ -85,7 +76,6 @@ He was ashamed of his disability. Savier clenched his teeth and pulled his leg u
 -
 Father often said that Savier took after her: she had the same unruly curly hair the colour of fine wood and dark eyes that shone brighter than stars when she was happy. Father had set an example for the servants that the younger son should be loved and looked after. No one dared treat him badly.
 -
-
 -
 Запыхавшийся и вспотевший Савьер ввалился в свою временную комнату и упал на пол. Ногу свело судорогой, он растирал её, но боль усиливалась. Он уткнулся лицом в ковёр и лежал, пока судорога не прошла. Мысленно он трижды проклял чёрную плесень на стенах комнаты на первом этаже, из-за которой ему пришлось перебраться в другие покои, пока от неё не избавятся.
 -
@@ -93,7 +83,6 @@ Father often said that Savier took after her: she had the same unruly curly hair
 -
 Out of breath and sweaty, Savier burst into his temporary room and fell on the floor. His leg cramped up, he rubbed it but the pain got worse. He pressed his face into the carpet and lay there until the cramp went away. In his mind he cursed three times the black mould on the walls of the first-floor room that had made him move to other quarters until they got rid of it.
 -
-
 -
 – Господин! Зоуи, его служанка, встала на колени рядом и попыталась его поднять. Он отмахнулся, приподнялся на локтях и сказал: – Приготовь ванну. Мне нужно выглядеть прилично на церемонии. Когда она ушла, Савьер перевернулся на спину и уставился в потолок с искусной резьбой. Если эти мучения не кончатся, лучше умереть.
 -
@@ -101,7 +90,6 @@ Out of breath and sweaty, Savier burst into his temporary room and fell on the f
 -
 Sir! Zoe, his maid, knelt down beside him and tried to help him up. He waved her off, pushed himself up on his elbows and said: Get the bath ready. I need to look decent for the ceremony. When she left, Savier turned onto his back and stared at the ceiling with its fine carvings. If this suffering didn't end, it would be better to die.
 -
-
 -
 Эта мысль успокаивала его: он имеет полную власть над своей жизнью. Когда станет совсем плохо, он может шагнуть из окна или утопиться в Багровой реке. Говорящие и Трое это осуждают. – Вода, господин. – Помоги мне встать. Опираясь на плечо Зоуи, Савьер встал и доковылял до ванны за ширмой. Он сел на металлический край и облизнул пересохшие губы.
 -
@@ -109,7 +97,6 @@ Sir! Zoe, his maid, knelt down beside him and tried to help him up. He waved her
 -
 That thought calmed him down: he had full power over his own life. When things got really bad, he could step out of the window or drown himself in the Crimson River. The Speakers and the Three condemn that. Water, sir. Help me up. Leaning on Zoe's shoulder, Savier got up and hobbled to the bath behind the screen. He sat on the metal edge and licked his dry lips.
 -
-
 -
 Пережил очередной постыдный момент, умоляя служанку о помощи. Из таких моментов состояла вся его жизнь. Возможно, он бы не краснел так, если бы Зоуи ему не нравилась. Он знал её с позднего детства: отец велел Фрию найти кого-то, кто сумеет заботиться о младшем сыне, и учитель однажды привёл Зоуи. Она была служанкой и большую часть времени молчала, опустив взгляд, но Савьеру этого хватило, чтобы влюбиться.
 -
@@ -117,7 +104,6 @@ That thought calmed him down: he had full power over his own life. When things g
 -
 He'd got through another embarrassing moment, begging the maid for help. His whole life was made up of moments like that. Maybe he wouldn't have blushed so much if he didn't like Zoe. He'd known her since he was a kid: father had told Frie to find someone who could look after the younger son, and the teacher had once brought Zoe. She was a maid and kept quiet most of the time, eyes down, but that was enough for Savier to fall in love.
 -
-
 -
 Фрий не позволял им сближаться и пресекал попытки разговорить Зоуи, но Савьер не сдавался и искал внимания хмурой девушки с глазами небесного цвета. Когда он подрос настолько, что Фрий объяснил ему отношения между мужчинами и женщинами, Савьер потерял последнюю надежду, что Зоуи обратит на него внимание: кто захочет быть с калекой?
 -
@@ -125,7 +111,6 @@ He'd got through another embarrassing moment, begging the maid for help. His who
 -
 Frie didn't let them get close and put a stop to any attempt to get Zoe to talk, but Savier didn't give up and kept trying to get attention from the gloomy girl with sky-blue eyes. When he'd grown up enough for Frie to explain to him how things work between men and women, Savier lost his last hope that Zoe would take notice of him: who would want to be with a cripple?
 -
-
 -
 Даже ему было противно от себя, что уж говорить о девушках. Он мог заставить её, брат всегда так делал. Но Савьер не хотел. Фрий научил его уважать женщин: рассказывал о воительницах, которые защищали Пятнадцать Свободных Земель наравне с мужчинами, о леди, в чьих руках была власть над Большими Домами.
 -
@@ -133,11 +118,11 @@ Frie didn't let them get close and put a stop to any attempt to get Zoe to talk,
 -
 Even he was disgusted with himself, so what could he expect from girls. He could force her – his brother always did that. But Savier didn't want to. Frie had taught him to respect women: he'd told him about women warriors who had protected the Fifteen Free Lands alongside men, about ladies who held power over the Great Houses.
 -
-
 -
 Савьер не хотел брать Зоуи силой. И он любил её. Глупой безответной любовью. Горячая вода расслабила сведённые мышцы, и Савьер испытал большое облегчение. Он провёл в ванне дольше, чем планировал. Когда попытался выбраться, едва не упал на пол, слишком надеясь на здоровую ногу.
 -
 -
 -
 Savier didn't want to take Zoe by force. And he loved her. With a stupid one-sided love. The hot water relaxed his cramped muscles and Savier felt a great sense of relief. He stayed in the bath longer than he'd planned. When he tried to get out, he almost fell on the floor, relying too much on his good leg.
+-
 -

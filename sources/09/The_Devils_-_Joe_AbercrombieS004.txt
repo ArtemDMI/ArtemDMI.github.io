@@ -5,7 +5,6 @@
 -
 Cardinal Zizka: "They will all stand trial in the afterlife." Cardinal Zizka: "I'd rather they showed up much sooner. For now we're overrun by hordes of monsters, demons, trolls, witches, sorcerers and other servants of the Black Art." Cardinal Zizka: "Not to mention even more devilish forces that are plotting the end of creation from the eternal howling darkness beyond the world." Brother Diaz: "Demons, Your Eminence?" Cardinal Zizka: "And of course, the apocalyptic threat of the elves.
 -
-
 -
 Они не останутся в Святой земле навечно. Враги Бога снова хлынут с востока и принесут свой нечестивый огонь, свою нечистую отраву и свои проклятые аппетиты." Брат Диас: "Проклятие им. Это точно, Ваше Высокопреосвященство?" Кардинал Зижка: "Оракулы Небесного хора были вопрошены, и сомнений не осталось.
 -
@@ -13,7 +12,6 @@ Cardinal Zizka: "They will all stand trial in the afterlife." Cardinal Zizka: "I
 -
 They won't stay in the Holy Land forever. God's enemies will pour in from the east again and bring their unholy fire, their foul poison and their cursed appetites." Brother Diaz: "Curse them. Is that so, Your Eminence?" Cardinal Zizka: "The oracles of the Heavenly choir were asked, and there's no doubt left.
 -
-
 -
 Мы живём в мире, погружённом во тьму, и наша Церковь — единственная точка света и единственная надежда человечества. Можем ли мы, праведные, допустить, чтобы этот свет погас?" Брат Диас: "Ни в коем случае, Ваше Высокопреосвященство." Кардинал Зижка: "В этой битве того, что можно назвать добром, против того, что можно назвать злом, поражение немыслимо." Брат Диас: "Безусловно, Ваше Высокопреосвященство." Кардинал Зижка: "Когда на кону творение Бога и каждая душа в нём, сдержанность была бы безумием.
 -
@@ -21,7 +19,6 @@ They won't stay in the Holy Land forever. God's enemies will pour in from the ea
 -
 We live in a world sunk in darkness, and our Church is the only point of light and the only hope of mankind. Can we, the righteous, let that light go out?" Brother Diaz: "No way, Your Eminence." Cardinal Zizka: "In this battle of what you might call good against what you might call evil, defeat is out of the question." Brother Diaz: "Absolutely, Your Eminence." Cardinal Zizka: "When God's creation and every soul in it are at stake, holding back would be madness.
 -
-
 -
 Сдержанность была бы трусливым отказом от нашего святого долга. Сдержанность была бы грехом." Брат Диас чувствовал, что заходит на зыбкую почву. Брат Диас: "Ну…" Кардинал Зижка: "Приходит время, когда ставки так велики, что моральные возражения сами становятся безнравственными." Брат Диас: "Правда? То есть — да?
 -
@@ -29,7 +26,6 @@ We live in a world sunk in darkness, and our Church is the only point of light a
 -
 Holding back would be a cowardly refusal of our holy duty. Holding back would be a sin." Brother Diaz felt he was on shaky ground. Brother Diaz: "Well…" Cardinal Zizka: "There comes a time when the stakes are so high that moral objections become immoral themselves." Brother Diaz: "Really? So — yes?
 -
-
 -
 То есть — да. Правда?" Кардинал Зижка: "Вам знакома Часовня Святой Целесообразности?" Брат Диас: "Я… не думаю, что…" Кардинал Зижка: "Это одна из тринадцати часовен в Небесном дворце. Одна из старейших, ровесница самой Церкви." Брат Диас: "Я полагал, часовен двенадцать, по одной на каждую из Двенадцати добродетелей." Кардинал Зижка: "Иногда приходится задернуть завесу над некоторыми прискорбными фактами.
 -
@@ -37,7 +33,6 @@ Holding back would be a cowardly refusal of our holy duty. Holding back would be
 -
 So — yes. Really?" Cardinal Zizka: "Do you know the Chapel of Holy Expediency?" Brother Diaz: "I… don't think I…" Cardinal Zizka: "It's one of thirteen chapels in the Heavenly Palace. One of the oldest, as old as the Church itself." Brother Diaz: "I thought there were twelve chapels, one for each of the Twelve Virtues." Cardinal Zizka: "Sometimes you have to draw a veil over some unfortunate facts.
 -
-
 -
 Но здесь, в самом сердце Церкви, мы должны смотреть дальше видимости добродетели. Мы должны решать задачи мира таким, какой он есть, имеющимися средствами." Брат Диас подумал, не испытание ли это. Он не знал, как его пройти. Брат Диас: "Я… э…" Кардинал Зижка: "Церковь должна хранить верность учению Спасителя.
 -
@@ -45,7 +40,6 @@ So — yes. Really?" Cardinal Zizka: "Do you know the Chapel of Holy Expediency?
 -
 But here, in the very heart of the Church, we have to look beyond the appearance of virtue. We have to deal with the world as it is, with the means we have." Brother Diaz wondered if this was a test. He didn't know how to pass it. Brother Diaz: "I… er…" Cardinal Zizka: "The Church must stay true to the Saviour's teaching.
 -
-
 -
 Но есть задачи, которые нужно выполнять, и методы, которые нужно применять, а к ним верные и безупречные… не годятся." Брат Диас не хотел к этому прикасаться и не нашёл поддержки у Якоба из Торна. Брат Диас: "Не уверен, что вполне понимаю." Кардинал Зижка: "Эти задачи выполняет, а эти методы применяет община Часовни Святой Целесообразности." Брат Диас: "Община?" Кардинал Зижка: "Под руководством её викария." Кардинал Зижка: "Её Святейшество избрала вас для этой чести.
 -
@@ -53,7 +47,6 @@ But here, in the very heart of the Church, we have to look beyond the appearance
 -
 But there are tasks that need to be done and methods that need to be used, and the faithful and blameless… aren't cut out for them." Brother Diaz didn't want to touch this and got no backup from Jacob of Thorn. Brother Diaz: "Not sure I quite get it." Cardinal Zizka: "These tasks are done and these methods are used by the community of the Chapel of Holy Expediency." Brother Diaz: "The community?" Cardinal Zizka: "Under the guidance of its vicar." Cardinal Zizka: "Her Holiness has chosen you for this honour.
 -
-
 -
 Баптист познакомит вас с вашей паствой." За спиной брата Диаса у стены стояла женщина — Баптист. Брат Диас: "Она… из моей паствы?" Баптист: "Бе-е-е." Кардинал Зижка: "Баптист — это то, что в контексте этой часовни можно назвать светским служителем." Баптист: "Несколько недель в монастыре — вот и всё моё приближение к посвящению.
 -
@@ -61,7 +54,6 @@ But there are tasks that need to be done and methods that need to be used, and t
 -
 Baptist will introduce you to your flock." Behind Brother Diaz by the wall stood a woman — Baptist. Brother Diaz: "She… is from my flock?" Baptist: "Baa." Cardinal Zizka: "Baptist is what in the context of this chapel you might call a lay minister." Baptist: "A few weeks in a monastery — that's as close as I got to taking vows.
 -
-
 -
 Монахиням это не подходило, но им нужны были деньги." Брат Диас: "Монахиням?" Баптист: "Монахини тоже должны пить, брат, как и все. Может, чуть больше. Мне выпала честь помогать нескольким прежним викариям часовни, включая вашего предшественника." Брат Диас: "Как помогать?" Баптист: "Как было целесообразно." Кардинал Зижка: "Вы в замешательстве." Брат Диас не понимал, во что попал и как, но чувствовал, что хочет выбраться, и скоро будет поздно.
 -
@@ -69,7 +61,6 @@ Baptist will introduce you to your flock." Behind Brother Diaz by the wall stood
 -
 The nuns didn't like it, but they needed the money." Brother Diaz: "The nuns?" Baptist: "Nuns have to drink too, brother, like everyone. Maybe a bit more. I had the honour of helping several former vicars of the chapel, including your predecessor." Brother Diaz: "How did you help?" Baptist: "However was expedient." Cardinal Zizka: "You're confused." Brother Diaz didn't understand what he'd got into or how, but he felt he wanted to get out, and soon it would be too late.
 -
-
 -
 Брат Диас: "Понимаете… моё призвание — это по сути… в основном… канцелярия? Я наводил порядок в книгах. В библиотеке. В монастыре. Это было моё главное… достижение. Счета. Бумаги. Немного переговоров о пастбищах и тому подобном. Чернильные пальцы. Так что… рыцари и… и дьяволы в воющей тьме за миром… это всё как-то… вне моего опыта?" Кардинал Зижка: "Да?" Брат Диас: "Всё это кажется мне немного… вне моего опыта?" Кардинал Зижка: "А у святой Эваристы был опыт, когда в пятнадцать лет она взяла копьё отца и повела Третий крестовый поход против эльфов?" Брат Диас: "Но разве она в итоге не… немного…"
 -
