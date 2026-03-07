@@ -1,0 +1,43 @@
+“It gets better. Having the crew in comas makes the food situation much easier. Powdered, nutritionally balanced slurry pumped right into their stomachs. No need for a thousand kilograms of diverse meals. Just powder and a self-contained water-recycling system.”
+I smiled. “This seems like a dream come true. Like suspended animation in sci-fi novels. Why are you drinking and stressed-out?”
+“There are a couple of catches,” she said. “First off, we’d have to develop a completely automated monitoring and action system to take care of the coma patients. If it broke down, everyone would die. There’s more to it than just monitoring vitals and pushing the right drugs through an IV. It would have to physically move and clean the patients, deal with bedsores, diagnose and treat secondary issues like inflammation and infection around the various IV and probe entry points. Stuff like that.”
+			 “Okay, but that seems like something the global medical community could work out for us,” I said. “Use your Stratt magic to boss them around or something.”
+She took another sip. “That’s not the main problem. The main problem is this: On average, only one in every seven thousand humans has that genetic sequence.”
+I sat back in my chair. “Whoa.”
+“Yeah. We wouldn’t be able to send the most qualified people. We’d be sending the seven-thousandth most qualified people.”
+“Three-thousand-five-hundredth most qualified people on average,” I said.
+She rolled her eyes.
+“Still,” I said. “One seven-thousandth of the world’s population is a million people. Think of it that way. You’d have a pool of one million people to look through for candidates. All you need are three.”
+“Six,” she said. “We need a primary crew and a backup crew. Can’t have the mission fail because some guy gets hit by a car crossing the street the day before launch.”
+“Okay, then six.”
+“Yeah. Six people of astronaut caliber, who have the scientific skills necessary to work out what’s going on with Astrophage at Tau Ceti, and who are willing to go on a suicide mission.”
+“Out of a population of a million,” I said. “A million.”
+She fell silent and took another sip of gin.
+I cleared my throat. “So you either take your chances with picking the best possible candidates and maybe they kill each other, or you take your chances on yet-to-be-developed medical technology to automatically care for a lower tier of talent.”
+“More or less. Either way, it’s a terrible risk. It’s the hardest decision I’ve ever had to make.”
+			 “Good thing you already made up your mind, then,” I said.
+She raised an eyebrow. “Huh?”
+“Sure,” I said. “You just wanted someone to tell you what you already know. If you leave the crew awake, there’s nothing you can do about the psychosis risk. But we’ve got years to perfect the automated-coma-bed technology.”
+She scowled a bit but didn’t speak.
+I softened my voice. “Besides. We’re already asking these people to die. We shouldn’t ask them to suffer emotional torment for four years too. Science and morality both give the same answer here, and you know it.”
+She nodded, almost imperceptibly. Then, she downed the rest of her gin. “All right. You can go.” She slid her laptop over and began typing.
+I left without another word. She had her stuff to deal with and I had mine.
+* * *
+—
+The memories are coming back more smoothly now. I still can’t remember everything, but it’s no longer an epiphany when they happen. It’s just sort of…“Oh hey, I know that. Always knew it, really.”
+I guess I’m one of those people with coma resistance. That explains why I’m here instead of any of the far more qualified candidates that should have been sent.
+But Yáo and Ilyukhina probably had those genes, too, and they didn’t make it. My guess is the medical robot wasn’t perfect. They must have had some medical situation arise it couldn’t figure out.
+I shake off their memory.
+The next several days are an exercise in patience. I learn more about the ship to distract myself.
+I catalog the entire lab. One of the first things I find is a touchscreen computer in a pull-out drawer in the center table. It’s actually a fantastic find, because it has a bunch of research-related screens. As opposed to the panels in the control room, which are all about the ship or its instruments.
+			 I see a bunch of math and science apps—most of which are off-the-shelf that I’m familiar with. But the real boon is the library!
+As far as I can tell, this panel can bring up literally any scientific textbook ever written, every scientific paper ever published on any topic, and a whole lot more. There’s one directory just called “Library of Congress,” and it appears to be the entire digital catalog of everything that’s ever been copyrighted in the United States. No books about the Hail Mary, unfortunately.
+And the reference manuals. So many reference manuals. Data on top of data with data in between. I guess they figured solid-state hard drives are light, so there was no reason to be stingy with information. Heck, they may have just burned the data into ROMs.
+They gave me reference material on stuff that can’t possibly be useful. But hey, it’s nice to know that if I need the average rectal temperature of a healthy goat, I can find that out! (It’s 103.4°F / 39.7°C.)
+Playing with the panel leads to my next discovery: I know how I’ll report back to Earth with the beetles.
+I knew they’d be involved, but now I know specifics. In addition to the absurd data storage array aboard the ship, the panel also has four comparatively small external drives mounted: John, Paul, George, and Ringo. Each one of those shows 5 terabytes free. It’s not a huge leap to assume that’s the beetle’s data.
+So how do I launch them when the time comes? To find out, I head to the control room.
+I have to dig through a few layers of UI on the Beetles panel to find the launch command, but I find it. As far as I can tell, it’s just a button labeled “Launch.” I guess they orient themselves based on stars and head toward Earth on their own. The Hail Mary did the same thing to get here, so they know how to do it. No reason to introduce human error in the course selection.
+While I’m here, I poke around the Scientific Instrumentation screen. The first few subwindows are the helioscope, the Petrovascope, and a telescope that can see in the visible spectrum, IR spectrum, and a bunch of other bands.
+			 I play with the visible-light telescope. It’s kind of fun. I can look at the stars. I mean, there’s nothing else out there. Even Tau Ceti’s planets would just be little dots from where I am. But it’s still nice to see the outside from my confined little world.
+I also found a dedicated EVA screen. It has more or less what I would have expected. There are a bunch of controls for the EVA suit itself, so an operator in the control room can manage any issue with the suit during an EVA. That way, the person in the suit doesn’t have to deal with it. Plus, it looks like the ship has a complicated tethering system on the hull.

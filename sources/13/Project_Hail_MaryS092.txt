@@ -1,0 +1,49 @@
+The nose is oriented toward the other half of the ship, thanks to the way the centrifuge system works. That puts the beetles at the “top” of the crew compartment from the point of view of the centripetal gravity. I have to get up there, open the nose, and get the little ships out. All while hoping I don’t slip. There are no tether points at the nose. So I’ll have to clip on to a point lower down. Which means if I fall, I’ll have time to pick up a good head of steam before the tether goes taut. Will it hold? If not, the force of the centrifuge will fling me off into space and I’ll become Adrian’s newest moon.
+			 I quadruple-check the tethers. I ran two of them, just for safety. They’re firmly anchored to a hard point in the airlock and also to my suit. They should be able to handle the force if I fall.
+“Should.”
+I step out, grab the top of the airlock, and pull myself upward. I’d never be able to do this with all my gear on at full gravity.
+The angle of the nose cone is shallow enough that I don’t slide off. I check the tethers again, then crawl up the nose toward the top. The centrifuge action shoves me to the side as I go. I have to stop every couple of feet and let friction with the hull zero out my lateral motion.
+“Status, question?”
+“Making progress,” I say.
+“Good.”
+I reach the nose. The artificial gravity is weakest here, being closest to the center of rotation. That’s a nice little benefit.
+The universe lazily revolves around me every twenty-five seconds. For half the time, Adrian fills my entire view below. Then I get a few seconds of Tau Ceti’s burning brightness. Then nothing. It’s a little disconcerting but not too bad. Just mildly annoying.
+The beetle hatch is just where it should be. I’m going to have to be careful here. I don’t want to damage anything.
+This was all designed to be a suicide mission. They didn’t care about the Hail Mary getting home. The mechanism inside has pyros to blow off this hatch. Then the beetles can launch and find their way back to Earth. Good system, but I need this hatch intact for when I go home. It’s all for the aerodynamics.
+			 Yes, aerodynamics.
+The Hail Mary has always looked like something out of a Heinlein novel. Shiny silver, smooth hull, sharp nose cone. Why do all that for a ship that’ll never have to deal with an atmosphere?
+Because of the interstellar medium. There’s a teeny, tiny amount of hydrogen and helium wandering around out there in space. It’s on the order of one atom per cubic centimeter, but when you’re traveling near the speed of light, that adds up. Not only because you’re hitting a whole bunch of atoms but also because those atoms, from your inertial reference frame, weigh more than normal. Relativistic physics is weird.
+Long story short: I need the nose intact.
+The entire panel and pyro assembly is attached to the hull with six hex bolts. I pull a socket wrench from my tool belt and get to work.
+As soon as I unscrew the first bolt, it slides down the slope of the nose cone and falls away into the unknowable distance.
+“Um…” I say. “Rocky, you can make screws, right?”
+“Yes. Easy. Why, question?”
+“I dropped one.”
+“Hold screws better.”
+“How?”
+“Use hand.”
+“My hand’s busy with the wrench.”
+“Use second hand.”
+“My other hand’s on the hull to keep me steady.”
+“Use third han—hmm. Get beetles. I make new screws.”
+“Okay.”
+I get to work on the second bolt. This time I’m very careful. I stop using the wrench halfway through and do the rest by hand. The fat fingers of the EVA suit are awful for this. It takes ten minutes just for this one bolt. But I get it done and, most important, I don’t drop it.
+			 I put it in a pouch on my suit. Now Rocky will know what I need him to duplicate.
+I unscrew the next four bolts with the wrench and let them fall away. I suppose they’ll be in orbit around Adrian for a while, but not forever. The tiny amount of drag we’re getting up here will slow them down bit by bit until they fall into Adrian’s atmosphere and burn up.
+One bolt remains. But first, I lift up the opposite corner of the assembly enough to make a finger-width gap. I slip a tether in through a vacant bolt hole and clip it to itself. Then I clip the other end of the tether to my belt. Now I have four different tethers attached to me. And I like it that way. I may look like space Spider-Man, but who cares?
+I still have two more tethers coiled on my tool belt ready to go if needed. There’s no such thing as too much tether.
+I unscrew the final bolt and the assembly slides down the nose. I let it past me and it halts at the end of the tether. It bounces a few times and knocks into the hull, then sways.
+I look into the compartment. The beetles are right where they’re supposed to be, each in their own cubbies. The four little ships are identical except for a small engraved name on each bulbous little fuel bay. They’re labeled “John,” “Paul,” “George,” and “Ringo,” of course.
+“Status, question?”
+“Recovering beetles.”
+I start with John. A little clamp holds it in place, but I easily force it open. Behind the probe is a compressed air cylinder with a nozzle pointed outward. That’s how they’re supposed to be launched. They’d need to be far away from the ship before they start up their spin drives. Even an adorable little baby spin drive will vaporize anything behind it.
+John comes out pretty easily. The probe is bigger than I remember—almost the size of a suitcase. Of course, everything seems bigger when you’re holding it on an EVA with awkward gloves.
+Ol’ John weighs a lot too. I don’t know if I could even lift it in Earth’s gravity. I tie it off to the backup tether, then reach in to get Paul.
+* * *
+—
+			 Rocky can work fast when he needs to. And he needs to.
+We’re in a questionable orbit around Adrian. Now that the computers and guidance systems are all back online, I can see the orbit. It’s not pretty. Our orbit is still highly elliptical, and the closest part of it is way too close to the planet.
+Every ninety minutes, we touch the tippy-tippy-top of the atmosphere. It’s barely an atmosphere at that altitude. Just a few confused air molecules bouncing around. But it’s enough to slow us down just a teeny, tiny bit. That slowdown makes us dip a little deeper into the atmosphere on the next pass. You can see where this is going.
+We scrape the atmosphere every ninety minutes. And I honestly don’t know how many times we can get away with it. For some reason, the computer doesn’t have models for “oddly elliptical orbits around the planet Adrian.”
+So yeah. Rocky is in a hurry.
+It takes him just two hours to disassemble Paul and understand most of how he works. This was no easy task—before we passed Paul into Rocky’s area of the ship, we had to make a special “cooling box.” The beetles have plastic parts inside that would melt in Rocky’s air. A big lump of Astrophage took care of that. Astrophage may be too hot for humans to touch, but it’s cool enough that plastic won’t melt, and of course it has no problem absorbing the extra heat and keeping things at 96 degrees Celsius.

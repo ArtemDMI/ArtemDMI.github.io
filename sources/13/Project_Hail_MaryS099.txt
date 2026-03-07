@@ -1,0 +1,64 @@
+It’s usually content to be N2, which barely wants to react with anything. Human bodies ignore the stuff despite every breath being 78 percent nitrogen. As for Erid, their atmosphere is mostly ammonia—a nitrogen compound. How could a panspermia event ever seed Earth and Erid—two nitrogen-riddled planets—if a tiny amount of nitrogen kills that life?
+Well, the answer to that is easy: Whatever the life-form was that caused the panspermia, it didn’t have a problem with nitrogen. Taumoeba, which evolved later, does.
+Rocky’s carapace sinks. “Situation bad. Threeworld air is eight percent nitrogen.”
+I sit on the lab stool and cross my arms. “Venus’s air is 3.5 percent nitrogen. Same problem.”
+He sinks farther and his voice drops an octave. “Hopeless. Cannot change Threeworld air. Cannot change Venus air. Cannot change Taumoeba. Hopeless.”
+“Well,” I say. “We can’t change Threeworld or Venus’s air. But maybe we can change Taumoeba.”
+“How, question?”
+I grab my tablet from the workbench and scroll through my notes about Eridian physiology. “Do Eridians have diseases? Sicknesses inside your bodies?”
+“Some. Very, very bad.”
+“How does your body kill diseases?”
+“Eridian body is closed,” he explains. “Only opening happen when eat or lay egg. After opening seals, area inside made very hot inside with hot blood for long time. Kill any disease. Disease can only get into body through wound. Then is very bad. Body shut down infected area. Heat with hot blood to kill disease. If disease fast, Eridian die.”
+No immune system at all. Just heat. Well, why not? The hot circulatory system of an Eridian boils water to make the muscles move. Why not use it to cook and sterilize incoming food too? And with heavy oxides—basically rocks—as skin, they don’t get many cuts or abrasions. Even their lungs don’t exchange material with the outside. If any pathogens do get in, the body seals the area off and boils it. An Eridian body is a nearly impenetrable fortress.
+			 But a human body is more like a borderless police state.
+“Humans are very different,” I say. “We get diseases all the time. We have very powerful immune systems. Also, we find cures for diseases in nature. The word is ‘antibiotics.’ ”
+“No understand,” he says. “Cures for diseases in nature, question? How, question?”
+“Other life on Earth evolved defenses against the same diseases. They emit chemicals that kill the disease without harming other cells. Humans eat those chemicals and they kill disease but not our human cells.”
+“Amaze. Erid no have this.”
+“It’s not a perfect system, though,” I say. “Antibiotics work very well at first, but then over the years, they become less and less effective. Eventually they barely work at all.”
+“Why, question?”
+“Diseases change. Antibiotics kill almost all the disease in the body, but some survive. By using antibiotics, humans are accidentally teaching diseases how to survive those antibiotics.”
+“Ah!” Rocky says. He raises his carapace a tad. “Disease evolves defense against chemical that kills it.”
+“Yes,” I say. I point at the tank. “Now think of Taumoeba as disease. Think of nitrogen as antibiotic.”
+He pauses, then raises his carapace back to its proper location. “Understand! Make environment barely deadly. Breed Taumoeba that survive. Make more deadly. Breed survivors. Repeat, repeat, repeat!”
+“Yes,” I say. “We don’t need to understand why or how nitrogen kills Taumoeba. We just need to breed nitrogen-resistant Taumoeba.”
+“Yes!” he says.
+			 “Good!” I slap the top of the tank. “Make me ten of these, but smaller. Also provide a way for me to get Taumoeba samples without interrupting the experiment. Make a very accurate gas injection system—I need exact control over the nitrogen quantity in the tank.”
+“Yes! I make! I make now!”
+He skitters down to the dormitory.
+* * *
+—
+I check the results of the spectrograph and shake my head. “No good. Complete failure.”
+“Sad,” Rocky says.
+I put my chin in my hands. “Maybe I can filter out the toxins.”
+“Maybe you can concentrate on Taumoeba.” There’s a special warble that Rocky does when he’s being snarky. That warble is especially present right now.
+“They’re coming along fine.” I glance over to the Taumoeba processing tanks arrayed along one side of the lab. “Nothing to do but wait. We’ve had good results. They’re already up to 0.01 percent nitrogen and surviving. The next generation might be able to go as high as 0.015.”
+“This is waste of time. Also waste of my food.”
+“I need to know if I can eat your food.”
+“Eat your own food.”
+“I’ve only got a few months of real food left. You have enough aboard your ship to feed a crew of twenty-three Eridians for years. Erid life and Earth life use the same proteins. Maybe I can eat your food.”
+“Why you say ‘real food,’ question? What is non-real food, question?”
+I checked the readout again. Why does Eridian food have so many heavy metals in it? “Real food is food that tastes good. Food that’s fun to eat.”
+“You have not-fun food, question?”
+“Yeah. Coma slurry. The ship fed it to me during the trip here. I have enough to last me almost four years.”
+			 “Eat that.”
+“It tastes bad.”
+“Food experience not that important.”
+“Hey.” I point at him. “To humans, food experience is very important.”
+“Humans strange.”
+I point at the spectrometer readout screen. “Why does Eridian food have thallium in it?”
+“Healthy.”
+“Thallium kills humans!”
+“Then eat human food.”
+“Ugh.” I walk over to the Taumoeba tanks. Rocky had outdone himself. I can control the nitrogen content to within one part per million. And so far, things are looking good. Sure, this generation can only handle a smidgen of nitrogen, but it’s a smidgen more than the previous generation could do.
+The plan is working. Our Taumoeba are developing nitrogen resistance.
+Will they ever be able to handle the 3.5 percent needed for Venus? Or the 8 percent for Threeworld? Who knows? We’ll just have to wait and see.
+I’m using percentages here to track the nitrogen. I can only get away with that because in all cases, Astrophage breed where the air is 0.02 atmospheres of pressure. So, since the pressure is always the same across all experiments, I can just track the percent of nitrogen.
+The proper way to do it would be to track “partial pressure.” But that’s annoying. I’d just end up dividing by 0.02 atmospheres and multiplying by it again later when dealing with data.
+I pat the top of Tank Three. It’s been my lucky tank. Out of twenty-three generations of Taumoeba, Tank Three made the strongest strain nine times. Pretty good, considering she’s got nine other tanks to compete with.
+Yes, Tank Three is a “she.” Don’t judge me.
+“How long until we reach the Blip-A?”
+			 “Seventeen hours until reverse-thrust maneuver.”
+“Okay, let’s spin down the centrifuge now. Just in case we run into trouble and need extra time to fix something.”
+“Agree. I go to control room now. You go to storage locker and lie flat. Do not forget control panel with long extension cords.”
+I glance around the lab.

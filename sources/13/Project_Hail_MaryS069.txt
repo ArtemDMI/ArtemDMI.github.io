@@ -1,0 +1,54 @@
+Two scuba divers floated nearby, ready to rescue me in the event of an emergency.
+NASA had sunk a metal lab table into the pool for me. The biggest problem wasn’t making equipment that worked in vacuum—though they did have to completely redesign pipettes because there’s no suction force in space. The problem was the ham-fisted EVA gloves the user had to wear. Astrophage may like vacuum, but human bodies certainly don’t.
+But hey, at least I was learning a lot about how Russian EVA suits worked.
+Yes, Russian. Not American. Stratt listened to several experts and they all agreed the Russian Orlan EVA suit was the safest and most reliable. So that’s what the mission would use.
+“Okay, I see what happened,” said Forrester through the headset. “You told the clamp to tilt yaw, but it released instead. The internal microcable wires must be tangled up. I’ll be right there. Can you surface and bring the clamp with you?”
+“Sure thing.” I waved to the two divers and pointed upward. They nodded and helped me to the surface.
+I got hoisted out of the pool by a crane assembly and placed on the deck nearby. Several techs came forward and helped me out of the suit. Though it was pretty easy—I just stepped out the back panel. Got to love chrysalis suits.
+Forrester came from the control room next door and collected the tool. “I’ll make some changes and we can try again in a couple of hours. I got a call while you were in the pool; you’re needed in Building 30. Shapiro and DuBois have a couple-hour break while they reset the flight-control simulators. No rest for the wicked. Stratt wants you over there training them on Astrophage.”
+“Copy that, Houston,” I said. The world might have been ending, but being at NASA’s main campus was too awesome for me not to be excited.
+I left the NBL and walked to Building 30. They would have sent a car if I’d asked, but I didn’t want one. It was only a ten-minute walk. Besides, I loved walking around in my country’s space history.
+			 I walked in, through security, and onward to a small conference room they’d set up. Martin DuBois, in his blue flight uniform, stood and shook my hand. “Dr. Grace. Good to see you again.”
+His meticulous paperwork and notes were arrayed in front of him. Annie Shapiro’s sloppy notes and wadded papers lay strewn on the table next to him, but her seat was empty.
+“Where’s Annie?” I asked.
+He sat back down. Even while seated, he kept a firm, perfect posture. “She had to use the facilities. She should be back shortly.”
+I sat down and opened my backpack. “You know, you can call me Ryland. We’re all PhDs here. I think first names are fine.”
+“I’m sorry, Dr. Grace. That is not how I was raised. However, you may call me Martin if you wish.”
+“Thanks.” I pulled out my laptop and fired it up. “How have you been lately?”
+“I have been well, thank you. Dr. Shapiro and I have begun a sexual relationship.”
+I paused. “Um. Okay.”
+“I thought it prudent to inform you.” He opened his notebook and set a pen beside it. “There should be no secrets within the core mission group.”
+“Sure, sure,” I said. “I mean. It shouldn’t be a problem. You’re the primary science position and Annie’s the alternate. There’s no scenario where you would both be on the mission. But…I mean…your relationship…”
+“Yes, you are correct,” DuBois said. “I will be setting out on a suicide mission in under a year. And if for some reason I am deemed unfit or unable, she will go on the suicide mission. We are aware of this, and we know this relationship can only end in death.”
+“We live in bleak times,” I said.
+He folded his hands in front of him. “Dr. Shapiro and I do not see it that way. We are enjoying very active sexual encounters.”
+			 “Yeah, okay, I don’t need to know—”
+“No need for condoms either. She is on birth control and we have both had extremely thorough medical examinations as part of the program.”
+I typed on my computer, hoping he’d change the subject.
+“It’s quite pleasurable.”
+“I’m sure it is.”
+“In any event, I thought you should know.”
+“Yeah, no, sure.”
+The door opened, and Annie trotted in.
+“Sorry! Sorry! I had to pee. Like…so bad,” said the world’s smartest and most accomplished microbiologist. “My back teeth were floating!”
+“Welcome back, Dr. Shapiro. I’ve told Dr. Grace about our sexual relationship.”
+I put my head in my hands.
+“Cool,” said Annie. “Yeah, we’ve got nothing to hide.”
+“In any event,” said DuBois, “if I remember the previous lesson correctly, we were working on the cellular biology within Astrophage mitochondria.”
+I cleared my throat. “Yes. Today I’ll be talking about the Astrophage’s Krebs cycle. It’s identical to what we find in Earth mitochondria, but with one additional step—”
+Annie held up her hand. “Oh, sorry. One more thing—” She turned to DuBois. “Martin, we have about fifteen minutes of personal time after this lesson and before our next training exercise. Want to meet up in the bathroom down the hall and have sex?”
+“I find that agreeable,” said DuBois. “Thank you, Dr. Shapiro.”
+“Okay, cool.”
+They both looked to me, ready for their lesson. I waited a few seconds to make sure there was no more oversharing, but they seemed content. “Okay, so the Krebs cycle in Astrophage has a variant—wait. Do you call her Dr. Shapiro while having sex?”
+“Of course. That’s her name.”
+			 “I kind of like it,” she said.
+“I’m sorry I asked,” I said. “Now, the Krebs cycle…”
+* * *
+—
+Rocky’s data about Planet Adrian was dead-on. It’s 3.93 times Earth’s mass and has a radius of 10,318 kilometers (almost double Earth’s). It’s plugging along around Tau Ceti with an average orbital velocity of 35.9 kilometers per second. Plus, he had the position of the planet correct to within 0.00001 percent. That data was all I needed to work out the insertion thrust needed.
+It’s a good thing those numbers were right. If they hadn’t been, there would have been some serious scrambling when the orbital insertion went wrong. Maybe even some dying.
+Of course, to use the spin drives at all, I had to take us out of centrifuge mode.
+Rocky and I float in the control room, he in his ceiling bulb and me in the pilot’s seat. I watch the camera-feed screen with a stupid grin on my face.
+I’m at another planet! I shouldn’t be this excited. I’ve been at another star for the past several weeks. But that’s kind of esoteric. Tau Ceti is pretty much like the sun. It’s bright, you can’t get too close to it, and it even emits the same general range of frequencies. For some reason, being at a new planet is much more exciting.
+The wispy clouds of Adrian coast by beneath us. Or, more accurately, the wispy clouds barely move at all and we zoom by overhead. Adrian has a higher gravity than Earth, so our orbital velocity is just over 12 kilometers per second—far more than what’s needed to orbit Earth.
+The pale-green planet that I’ve been watching for eleven days has a lot more detail now that we’re on top of it. It’s not just green. There are dark and light bands of green wrapping around it.

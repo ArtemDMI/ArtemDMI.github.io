@@ -1,0 +1,41 @@
+“Your Honor, my clients don’t dispute the noble nature of the Hail Mary Project. The complaint is in the illegal use of copyrighted material and patented mechanisms.”
+Stratt shook her head. “It would take a ridiculous amount of time and energy to work out licensing agreements with every company. So we’re not doing it.”
+“I assure you, Ms. Stratt, you will comply with the law,” said the justice.
+“Only when I want to.” Stratt held up a sheet of paper. “According to this international treaty, I am personally immune from prosecution for any crime anywhere on Earth. The United States Senate ratified that treaty two months ago.”
+She held up a second piece of paper. “And to streamline situations like this, I also have a preemptive pardon from the president of the United States for any and all crimes I am accused of within U.S. jurisdictions.”
+The bailiff took the papers and handed them to the justice.
+“This…” said the justice, “this is exactly what you say it is.”
+“I’m only here as a courtesy,” said Stratt. “I didn’t have to come at all. But since the software industry, patent trolls, and everyone else related to intellectual property banded together in one lawsuit, I figured it would be fastest to nip this in the bud all at once.”
+She grabbed her satchel and put the tablet inside. “I’ll be on my way.”
+“Hold on, Ms. Stratt,” said Justice Spencer. “This is still a court of law, and you will remain for the duration of these proceedings!”
+			 “No, I won’t,” said Stratt.
+The bailiff walked forward. “Ma’am. I’ll have to restrain you if you don’t comply.”
+“You and what army?” Stratt asked.
+Five armed men in military fatigues entered the courtroom and took up station around her. “Because I have the U.S. Army,” she said. “And that’s a damn fine army.”
+* * *
+—
+I browse through my available software while munching on a peanut-butter tortilla. I know that doesn’t sound tasty, but it is.
+I’ve learned how to grip the lab chair with my legs so I don’t float off as I use the laptop. Turns out I have a bunch of laptops. At least six that I’ve found in the storage area so far. And they’re all connected to a shipwide Wi-Fi network. Handy.
+If memory serves, I should have pretty much all the software lurking around somewhere on the ship. The trick is finding the one I need. I wouldn’t even know what it’s called. Fortunately, one of the books in the digital library is a list of software applications. So that helped.
+Ultimately I find something that will work: “Tympanum Labs Waveform Analyzer.” There are all sorts of waveform-analysis software packages in my library. This one just has the highest reviews according to a 2017 computer magazine that reviewed waveform analyzers.
+I install the software on one of the laptops. It’s pretty simple to use and has a plethora of features. But the one I’m most interested in is the Fourier transform. It’s the most basic tool in sound-wave analysis and arguably the most important. There’s a lot of complicated math on how to make it happen, but the end result is this: if you run a sound wave through a Fourier transform, it will give you a list of the individual notes being played at the same time. So if I played a C-major chord and let this app listen to it, the app would tell me there’s a C, an E, and a G. It’s incredibly useful.
+			 No more pantomime. It’s time to learn Eridianese. Yes, I just made up that word. No, I don’t feel bad about it. I’m doing a lot of things for the first time in human history out here and there’s a lot of stuff that needs naming. Just be glad I don’t name stuff after myself.
+I launch Microsoft Excel on another laptop and tape the two laptops together back to back. Yes, I could just run both applications on one laptop, but I don’t want to switch back and forth.
+I fly up through the ship and back into the tunnel. Rocky isn’t there.
+Hmph.
+Rocky can’t just spend all day waiting around for me, but why don’t they have someone in the tunnel at all times? If my crewmates were still around, we would definitely rotate a watch or something. Heck, Ilyukhina would probably be camped out here nonstop and only leave when she had to sleep.
+What if they are having different people in the tunnel? How do I know Rocky is just one person? I don’t know how to tell Eridians apart. Maybe I’ve been talking to six different people. That’s an unsettling thought.
+No…that’s not it. I’m pretty sure Rocky is just Rocky. The ridges on his carapace and rocky protrusions on his hands are unique. I remember there’s an irregular craggy bit sticking up out of one of his fingers…yeah. It’s the same guy.
+If you looked at a rock for several hours, and someone replaced it with a very similar, but slightly different rock, you would know.
+Okay, so where is the rest of the crew? I’m alone because my crewmates didn’t make it. But Eridians have better technology, space-wise. Bigger ship, nigh-indestructible hull material. There has to be a crew in there.
+Ah! I bet Rocky’s the captain! He puts himself at risk by talking to the scary alien. Everyone else stays back on the ship. That’s what Captain Kirk would do. So why not Captain Rocky?
+Anyway, I have cool stuff I want to do and I’m impatient.
+“Yo! Rocky!” I yell. “Come here!”
+			 I listen for any sounds of movement. “Come on, man! Your entire ranged sensory input is sound—I bet you can hear a pin drop a mile away! You know I’m calling you! Move your…whatever serves as your butt! I want to talk!”
+I wait and wait, but no Rocky.
+My guess is I’m a pretty high priority to him. So whatever he’s doing must be really important. After all, he’s got a ship to deal with. He probably needs to eat and sleep. Well, he has to eat, anyway—all biological organisms need to get energy somehow. I don’t know if Eridians sleep.
+Come to think of it…sleep might not be such a bad idea. Out of the past forty-eight hours I’ve had a two-hour nap and nothing else. Rocky’s clock is still there, wedged between a grab bar and the divider wall. It’s ticking away as normal. It’s interesting that his clock only has five digits. By my math, it’ll roll over back to ℓℓℓℓℓ every five hours or so. Maybe that’s the length of an Eridian day?
+Speculate later. Sleep is the priority. I set up a spreadsheet on my Excel laptop to convert from Rocky time to mine and vice versa. I want to sleep for eight hours. I enter the current time on Rocky’s clock, which is IℓIVλ, and have the spreadsheet tell me what that clock will say eight hours from now. The answer: Iλ+VVλ.
+I hurry back to the lab to pick up a bunch of Popsicle sticks and tape. Rocky can’t see ink, so I have to improvise.
+I tape the sticks to the divider wall to let Rocky know when I’ll return: Iλ+VVλ. Fortunately, the symbols are mostly made of straight lines, so my little craft project should be good enough for him to read.
+Interestingly, my return time has six digits. One more digit than Rocky’s clock shows. But I’m sure he’ll figure it out. If Rocky said “I’ll be back at thirty-seven o’clock,” I’d understand what he meant.

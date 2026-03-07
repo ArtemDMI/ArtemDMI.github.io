@@ -1,0 +1,50 @@
+I drummed my fingers on the table. “If I were an astronomer, and someone showed me a blob of light, how would I know if it’s Venus?”
+I answered myself. “I’d look for that IR signature! But that’s not what Astrophage does. Okay, someone shows me a blob of light and says I’m not allowed to use emitted IR to work out the temperature of the body. How else could I find out if it’s Venus?”
+Spectroscopy. Look for carbon dioxide.
+I raised an eyebrow as the idea came to me.
+When light hits gas molecules, the electrons get all worked up. Then they calm down and re-emit the energy as light. But the frequency of the photons they emit is very specific to the molecules involved. Astronomers used this for decades to know what gases are out there far, far away. That’s what spectroscopy is all about.
+Venus’s atmosphere is ninety times Earth’s pressure and almost entirely carbon dioxide. Its spectroscopy signature of CO2 would be overwhelmingly strong. Mercury had no carbon dioxide at all, so the nearest competitor would be Earth. But we had a minuscule CO2 signature compared to Venus. Maybe Astrophage used emission spectra to find Venus?
+			 New plan!
+The lab had a seemingly infinite supply of light filters. Pick a frequency, and there’s a filter for it. I looked up the spectral signature of carbon dioxide—the peak wavelengths were 4.26 microns and 18.31 microns.
+I found the appropriate filters and built a little box for them. Inside I put a small white lightbulb. Now I had a box that would emit the spectral signature of carbon dioxide.
+I put it in the test closet and went out to watch the monitor. Larry, Curly, and Moe hung out on their slide, just like they had all day long.
+I flicked on the light box and watched for any reaction.
+The Astrophage left. They didn’t just meander toward the light. They were gone. Absolutely gone.
+“Um…”
+I had been recording the camera input, of course. I ran it back to watch frame by frame. Between two frames they simply disappeared.
+“Um!”
+Good news: Astrophage were attracted to carbon dioxide’s spectral signature!
+Bad news: My three irreplaceable, 10-micron-wide Astrophage had launched off somewhere—maybe at velocities approaching the speed of light—and I had no idea where they went.
+“Craaaaaap.”
+* * *
+—
+Midnight. Darkness everywhere. The army guys changed shift to two guys I didn’t know. I missed Steve.
+I had aluminum foil and duct tape up over every window of the lab. I sealed the cracks around the entrances and exits with electrical tape. I turned off every piece of equipment that had a readout or LED of any kind. I put my watch in a drawer because it had glow-in-the-dark paint on the hands.
+			 I let my eyes adjust to the total darkness. If I saw so much as a single shape that wasn’t my imagination, I sought out the light leak and put tape over it. Finally, I reached a level of darkness so intense I couldn’t see anything. Opening or closing my eyes had no effect at all.
+The next step was my newly invented IR goggles.
+The lab had many things, but infrared goggles were not among them. I’d considered asking Steve the army guy if he could score some. I probably could have called Stratt and she would have had the president of Peru personally deliver them or something. But this was faster.
+The “goggles” were just the LCD output screen of my IR camera with a bunch of tape around them. I pressed them to my face and added more tape. Then more and more and more. I’m sure I looked ridiculous. But whatever.
+I fired up the camera and looked around the lab. Plenty of heat signatures. The walls were still warm from sunlight earlier that day, everything electrical had a glow, and my body shined like a beacon. I adjusted the frequency range to look for much hotter things. Specifically, things over 90 degrees Celsius.
+I crawled into my makeshift microscope closet and looked at the light box I’d used for the CO2 spectral emission.
+Astrophage are only 10 microns across. No chance I’d see something so small with the camera (or with my eyes, for that matter). But my little aliens are very hot, and they stay hot. So, if they’re not moving, they will have spent the last six hours or so slowly heating up their surroundings. That was the hope.
+It panned out. I immediately saw a circle of light on one of the plastic light filters.
+“Oh thank God,” I gasped.
+It was very faint but it was there. The spot was about 3 millimeters across and grew fainter and colder away from the center. The little fella had been heating up the plastic for hours. I scanned back and forth across the two plastic squares. I quickly found a second spot.
+			 My experiment worked way better than I expected. They saw what they thought was Venus and beelined for it. When they hit the light filters, they couldn’t go any farther. They probably kept pushing until I turned off the light.
+Anyway, if I could just confirm that all three Astrophage were present, I could bag the filters, then spend however long I needed to find and harvest the boys from them with a microscope and pipette.
+And there it was. The third Astrophage.
+“The gang’s all here!” I said. I reached into my pocket for a sample bag and got ready to very carefully pull the filter off the light box. That’s when I saw the fourth Astrophage.
+Just…minding its own business. A fourth cell. It was right in the same general cluster as the first three, on the filters.
+“Holy…”
+I’d been staring at these guys for a week. There’s no way I would have missed one. There could only be one explanation: One of the Astrophage divided. I’d accidentally made the Astrophage reproduce.
+I stared at that fourth spot of light for a full minute, taking in the magnitude of what had just happened. Breeding Astrophage meant we would have an unlimited supply for study. Kill them, poke them, take them apart, do whatever we wanted. This was a game changer.
+“Hello, Shemp,” I said.
+* * *
+—
+I spent the next two days obsessively studying this new behavior. I didn’t even go home—I just slept in the lab.
+Steve the army guy brought me breakfast. Great guy.
+I should have shared all my findings with the rest of the science community, but I wanted to be sure. Peer review may have fallen by the wayside, but at least I could self-review. Better than nothing.
+			 The first thing that bothered me: CO2 spectral emissions are 4.26 and 18.31 microns. But Astrophage are only 10 microns across, so it couldn’t really interact with light that had a larger wavelength. How could it even see the 18.31 micron band?
+I repeated my earlier spectral experiment with just the 18.31 micron filter and got a result I didn’t expect. Strange things happened.
+First off, two of the Astrophage whipped over to the filter. They saw the light and went right for it. But how? It should be impossible for Astrophage to interact with a wavelength that big. I mean…literally impossible!
+Light is a funny thing. Its wavelength defines what it can and can’t interact with. Anything smaller than the wavelength is functionally nonexistent to that photon.

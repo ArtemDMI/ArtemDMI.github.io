@@ -1,0 +1,59 @@
+Neutrinos routinely pass through the entire planet Earth without hitting a single atom—they’re just that small. Well, it’s more about quantum wavelengths and probabilities of collision. But suffice it to say, neutrinos are famously hard to interact with. But for some reason, Astrophage has what we call ‘super cross-sectionality.’ That’s just a fancy term meaning nothing can quantum-tunnel through it. It goes against every law of particle physics we thought we knew, but it’s been proven over and over.”
+			 “Yeah.” I tapped my finger on the table. “It absorbs all wavelengths of light—even wavelengths that should be too large to interact with it.”
+“Yes,” she said. “Turns out it also collides with all matter that tries to get by, no matter how unlikely that collision should be. Anyway, as long as an Astrophage is alive, it exhibits this super cross-sectionality. And that brings us nicely to what I wanted to talk to you about.”
+“Oh?” I said. “There’s more?”
+“Yes.” She pulled a diagram of the Hail Mary hull out of her bag. “This is what I need you for: I’m working on radiation protection for the Hail Mary.”
+I perked up. “Of course! Astrophage will block it all!”
+“Maybe,” she said. “But I need to know how space radiation works to be sure. I know the broad strokes, but not the details. Please enlighten me.”
+I folded my arms. “Well, there’s two kinds, really. High-energy particles emitted by the sun, and GCRs that are just kind of everywhere.”
+“Start with the solar particles,” she said.
+“Sure. Solar particles are just hydrogen atoms emitted by the sun. Sometimes a magnetic storm on the sun can cause it to spit out a whole bunch of them. Other times it’s relatively quiet. And lately, the Astrophage infection has been robbing so much energy from the sun that magnetic storms are less common.”
+“Horrifying,” she said.
+“I know. Did you hear that global warming has been almost undone?”
+She nodded. “Humanity’s recklessness with our environment accidentally bought us an extra month of time by pre-heating the planet.”
+			 “We fell in poop and came out smelling like roses,” I said.
+She laughed. “I have not heard that one. We don’t have that expression in Norwegian.”
+“You do now.” I smiled.
+She looked down at the hull plan—a little faster than I think was necessary, but whatever.
+“How fast do these solar particles travel?” she asked.
+“About four hundred kilometers per second.”
+“Good. We can ignore them.” She scribbled a note to herself on the paper. “The Hail Mary will be going away faster than that within eight hours. They won’t be able to catch up, let alone do any damage.”
+I whistled. “It’s really amazing what we’re doing. I mean…jeez. Astrophage would be the best thing ever if it weren’t, you know, destroying the sun.”
+“I know,” she said. “Now, tell me about GCRs.”
+“Those are trickier,” I said. “It stands for—”
+“Galactic cosmic rays,” she said. “And they’re not cosmic rays, right?”
+“Right. They’re just hydrogen ions—protons. But they’re going a lot faster. They’re going near the speed of light.”
+“Why are they called cosmic rays if they’re not even electromagnetic emissions?”
+“People used to think they were. The name stuck.”
+“Do they come from some common source?”
+“No, they’re omnidirectional. They’re made by supernovas, which have happened all over the place. We’re just kind of constantly awash with GCRs in all directions. And they’re a huge problem for space travel. But not anymore!”
+I leaned forward to look at her schematic again. It was a cross-section of a hull. There was a 1-millimeter void between two walls. “Are you going to fill that area with Astrophage?”
+“That’s the plan.”
+			 I pondered the schematic. “You want to fill the hull with fuel? Isn’t that dangerous?”
+“Only if we let it see CO2-band light. If it doesn’t see CO2, it won’t do anything. And it’ll be in the dark between the hulls. Dimitri plans to make a fuel slurry out of Astrophage and low-viscosity oil to make it easier to transport to the engines. I want to line the hull with that stuff.”
+I pinched my chin. “It could work. But Astrophage can die from physical trauma. You can kill one by poking it with a sharp nanostick.”
+“Yes, that’s why I asked CERN to do some off-the-books experiments for me as a favor.”
+“Wow. CERN will just do whatever you want? Are you, like, mini-Stratt or something?”
+She chuckled. “Old friends and contacts. Anyway, they found that even particles moving near light speed can’t get past Astrophage. And none of them seem to kill it either.”
+“That actually makes a lot of sense,” I said. “It evolved to live on the surface of stars. They must get bombarded by energy and very fast-moving particles all the time.”
+She pointed to a zoomed-in schematic of Astrophage canals. “The entire radiation load will be halted. All we need is a layer of Astrophage slurry thick enough to guarantee there’s always an Astrophage cell in the way of any incoming particles. One millimeter should be more than enough. Plus, we don’t waste any mass. We’ll be using the fuel itself as insulation. And if the crew need that last little bit of Astrophage, well, consider it a reserve.”
+“Hmm…a ‘reserve’ that could power New York City for twenty thousand years.”
+She looked at the diagram, then back to me. “You did all that math in your head?”
+“Eh, I had some shortcuts. We’re dealing with such absurd scales of energy here, I tend to think in ‘New York City years’ of energy, which is about one-half of one gram of Astrophage.”
+			 She rubbed her temples. “And we need to make two million kilograms of it. If we make a mistake along the way…”
+“We’ll save Astrophage the trouble of destroying humanity by doing it ourselves,” I say. “Yeah. I think about that a lot.”
+“So, what do you think?” she said. “Is this a terrible idea, or could it work?”
+“I think it’s genius.”
+She smiled and looked away.
+OceanofPDF.com
+Another day, another staff meeting. Who would have thought saving the world could be so boring?
+The science team sat around the meeting-room table. Me, Dimitri, and Lokken. For all her talk about cutting out bureaucracy, Stratt ended up with a bunch of de facto department heads and daily staff meetings.
+Sometimes, the stuff we all hate ends up being the only way to do things.
+Stratt sat at the head of the table, of course. And next to her was a man I’d never seen before.
+“Everyone,” Stratt said. “I want you to meet Dr. François Leclerc.”
+The Frenchman to her left waved halfheartedly. “Hello.”
+“Leclerc is a world-renowned climatologist from Paris. I’ve put him in charge of tracking, understanding, and—if possible—ameliorating the climate effects of Astrophage.”
+“Oh, is that all?” I said.
+Leclerc smiled, but it faded quickly.
+“So, Dr. Leclerc,” Stratt said. “We’ve been getting a lot of conflicting reports on exactly what to expect from the reduction of solar energy. It’s hard to find any two climatologists who agree.”
+			 He shrugged. “It’s hard to find two climatologists who agree on the color of an orange.

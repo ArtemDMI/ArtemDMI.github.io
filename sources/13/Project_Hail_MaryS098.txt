@@ -1,0 +1,63 @@
+“Yes yes. I make now. We are team. We fix this. No be sad.” He skitters down the tunnel toward the dormitory.
+I check my watch. “The main thrust ends in thirty-four minutes. After that’s done, let’s use the beetles to put ourselves in centrifuge mode.”
+Rocky pauses. “Dangerous.”
+“Yeah, I know. But we need gravity for the lab and I don’t want to wait eleven days. I want to make good use of time.”
+“Beetles arranged for thrust, not rotation.”
+It’s true. Our propulsion right now is, to say the least, rudimentary. We don’t have servos or gimbals to vector our thrust. We’re like a sixteenth-century nautical ship, but we’re using beetles for sails. Actually, scratch that. The nautical ship could at least control the angle of their sails. We’re more like a paddlewheel boat with a broken rudder.
+It’s not all bad, though. We have some slight attitude control by deciding how much each engine thrusts. It’s how Rocky zeroed out our rotation before. “It’s worth the risk.”
+He skitters back up the tunnel to face me. “Ship will rotate off-axis. No can unspool centrifuge cables. Would tangle.”
+“We’ll create the needed rotation first, then shut off beetles, then unspool cables.”
+He draws back. “If ship not unspooled, force is too much for human.”
+That does present a problem. I want 1 g of gravity for the lab when the ship is fully unspooled in two halves. To get that much rotational inertia with the ship in one piece means spinning it very fast. Last time we did that, I passed out in the control room and Rocky almost died saving me.
+			 “Okay…” I say. “How about this: I’ll lay down in the storage room under the dormitory. That’s the closest to the center of ship I can get. The force will be smallest there. I’ll be okay.”
+“How you operate centrifuge controls from storage room, question?”
+“I’ll…umm…I’ll bring the lab’s control screen down there with me. I’ll run data and power extension cables from the lab to the storage room. Yeah. That should work.”
+“What if you unconscious and no can operate controls, question?”
+“Then you cancel the rotation and I’ll wake up.”
+He shimmies back and forth. “No like. Alternate plan: Wait eleven days. Get to my ship. Clean out you ship fuel tanks. Sterilize—make sure no Taumoeba. Refill with fuel from my ship. Then can use all functions of you ship again.”
+I shake my head. “I don’t want to wait eleven days. I want to work now.”
+“Why, question? Why no wait, question?”
+He’s completely right, of course. I’m risking my life and maybe the structural integrity of the Hail Mary. But I can’t just sit around for eleven days when there’s so much work to do. How do I explain “impatience” to someone who lives seven hundred years?
+“Human thing,” I say.
+“Understand. Not actually understand, but…understand.”
+* * *
+—
+The spin-up went as planned. Rocky selected Ringo to do the spinning work, leaving John and Paul offline. George is still safely aboard the ship in case I need him.
+The g-forces during the spin-up were rough—I won’t lie. But I stayed awake long enough to manually deal with the centrifuge steps. I’m getting pretty good at it now. Since then, it’s been a nice, level 1 g.
+Yeah, it was impatient and a little risky, but thanks to that, I’ve had seven days of hardcore science since then.
+Rocky delivered on the testing apparatus as promised. As always, everything worked flawlessly. Instead of a small, annoying glass vacuum chamber, I had something resembling a large fish tank. Xenonite doesn’t care if there’s a bunch of air pressure on a large, flat panel. “Bring it on,” says xenonite.
+			 I have, shall we say, an inexhaustible supply of Taumoeba. The Hail Mary is currently the Taumoeba party bus. All I have to do is open the fuel line that used to lead to the generator when I want more.
+* * *
+—
+“Hey, Rocky!” I call out from the lab. “Watch me pull a Taumoeba out of a hat!”
+Rocky climbs up his tunnel from the control room. “I assume that is Earth idiom.”
+“Yeah. Earth has entertainment called ‘television’ and—”
+“Do not explain, please. You have findings, question?”
+Just as well. It would take a long time to explain cartoons to an alien. “I have some results.”
+“Good good.” He hunkers down into a comfortable sitting position. “Tell findings!” He tries to hide it, but his voice is just a touch higher in pitch than normal.
+I gesture to the lab apparatus. “This functions perfectly, by the way.”
+“Thank. Tell about findings.”
+“My first experiment was Adrian’s environment. I added Taumoeba and a slide covered in Astrophage. The Taumoeba survived and ate it all. No surprise there.”
+“No surprise. Is their native environment. But proves equipment works.”
+“Exactly. I did more tests to learn Taumoeba’s limits. In Adrian air, they can live from minus 180 degrees Celsius to 107 degrees Celsius. Outside that range they die.”
+“Impressive range.”
+“Yes. Also, they can survive in a near vacuum.”
+“Like your fuel tanks.”
+“Yeah, but not a total vacuum.” I frown. “They need carbon dioxide. At least a little bit of it. I made an Adrian environment but put argon in instead of carbon dioxide. The Taumoeba didn’t eat anything. They stayed dormant. Eventually they starved to death.”
+			 “Expected,” he says. “Astrophage need carbon dioxide. Taumoeba from same ecology. Taumoeba also need carbon dioxide. How they get carbon dioxide in fuel tanks, question?”
+“I had the same question!” I say. “So I did a spectrograph of my fuel-bay sludge. There’s a bunch of CO2 gas dissolved into the liquid.”
+“Astrophage probably have carbon dioxide inside. Or decomposition creates carbon dioxide. Some percentage died in fuel tanks over time. Not all cells are perfect. Defects. Mutations. Some die. Those dead Astrophage put carbon dioxide in tanks.”
+“Agreed.”
+“Good findings,” he says. He starts climbing back down.
+“Wait. I have more. Much more.”
+He stops. “More, question? Good.”
+I lean against my lab table and pat the tank. “I made Venus in the tank. But not quite Venus. Venus’s air is 96.5 percent carbon dioxide and 3.5 percent nitrogen. I started with just the carbon dioxide. The Taumoeba were fine. Then I added the nitrogen. And the Taumoeba all died.”
+He raises his carapace. “All die, question? Sudden, question?”
+“Yes,” I say. “In seconds. All dead.”
+“Nitrogen…unexpected.”
+“Yeah, very unexpected!” I say. “I repeated experiment with Threeworld’s air. Carbon dioxide only: The Taumoeba were fine. I added in the sulfur dioxide: The Taumoeba were fine. I added the nitrogen: Boom! All the Taumoeba died.”
+He taps a claw absently on the tunnel wall. “Very very unexpected. Nitrogen harmless to Erid life. Nitrogen required by many Erid life.”
+“Same with Earth,” I say. “Earth’s air is seventy-eight percent nitrogen.”
+“Confusing,” he says.
+He’s not alone. I’m just as baffled as he is. We’re both thinking the same thing: If all life evolved from a single source, how can nitrogen be critical to two biospheres and toxic to a third?
+			 Nitrogen is utterly harmless and nearly inert in its gaseous state.

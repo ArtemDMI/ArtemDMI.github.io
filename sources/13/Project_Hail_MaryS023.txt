@@ -1,0 +1,64 @@
+Above each dot was a star name. “Owing to the speed of light, our observations of the dimming had to be adjusted for the distances of the stars and whatnot, but there’s a clear pattern of ‘infection’ from star to star. We know when each star was infected and by which infected star. Our sun was infected by a star called WISE 0855–0714. That star was infected by Sirius, which was infected by Epsilon Eridani. From there, the trail goes cold.”
+I peered at the chart. “Huh. WISE 0855–0714 also infected Wolf 359, Lalande 21185, and Ross 128.”
+“Yes, every star eventually infects all of its neighbors. Judging from our data, we think Astrophage has a maximum range of just under eight light-years. Any star within that range of an infected star will eventually be infected.”
+I looked at the data. “Why eight light-years? Why not more? Or less?”
+“Our best guess is the Astrophage can only survive so long without a star and it can coast about eight light-years in that time.”
+“That’s sensible, from an evolution point of view,” I said. “Most stars have another star within eight light-years, so that’s as far as Astrophage had to evolve to travel while sporing.”
+“Probably,” Stratt said.
+“Nobody noticed those stars getting dimmer?” I said.
+“They only get to about ten percent dimmer before they stop dimming. We don’t know why. It’s not obvious to the naked eye, but—”
+“But if our sun dims by ten percent, we’re all dead,” I said.
+“Pretty much.”
+Xi leaned forward on the table. Her posture was extremely proper. “Ms. Stratt has not told you the most important part yet.”
+The Russian nodded. It was the first time I’d seen him move at all.
+Xi continued. “Do you know what Tau Ceti is?”
+			 “Do I know?” I said. “I mean—I know it’s a star. It’s about twelve light-years away, I think.”
+“Eleven point nine,” said Xi. “Very good. Most would not know that.”
+“I teach junior high school science,” I said. “These things come up.”
+Xi and the Russian shot each other surprised looks. Then they both looked at Stratt.
+Stratt stared them down. “There’s more to him than that.”
+Xi regained her composure (not that she’d lost much of it anyway). “Ahem. In any event, Tau Ceti is very much inside the cluster of infected stars. In fact, it is near the center.”
+“Okay,” I said. “I’m sensing there’s something special about it?”
+“It is not infected,” Xi said. “Every star around it is. There are two very infected stars well within eight light-years of Tau Ceti, yet it remains unaffected.”
+“Why?”
+Stratt shuffled through her papers. “That’s what we want to find out. So we’re going to make a ship and send it there.”
+I snorted. “You can’t just ‘make’ an interstellar ship. We don’t have the technology. We don’t have anything close to the technology.”
+The Russian spoke for the first time. “Actually, my friend, we do.”
+Stratt gestured to the Russian. “Dr. Komorov is—”
+“Please call me Dimitri,” he said.
+“Dimitri heads up the Russian Federation’s research into Astrophage,” she said.
+“It is pleasure to meet you,” he said. “I am happy to report that we can actually make interstellar voyage.”
+“No, we can’t,” I said. “Unless you’ve got an alien spaceship you never told anyone about.”
+“In a way, we do,” he said. “We have many alien spaceships. We call them Astrophage. You see? My group has studied the energy management of Astrophage. It is very interesting.”
+I suddenly forgot everything else going on in the room. “Oh God, please tell me you understand where the heat goes. I can’t figure out what the heck it’s doing with the heat energy!”
+			 “We have figured this out, yes,” said Dimitri. “With lasers. It was very illuminating experiment.”
+“Was that a pun?”
+“It was!”
+“Good one!”
+We both laughed. Stratt glared at us.
+Dimitri cleared his throat. “Er…yes. We pointed tight-focus one-kilowatt laser at a single Astrophage cell. As usual, it did not get hotter. But after twenty-five minutes, light starts to bounce off. Our little Astrophage is full. Good meal. It consumed 1.5 megajoules of light energy. Does not want more. But this is very much energy! Where does it put all this energy?”
+I’m leaning way too far forward over the table, but I can’t help myself. “Where?!”
+“We measure Astrophage cell before and after experiment, of course.”
+“Of course.”
+“Astrophage cell is now seventeen nanograms heavier. You can see where this goes, yes?”
+“No, it can’t be. It must have gained that weight from reactions with the air or something.”
+“No, it was in a vacuum for the test, of course.”
+“Oh my God.” I was giddy. “Seventeen nanograms…times nine times ten to the sixteenth…1.5 megajoules!”
+I flopped back into my chair. “Holy…I mean just…wow!”
+“This was how I felt, yes.”
+Mass conversion. As the great Albert Einstein once said: E = mc2. There’s an absurd amount of energy in mass. A modern nuclear plant can power an entire city for a year with the energy stored in just one kilogram of Uranium. Yes. That’s it. The entire output of a nuclear reactor for a year comes from a single kilogram of mass.
+Astrophage can, apparently, do this in either direction. It takes heat energy and somehow turns it into mass. Then when it wants the energy back, it turns that mass back into energy—in the form of Petrova-frequency light. And it uses that to propel itself along in space. So not only is it a perfect energy-storage medium, it’s a perfect spaceship engine.
+			 Evolution can be insanely effective when you leave it alone for a few billion years.
+I rub my head. “This is just crazy. In a good way, though. Is it internally producing antimatter, you think? Something like that?”
+“We do not know. But it definitely increases in mass. And then, after using light as thrust, it loses mass appropriate to energy released.”
+“That’s…! Dimitri, I want to hang out with you. Like—can we hang out? I’ll buy you a beer. Or vodka. Or anything. I bet there’s an officers’ club on this boat, right?”
+“It would be my pleasure.”
+“Glad you’re making friends,” said Stratt. “But you’ve got a lot of work to do before you start hitting the bars.”
+“Me? What do I have to do?”
+“You need to design and create an Astrophage-breeding facility.”
+I blinked. Then I shot to my feet. “You’re going to make an Astrophage-powered ship!”
+They all nodded.
+“Holy cow! It’s the most efficient rocket fuel ever! How much would we need to—oh. Two million kilograms, right? That’s why you wanted to know how long it would take to make that much?”
+“Yes,” said Xi. “For a one hundred thousand kilogram ship, we would need two million kilograms of Astrophage to get it to Tau Ceti. And, thanks to you, we now know how to activate the Astrophage and make it generate thrust at will.”
+I sat back down, pulled out my phone, and launched the calculator app. “This would take, like…a lot of energy. Like, more energy than the world has. It would be around ten to the twenty-third Joules. The largest nuclear reactor on Earth makes about eight gigawatts. It would take that reactor two million years to create that much energy.”
+			 “We have ideas for finding the energy,” said Stratt.

@@ -1,0 +1,42 @@
+Correction: Beetles easy to control. Ship powered by beetles hard to control.”
+“You got it done, though. Good job.”
+“Thank.”
+I release my restraints and stretch out. Nothing seems to be broken or wounded other than my burned arm from before. It actually feels great to be back in zero g. I’m achy everywhere as a rule. Lots of physical labor and I’m still recovering from injuries. Getting that pesky gravity out of the way puts less stress on my body.
+I cycle through screens on the monitor. “All systems are okay. At least, nothing’s damaged further than before.”
+“Good. What is next action, question?”
+“Now I do math. A whole lot of math. I have to calculate the thrust duration and angle to get us back to your ship using the beetles as engines.”
+“Good.”
+OceanofPDF.com
+I came to the meeting on time. At least, I thought I did. The email said 12:30. But when I got there, everyone was already seated. And silent. And they were all staring at me.
+For the time being, we had a media blackout about the accident. The whole world was watching this project—their only hope for salvation. The last thing we needed was for people to know the primary and backup science specialists were dead. Say what you will about the Russians, they know how to keep a secret. All of Baikonur was on lockdown.
+The meeting room, a simple trailer the Russians had supplied, had a great view of the launch pad. I could see the Soyuz through the window. Old technology, to be sure, but easily the most reliable launch system ever made.
+Stratt and I hadn’t spoken since the night of the explosion. She suddenly had to head up an ad-hoc disaster inquiry. It couldn’t wait until later—if the accident was caused by some procedure or equipment that was going to be on the mission, we needed to know. I wanted to be involved but she wouldn’t let me. Someone had to keep dealing with various minor Hail Mary issues being reported by the ESA team.
+Stratt stared right at me. Dimitri fiddled with some papers—probably a design for a spin-drive improvement. Dr. Lokken, the fiery Norwegian who designed the centrifuge, drummed her fingers on the table. Dr. Lamai wore her lab coat as always. Her team had perfected a fully automated medical robot and she’d probably be in line for a Nobel Prize someday. If Earth lived that long. Even Steve Hatch, the crazy Canadian who invented the beetle probes, was present. He, at least, didn’t look awkward. He just typed away on a calculator. He didn’t have papers in front of him. Just the calculator.
+			 Also present were Commander Yáo and Engineer Ilyukhina. Yáo looked dour as ever, and Ilyukhina had no drink in her hand.
+“Am I late?” I asked.
+“No, you’re just in time,” Stratt said. “Have a seat.”
+I sat in the only empty chair.
+“We think we know what happened at the research center,” Stratt began. “The whole building is gone, but all their records were electronic and stored on a server that handles all of Baikonur. Fortunately, that server is in the Ground Control Building. Also, DuBois—being DuBois—kept meticulous notes.”
+She pulled out a paper. “According to his digital diary, his plan for yesterday was to test an extremely rare failure case that could happen in an Astrophage-powered generator.”
+Ilyukhina shook her head. “Should have been me testing this. I am responsible for ship maintenance. DuBois should have asked me.”
+“What was he testing, exactly?” I asked.
+Lokken cleared her throat. “One month ago, JAXA discovered a possible failure state for the generator. It uses Astrophage to make heat, which in turn powers a small turbine with state-change material. Old, reliable technology. It runs on a tiny amount of Astrophage—just twenty individual cells at a time.”
+“That seems pretty safe,” I said.
+“It is. But if the moderator system on the generator’s pump fails, and there’s an unusually dense clump of Astrophage in the fuel line right at that moment, up to one nanogram of Astrophage could be put into the reaction chamber.”
+			 “What would that do?”
+“Nothing. Because the generator also controls the amount of IR light shined on the Astrophage. If the chamber temperature gets too high, the IR lights turn off to let Astrophage calm down. Safe backup system. But there is a possible edge case, extremely unlikely, that a short in this system could make the IR lights turn on at full power and bypass the temperature safety interlock entirely. DuBois wanted to test this very, very unlikely scenario.”
+“So what did he do?”
+Lokken paused and her lip wobbled a bit. She steeled herself and pressed on. “He got a replica generator—one of the ones we use for ground testing. He modified the feed pump and IR lights to force that crazy edge case to happen. He wanted to activate an entire nanogram of Astrophage at once and see how it damaged the generator.”
+“Wait,” I said. “One nanogram isn’t enough to blow up a building. At worst it could melt a little bit of metal.”
+“Yeah,” said Lokken. She took a deep breath and let it out slowly. “So you know how we store tiny quantities of Astrophage, right?”
+“Sure,” I said. “In little plastic containers suspended in propylene glycol.”
+She nodded. “When DuBois requisitioned one nanogram of Astrophage from the research center’s quartermaster, they gave him one milligram by mistake. And since the containers are the same and the quantities are so small, he and Shapiro had no way of knowing.”
+“Oh God.” I rubbed my eyes. “That’s literally a million times the heat-energy release than they were expecting. It vaporized the building and everyone in it. God.”
+Stratt shuffled her papers. “The simple truth is this: We just don’t have the procedures or experience to manage Astrophage safely. If you asked for a firecracker and someone gave you a truck full of plastic explosive, you’d know something was wrong. But the difference between a nanogram and a milligram? Humans just can’t tell.”
+We were all silent for a moment. She was right. We’d been playing around with Hiroshima-bomb levels of energy like it was nothing. In any other scenario it would have been madness. But we didn’t have a choice.
+			 “So are we going to delay the launch?” I asked.
+“No, we’ve talked it over and we all agree: We can’t delay the Hail Mary’s departure. It’s assembled, tested, fueled, and ready to go.”
+“It is the orbit,” Dimitri said. “It is in tight orbit at 51.6 degrees’ inclination so Cape Canaveral and Baikonur can get at it easy. But is also in shallow orbit which is decaying. If it does not set out within next three weeks, we have to send entire mission up just to re-boost it to higher orbit.”
+“The Hail Mary will leave on schedule,” said Stratt. “Five days from now. The crew will have two days of preflight checks, so that means the Soyuz has to launch in three days.”
+“Okay,” I said. “What about the science expert? I’m sure we have hundreds of volunteers all over the world. We can give the selectee a crash course in the science they’ll need to know—”
+“The decision’s been made,” Stratt said.

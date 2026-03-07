@@ -1,0 +1,40 @@
+Or something. Might be worth looking into. I should bring a rainbow of lights in and find out if he can—oh, he’s back.
+Rocky bounces into the tunnel and spider-walks along the rails to the dividing wall. He’s incredibly graceful at it. Either he’s very seasoned at being in zero g or Eridians are just really good at climbing around. They have five hands with opposable fingers, and he’s an interstellar traveler, so it’s probably a little bit of both.
+			 With one of his hands, he holds a device up for me to see. It’s…I don’t know what it is.
+It’s a cylinder (man, these people like cylinders), a foot long and maybe 6 inches wide. I can see that his grip deforms the casing a little bit. It’s made of a soft material, like foam rubber. The cylinder has five horizontally aligned square windows. Inside each window is a shape. I think they might be letters. But they’re not just ink on paper. They’re on a flat surface, but the symbols themselves are raised an eighth of an inch or so.
+“Huh,” I say.
+The symbol on the right rotates away to be replaced by a new symbol. After a couple of seconds it happens again. Then again.
+“It’s a clock!” I say. “I showed you a clock, so you showed me a clock!”
+I point to my clock, still taped to the wall, and then to his. He does the jazz hands with two of the hands he’s not using at the moment. I do jazz hands back.
+I watch the Eridian clock for a while. Rocky just holds it in place for me to see. The symbols—numbers, probably—cycle through on the rightmost window. They’re on a rotor. Like an old-school digital clock back home. After a while, the rotor one step to the left of it changes one position. Aha!
+As far as I can tell, the right rotor changes once every two seconds. A little more than two seconds, I think. It cycles through six unique symbols before repeating: “ℓ,” “I,” “V,” “λ,” “+,” and “V,” in that order. Whenever it reaches “ℓ,” the next rotor to the left advances one step. Eventually, after about a minute of this, that second-from-the-right rotor works its way through all the symbols, and when it reaches “ℓ,” the third rotor from the right advances.
+Looks like they read information from left to right—same as English. Neat coincidence. Though not incredibly unlikely. I mean, there’s really only four options: left to right, right to left, top to bottom, or bottom to top. So there was a 1 in 4 chance we’d be the same.
+So his clock is intuitive for me to read. And it works like an odometer. “ℓ” is clearly their 0. From that, I know that “I” is 1, “V” is 2, “λ” is 3, “+” is 4, and “V” is 5. What about 6 through 9? They don’t exist. After “V” we go back to “ℓ.” Eridians use base six.
+			 Of all the things I teach my students, numerical bases are the hardest to make them truly understand. There’s nothing special about the number 10. We have ten unique digits because we have ten fingers. Simple as that. Rockies have three fingers per hand and I guess they only like to use two hands when counting (they probably keep the other three feet/hands on the ground to stay steady). So they have six fingers to work with.
+“I like you, Rocky! You’re a genius!”
+And he is! With this simple act, Rocky showed me:
+			 				 How Eridian numbers work (base six)
+				 How Eridian numbers are written (ℓ, I, V, λ,+, V)
+				 How Eridians read information (left to right)
+				 How long an Eridian second is
+I hold up a finger and rush back into the ship to get my stopwatch. I come back and time Rocky’s clock. I start the timer just as the third rotor changes state. The right rotor continues clicking over every two seconds or so, and every six steps, the next rotor advances one. This is going to take a while, but I want as accurate a count as possible. It takes around a minute and a half for the third rotor to move just one step. I can expect to be at this for ten minutes or so. But I plan to watch the whole time.
+Rocky gets bored. At least, I think that’s what happens. He starts fidgeting, and then lets the clock float in place near the divider wall. Then he wanders around his side of the tunnel. I’m not sure if he’s doing anything in particular. He opens a door leading into his ship, begins to climb through, and then stops. He seems to think it over, then changes his mind. He closes the door. He doesn’t want to leave while I’m still here. After all, I might do or say something interesting.
+“♪♪♩,” he says.
+			 “I know, I know,” I say. I hold up a finger.
+He holds up his finger, then returns to slowly bouncing from wall to wall. Zero-g pacing.
+Finally, the third rotor completes a full lap and I stop my timer. Total time: 511.0 seconds. I don’t have a calculator, and I’m too excited to go back into the ship to get one. I pull out a pen and do long division on the palm of my other hand. One Eridian second is 2.366 Earth seconds.
+I circle the answer on my palm and stare at it. I add a few exclamation points nearby because I feel like they’re warranted.
+I know it doesn’t seem like much, but this is a huge deal. Rocky and I are astronauts. If we’re going to talk, we’re going to talk science. And just like that, Rocky and I have established a fundamental unit of time. Next up: length and mass!
+No, actually. Next up—a nap. I’m so tired. I pull my clock off the wall, circle the “2” with my dry-erase marker—just to be as clear as possible, then tape it back in place. I wave. He waves back. Then I go back for a nap.
+* * *
+—
+This is ridiculous. How can I expect to sleep? How could anyone under these circumstances? I’m still wrapping my head around what’s happening. There’s an alien out there.
+And it’s killing me that I can’t find out what he knows about Astrophage. But you can’t talk about complex scientific concepts with someone via pantomime. We need a shared language, however rudimentary.
+I just need to keep doing what I’m doing. Work on science communication. The verbs and nouns of physics. It’s the one set of concepts we’re guaranteed to share—physical laws are the same everywhere. And once we have enough words to actually talk about science, we’ll start talking about Astrophage.
+And in “VVℓλI” Eridian seconds I’ll be talking to him again. How the heck can a guy sleep at a time like this? There’s no way I can just—
+OceanofPDF.com
+My timer beeps at me. I’d set it for a two-hour countdown. It just reached zero. I blink a couple of times. I’m floating in a fetal position in the control room. I didn’t even make it to the dormitory.
+I am not rested at all. Every pore of my being yells at me to go back to sleep, but I told Rocky I’d be back in two hours and I wouldn’t want him to think humans are untrustworthy.
+I mean…we’re pretty untrustworthy, but I don’t want him to know that.
+I trudge (can you trudge in zero g? I say yes) through the airlock. Rocky is there waiting for me in the tunnel. He’s been busy in my absence. There’s all sorts of stuff in there now.
+The Eridian clock is still ticking away—now mounted to one of the lattice poles.

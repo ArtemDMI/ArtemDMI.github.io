@@ -1,0 +1,60 @@
+He’s thinking. “If predators exist, predators are there.”
+“Agreed,” I say. “But how do we get a sample?”
+“How close can orbit get, question?”
+			 “One hundred kilometers from the planet. Any closer and the ship will burn up in the atmosphere.”
+“This is unfortunate,” Rocky says. “Eight point eight kilometers away from breeding zone. No can get closer, question?”
+“If we hit the atmosphere at orbital speed, we die. But what if we slow down?”
+“Slow down means orbit no good. Fall into air. Die.”
+I lean over the armrest to look at him. “We can use the engines to keep from falling into the atmosphere. Just thrust constantly away from the planet. Lower ourselves into the atmosphere, get a sample, and then leave.”
+“No work. We die.”
+“Why no work?”
+“Engines give off enormous IR light. If you use in air, air become ions. Explosion. Destroy ship.”
+I wince. “Right, of course.”
+Back when Dimitri first tested a spin drive, it was only on for 100 microseconds and it melted a metric ton of metallic silicon behind it. And that test drive was one-thousandth the power of the Hail Mary’s engines. Everything works fine when I’m in a vacuum. But using the engines in air would create a fireball that makes a nuclear bomb look like a firecracker.
+We sit in frustrated silence for a while. The salvation of both our worlds might be just 10 kilometers below us, and we can’t get to it. There has to be a way. But how? We don’t even need to be there. We just need to get a sample of the air there. Anything, no matter how small.
+Wait a minute.
+“How do you make xenonite again? You mix two liquids?”
+Rocky is caught off guard by the question, but he answers. “Yes. Have liquid and liquid. Mix. They become xenonite.”
+“How much can you make? How much of those liquids did you bring?”
+“I bring much. I use to make my zone.”
+			 I bring up a spreadsheet and start typing in numbers. “We need 0.4 cubic meters of xenonite. Can you make that much?”
+“Yes,” he says. “Have enough liquids remain to make 0.61 cubic meters.”
+“Okay. Then I have…an idea.” I steeple my fingers.
+* * *
+—
+It’s a simple idea, but also stupid. Thing is, when stupid ideas work, they become genius ideas. We’ll see which way this one falls.
+The Astrophage breeding grounds are 10 kilometers into the atmosphere of Adrian. I can’t fly the Hail Mary that low because the air is too thick and I’d burn up. I can’t use the engines in the atmosphere because then all heck breaks loose and everything blows up.
+So, it’s time to go fishing. We’re going to make a 10-kilometer-long chain, put a sampling device of some kind on the end (Rocky will make that), and drag it through the atmosphere. Easy enough, right?
+Wrong.
+The Hail Mary has to maintain a velocity of 12.6 kilometers per second to stay in orbit. Any slower and we’ll decay and burn up. But if we drag a chain through the air at that velocity—even a xenonite chain—it’ll get torn up and vaporized.
+So we have to go slower. But going slower means falling toward the planet. Unless I use the engines to constantly maintain altitude. But if I do that, I’d be thrusting directly away from the chain and sample device. The exhaust from the engines will vaporize all of it.
+So we’ll thrust at an angle. Simple as that.
+It’ll look absolutely ridiculous. The Hail Mary will be tilted to 30 degrees from vertical, thrusting upward at that angle. Below it, the chain will dangle 10 kilometers into the air straight down. The atmosphere behind the thrusters will be in a constant state of ionized fire. It should be quite a show. But it’ll be behind us and the chain will be passing through unaffected air.
+All told, our lateral velocity will be just over 100 meters per second. The chain can handle that speed in the thin high-altitude air, no problem. I calculated that it’ll only deflect about 2 degrees from vertical.
+			 Once we feel like we have a sample, we skedaddle. What could possibly go wrong!
+I say that ironically.
+I’m not the greatest 3-D modeler, but I’m able to make a chain link in CAD reasonably well. It’s not a normal oval link, though. It’s mostly oval, but with a thin opening for another link to enter. Easy to assemble the links, but extremely unlikely for them to rattle apart. Especially when they’re under tension.
+I grab a block of aluminum and mount it in the mill.
+“This will work, question?” Rocky asks from his ceiling tunnel.
+“It should,” I say.
+I fire up the mill and it gets right to work. It drills out the mold for a chain link exactly the way I’d hoped.
+I pull the workpiece out, dust off the aluminum shavings, and hold it up to the tunnel. “How’s this?”
+“Very good!” Rocky says. “We will need many many many chain links. More molds means I can make more at one time. You can make many molds, question?”
+“Well.” I look in the supply cabinet. “I have limited amounts of aluminum.”
+“You have many items in ship you no use. Two beds in dormitory, for instance. Melt them, make blocks, make more molds.”
+“Wow. You don’t do anything by half-measure, do you?”
+“No understand.”
+“I’m not going to melt a bunch of stuff. How would I even do that?”
+“Astrophage. Melt anything.”
+“You got me there,” I say. “But no. The heat would be too much for my life-support system to handle. That reminds me. Why do you have so much extra Astrophage?”
+He pauses. “Strange story.”
+I perk up. Always up for a strange story. He clicks along his tunnel and sits in a slightly wider section. “Science Eridians do much math. Calculate trip. More fuel mean faster trip. So we make much much much Astrophage.”
+“How’d you make so much? Earth had a very difficult time making it.”
+			 “Was easy. Put in metal balls with carbon dioxide. Put in ocean. Wait. Astrophage double, double, double. Much Astrophage.”
+“Riiight. Because your oceans are hotter than Astrophage.”
+“Yes. Earth oceans are not. Sad.”
+When it comes to Astrophage manufacturing, Erid was born on third base. The whole planet is a pressure cooker. Twenty-nine atmospheres at 210 degrees Celsius means water is liquid on the surface. And their oceans are far, far hotter than the Astrophage critical temperature. They just put Astrophage in the water, let it absorb heat, and breed.
+I’m jealous. We had to pave the Sahara Desert to breed up our Astrophage. All they had to do was throw it in the water. The stored heat energy of Erid’s oceans is ridiculous. A whole bunch of water—multiples of Earth’s total oceans—holding a temperature around 200 degrees Celsius or more. That’s a lot of energy.
+And that’s why they can take a century or so to solve the problem while Earth is going to freeze in a few decades. It’s not just their air storing heat. Their oceans store even more. Born on third base. Again.
+“Science Eridians design ship and fuel requirements. Journey to take 6.64 years.”
+That trips me up for a moment. 40 Eridani is ten light-years away from Tau Ceti, so you can’t get from one to the other in less than ten years from Erid’s point of view. He must mean 6.64 years of time experienced by his ship thanks to time dilation.

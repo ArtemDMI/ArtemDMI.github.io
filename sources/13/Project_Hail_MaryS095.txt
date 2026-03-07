@@ -1,0 +1,47 @@
+“Really, the decision made itself. There’s no time to train a specialist in everything they need to know. There’s just too much information and research to learn. Even the most brilliant scientists wouldn’t be able to glean all of it in just three days. And remember, only about one in seven thousand people have the gene combination to be coma-resistant.”
+Right around then I got a sinking feeling. “I think I see where this is going.”
+“As I’m sure you know by now, your tests came up positive. You are that one in seven thousand.”
+“Welcome to crew!” Ilyukhina said.
+“Wait, wait. No.” I shook my head. “This is insane. Sure, I’m up to speed on Astrophage, but I don’t know anything about being an astronaut.”
+“We will train you as we go.” Yáo spoke quietly, but with confidence. “And we will do the hard tasks. You will be utilized only for science.”
+“I just mean…come on! There has to be someone else!” I looked to Stratt. “What about Yáo’s backup? Or Ilyukhina’s?”
+			 “They’re not biologists,” said Stratt. “They’re incredibly skilled people with a nose-to-tail expertise on the Hail Mary, its operations, and how to repair damage. But we can’t train someone in all the cellular biology they need to know in the time we have. It would be like asking the world’s best structural engineer to do brain surgery. It’s just not their field.”
+“What about other candidates on the list? The ones that didn’t make the original cut?”
+“There’s no one as qualified as you. Frankly, we’re lucky—lucky beyond our wildest dreams—that you happen to be coma-resistant. Do you think I kept you on the project for so long because I needed a junior high schoolteacher around?”
+“Oh…” I said.
+“You know how the ship works,” Stratt continued. “You know the science behind Astrophage. You know how to use an EVA suit and all the specialized gear. You’ve been present for every major scientific or strategic discussion we’ve had about the ship and its mission—I made sure of it. You have the genes we need, so I made damn sure you had the skills we need. God knows I didn’t want it to come to this, but here we are. You’ve been the tertiary science specialist all along.”
+“N-No, that can’t be right,” I said. “There’s got to be other people. Much more talented scientists. And, you know, people who actually want to go. You must have made a list, right? Who’s the next candidate after me?”
+Stratt picked up a piece of paper in front of her. “Andrea Cáceres, a distillery worker from Paraguay. She’s coma-resistant, and holds a bachelor’s degree in chemistry with a minor in cellular biology. And she volunteered for the mission back during the first call for astronauts.”
+“Sounds great,” I said. “Let’s give her a call.”
+“But you’ve had years of direct training. You know the ship and the mission inside and out. And you’re a world-leading expert on Astrophage. We’d only have a few days to get Cáceres up to speed. You know how I operate, Dr. Grace. More than anyone else. I want to give Hail Mary every possible advantage. And right now, that’s you.”
+			 I looked down at the table. “But I…I don’t want to die….”
+“Nobody does,” said Stratt.
+“It must be your decision,” said Yáo. “I will not have someone on my crew who is there against their will. You must come of your own volition. And if you refuse, we will bring in Ms. Cáceres and do our best to train her up. But I urge you to say yes. Billions of lives are on the line. Our lives matter little when compared against such tragedy.”
+I put my head in my hands. The tears started to come. Why did this have to happen to me? “Can I think about it?”
+“Yes,” Stratt said. “But not for very long. If you say no, we have to get Cáceres here in a hurry. I want your answer by five p.m. tonight.”
+I stood and shuffled out of the room. I don’t think I even said goodbye. It’s a dark and depressing feeling to have all your closest colleagues get together and decide you should die.
+I checked my watch—12:38 p.m. I had four and a half hours to decide.
+* * *
+—
+The spin drives of the Hail Mary are incredibly overpowered for its current mass. When we left Earth, the ship weighed 2.1 million kilograms—most of it being fuel. Now the ship only weighs 120,000 kilograms. About one-twentieth its departure weight.
+Thanks to the Hail Mary’s relatively low mass, the scrappy little beetles are able to collectively give me 1.5 g’s of thrust. Except that the ship wasn’t designed to have a bunch of thrust coming in at 45-degree-angle force pushing arbitrary EVA handles on the hull. If we fire up the beetles at full power, they’ll just rip free of the handles and ride off into the Tauset.
+Rocky was mindful of that when he zeroed out our rotation. Now we have that under control and I can do EVAs in zero g like God intended. I 3-D print a model of the Hail Mary’s internal skeleton and give it to Rocky for his perusal. In under an hour, he not only has a solution but has fabricated the xenonite struts to implement it.
+			 So I do another EVA. I add the xenonite supports to the beetles. For once, everything goes according to plan. Rocky assures me that the ship can now handle full thrust from the beetles and I don’t doubt him for a second. The guy knows engineering.
+I type in a bunch of calculations into a complicated Excel spreadsheet that’s probably got errors in it somewhere. It takes me six hours to put together. I finally come up with what I think is the right answer. At least, it should put us close enough that we can see the Blip-A. Then we can fine-tune our vectors from there.
+“Ready?” I say from the pilot seat.
+“Ready,” Rocky says in his bulb. He holds the three control boxes in his hands.
+“Okay…John and Paul to 4.5 percent.”
+“John and Paul, 4.5 percent, confirmed,” he says.
+Sure, Rocky could have made controls for me to use, but this is better. I have to watch the screen closely and pay attention to our vectors. Best to have someone give their full attention to the beetles. Besides, Rocky’s a ship’s engineer. Who better to run our makeshift engines?
+“John and Paul to zero. Ringo to 1.1 percent,” I say.
+“John and Paul zero. Ringo 1.1.”
+We make numerous tweaks to the thrust vectors bit by bit to angle the ship roughly the direction I want. We finally achieve what I hope is the right direction.
+“Here goes nothing,” I say. “All ahead full!”
+“John, Paul, Ringo 100 percent.”
+I’m thrown back into my seat as the ship lurches forward, with 1.5 g’s of gravity taking over as we accelerate in a straight line (maybe) toward the Blip-A (hopefully).
+“Maintain thrust for three hours,” I say.
+“Three hours. I watch engines. You relax.”
+“Thanks, but no time for rest. Want to use gravity while I can.”
+			 “I stay here. Tell me how experiments go.”
+“Will do.”
+I’m shooting for another eleven-day transfer. It takes 130 kilograms of fuel to make that happen—about a quarter of what the beetles have aboard (if you include George, who is sitting on the lab table full of Astrophage). That should give us enough left over to correct whatever idiotic mistakes I made in my trajectory math.

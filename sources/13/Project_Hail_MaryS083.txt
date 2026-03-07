@@ -1,0 +1,43 @@
+It’s not true remote control. It’s a bank of switches attached to a plastic container lid. I have wires from the switches going through a tiny hole in the steel, which is in turn filled up with resin. I can turn the power on or off to any of the components in there. That’s my “remote control.” I can only hope the motors don’t have a problem with high heat or ammonia.
+I bring everything to the dormitory and prep the epoxy. I stir it together and apply it generously to the edges of the steel box’s open side. I press the box to the airlock wall and hold it in place. Then I just stand there for ten minutes, holding the box in place. I could have taped it to the wall or something while the epoxy set, but I need a really good seal and I don’t want to take any chances. Human hands are better clamps than any tool I might have in the lab.
+			 I gingerly release the box and wait for it to fall. It doesn’t. I poke it a couple of times and it seems pretty solid.
+It’s five-minute epoxy, but I’ll give it an hour to fully set.
+I return to the lab. I may as well, right? Let’s see what my little alien terrarium is up to.
+Nothing much, as it happens. I don’t know what I expected. Little flying saucers whizzing around in the chamber, maybe?
+But the cylinder looks exactly like it did before. The sampler sits where I left it. The smear of Astrophage is unchanged. The cotton swab is…
+Hey…
+I hunker down and take a seat. I squint into the chamber. The cotton swab has changed. Just a little bit. It’s…fluffier.
+Sweet! Maybe there’s something on there I could get a look at. I just need to get it under a microscope to—
+Oh.
+The realization dawns on me. I don’t have any way to extract samples. I just plain overlooked that part.
+“Dummy!” I smack my forehead.
+I rub my eyes. Between the pain from my burns and the dopiness from the painkillers, it’s hard to concentrate. And I’m tired. One thing I learned back in my graduate school days: When you’re stupid tired, accept that you’re stupid tired. Don’t try to solve things right then. I have a sealed container that I need to get into eventually. I’ll figure out how later.
+I pull out my tablet and take photos of the container. Science rule number 1: If something is changing unexpectedly, document it.
+Just to be more scientific, I point a webcam at the experiment and set up the computer to take a time-lapse at one frame per second. If anything is happening slowly, I want to know.
+			 I head back to the control room. Where the heck are we?
+Some work with the Nav console and I learn we’re still in orbit. It’s stable-ish. This orbit will probably decay over time. No rush, though.
+I check all the ship’s systems and do as many diagnostics as I can. The ship did pretty well, despite not being remotely designed to handle this situation.
+The two fuel bays I jettisoned aren’t around anymore, but the other seven look to be in good shape. There are cracks in the hull here and there, according to the diagnostics test. But they all seem to be internal. Nothing facing outside, which is good. I don’t want my Astrophage to see Adrian again.
+One of the micro-breaches is highlighted in red. I take a closer look. The breach’s location has the computer in a tizzy. It’s in the bulkhead between the fuel area and the edge of the pressure vessel. I can see the concern.
+The bulkhead sits between the storage bay below the dormitory and Fuel Bay 4. I go take a look.
+Rocky still hasn’t moved. No surprise there. My steel box remains where I put it. I could probably use it now, but I’m resolved to wait the full hour.
+I open up the storage panels and pull a bunch of boxes out. I climb into the storage area with a flashlight and toolkit. It’s cramped—barely 3 feet tall. I have to crawl around in there for a good twenty minutes before I finally find the breach. I only spot it because there’s a small frosty buildup around the edges. Air escaping into a vacuum gets really cold really fast. In fact, that ice probably helped slow the leak.
+Not that it mattered. The leak is so small it would take weeks to be a problem. And the ship probably has a bunch of spare air in tanks anyway. Still, there’s no reason to just let it leak. I apply a generous helping of epoxy on a small metal patch and seal the breach. I have to hold it for considerably more than five minutes before it sets. Epoxy takes a long time to set when it’s cold, and the bulkhead is below freezing at that spot thanks to the leak. I considered getting a heat gun from the lab but…that’s a lot of work. I just hold the patch for longer. It takes about fifteen minutes.
+			 I climb back down and wince the whole time. My arm hurts nonstop now. It’s a constant sting. It’s been less than an hour, but the painkillers aren’t doing the job anymore.
+“Computer! Painkillers!”
+“Additional dose available in three hours and four minutes.”
+I frown. “Computer: What is the current time?”
+“Seven-fifteen p.m., Moscow Standard Time.”
+“Computer: Set time to eleven p.m. Moscow Standard Time.”
+“Clock set complete.”
+“Computer: painkillers.”
+The arms hand me a package of pills and a bag of water. I gobble them down. What a stupid system. Astronauts trusted to save the world but not to monitor their painkiller doses? Stupid.
+Okay. It’s been long enough. I turn my attention back to the box.
+First I’ll need to drill a hole in the xenonite. And that’s where all hell will break loose if things go bad. The general idea here is for the drill inside the box to put a hole in the xenonite and for the box to contain the pressure that rushes in. But you never know. The box might not be held on tight enough.
+I wear a medical breathing mask and eye protection. If there’s going to be a jet of superheated, high-pressure ammonia in this room, I need to not die from it.
+Earlier I filed down a metal rod to be sort of a spike. The full radius is a little bigger than the drill bit I have readied in the steel box. I hold the spike and hammer at the ready. If the pressure blows the box off, I’ll hammer the spike into the hole and hope it plugs the gap.
+Of course, the pressure might not blow the box off entirely. It might just spurt out around the edges of the glue joint. If that happens, I’ll have to smack the box with the hammer until it comes off, then drive in the spike.
+			 Yes, it’s ridiculously dangerous. But I just don’t know if Rocky will survive without help. Maybe I’m being emotional instead of rational. But so what?
+I clench the hammer and spike. Then I activate the drill.
+It takes so long for that drill to get through the xenonite, I actually calm down out of boredom. It’s only 1 centimeter, but it’s like trying to grind down diamond. I’m lucky the drill bit is hard enough to do anything at all. The camera feed from inside shows slow and steady progress. Instead of drilling like wood or metal, this is more like glass. It breaks off in chips and chunks.
+Finally, the bit breaches to the other side. It is immediately launched back into the box and bent sideways by the pressure.
