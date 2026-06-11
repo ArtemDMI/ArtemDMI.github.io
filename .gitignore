@@ -5,3 +5,4 @@ tmp/
 
 AGENTS.md
 .agents/
+*.pyc
