@@ -3,93 +3,94 @@ Title: Inquest Armourer At Our Service in the Inquest of the Dead - Mysteries of
 -
 -
 -
-
+Title: Inquest Armourer At Our Service in the Inquest of the Dead - Mysteries of a Dead Planet // EP39 URL: https://www.youtube.com/watch?v=RHkFkvIKwGI Hi, fellow crafters. This is Radamon. Thanks for watching Rim World Inquest of the Dead, episode 39, "Inquest Armorer at our service". Sakura is finally leveling up.
 -
 Итак, ты прокачана до максимума как защитник. Мы не используем защитника и полководца одновременно. Поэтому мы просто улучшим твои космические характеристики. Если у меня будет женский дронер, показатель «добро» сильно упадёт, а Сакура отстанет от неё ненамного, потому что её чувствительность растёт с каждым уровнем.
 -
 -
 -
-
+So, you're maxed out as a defender. We don't use defender and general at the same time. So we'll just improve your space stats. If I get a female drone operator, my "good" score will drop a lot, and Sakura won't fall too far behind her, because her sensitivity grows with each level.
 -
 Ещё одно: у Сакуры боковой фокус, как только дойдёт до 70%, скорее всего уведёт кого-то в кому для регенерации. Значит, на очереди разведка или прыжковые хаки. Понял. И кстати, я не сразу получу доступ к броне Locus Armor. Так что понятно, почему приходится ждать. Но скоро мы заново расставим приоритеты, какую броню делать первой.
 -
 -
 -
-
+One more thing: Sakura has a side focus, and once it hits 70%, she'll probably put someone in a coma for regeneration. So next up is recon or jump hacks. Got it. And by the way, I won't get access to Locus Armor right away. So it makes sense why we have to wait. But soon we'll set priorities again for which armor to make first.
 -
 [фыркает] Неплохо. У нас полторы тысячи овощей. А волшебник ещё не начал. Ладно, посмотрим. Волшебник, у тебя добыча важнее ковки, шитья и обращения с животными. Так что сначала не делай это. Не понимаю, почему он не справился. А, может, он копал мрамор. Вот почему. Понял. Исправил. Остальные места со сжатой техникой: три здесь, одно там, одно там — это все известные оставшиеся.
 -
 -
 -
-
+[snorts] Not bad. We have one and a half thousand vegetables. And the wizard hasn't started yet. Okay, let's see. Wizard, mining is more important than smithing, tailoring, and animal handling for you. So don't do those first. I don't get why he didn't manage. Oh, maybe he was mining marble. That's why. Got it. Fixed. The other compacted machinery spots: three here, one there, one there — those are all the known ones left.
 -
 И на карте не так много глубоких гор. Так что вряд ли есть ещё сжатая техника, которую мы не нашли, потому что они всё ещё несут на высоком приоритете. А, точно. Ой. Ладно, у неё, наверное, хватит концентрации ещё на одно место с техникой, потом закончим. Ещё странная штука: везде, где я копал, не будет загрязнения, потому что в горах оно не появляется.
 -
 -
 -
-
+And there aren't many deep mountains on the map. So there's probably no more compacted machinery we haven't found, because they still haul it at high priority. Oh, right. Oops. Okay, she'll probably have enough focus for one more machinery spot, then we'll finish. Another weird thing: anywhere I mined, there won't be pollution, because it doesn't show up in mountains.
 -
 По всей карте странные карманы с нулевым загрязнением — мне это забавно. И да, волшебник делает противогаз. Ну, он нам нужен, так что ладно. Но забавно: «Ура, наконец броня», а потом: «Да, время противогаза». Ты же этого хотел, да? Ого, Перкинс, ты много бил стены. Нам нужна мягкая камера. Наверняка есть мод для этого.
 -
 -
 -
-
+All over the map there are weird pockets with zero pollution — I find that funny. And yes, the wizard is making gas masks. Well, we need them, so okay. But it's funny: "Yay, armor at last," and then: "Yeah, gas mask time." You wanted that, right? Whoa, Perkins, you hit the walls a lot. We need a soft chamber. There's probably a mod for that.
 -
 Но с учётом того, как мы всё ломали, это неудивительно. Что касается следующей регенерации — скорее всего Scorp ранен больше всех. Шрам на ноге. Это низкая эффективность и средний палец. Да. Ага. Похоже, всё верно. Значит, займёмся этим у Scorp. Scorp. О, посмотри на этот склад. Выглядит неплохо. Спускайся, мы уведём тебя в кому.
 -
 -
 -
-
+But given how much we were breaking everything, that's not surprising. As for the next regeneration — Scorp is probably the most injured. Scar on the leg. That's low efficiency and the middle finger. Yeah. Uh-huh. Looks like that's right. So we'll take care of that with Scorp. Scorp. Oh, look at this warehouse. Looks pretty good. Come down, we'll put you in a coma.
 -
 Я просто забуду про дела, чтобы потом вернуться к ним. Готово. Что-то вроде лечения руками. Да. Хорошо. Ты ещё и строишь достаточно хорошо, что я могу разбирать корабельные компоненты. Немного устал от этой затопленной зоны. Но важно: все токсичные мешки, от которых мы избавились через распад, уничтожены.
 -
 -
 -
-
+I'll just drop the tasks so I can come back to them later. Done. Kind of like healing hands. Yeah. Good. You're also building well enough that I can disassemble ship components. I'm a bit tired of this flooded area. But the important thing: all the toxic bags we got rid of through decay are destroyed.
 -
 Значит, можем дальше чистить клетки карты — там есть место для прогресса. О, не оставляй это там. Ладно. Шестьдесят четыре компонента. Неплохо. Когда починим сильно повреждённые стены, постараюсь поставить ещё один стол для производства компонентов. Как я говорил, два стола: на одном компоненты, на другом броня и оружие — тогда волшебник сможет массово делать то, что нам нужно.
 -
 -
 -
-
+So we can keep cleaning up map cells — there's room to make progress. Oh, don't leave that there. Okay. Sixty-four components. Not bad. When we fix the heavily damaged walls, I'll try to put in another component production table. Like I said, two tables: components on one, armor and weapons on the other — then the wizard can mass-produce what we need.
 -
 Scorp регенерировался. Отлично. О, даже Good помогает чинить. Вся добыча здесь закончена. Вряд ли это сильно изменит внешнюю зону. Как я говорил, наверное, придётся урезать ферму пополам, чтобы это сработало. Сейчас я этого не буду делать — у нас очень много посадок и шитья. Одно, что я могу сделать с посадками: сейчас почти всё — посев, он почти не требует навыка, давайте устроим «вечеринку с растениями».
 -
 -
 -
-
+Scorp has regenerated. Great. Oh, even Good is helping with repairs. All the mining here is done. This probably won't change the outer zone much. Like I said, we'll probably have to cut the farm in half for it to work. I'm not doing that now — we have a lot of planting and tailoring. One thing I can do with the plantings: right now it's almost all sowing, which needs almost no skill — let's have a "plant party".
 -
 Если смотрители урожая плохо справятся и что-то пропадёт — не страшно, еды много. Но я бы хотел: healroot слишком сложен для слабых работников, но если продвинемся хотя бы с рисом, остальные фермеры смогут заняться healroot, которого нам не хватает. Может, имеет смысл вернуться к простым блюдам и запасти их.
 -
 -
 -
-
+If the crop overseers mess up and something gets wasted — no big deal, we have plenty of food. But I'd like this: healroot is too hard for weak workers, but if we at least get rice going, the other farmers can work on healroot, which we're short on. Maybe it makes sense to go back to simple meals and stock up on them.
 -
 Овощей много — почему нет? Рабочие руки есть, потому что поваров почти некуда поставить полезнее. Почти все токсичные картофелины собраны. И я всё ещё надеюсь найти ещё пласталь на карте — мы быстро её расходуем. Боже, даже наш стол сломался. У нас столько старых рубашек и побитых шлемов, ну вот. Вот «вечеринка с растениями», которую я хотел видеть.
 -
 -
 -
-
+Lots of vegetables — why not? We have working hands, because there's almost nothing more useful to put the cooks on. Almost all the toxic potatoes are harvested. And I still hope to find more plasteel on the map — we're burning through it fast. God, even our table broke. We have so many old shirts and battered helmets, well there you go. Here's the "plant party" I wanted to see.
 -
 Мы реально сеем много риса, чтобы фермеры могли заняться тем, что нам нужно: лучше пополнять медикаменты и хлопок. Да. Да. Да. Может, когда эта кукуруза созреет, я не буду её пересаживать и переключу на хлопок. Думаю, для этого всё здесь будет под медикаменты, а здесь — под хлопок. А когда рис, то есть кукуруза, уберут, заменим и это на хлопок.
 -
 -
 -
-
+We're really sowing a lot of rice so the farmers can work on what we need: topping up medicine and cotton better. Yeah. Yeah. Yeah. Maybe when this corn ripens, I won't replant it and I'll switch to cotton. I think everything here will be for medicine, and here for cotton. And when the rice — I mean corn — is cleared, we'll replace that with cotton too.
 -
 [музыка] Весь рис уже посажен, теперь идёт healroot, и фермеры не заняты токсичным картофелем или рисом. Но я не хочу оставлять это в поле. Поставлю высокий приоритет на переноску и постараюсь не забыть выключить его после — я часто оставляю навсегда, а здесь не хочу. Будет немного потерь. Ещё хотелось бы снова варить пиво.
 -
 -
 -
-
+[music] All the rice is planted, healroot is up now, and the farmers aren't busy with toxic potatoes or rice. But I don't want to leave this in the field. I'll set haul to high priority and try not to forget to turn it off after — I often leave it on forever, and I don't want that here. There'll be a bit of waste. I'd also like to brew beer again.
 -
 Чай проще: можно сажать психолист на токсичных клетках. Мог бы посадить психолист здесь, когда фермеры освободятся от других дел. Но хмель — только на чистых клетках. Так, стоп. Подниму запас химтоплива из органики до пятисот, особенно если начнём делать броню Locus — она быстро съест наше химтопливо.
 -
 -
 -
-
+Tea is easier: you can plant psychoid leaves on toxic cells. I could plant psychoid here when the farmers free up from other work. But hops — only on clean cells. So, hold on. I'll raise the chemfuel stock from organics to five hundred, especially if we start making Locus armor — it'll burn through our chemfuel fast.
 -
 А это в основном декоративные стены. Выглядит как защищённый периметр. Хорошо. Да, это может быть неплохое место для всего токсичного. Абсолютно. Полностью согласен. Тут нет зоны очистки от загрязнения — как раз поэтому. Кстати, это напомнило: наверное, надо переэкипировать Scorp, раз он уже не ранен.
 -
 -
 -
+And these are mostly decorative walls. Looks like a protected perimeter. Good. Yeah, this could be a good spot for all the toxic stuff. Absolutely. Fully agree. There's no pollution cleanup zone here — that's exactly why. By the way, that reminded me: we should probably re-equip Scorp now that he's no longer injured.

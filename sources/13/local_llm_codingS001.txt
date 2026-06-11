@@ -3,87 +3,89 @@
 -
 -
 -
-
+It's important that this task tests not only whether the model can write code, but also whether it can build something like a finished product. You need more than just code — you need a proper UI you wouldn't be ashamed to show. First I tested Quen 3.5 with 9 billion parameters — it weighs 6.6 GB. I ran all the models several times to get a better sense of what they can do.
 -
 Первый результат на экране — модель сгенерировала такой модуль. Я поставил контекстное окно всего 8 000 токенов, и модели хватило для генерации кода — но впритык. С дизайном она в целом справилась. Мелких правок ещё много. В коде сразу видна одна ошибка: модель забыла обернуть элементы SVG в тег G. Возможно, из-за слишком маленького контекста.
 -
 -
 -
-
+The first result on screen — the model generated this kind of module. I set the context window to just 8,000 tokens, and that was enough for the model to generate the code — but only just. It mostly handled the design. There are still many small fixes to make. One error shows up right away in the code: the model forgot to wrap the SVG elements in a G tag. Maybe because the context was too small.
 -
 В остальном есть разбиение на компоненты, хотя не идеальное. Есть типизация. По коду есть замечания, но я не буду их разбирать сейчас. Кто знает React и Next, тот примерно понимает картину. В целом код приемлемый и серьёзных проблем не дал. Теперь та же модель, но с контекстом 256 000. С таким контекстом съело всю память, но модель всё же доделала работу за около 20 минут.
 -
 -
 -
-
+Otherwise there's component splitting, though it's not perfect. There's typing. There are notes about the code, but I won't go into them now. If you know React and Next, you roughly get the picture. Overall the code is acceptable and didn't cause serious problems. Now the same model, but with a 256,000 context. With that context it ate up all the memory, but the model still finished the job in about 20 minutes.
 -
 Для сравнения: с меньшим контекстом такой модуль генерируется за пять минут. Разницы почти нет — код того же качества, но нагрузка выше. Огромный контекст нам почти никогда не нужен. Все следующие модели я тестировал с контекстом 32 000, и для этой задачи этого с большим запасом. Чтобы быть честным, покажу на этой же модели плохой результат.
 -
 -
 -
-
+For comparison: with a smaller context, this kind of module is generated in five minutes. There's almost no difference — the code is the same quality, but the load is higher. We almost never need a huge context. I tested all the following models with a 32,000 context, and that's more than enough for this task. To be fair, I'll show a bad result from this same model.
 -
 Иногда у неё не получается хороший дизайн. В целом модель показала себя неплохо. Да, есть недочёты, но задача была сложной. Я также пробовал модель в агентской работе: она умела думать, анализировать, исправлять ошибки и ставить зависимости. Позже, наверное, сниму про это отдельное видео. Потом я подумал: если модель на 9 млрд параметров справилась хорошо, что будет с маленькой на 2 млрд?
 -
 -
 -
-
+Sometimes it can't pull off good design. Overall the model did pretty well. Yes, there are flaws, but the task was hard. I also tried the model in agent mode: it could think, analyze, fix errors, and install dependencies. I'll probably make a separate video about that later. Then I thought: if the 9 billion parameter model did well, what about a small one with 2 billion?
 -
 Вот результат. В целом тоже нормально, но видны упрощения и элементов стало меньше. Главная проблема — модель гораздо чаще ломала вёрстку. Когда она упрощает, всё выходит нормально. Но когда пытается делать как модель на 9 млрд параметров, вёрстка ломается. Модель чаще пыталась сделать сложный модуль и не справлялась.
 -
 -
 -
-
+Here's the result. Overall it's fine too, but you can see simplifications and fewer elements. The main problem — the model broke the layout much more often. When it simplifies things, everything turns out fine. But when it tries to do what the 9 billion parameter model does, the layout breaks. The model often tried to build a complex module and couldn't handle it.
 -
 Но при жёстком дефиците памяти такую модель всё равно можно использовать — код она пишет того же качества. Чтобы не ломать вёрстку, можно разбить задачу на части и выполнять их по отдельности. Эта модель занимала около 5,5 ГБ при контексте 32 000 токенов, сама модель — 2,7 ГБ. Третью я тестировал QN 3,5 на 4 млрд параметров.
 -
 -
 -
-
+But with a tight memory limit you can still use this model — it writes code of the same quality. To avoid breaking the layout, you can split the task into parts and do them one by one. This model took about 5.5 GB with a 32,000 token context; the model itself is 2.7 GB. The third one I tested was QN 3.5 with 4 billion parameters.
 -
 Скорее всего, она будет между двумя предыдущими и оптимальна для большинства задач. Так и оказалось. Я сохранил только два дизайна, но в целом модель каждый раз давала нормальный результат. Один плохой вариант я не сохранил. Из интересного: я попросил проанализировать большой рабочий проект, где одна кодовая база без зависимостей занимает около 400 Мб.
 -
 -
 -
-
+Most likely it'll sit between the two previous ones and be optimal for most tasks. That's how it turned out. I only saved two designs, but overall the model gave a decent result every time. I didn't save one bad version. Interestingly, I asked it to analyze a large production project where a single codebase without dependencies takes about 400 MB.
 -
 Я хотел узнать, из каких частей состоит проект и как они связаны. Модель думала 10 минут и ничего не ответила — просто остановилась. Я написал: «Продолжай». Она подумала ещё минуту и выдала около восьми таблиц с модулями, зависимостями и зонами ответственности. Модель распознала паттерны имён частей проекта и другие детали.
 -
 -
 -
-
+I wanted to find out what parts the project is made of and how they're connected. The model thought for 10 minutes and didn't answer — it just stopped. I wrote: "Keep going." It thought for another minute and produced about eight tables with modules, dependencies, and areas of responsibility. The model picked up naming patterns in the project parts and other details.
 -
 На это ушло около 21 000 токенов. Она не анализировала каждый файл, а работала со структурой проекта и ключевыми файлами вроде package JSON и Project Jon. Результат публично показать не могу, но с задачей модель справилась. Я запускал её через CLI Open Code — всё бесплатно. Позже, если интересно, сниму про это видео.
 -
 -
 -
-
+That took about 21,000 tokens. It didn't analyze every file — it worked with the project structure and key files like package JSON and Project Jon. I can't show the result publicly, but the model handled the task. I ran it through the Open Code CLI — all free. Later, if you're interested, I'll make a video about it.
 -
 После Quent 3,5 из любопытства я протестировал Quent 2,5 Coder — модель десятимесячной давности. У неё 7 млрд параметров — я подумал, что она тоже умная. Но она сгенерировала вот это. Несколько тестов показали серьёзные проблемы: при 7 млрд параметров результат был плохим, а Ken 3,5 на 2 млрд даёт гораздо лучше.
 -
 -
 -
-
+After Quent 3.5, out of curiosity I tested Quent 2.5 Coder — a model from ten months ago. It has 7 billion parameters — I thought it would be smart too. But it generated this. Several tests showed serious problems: with 7 billion parameters the result was bad, while Ken 3.5 at 2 billion does much better.
 -
 Дальше я попробовал модель Deepsek Hoder на 6,7 млрд параметров. Она тоже провалила задание: нет типов, разметка очень простая. По её мнению, я должен сам придумать тивизацию и данные, хотя в задании чётко сказано, что результат должен быть готовым продуктом для демонстрации. Я не стал тестировать дальше, но вывод интересный: нейросети быстро развиваются.
 -
 -
 -
-
+Next I tried the Deepsek Hoder model with 6.7 billion parameters. It failed the task too: no types, very simple markup. In its view, I should come up with theming and data myself, although the assignment clearly said the result should be a ready product for demo. I didn't test further, but the takeaway is interesting: neural networks are developing fast.
 -
 Модели годичной давности уже сильно уступает новая версия, даже если у старой больше параметров. Это наглядный пример того, как быстро меняется качество. Архитектуры улучшаются, обучение становится лучше, модели лучше понимают контекст, требования и структуру задач. В итоге новая модель на 2 млрд параметров может дать лучший результат, чем старая на 7 млрд.
 -
 -
 -
-
+A year-old model is already far behind a new version, even if the old one has more parameters. This is a clear example of how fast quality changes. Architectures are improving, training is getting better, and models understand context, requirements, and task structure better. In the end, a new 2 billion parameter model can give a better result than an old 7 billion one.
 -
 Следующие две модели — недавно вышедшие GMA 4: на 2,4 и 8 млрд эффективных параметров соответственно. Что это значит? Например, модель 4 и4 на самом деле имеет 8 млрд параметров, но при работе активируется только четыре. Внутри есть маршрутизатор: для каждого запроса он выбирает и включает только нужных экспертов, а остальные части модели остаются выключенными.
 -
 -
 -
-
+The next two models are the recently released GMA 4: 2.4 and 8 billion effective parameters respectively. What does that mean? For example, the 4 and 4 model actually has 8 billion parameters, but only four are active when it runs. Inside there's a router: for each request it picks and turns on only the experts it needs, and the rest of the model stays off.
 -
 За счёт этого модель остаётся относительно лёгкой в работе, хотя общий размер большой. Такая архитектура называется MOE, то есть mixture of Experts. Кстати, про релиз GEM 4 я недавно делал отдельное видео.
 -
 -
+-
+Because of this, the model stays relatively light to run, although its overall size is large. This kind of architecture is called MOE, or mixture of Experts. By the way, I recently made a separate video about the GEM 4 release.
 -

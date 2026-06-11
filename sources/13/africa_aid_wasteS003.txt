@@ -3,7 +3,7 @@
 -
 -
 -
-Even large aid organizations, like Oxfam, one of the biggest in the world, found out that when aid grows, local production usually weakens. But it's not only local industries that suffer: the whole economy can get distorted so that growth becomes unlikely, and to understand why, it's useful to look at how countries get rich — over recent decades, almost all fast-growing countries grew through exports.
+Even large aid organizations, like Oxfam, one of the biggest in the world, found out that when aid grows, local production usually gets weaker. But it's not only local industries that suffer: the whole economy can get twisted so that growth becomes unlikely, and to understand why, it helps to look at how countries get rich — over recent decades, almost all fast-growing countries grew through exports.
 -
 Южная Корея, Тайвань и Китай за последние десятилетия сильно выросли: они продавали дешёвые товары западным покупателям по всему миру, и получается, что мы даём им деньги, а они отдают нам товары — так страны и богатеют. Да, примерно так, просто так устроены рынки. Со временем это помогло им развить промышленность и подняться по цепочке создания ценности, и важная часть процесса, о которой забывают, — слабая валюта: она делает экспорт дешевле и повышает спрос у иностранных покупателей.
 -
@@ -21,7 +21,7 @@ This demand helps local industries grow, creates jobs, and brings in foreign cur
 -
 -
 -
-People stop buying these goods, and for developing economies that's a disaster: the export model that worked in East Asia becomes impossible, and today in Africa exports are about 20% of GDP, less than half of what successful countries achieve. How do they earn money then? East Asian economies built competitive industries and sold goods around the world, while countries that depend on aid live off foreign support while their economy stays weak and uncompetitive.
+People stop buying these goods, and for developing economies that's a disaster: the export model that worked in East Asia stops working, and today in Africa exports are about 20% of GDP, less than half of what successful countries pull off. How do they earn money then? East Asian economies built up competitive industries and sold goods around the world, while countries that depend on aid live off foreign support while their economy stays weak and uncompetitive.
 -
 Конечно, помощь может быть полезной: теоретически она закрывает важные пробелы — дороги, школы, электросети, что помогает экономике расти, но я полностью против этого. Если вы не умеете построить дорогу, вы и содержать её не сможете, поэтому мы приедем построить её ради собственного спокойствия, а через десять лет они всё испортят — это пустая трата времени.
 -
@@ -33,7 +33,7 @@ Of course, aid can be useful: in theory it fills important gaps — roads, schoo
 -
 -
 -
-This brings us to the last and possibly the most serious problem: aid almost never delivers what it promises, and a 2012 report from the Center for Global Development showed that up to 70% of projects either missed their goals or had no measurable effect. In some areas the losses were huge: a check of medical aid in Uganda found that almost a third of donated medicine never reached the people who needed it — it was lost because of poor management or delivery failures.
+This brings us to the last and possibly the most serious problem: aid almost never comes through with what it promises, and a 2012 report from the Center for Global Development showed that up to 70% of projects either missed their goals or didn't make a measurable difference. In some areas the losses were huge: when they looked into medical aid in Uganda, they found that almost a third of donated medicine never reached the people who needed it — it got lost because of poor management or delivery breakdowns.
 -
 После землетрясения 2010 года на Гаити миллиарды долларов помощи... А ведь римские дороги двухтысячелетней давности до сих пор стоят: если бы они хотели строить дороги, они могли бы просто собрать камни и выложить из них дорогу, как инки. Да, вы правы, мы часто забываем о Южной Америке, хотя там были развитые цивилизации, — но смогли бы они сами это сделать?
 -
@@ -45,13 +45,13 @@ After the 2010 earthquake in Haiti, billions of dollars in aid... And yet Roman 
 -
 -
 -
-In theory a person could, but less than 10% of aid reached local institutions — the rest went to foreign contractors, NGOs, and administrative costs, and more than ten years later many communities still lack proper sanitation and permanent housing — it looks like a destroyed neighborhood in Los Angeles. To understand why, it's useful to look at systems that work: business in a competitive market — if the product is bad, buyers go to competitors, income falls, and without changes the company can go bankrupt.
+In theory a person could, but less than 10% of aid reached local institutions — the rest went to foreign contractors, NGOs, and administrative costs, and more than ten years later many communities still lack proper sanitation and permanent housing — it looks like a destroyed neighborhood in Los Angeles. To understand why, it helps to look at systems that work: business in a competitive market — if the product is bad, buyers go to competitors, income falls, and without changes the company can go bust.
 -
 Те, кто даёт продукт, отвечают перед теми, кто им пользуется, — верно, — но с иностранной помощью так не работает. Если проект проваливается, получатели не могут наказать доноров налогами или выборами, потому что деньги идут из-за рубежа, нет способа наградить успех или наказать провал, поэтому стимулов делать всё хорошо почти нет, и история помощи в Африке — не просто провал, а неверные ожидания.
 -
 -
 -
-Those who provide the product are accountable to those who use it — that's right — but foreign aid doesn't work that way. If a project fails, recipients can't punish donors through taxes or elections, because the money comes from abroad, there's no way to reward success or punish failure, so there's almost no incentive to do things well, and the story of aid in Africa isn't just failure — it's wrong expectations.
+The people who put out the product answer to the people who use it — that's right — but foreign aid doesn't work that way. If a project fails, recipients can't punish donors through taxes or elections, because the money comes from abroad, there's no way to reward success or punish failure, so there's almost no incentive to do things well, and the story of aid in Africa isn't just failure — it's wrong expectations.
 -
 То, что начиналось как попытка вывести страны из бедности, создало зависимость и ослабило институты, потому что никому не важно реально помочь — важно только казаться, что помогаешь. Вот почему Мачу-Пикчу, город забытых цивилизаций, до сих пор имеет одну из лучших систем водоснабжения в истории — посмотрите на римские акведуки.
 -
@@ -63,10 +63,10 @@ What started as an attempt to lift countries out of poverty created dependency a
 -
 -
 -
-When you're outdone by civilizations two or three thousand years old, you can't blame colonialism, Europe, or slavery forever — that's not the point, and local industries were crushed. That doesn't mean there's no place for aid: in crises like famine, war, or disasters it provides important short-term help, but as a long-term strategy the facts are clear — aid hasn't delivered the changes it promised, and if the goal is sustainable growth, you need to build strong institutions, support local business, and create systems.
+When you're outdone by civilizations two or three thousand years old, you can't blame colonialism, Europe, or slavery forever — that's not the point, and local industries got crushed. That doesn't mean there's no place for aid: in crises like famine, war, or disasters it gives important short-term help, but as a long-term strategy the facts are clear — aid hasn't come through with the changes it promised, and if the goal is sustainable growth, you need to build up strong institutions, back local business, and set up systems.
 -
 Думаю, надо их оставить в покое: пусть делают что хотят, хотят резать друг друга — пусть режут. Хотят навести порядок — отлично, но я не хочу с этим возиться и не хочу за это платить. Ладно, пойдём за особыми камнями и уйдём: правительства должны отвечать перед народом, а не перед иностранными донорами.
 -
 -
 -
-I think we should leave them alone: let them do what they want, if they want to cut each other — let them cut. If they want to set things in order — great, but I don't want to deal with it and I don't want to pay for it. All right, let's go for the special stones and leave: governments should be accountable to their people, not to foreign donors.
+I think we should leave them alone: let them do what they want, if they want to cut each other — let them cut. If they want to set things in order — great, but I don't want to deal with it and I don't want to pay for it. All right, let's go for the special stones and leave: governments should answer to their people, not to foreign donors.

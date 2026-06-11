@@ -3,87 +3,88 @@ Title: Локальные LLM для кодинга на слабом ПК: чт
 -
 -
 -
-
+Title: Local LLMs for coding on a weak PC: what actually works URL: https://www.youtube.com/watch?v=OMXJIIrvfVE Hi. Imagine you can't use a subscription for some reason. You don't have a powerful computer to run large models locally. But regular ChatGPT or Cursor isn't enough for you, and you want more.
 -
 Ты хочешь, чтобы LLM делала относительно сложную работу, редко ошибалась и не писала лишний код. Может, ты хочешь работать с ней через CLI и давать задачи, как в Claude Code, без лимитов на запросы и токены в день. Речь о небольших локальных LLM, которые можно запустить на обычном компьютере. Я попробовал подобрать несколько небольших моделей для этой задачи, и они есть.
 -
 -
 -
-
+You want the LLM to do fairly complex work, make few mistakes, and not write extra code. Maybe you want to work with it through the CLI and give it tasks like in Claude Code, with no daily limits on requests or tokens. We're talking about small local LLMs that you can run on a regular computer. I tried to pick a few small models for this job, and they do exist.
 -
 В этом видео я расскажу, как выбрать модель под свой компьютер: на что смотреть — размер весов, квантизация, размер контекста — и как это влияет на качество и память. Потом покажу результаты моделей, которые я протестировал. Я дал им сложную задачу, которую лучше разбить на части — тогда справилась бы даже более слабая модель.
 -
 -
 -
-
+In this video, I'll explain how to choose a model for your computer: what to look at — weight size, quantization, context size — and how this affects quality and memory. Then I'll show the results of the models I tested. I gave them a hard task that's better split into parts — even a weaker model could handle it that way.
 -
 Но мне было важно оставить запас по сложности и проверить, тянет ли модель задачи сложнее своего обычного уровня. Моя цель — не просто найти любую модель, которая пишет код, а найти полезные модели, которые лучше обычного Chat-GPT и работают на обычном компьютере. Ещё условие: параллельно с моделью у меня открыта IDE, проект, браузер с кучей вкладок и другие программы в фоне.
 -
 -
 -
-
+But it was important for me to leave some room for complexity and check if the model can handle tasks harder than its usual level. My goal isn't just to find any model that writes code, but to find useful models that work better than regular ChatGPT and run on a normal computer. Another condition: while the model runs, I also have my IDE, project, browser with lots of tabs, and other programs open in the background.
 -
 Всё это не должно мешать друг другу и забирать ресурсы. Теперь разберём, какие модели можно выбрать. Я буду использовать Ollama, но всё это подходит и для других похожих фреймворков, например LM Studio. В прошлом видео я показывал, как запускать LLM через Ollama. Для примера я взял Qwen 3 Coder на 30 млрд параметров.
 -
 -
 -
-
+All of this shouldn't get in each other's way or eat up resources. Now let's look at which models you can choose. I'll use Ollama, but all of this works for other similar frameworks too, like LM Studio. In a previous video, I showed how to run LLMs through Ollama. As an example, I took Qwen 3 Coder with 30 billion parameters.
 -
 Она занимала 19 ГБ, и для моего ноутбука с RTX 4070 на 8 ГБ видеопамяти этого почти не хватало — всю модель туда не поместить. Поэтому часть нейронной сети была в видеопамяти, а остальное — в оперативной памяти. Если оперативки не хватает, данные уходят в файл подкачки на SSD, и там скорость очень низкая.
 -
 -
 -
-
+It took up 19 GB, and for my laptop with an RTX 4070 and 8 GB of VRAM, that was almost not enough — the whole model wouldn't fit there. So part of the neural network was in VRAM, and the rest was in RAM. If you don't have enough RAM, data goes to the swap file on the SSD, and speed there is very low.
 -
 Это частая причина, почему люди говорят, что локально моделью нельзя пользоваться: она выдаёт полтокена в секунду. Это важно помнить: лучше взять модель меньше, но чтобы она полностью влезала в память. Второй момент — на том же примере. Qwen на 30 млрд, которую я использовал, была сжата: сделали квантизацию весов.
 -
 -
 -
-
+This is a common reason why people say you can't use a local model: it outputs half a token per second. It's important to remember: it's better to pick a smaller model that fits fully in memory. Second point — same example. The 30B Qwen I used was compressed: the weights were quantized.
 -
 Полная версия на 30 млрд занимает 61 ГБ. Такая модель нужна на гораздо более мощном компьютере. Возникает вопрос: как сжатая модель влияет на результат и на код? Влияние есть. Нейронная сеть может перепутать структуры, ей сложнее работать с большим объёмом данных. Она может пропустить точку с запятой или не закрыть тег в разметке, но на практике это редко.
 -
 -
 -
-
+The full 30B version takes up 61 GB. You need a much more powerful computer for that. The question is: how does a compressed model affect the result and the code? It does have an effect. The neural network can mix up structures, and it's harder for it to work with large amounts of data. It might miss a semicolon or not close a markup tag, but in practice that's rare.
 -
 Это легко исправить. Поэтому сжатую модель можно брать — она всё ещё подходит. С учётом этого я тестировал квантизованные модели от 2,5 ГБ до 6,5 ГБ. У кого-то такие модели полностью влезут в видеокарту, у кого-то частично, но размер в целом удобный. Кроме веса модели, надо посчитать память на контекст.
 -
 -
 -
-
+That's easy to fix. So you can use a compressed model — it still works fine. With that in mind, I tested quantized models from 2.5 GB to 6.5 GB. For some people, these models fit fully on the GPU; for others, only partly, but the size is generally convenient. Besides the model size, you also need to count memory for context.
 -
 На момент теста в Ollama ещё не было сжатия KV Cache Turboquant — про него у меня отдельное видео, ссылка в описании. Поэтому для большого контекста нужно много памяти. Если Turboquant добавят и он окажется таким хорошим, как обещали, понадобится гораздо меньше памяти на контекст. Пока его нет, цифры такие: слева размер контекста, справа примерно сколько дополнительной памяти нужно в процентах от размера модели.
 -
 -
 -
-
+At the time of testing, Ollama didn't have KV Cache Turboquant compression yet — I have a separate video about it, link in the description. So a large context needs a lot of memory. If they add Turboquant and it's as good as promised, you'll need much less memory for context. Until then, the numbers are: context size on the left, and on the right roughly how much extra memory you need as a percentage of model size.
 -
 Это примерные цифры. Реальное потребление зависит от архитектуры, размера и настроек модели. Если у вас есть 10 ГБ на всё, ищите модель не на 10 ГБ, а на 3–6 ГБ, и поставьте контекст на 32 или 64 тысячи токенов. Какой контекст нужен? Для большинства задач разработки хватает от 16 до 64 тысяч токенов.
 -
 -
 -
-
+These are rough numbers. Actual usage depends on the architecture, size, and settings of the model. If you have 10 GB for everything, look for a model not at 10 GB but at 3–6 GB, and set context to 32 or 64 thousand tokens. How much context do you need? For most development tasks, 16 to 64 thousand tokens is enough.
 -
 Модель может держать в памяти функцию, компонент или несколько связанных файлов. Огромный контекст — лишняя нагрузка на память и вычисления. Иногда модель хуже обращает внимание на важные части текста. Больше контекста — не всегда лучше. Нужен баланс между длиной контекста и памятью, чтобы модель была быстрой и точной.
 -
 -
 -
-
+The model can keep a function, component, or several related files in memory. A huge context puts extra load on memory and computing. Sometimes the model pays less attention to important parts of the text. More context isn't always better. You need a balance between context length and memory so the model stays fast and accurate.
 -
 Если нужен очень большой контекст, лучше разбить задачу на части и работать поэтапно. Иногда большой контекст действительно нужен, но чаще стабильнее работать по шагам. Не стоит за одну сессию генерировать большой сложный модуль — лучше разбить на подзадачи. Но в тестах я специально даю большую задачу без разбивки, чтобы лучше проверить модель.
 -
 -
 -
-
+If you need a very large context, it's better to split the task into parts and work step by step. Sometimes you really do need a large context, but more often it's more stable to work in steps. Don't try to generate one big complex module in a single session — split it into subtasks instead. But in my tests I deliberately give one big task without splitting, to check the model better.
 -
 Задачу вы видите на экране. Она хороша для теста: указан стек, есть ограничения, типизация, проверка архитектурного мышления. Модель должна разбить разметку на компоненты, а не свалить всё в кучу. Это проверка, умеет ли модель создать дизайн из промпта. Главное — задача длинная. Модели нужно держать в памяти стек, ограничения, дизайн и структуру.
 -
 -
 -
-
+You can see the task on screen. It's good for testing: the stack is specified, there are constraints, typing, a check of architectural thinking. The model should split the markup into components, not dump everything in one pile. This checks whether the model can create a design from a prompt. The main thing is the task is long. The model needs to keep the stack, constraints, design, and structure in memory.
 -
 Слабые модели забывают требования, противоречат себе и в итоге дают сломанный результат.
 -
 -
 -
+Weak models forget requirements, contradict themselves, and end up giving a broken result.
