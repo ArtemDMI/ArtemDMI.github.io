@@ -6,3 +6,5 @@ tmp/
 AGENTS.md
 .agents/
 *.pyc
+
+cursor_api/
