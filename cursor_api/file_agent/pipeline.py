@@ -5,6 +5,8 @@ from __future__ import annotations
 import concurrent.futures
 import re
 import sys
+import threading
+import time
 from collections.abc import Callable
 from dataclasses import dataclass
 from pathlib import Path
@@ -13,6 +15,7 @@ from file_agent import normalization, runner, split, validation
 
 MAX_ATTEMPTS = 3
 PART_TIMEOUT = 90.0
+REQUEST_PAUSE_SECONDS = 2.2
 MERGE_JOIN = "\n\n"
 PROMPT_FILE = Path(__file__).resolve().parent / "prompt.md"
 
@@ -31,6 +34,24 @@ class PartOutcome:
     path: Path
     ok: bool
     reason: str = ""
+
+
+class RequestPacer:
+    def __init__(self, interval_seconds: float) -> None:
+        self._interval_seconds = interval_seconds
+        self._lock = threading.Lock()
+        self._next_start = 0.0
+
+    def wait(self) -> None:
+        with self._lock:
+            now = time.monotonic()
+            start_at = max(now, self._next_start)
+            self._next_start = start_at + self._interval_seconds
+
+        delay = start_at - now
+        if delay > 0:
+            # Cursor SDK has a per-minute request limit; spacing starts prevents bursts.
+            time.sleep(delay)
 
 
 def _load_base_prompt() -> str:
@@ -86,10 +107,12 @@ def _process_part(
     part_path: Path,
     context: PartContext,
     system_prompt: str,
+    pacer: RequestPacer,
 ) -> PartOutcome:
     last_reason = "unknown error"
     for attempt in range(1, MAX_ATTEMPTS + 1):
         try:
+            pacer.wait()
             run_part_fn(part_path, system_prompt=system_prompt, timeout=PART_TIMEOUT)
         except Exception as err:
             last_reason = f"attempt {attempt}: {err}"
@@ -148,9 +171,10 @@ def run_translate(source: Path, story_context: str) -> int:
         return 1
 
     outcomes: list[PartOutcome] = []
+    pacer = RequestPacer(REQUEST_PAUSE_SECONDS)
     with concurrent.futures.ThreadPoolExecutor(max_workers=len(part_paths)) as pool:
         futures = {
-            pool.submit(_process_part, path, contexts[path], system_prompt): path
+            pool.submit(_process_part, path, contexts[path], system_prompt, pacer): path
             for path in part_paths
         }
         for future in concurrent.futures.as_completed(futures):
