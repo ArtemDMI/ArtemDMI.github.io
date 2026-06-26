@@ -81,7 +81,7 @@ def _assert_non_fast_model(result: RunResult) -> None:
     )
 
 
-def run_part(part_path: Path, *, system_prompt: str, timeout: float = 90) -> None:
+def run_part(part_path: Path, *, system_prompt: str, timeout: float = 180) -> None:
     """Запускает одного агента для одной части; ошибка — исключение, без fallback."""
     path = Path(part_path).expanduser().resolve()
     if not path.is_file():

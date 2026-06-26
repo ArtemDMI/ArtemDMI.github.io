@@ -48,30 +48,30 @@ class SplitTests(unittest.TestCase):
         self.assertEqual(split.part_paths(source, 0), [source])
 
     def test_limits_on_many_sentences(self) -> None:
-        sentences = [f"Sentence number {i} is here today." for i in range(200)]
+        sentences = [f"Sentence number {i} is here today." for i in range(400)]
         parts = split.split_normalized("\n".join(sentences))
         self.assertGreaterEqual(len(parts), 2)
         for part in parts:
             lines = [line for line in part.splitlines() if line.strip()]
-            self.assertLessEqual(len(lines), 150)
+            self.assertLessEqual(len(lines), 300)
             if len(lines) > 1:
-                self.assertLessEqual(len(part), 5000)
+                self.assertLessEqual(len(part), 10000)
 
     def test_oversized_single_sentence_is_own_part(self) -> None:
-        long_sentence = "X" * 6000
+        long_sentence = "X" * 11000
         parts = split.split_normalized(f"Short.\n{long_sentence}\nTail.")
         self.assertEqual(len(parts), 3)
-        self.assertEqual(len(parts[1]), 6000)
+        self.assertEqual(len(parts[1]), 11000)
 
-    def test_no_punctuation_uses_6000_char_budget(self) -> None:
-        lines = [f"word{i:04d}" for i in range(1200)]
+    def test_no_punctuation_uses_12000_char_budget(self) -> None:
+        lines = [f"word{i:04d}" for i in range(2400)]
         text = "\n".join(lines)
 
         parts = split.split_normalized(text)
 
         self.assertGreaterEqual(len(parts), 2)
         for part in parts:
-            self.assertLessEqual(len(part), 6000)
+            self.assertLessEqual(len(part), 12000)
 
         rebuilt = " ".join(part.strip() for part in parts)
         self.assertEqual(rebuilt, " ".join(lines))
@@ -85,8 +85,8 @@ class SplitTests(unittest.TestCase):
         self.assertEqual(len(parts), 1)
         self.assertEqual(parts[0], " ".join(lines))
 
-    def test_few_giant_lines_fall_back_to_6000_char_budget(self) -> None:
-        giant = ("word " * 1500).strip() + "."
+    def test_few_giant_lines_fall_back_to_12000_char_budget(self) -> None:
+        giant = ("word " * 3000).strip() + "."
         medium = ("word " * 400).strip() + "."
         text = "\n".join([giant, medium, "tail."])
 
@@ -94,7 +94,7 @@ class SplitTests(unittest.TestCase):
 
         self.assertGreaterEqual(len(parts), 2)
         for part in parts:
-            self.assertLessEqual(len(part), 6000)
+            self.assertLessEqual(len(part), 12000)
 
 
 class SplitConflictTests(unittest.TestCase):
@@ -260,7 +260,7 @@ class PipelinePartialFailureTests(unittest.TestCase):
         self.root = Path(self.temp_dir.name)
 
     def test_partial_failure_keeps_successful_parts_nonzero_exit(self) -> None:
-        lines = [f"Sentence number {i} is here today." for i in range(200)]
+        lines = [f"Sentence number {i} is here today." for i in range(400)]
         source = self.root / "test.txt"
         source.write_text("\n".join(lines), encoding="utf-8")
 
@@ -288,7 +288,7 @@ class PipelinePartialFailureTests(unittest.TestCase):
         self.assertIn("Ошибки: 1", summary)
 
     def test_system_prompt_not_supported_fails_all_parts(self) -> None:
-        lines = [f"Sentence number {i} is here today." for i in range(200)]
+        lines = [f"Sentence number {i} is here today." for i in range(400)]
         source = self.root / "test.txt"
         source.write_text("\n".join(lines), encoding="utf-8")
 

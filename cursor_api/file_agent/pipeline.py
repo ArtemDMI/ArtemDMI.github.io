@@ -15,9 +15,9 @@ from pathlib import Path
 from file_agent import bridge_launch, normalization, runner, split, validation
 
 MAX_ATTEMPTS = 3
-PART_TIMEOUT = 90.0
+PART_TIMEOUT = 180.0
 REQUEST_PAUSE_SECONDS = 2.2
-ESTIMATED_PART_SECONDS = 78.0
+ESTIMATED_PART_SECONDS = 156.0
 MERGE_JOIN = "\n\n"
 PROMPT_FILE = Path(__file__).resolve().parent / "prompt.md"
 
