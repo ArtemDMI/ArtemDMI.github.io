@@ -336,6 +336,55 @@ class PipelinePartialFailureTests(unittest.TestCase):
             "Sentence number one is here today.",
         )
 
+    def test_translation_prints_estimate_and_done_progress(self) -> None:
+        source = self.root / "progress.txt"
+        source.write_text("Sentence number one is here today.", encoding="utf-8")
+
+        def fake_run_part(
+            part_path: Path, *, system_prompt: str, timeout: float = 60
+        ) -> None:
+            text = part_path.read_text(encoding="utf-8")
+            part_path.write_text(text, encoding="utf-8")
+
+        pipeline.run_part_fn = fake_run_part
+
+        stdout = io.StringIO()
+        with contextlib.redirect_stdout(stdout):
+            code = pipeline.run_translate(
+                source,
+                "This story is about Rachel, a woman traveling with Brad, a man.",
+            )
+
+        self.assertEqual(code, 0)
+        output = stdout.getvalue()
+        self.assertIn("Оценка до старта:", output)
+        self.assertIn("Частей: 1", output)
+        self.assertIn("1 - done.", output)
+        self.assertIn("Фактически:", output)
+
+    def test_translation_prints_fail_progress(self) -> None:
+        source = self.root / "fail.txt"
+        source.write_text("Sentence number one is here today.", encoding="utf-8")
+
+        def fake_run_part(
+            part_path: Path, *, system_prompt: str, timeout: float = 60
+        ) -> None:
+            raise RuntimeError("boom")
+
+        pipeline.run_part_fn = fake_run_part
+
+        stdout = io.StringIO()
+        with contextlib.redirect_stdout(stdout):
+            code = pipeline.run_translate(
+                source,
+                "This story is about Rachel, a woman traveling with Brad, a man.",
+            )
+
+        self.assertEqual(code, 1)
+        output = stdout.getvalue()
+        self.assertIn("1 - fail.", output)
+        self.assertIn("Ошибки: 1", output)
+
     def test_story_context_is_prepended_to_system_prompt(self) -> None:
         source = self.root / "test.txt"
         source.write_text("Sentence number one is here today.", encoding="utf-8")
@@ -524,6 +573,22 @@ class RunnerModelSelectionTests(unittest.TestCase):
             runner.run_part(self.part, system_prompt="Translate this story.", timeout=12)
 
         self.assertIn("fast variant", str(ctx.exception))
+
+
+class EstimateTests(unittest.TestCase):
+    def test_build_translation_estimate_includes_start_pauses(self) -> None:
+        estimate = pipeline._build_translation_estimate(4)
+
+        self.assertEqual(estimate.part_count, 4)
+        self.assertEqual(estimate.launch_pause_count, 3)
+        self.assertAlmostEqual(
+            estimate.launch_pause_seconds,
+            3 * pipeline.REQUEST_PAUSE_SECONDS,
+        )
+        self.assertAlmostEqual(
+            estimate.estimated_wall_seconds,
+            pipeline.ESTIMATED_PART_SECONDS + 3 * pipeline.REQUEST_PAUSE_SECONDS,
+        )
 
 
 if __name__ == "__main__":

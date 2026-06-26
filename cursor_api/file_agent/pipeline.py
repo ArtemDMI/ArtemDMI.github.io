@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import concurrent.futures
+import math
 import re
 import sys
 import threading
@@ -16,6 +17,7 @@ from file_agent import bridge_launch, normalization, runner, split, validation
 MAX_ATTEMPTS = 3
 PART_TIMEOUT = 90.0
 REQUEST_PAUSE_SECONDS = 2.2
+ESTIMATED_PART_SECONDS = 78.0
 MERGE_JOIN = "\n\n"
 PROMPT_FILE = Path(__file__).resolve().parent / "prompt.md"
 
@@ -32,9 +34,19 @@ class PartContext:
 
 @dataclass(frozen=True, slots=True)
 class PartOutcome:
+    part_number: int
     path: Path
     ok: bool
     reason: str = ""
+
+
+@dataclass(frozen=True, slots=True)
+class TranslationEstimate:
+    part_count: int
+    launch_pause_count: int
+    launch_pause_seconds: float
+    sample_part_seconds: float
+    estimated_wall_seconds: float
 
 
 class RequestPacer:
@@ -104,7 +116,43 @@ def _prepare_parts(source: Path) -> tuple[list[Path], dict[Path, PartContext]]:
     return paths, contexts
 
 
+def _format_seconds(seconds: float) -> str:
+    if seconds <= 0:
+        return "0s"
+    rounded = max(1, int(math.ceil(seconds)))
+    minutes, secs = divmod(rounded, 60)
+    if minutes:
+        return f"{minutes}m {secs:02d}s"
+    return f"{secs}s"
+
+
+def _build_translation_estimate(part_count: int) -> TranslationEstimate:
+    pause_count = max(part_count - 1, 0)
+    pause_seconds = pause_count * REQUEST_PAUSE_SECONDS
+    estimated_wall_seconds = ESTIMATED_PART_SECONDS + pause_seconds
+    return TranslationEstimate(
+        part_count=part_count,
+        launch_pause_count=pause_count,
+        launch_pause_seconds=pause_seconds,
+        sample_part_seconds=ESTIMATED_PART_SECONDS,
+        estimated_wall_seconds=estimated_wall_seconds,
+    )
+
+
+def _print_translation_estimate(estimate: TranslationEstimate) -> None:
+    print("Оценка до старта:")
+    print(f"  Частей: {estimate.part_count}")
+    print(
+        "  Паузы стартов: "
+        f"{estimate.launch_pause_count} x {REQUEST_PAUSE_SECONDS:.1f}s = "
+        f"{_format_seconds(estimate.launch_pause_seconds)}"
+    )
+    print(f"  Замер 1 части: {_format_seconds(estimate.sample_part_seconds)}")
+    print(f"  Ждать примерно: {_format_seconds(estimate.estimated_wall_seconds)}")
+
+
 def _process_part(
+    part_number: int,
     part_path: Path,
     context: PartContext,
     system_prompt: str,
@@ -133,14 +181,14 @@ def _process_part(
             continue
 
         if result.ok:
-            return PartOutcome(part_path, True)
+            return PartOutcome(part_number, part_path, True)
 
         last_reason = (
             f"attempt {attempt}: validation {result.status} "
             f"(ratio {result.ratio:.2f})"
         )
 
-    return PartOutcome(part_path, False, last_reason)
+    return PartOutcome(part_number, part_path, False, last_reason)
 
 
 def _remove_blank_lines(text: str) -> str:
@@ -164,7 +212,17 @@ def _normalize_merged_translation(texts: list[str]) -> str:
     return "\n".join(normalization.merge_short_sentences(sentences))
 
 
-def _print_summary(outcomes: list[PartOutcome]) -> None:
+def _print_progress(outcome: PartOutcome) -> None:
+    status = "done." if outcome.ok else "fail."
+    print(f"{outcome.part_number} - {status}", flush=True)
+
+
+def _print_summary(
+    outcomes: list[PartOutcome],
+    *,
+    estimate: TranslationEstimate,
+    elapsed_seconds: float,
+) -> None:
     total = len(outcomes)
     ok_count = sum(1 for item in outcomes if item.ok)
     failed = [item for item in outcomes if not item.ok]
@@ -173,6 +231,8 @@ def _print_summary(outcomes: list[PartOutcome]) -> None:
     print(f"  Всего частей: {total}")
     print(f"  Успешно: {ok_count}")
     print(f"  Ошибки: {len(failed)}")
+    print(f"  Оценка ожидания: {_format_seconds(estimate.estimated_wall_seconds)}")
+    print(f"  Фактически: {_format_seconds(elapsed_seconds)}")
     if failed:
         print("  Проблемные файлы:")
         for item in failed:
@@ -192,18 +252,27 @@ def run_translate(source: Path, story_context: str) -> int:
     if cleaned:
         print(f"Остановлено зависших cursor-sdk-bridge: {cleaned}")
 
+    estimate = _build_translation_estimate(len(part_paths))
+    _print_translation_estimate(estimate)
+
     outcomes: list[PartOutcome] = []
     pacer = RequestPacer(REQUEST_PAUSE_SECONDS)
+    started_at = time.monotonic()
     with concurrent.futures.ThreadPoolExecutor(max_workers=len(part_paths)) as pool:
         futures = {
-            pool.submit(_process_part, path, contexts[path], system_prompt, pacer): path
-            for path in part_paths
+            pool.submit(
+                _process_part, index, path, contexts[path], system_prompt, pacer
+            ): path
+            for index, path in enumerate(part_paths, start=1)
         }
         for future in concurrent.futures.as_completed(futures):
-            outcomes.append(future.result())
+            outcome = future.result()
+            outcomes.append(outcome)
+            _print_progress(outcome)
 
-    outcomes.sort(key=lambda item: part_paths.index(item.path))
-    _print_summary(outcomes)
+    outcomes.sort(key=lambda item: item.part_number)
+    elapsed_seconds = time.monotonic() - started_at
+    _print_summary(outcomes, estimate=estimate, elapsed_seconds=elapsed_seconds)
     return 0 if all(item.ok for item in outcomes) else 1
 
 
