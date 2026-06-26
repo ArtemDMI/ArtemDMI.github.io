@@ -55,7 +55,7 @@ def split_sentences(text: str) -> list[str]:
     if not re.search(r"[.!?…]", text):
         return merge_short_sentences(clean_sentences(split_without_punctuation(text)))
 
-    pattern = r".+?(?:[.!?…]+[\"'”’)]*|$)(?=\s+(?:[\"'“‘(]*[A-Z0-9])|$)"
+    pattern = r".+?(?:[.!?…]+[\"'”’)]*|$)(?=\s+(?:[\"'“‘(]*[A-ZА-ЯЁ0-9])|$)"
     sentences = [match.group(0).strip() for match in re.finditer(pattern, text)]
     return merge_short_sentences(clean_sentences(sentences))
 
@@ -76,7 +76,9 @@ def word_count(text: str) -> int:
     return len(re.findall(r"[\w’']+", text, flags=re.UNICODE))
 
 
-def merge_short_sentences(sentences: list[str], min_words: int = 8) -> list[str]:
+def merge_short_sentences(
+    sentences: list[str], min_words: int = 8, max_sentences_per_line: int = 4
+) -> list[str]:
     merged: list[str] = []
     buffer: list[str] = []
     buffer_words = 0
@@ -86,7 +88,9 @@ def merge_short_sentences(sentences: list[str], min_words: int = 8) -> list[str]
         if buffer:
             buffer.append(sentence)
             buffer_words += current_words
-            if buffer_words >= min_words:
+            # Very short fragments are easier to review in small groups than as
+            # single-word lines, but we still cap the group to avoid fat rows.
+            if buffer_words >= min_words or len(buffer) >= max_sentences_per_line:
                 merged.append(" ".join(buffer))
                 buffer = []
                 buffer_words = 0
@@ -99,10 +103,7 @@ def merge_short_sentences(sentences: list[str], min_words: int = 8) -> list[str]
             merged.append(sentence)
 
     if buffer:
-        if merged:
-            merged[-1] = f"{merged[-1]} {' '.join(buffer)}"
-        else:
-            merged.append(" ".join(buffer))
+        merged.append(" ".join(buffer))
 
     return merged
 

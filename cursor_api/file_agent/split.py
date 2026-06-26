@@ -8,6 +8,62 @@ from pathlib import Path
 
 MAX_LINES_PER_PART = 150
 MAX_CHARS_PER_PART = 5000
+MAX_CHARS_PER_NO_PUNCT_PART = 6000
+SENTENCE_PUNCTUATION_RE = re.compile(r"[.!?…]")
+
+
+def _has_sentence_punctuation(text: str) -> bool:
+    return bool(SENTENCE_PUNCTUATION_RE.search(text))
+
+
+def _split_long_token(token: str, max_chars: int) -> list[str]:
+    return [token[index : index + max_chars] for index in range(0, len(token), max_chars)]
+
+
+def _split_by_char_budget(text: str, max_chars: int) -> list[str]:
+    collapsed = re.sub(r"\s+", " ", text).strip()
+    if not collapsed:
+        return []
+    if len(collapsed) <= max_chars:
+        return [collapsed]
+
+    parts: list[str] = []
+    current = ""
+
+    def flush() -> None:
+        nonlocal current
+        if current:
+            parts.append(current)
+            current = ""
+
+    for token in collapsed.split(" "):
+        if not token:
+            continue
+        if len(token) > max_chars:
+            flush()
+            parts.extend(_split_long_token(token, max_chars))
+            continue
+
+        candidate = token if not current else f"{current} {token}"
+        if len(candidate) > max_chars:
+            flush()
+            current = token
+        else:
+            current = candidate
+
+    flush()
+    return parts
+
+
+def _should_use_char_budget(text: str, sentences: list[str]) -> bool:
+    if not _has_sentence_punctuation(text):
+        return True
+
+    if not sentences:
+        return False
+
+    max_sentence_chars = max(len(sentence) for sentence in sentences)
+    return len(sentences) <= 3 and max_sentence_chars > MAX_CHARS_PER_NO_PUNCT_PART
 
 
 def split_normalized(text: str) -> list[str]:
@@ -16,6 +72,12 @@ def split_normalized(text: str) -> list[str]:
     if not sentences:
         stripped = text.strip()
         return [stripped] if stripped else []
+
+    if _should_use_char_budget(text, sentences):
+        # Without sentence-ending punctuation, line count is arbitrary after normalization,
+        # or the sentence split can collapse into a few giant lines, so we size parts
+        # by character budget instead of trusting synthetic sentence lines.
+        return _split_by_char_budget(" ".join(sentences), MAX_CHARS_PER_NO_PUNCT_PART)
 
     parts: list[str] = []
     current: list[str] = []

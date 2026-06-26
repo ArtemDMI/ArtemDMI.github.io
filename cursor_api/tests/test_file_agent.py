@@ -62,6 +62,39 @@ class SplitTests(unittest.TestCase):
         self.assertEqual(len(parts), 3)
         self.assertEqual(len(parts[1]), 6000)
 
+    def test_no_punctuation_uses_6000_char_budget(self) -> None:
+        lines = [f"word{i:04d}" for i in range(1200)]
+        text = "\n".join(lines)
+
+        parts = split.split_normalized(text)
+
+        self.assertGreaterEqual(len(parts), 2)
+        for part in parts:
+            self.assertLessEqual(len(part), 6000)
+
+        rebuilt = " ".join(part.strip() for part in parts)
+        self.assertEqual(rebuilt, " ".join(lines))
+
+    def test_no_punctuation_does_not_split_only_by_line_count(self) -> None:
+        lines = [f"word{i:04d}" for i in range(200)]
+        text = "\n".join(lines)
+
+        parts = split.split_normalized(text)
+
+        self.assertEqual(len(parts), 1)
+        self.assertEqual(parts[0], " ".join(lines))
+
+    def test_few_giant_lines_fall_back_to_6000_char_budget(self) -> None:
+        giant = ("word " * 1500).strip() + "."
+        medium = ("word " * 400).strip() + "."
+        text = "\n".join([giant, medium, "tail."])
+
+        parts = split.split_normalized(text)
+
+        self.assertGreaterEqual(len(parts), 2)
+        for part in parts:
+            self.assertLessEqual(len(part), 6000)
+
 
 class SplitConflictTests(unittest.TestCase):
     def setUp(self) -> None:
@@ -131,9 +164,18 @@ class MergeTests(unittest.TestCase):
 
     def test_merge_order_and_join_format(self) -> None:
         source = self.root / "test.txt"
-        source.write_text("part one", encoding="utf-8")
-        (self.root / "testS001.txt").write_text("part two", encoding="utf-8")
-        (self.root / "testS002.txt").write_text("part three", encoding="utf-8")
+        source.write_text(
+            "First sentence is definitely long enough to stay separate.",
+            encoding="utf-8",
+        )
+        (self.root / "testS001.txt").write_text(
+            "Second sentence is definitely long enough to stay separate too.",
+            encoding="utf-8",
+        )
+        (self.root / "testS002.txt").write_text(
+            "Third sentence is definitely long enough to stay separate as well.",
+            encoding="utf-8",
+        )
 
         with contextlib.redirect_stdout(io.StringIO()):
             code = pipeline.run_merge(source)
@@ -141,10 +183,29 @@ class MergeTests(unittest.TestCase):
         self.assertEqual(code, 0)
         self.assertEqual(
             source.read_text(encoding="utf-8"),
-            "part one\n\npart two\n\npart three",
+            "First sentence is definitely long enough to stay separate.\n"
+            "Second sentence is definitely long enough to stay separate too.\n"
+            "Third sentence is definitely long enough to stay separate as well.",
         )
         self.assertFalse((self.root / "testS001.txt").is_file())
         self.assertFalse((self.root / "testS002.txt").is_file())
+
+    def test_merge_groups_up_to_four_short_sentences_per_line(self) -> None:
+        source = self.root / "short.txt"
+        source.write_text("Да.", encoding="utf-8")
+        (self.root / "shortS001.txt").write_text("Нет.", encoding="utf-8")
+        (self.root / "shortS002.txt").write_text("Ну.", encoding="utf-8")
+        (self.root / "shortS003.txt").write_text("Ладно.", encoding="utf-8")
+        (self.root / "shortS004.txt").write_text("Потом.", encoding="utf-8")
+
+        with contextlib.redirect_stdout(io.StringIO()):
+            code = pipeline.run_merge(source)
+
+        self.assertEqual(code, 0)
+        self.assertEqual(
+            source.read_text(encoding="utf-8"),
+            "Да. Нет. Ну. Ладно.\nПотом.",
+        )
 
     def test_merge_gap_in_suffix_numbering_fails(self) -> None:
         source = self.root / "gap.txt"

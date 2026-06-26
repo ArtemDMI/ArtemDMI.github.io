@@ -146,6 +146,23 @@ def _remove_blank_lines(text: str) -> str:
     return "\n".join(line for line in text.splitlines() if line.strip())
 
 
+def _normalize_merged_translation(texts: list[str]) -> str:
+    # Merge output is normalized again so edited parts still produce a consistent
+    # "one sentence per line, or up to four very short ones" final file.
+    merged = normalization.normalize_wrapped_text(MERGE_JOIN.join(texts))
+    if not merged:
+        raise ValueError("Merged text is empty")
+
+    if not re.search(r"[.!?…]", merged):
+        return "\n".join(normalization.merge_short_sentences([merged]))
+
+    raw_sentences = re.findall(r'[^.!?…]+(?:[.!?…]+["\'”’)]*|$)', merged)
+    sentences = normalization.clean_sentences(raw_sentences)
+    if not sentences:
+        raise ValueError("No sentences found in merged text")
+    return "\n".join(normalization.merge_short_sentences(sentences))
+
+
 def _print_summary(outcomes: list[PartOutcome]) -> None:
     total = len(outcomes)
     ok_count = sum(1 for item in outcomes if item.ok)
@@ -221,7 +238,8 @@ def run_merge(source: Path) -> int:
             raise ValueError(f"Gap in part numbering: {listed}")
 
         texts = [path.read_text(encoding="utf-8") for path in parts]
-        source.write_text(MERGE_JOIN.join(texts), encoding="utf-8", newline="\n")
+        merged_text = _normalize_merged_translation(texts)
+        source.write_text(merged_text, encoding="utf-8", newline="\n")
 
         suffix_parts = parts[1:]
         for path in suffix_parts:
