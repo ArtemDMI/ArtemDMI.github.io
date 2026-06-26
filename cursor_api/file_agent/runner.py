@@ -5,12 +5,23 @@ from __future__ import annotations
 import concurrent.futures
 from pathlib import Path
 
-from cursor_sdk import CursorAgentError, LocalAgentOptions, RunResult
+from cursor_sdk import (
+    CursorAgentError,
+    LocalAgentOptions,
+    ModelParameterValue,
+    ModelSelection,
+    RunResult,
+)
 
 from file_agent.bridge_launch import launch_bridge_client
 from file_agent.keys import load_api_key
 
-MODEL_ID = "composer-2.5"
+# Cursor resolves bare composer-2.5 to the fast tier by default, so we pin
+# fast=false explicitly and reject any resolved fast variant after the run.
+MODEL_SELECTION = ModelSelection(
+    id="composer-2.5",
+    params=(ModelParameterValue(id="fast", value="false"),),
+)
 
 
 class SystemPromptNotSupportedError(RuntimeError):
@@ -43,6 +54,33 @@ def _wait_run(run, timeout: float) -> RunResult:
             ) from err
 
 
+def _is_fast_variant(model: object | None) -> bool:
+    if model is None:
+        return False
+
+    model_id = getattr(model, "id", "")
+    if isinstance(model_id, str) and model_id.endswith("-fast"):
+        return True
+
+    params = getattr(model, "params", ()) or ()
+    for param in params:
+        if getattr(param, "id", "") != "fast":
+            continue
+        return str(getattr(param, "value", "")).strip().lower() == "true"
+    return False
+
+
+def _assert_non_fast_model(result: RunResult) -> None:
+    if not _is_fast_variant(result.model):
+        return
+
+    resolved_id = getattr(result.model, "id", "unknown")
+    raise RuntimeError(
+        "Resolved model unexpectedly used fast variant: "
+        f"{resolved_id}. Request must stay on composer-2.5 with fast=false."
+    )
+
+
 def run_part(part_path: Path, *, system_prompt: str, timeout: float = 90) -> None:
     """Запускает одного агента для одной части; ошибка — исключение, без fallback."""
     path = Path(part_path).expanduser().resolve()
@@ -58,7 +96,7 @@ def run_part(part_path: Path, *, system_prompt: str, timeout: float = 90) -> Non
     try:
         with launch_bridge_client(str(workspace), timeout=timeout) as client:
             with client.agents.create(
-                model=MODEL_ID,
+                model=MODEL_SELECTION,
                 api_key=api_key,
                 local=LocalAgentOptions(cwd=str(workspace)),
             ) as agent:
@@ -69,3 +107,5 @@ def run_part(part_path: Path, *, system_prompt: str, timeout: float = 90) -> Non
 
     if result.status == "error":
         raise RuntimeError(f"Agent run failed: {result.id}")
+
+    _assert_non_fast_model(result)

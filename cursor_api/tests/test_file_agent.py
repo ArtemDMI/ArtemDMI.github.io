@@ -7,8 +7,9 @@ import contextlib
 import tempfile
 import unittest
 from pathlib import Path
+from types import SimpleNamespace
 
-from file_agent import cli, normalization, pipeline, split, validation
+from file_agent import cli, normalization, pipeline, runner, split, validation
 from file_agent.runner import SystemPromptNotSupportedError
 
 
@@ -246,9 +247,16 @@ class ValidationTests(unittest.TestCase):
 class PipelinePartialFailureTests(unittest.TestCase):
     def setUp(self) -> None:
         self._original_runner = pipeline.run_part_fn
+        self._original_cleanup = pipeline.cleanup_stale_bridges_fn
         self.temp_dir = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp_dir.cleanup)
         self.addCleanup(setattr, pipeline, "run_part_fn", self._original_runner)
+        self.addCleanup(
+            setattr,
+            pipeline,
+            "cleanup_stale_bridges_fn",
+            self._original_cleanup,
+        )
         self.root = Path(self.temp_dir.name)
 
     def test_partial_failure_keeps_successful_parts_nonzero_exit(self) -> None:
@@ -357,6 +365,36 @@ class PipelinePartialFailureTests(unittest.TestCase):
             seen_prompts[0].index("# Translation Instructions"),
         )
 
+    def test_cleanup_stale_bridges_runs_before_translation(self) -> None:
+        source = self.root / "test.txt"
+        source.write_text("Sentence number one is here today.", encoding="utf-8")
+        events: list[str] = []
+
+        def fake_cleanup() -> int:
+            events.append("cleanup")
+            return 2
+
+        def fake_run_part(
+            part_path: Path, *, system_prompt: str, timeout: float = 60
+        ) -> None:
+            events.append("run")
+            text = part_path.read_text(encoding="utf-8")
+            part_path.write_text(text, encoding="utf-8")
+
+        pipeline.cleanup_stale_bridges_fn = fake_cleanup
+        pipeline.run_part_fn = fake_run_part
+
+        stdout = io.StringIO()
+        with contextlib.redirect_stdout(stdout):
+            code = pipeline.run_translate(
+                source,
+                "This story is about Rachel, a woman traveling with Brad, a man.",
+            )
+
+        self.assertEqual(code, 0)
+        self.assertEqual(events, ["cleanup", "run"])
+        self.assertIn("Остановлено зависших cursor-sdk-bridge: 2", stdout.getvalue())
+
     def test_story_context_must_be_ascii(self) -> None:
         source = self.root / "test.txt"
         source.write_text("Sentence number one is here today.", encoding="utf-8")
@@ -369,6 +407,123 @@ class PipelinePartialFailureTests(unittest.TestCase):
 
         self.assertEqual(code, 1)
         self.assertIn("English ASCII", stderr.getvalue())
+
+
+class RunnerModelSelectionTests(unittest.TestCase):
+    def setUp(self) -> None:
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temp_dir.cleanup)
+        self.root = Path(self.temp_dir.name)
+        self.part = self.root / "part.txt"
+        self.part.write_text("Source text.", encoding="utf-8")
+
+        self._original_launch_bridge_client = runner.launch_bridge_client
+        self._original_load_api_key = runner.load_api_key
+        self._original_wait_run = runner._wait_run
+        self.addCleanup(
+            setattr,
+            runner,
+            "launch_bridge_client",
+            self._original_launch_bridge_client,
+        )
+        self.addCleanup(setattr, runner, "load_api_key", self._original_load_api_key)
+        self.addCleanup(setattr, runner, "_wait_run", self._original_wait_run)
+
+    def test_run_part_requests_non_fast_composer(self) -> None:
+        captured: dict[str, object] = {}
+
+        class FakeAgent:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+            def send(self, message: str):
+                captured["message"] = message
+                return SimpleNamespace(id="run-1")
+
+        class FakeClient:
+            def __init__(self) -> None:
+                self.agents = self
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+            def create(self, *, model, api_key, local):
+                captured["model"] = model
+                captured["api_key"] = api_key
+                captured["cwd"] = local.cwd
+                return FakeAgent()
+
+        def fake_launch_bridge_client(workspace: str, *, timeout: float = 60.0):
+            captured["workspace"] = workspace
+            captured["timeout"] = timeout
+            return FakeClient()
+
+        runner.launch_bridge_client = fake_launch_bridge_client
+        runner.load_api_key = lambda: "secret"
+        runner._wait_run = lambda run, timeout: SimpleNamespace(
+            id=run.id,
+            status="finished",
+            result="OK",
+            model=runner.MODEL_SELECTION,
+        )
+
+        runner.run_part(self.part, system_prompt="Translate this story.", timeout=12)
+
+        model = captured["model"]
+        self.assertEqual(model.id, "composer-2.5")
+        self.assertEqual(len(model.params), 1)
+        self.assertEqual(model.params[0].id, "fast")
+        self.assertEqual(model.params[0].value, "false")
+        self.assertEqual(captured["workspace"], str(self.root))
+        self.assertEqual(captured["cwd"], str(self.root))
+        self.assertIn("Обработай файл на диске", captured["message"])
+
+    def test_run_part_rejects_fast_resolved_model(self) -> None:
+        class FakeAgent:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+            def send(self, message: str):
+                return SimpleNamespace(id="run-fast")
+
+        class FakeClient:
+            def __init__(self) -> None:
+                self.agents = self
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+            def create(self, *, model, api_key, local):
+                return FakeAgent()
+
+        runner.launch_bridge_client = lambda workspace, timeout=60.0: FakeClient()
+        runner.load_api_key = lambda: "secret"
+        runner._wait_run = lambda run, timeout: SimpleNamespace(
+            id=run.id,
+            status="finished",
+            result="OK",
+            model=SimpleNamespace(
+                id="composer-2.5",
+                params=(SimpleNamespace(id="fast", value="true"),),
+            ),
+        )
+
+        with self.assertRaises(RuntimeError) as ctx:
+            runner.run_part(self.part, system_prompt="Translate this story.", timeout=12)
+
+        self.assertIn("fast variant", str(ctx.exception))
 
 
 if __name__ == "__main__":

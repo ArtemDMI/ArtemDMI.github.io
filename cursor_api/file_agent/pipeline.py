@@ -11,7 +11,7 @@ from collections.abc import Callable
 from dataclasses import dataclass
 from pathlib import Path
 
-from file_agent import normalization, runner, split, validation
+from file_agent import bridge_launch, normalization, runner, split, validation
 
 MAX_ATTEMPTS = 3
 PART_TIMEOUT = 90.0
@@ -21,6 +21,7 @@ PROMPT_FILE = Path(__file__).resolve().parent / "prompt.md"
 
 # Точка подмены в тестах без реального API.
 run_part_fn: Callable[..., None] = runner.run_part
+cleanup_stale_bridges_fn: Callable[[], int] = bridge_launch.cleanup_orphan_bridge_processes
 
 
 @dataclass(frozen=True, slots=True)
@@ -181,11 +182,15 @@ def _print_summary(outcomes: list[PartOutcome]) -> None:
 def run_translate(source: Path, story_context: str) -> int:
     source = Path(source).expanduser().resolve()
     try:
+        cleaned = cleanup_stale_bridges_fn()
         system_prompt = _build_system_prompt(story_context)
         part_paths, contexts = _prepare_parts(source)
     except (FileNotFoundError, ValueError, OSError) as err:
         print(f"Ошибка: {err}", file=sys.stderr)
         return 1
+
+    if cleaned:
+        print(f"Остановлено зависших cursor-sdk-bridge: {cleaned}")
 
     outcomes: list[PartOutcome] = []
     pacer = RequestPacer(REQUEST_PAUSE_SECONDS)

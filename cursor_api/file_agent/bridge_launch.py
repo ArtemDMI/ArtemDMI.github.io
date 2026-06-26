@@ -15,6 +15,50 @@ from cursor_sdk._vendor import resolve_bridge_path
 from cursor_sdk.errors import CursorSDKError
 
 
+def cleanup_orphan_bridge_processes() -> int:
+    """Best-effort cleanup for Windows bridge nodes left without a parent."""
+    if os.name != "nt":
+        return 0
+
+    command = (
+        "$bridge = Get-CimInstance Win32_Process | Where-Object { "
+        "$_.Name -eq 'node.exe' -and $_.CommandLine -match 'cursor-sdk-bridge\\.js' "
+        "}; "
+        "if (-not $bridge) { Write-Output 0; exit 0 }; "
+        "$alive = @{}; "
+        "Get-CimInstance Win32_Process | ForEach-Object { "
+        "$alive[[int]$_.ProcessId] = $true "
+        "}; "
+        "$targets = $bridge | Where-Object { "
+        "-not $alive.ContainsKey([int]$_.ParentProcessId) "
+        "}; "
+        "$ids = @($targets | ForEach-Object { [int]$_.ProcessId } | Sort-Object -Unique); "
+        "if ($ids.Count -gt 0) { "
+        "Stop-Process -Id $ids -Force -ErrorAction SilentlyContinue "
+        "}; "
+        "Write-Output $ids.Count"
+    )
+    try:
+        completed = subprocess.run(
+            ["powershell", "-NoProfile", "-Command", command],
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+    except (OSError, subprocess.SubprocessError):
+        # Translation should still run even if the OS refuses process inspection.
+        return 0
+
+    lines = [line.strip() for line in completed.stdout.splitlines() if line.strip()]
+    if not lines:
+        return 0
+
+    try:
+        return int(lines[-1])
+    except ValueError:
+        return 0
+
+
 def _read_discovery_blocking(
     process: subprocess.Popen[str],
     timeout: float,
