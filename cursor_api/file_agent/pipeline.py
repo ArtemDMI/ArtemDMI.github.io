@@ -140,15 +140,16 @@ def _build_translation_estimate(part_count: int) -> TranslationEstimate:
 
 
 def _print_translation_estimate(estimate: TranslationEstimate) -> None:
-    print("Оценка до старта:")
-    print(f"  Частей: {estimate.part_count}")
+    print("Оценка до старта:", flush=True)
+    print(f"  Частей: {estimate.part_count}", flush=True)
     print(
         "  Паузы стартов: "
         f"{estimate.launch_pause_count} x {REQUEST_PAUSE_SECONDS:.1f}s = "
-        f"{_format_seconds(estimate.launch_pause_seconds)}"
+        f"{_format_seconds(estimate.launch_pause_seconds)}",
+        flush=True,
     )
-    print(f"  Замер 1 части: {_format_seconds(estimate.sample_part_seconds)}")
-    print(f"  Ждать примерно: {_format_seconds(estimate.estimated_wall_seconds)}")
+    print(f"  Замер 1 части: {_format_seconds(estimate.sample_part_seconds)}", flush=True)
+    print(f"  Ждать примерно: {_format_seconds(estimate.estimated_wall_seconds)}", flush=True)
 
 
 def _process_part(
@@ -227,16 +228,16 @@ def _print_summary(
     ok_count = sum(1 for item in outcomes if item.ok)
     failed = [item for item in outcomes if not item.ok]
 
-    print("Сводка перевода:")
-    print(f"  Всего частей: {total}")
-    print(f"  Успешно: {ok_count}")
-    print(f"  Ошибки: {len(failed)}")
-    print(f"  Оценка ожидания: {_format_seconds(estimate.estimated_wall_seconds)}")
-    print(f"  Фактически: {_format_seconds(elapsed_seconds)}")
+    print("Сводка перевода:", flush=True)
+    print(f"  Всего частей: {total}", flush=True)
+    print(f"  Успешно: {ok_count}", flush=True)
+    print(f"  Ошибки: {len(failed)}", flush=True)
+    print(f"  Оценка ожидания: {_format_seconds(estimate.estimated_wall_seconds)}", flush=True)
+    print(f"  Фактически: {_format_seconds(elapsed_seconds)}", flush=True)
     if failed:
-        print("  Проблемные файлы:")
+        print("  Проблемные файлы:", flush=True)
         for item in failed:
-            print(f"    - {item.path}: {item.reason}")
+            print(f"    - {item.path}: {item.reason}", flush=True)
 
 
 def run_translate(source: Path, story_context: str) -> int:
@@ -250,7 +251,7 @@ def run_translate(source: Path, story_context: str) -> int:
         return 1
 
     if cleaned:
-        print(f"Остановлено зависших cursor-sdk-bridge: {cleaned}")
+        print(f"Остановлено зависших cursor-sdk-bridge: {cleaned}", flush=True)
 
     estimate = _build_translation_estimate(len(part_paths))
     _print_translation_estimate(estimate)
