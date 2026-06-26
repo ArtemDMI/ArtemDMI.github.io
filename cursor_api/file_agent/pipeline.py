@@ -214,8 +214,12 @@ def _normalize_merged_translation(texts: list[str]) -> str:
 
 
 def _print_progress(outcome: PartOutcome) -> None:
-    status = "done." if outcome.ok else "fail."
-    print(f"{outcome.part_number} - {status}", flush=True)
+    if outcome.ok:
+        print(f"{outcome.part_number} - done.", flush=True)
+        return
+
+    reason = outcome.reason.strip() or "unknown error"
+    print(f"{outcome.part_number} - fail ({reason}).", flush=True)
 
 
 def _print_summary(

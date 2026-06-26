@@ -382,7 +382,7 @@ class PipelinePartialFailureTests(unittest.TestCase):
 
         self.assertEqual(code, 1)
         output = stdout.getvalue()
-        self.assertIn("1 - fail.", output)
+        self.assertIn("1 - fail (attempt 3: boom).", output)
         self.assertIn("Ошибки: 1", output)
 
     def test_story_context_is_prepended_to_system_prompt(self) -> None:
