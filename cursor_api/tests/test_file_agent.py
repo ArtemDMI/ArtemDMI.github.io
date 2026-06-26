@@ -442,7 +442,10 @@ class PipelinePartialFailureTests(unittest.TestCase):
 
         self.assertEqual(code, 0)
         self.assertEqual(events, ["cleanup", "run"])
-        self.assertIn("Остановлено зависших cursor-sdk-bridge: 2", stdout.getvalue())
+        self.assertIn(
+            "Остановлено cursor-sdk-bridge перед стартом: 2",
+            stdout.getvalue(),
+        )
 
     def test_story_context_must_be_ascii(self) -> None:
         source = self.root / "test.txt"

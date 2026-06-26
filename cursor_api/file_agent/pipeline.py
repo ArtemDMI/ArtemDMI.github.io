@@ -23,7 +23,7 @@ PROMPT_FILE = Path(__file__).resolve().parent / "prompt.md"
 
 # Точка подмены в тестах без реального API.
 run_part_fn: Callable[..., None] = runner.run_part
-cleanup_stale_bridges_fn: Callable[[], int] = bridge_launch.cleanup_orphan_bridge_processes
+cleanup_stale_bridges_fn: Callable[[], int] = bridge_launch.cleanup_bridge_processes
 
 
 @dataclass(frozen=True, slots=True)
@@ -251,7 +251,7 @@ def run_translate(source: Path, story_context: str) -> int:
         return 1
 
     if cleaned:
-        print(f"Остановлено зависших cursor-sdk-bridge: {cleaned}", flush=True)
+        print(f"Остановлено cursor-sdk-bridge перед стартом: {cleaned}", flush=True)
 
     estimate = _build_translation_estimate(len(part_paths))
     _print_translation_estimate(estimate)
