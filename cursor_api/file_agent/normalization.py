@@ -6,6 +6,12 @@ from __future__ import annotations
 import re
 
 
+SUBTITLE_TIMING_RE = re.compile(
+    r"^\s*(?:\d{1,2}:)?\d{2}:\d{2}[,.]\d{1,3}\s*-->\s*"
+    r"(?:\d{1,2}:)?\d{2}:\d{2}[,.]\d{1,3}(?:\s+.*)?$"
+)
+SUBTITLE_INDEX_RE = re.compile(r"^\s*\d+\s*$")
+
 SENTENCE_STARTS = (
     "I",
     "We",
@@ -29,6 +35,36 @@ SENTENCE_STARTS = (
     "Hell",
     "Yeah",
 )
+
+
+def is_subtitle_timing_line(line: str) -> bool:
+    return bool(SUBTITLE_TIMING_RE.fullmatch(line))
+
+
+def is_subtitle_index_line(line: str) -> bool:
+    return bool(SUBTITLE_INDEX_RE.fullmatch(line))
+
+
+def looks_like_subtitle(text: str) -> bool:
+    return any(is_subtitle_timing_line(line) for line in text.splitlines())
+
+
+def strip_subtitle_metadata(text: str) -> str:
+    cleaned: list[str] = []
+    for line in text.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        if is_subtitle_index_line(line) or is_subtitle_timing_line(line):
+            continue
+        cleaned.append(line)
+    return "\n".join(cleaned)
+
+
+def normalize_subtitle_text_if_needed(text: str) -> str:
+    if not looks_like_subtitle(text):
+        return text
+    return strip_subtitle_metadata(text)
 
 
 def normalize_wrapped_text(text: str) -> str:
@@ -113,6 +149,7 @@ def normalize_text(text: str) -> str:
     if not text.strip():
         raise ValueError("Input text is empty")
 
+    text = normalize_subtitle_text_if_needed(text)
     sentences = split_sentences(text)
     if not sentences:
         raise ValueError("No sentences found in input text")

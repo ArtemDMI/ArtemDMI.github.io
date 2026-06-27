@@ -33,6 +33,37 @@ class NormalizationTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             normalization.normalize_text("   \n\n")
 
+    def test_subtitle_metadata_is_removed_before_sentence_split(self) -> None:
+        raw = (
+            "1414\n"
+            "01:23:41,360 --> 01:23:43,000\n"
+            "This subtitle line has enough words to stand alone.\n\n"
+            "1415\n"
+            "01:23:43,100 --> 01:23:44,020\n"
+            "Another subtitle line also has enough words here.\n"
+        )
+
+        result = normalization.normalize_text(raw)
+
+        self.assertEqual(
+            result,
+            "This subtitle line has enough words to stand alone.\n"
+            "Another subtitle line also has enough words here.",
+        )
+        self.assertNotIn("1414", result)
+        self.assertNotIn("-->", result)
+
+    def test_numeric_lines_are_preserved_for_non_subtitle_text(self) -> None:
+        raw = (
+            "Chapter\n"
+            "1\n"
+            "This plain text has no subtitle timing lines at all."
+        )
+
+        result = normalization.normalize_text(raw)
+
+        self.assertIn("Chapter 1", result)
+
 
 class SplitTests(unittest.TestCase):
     def test_part_paths(self) -> None:
