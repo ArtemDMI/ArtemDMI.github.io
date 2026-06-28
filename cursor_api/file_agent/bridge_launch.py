@@ -2,8 +2,10 @@
 
 from __future__ import annotations
 
+import atexit
 import os
 import subprocess
+import threading
 import time
 from contextlib import contextmanager
 from pathlib import Path
@@ -13,6 +15,9 @@ from cursor_sdk import CursorClient
 from cursor_sdk._bridge import _terminate_process, parse_discovery_line
 from cursor_sdk._vendor import resolve_bridge_path
 from cursor_sdk.errors import CursorSDKError
+
+_launched_bridge_processes: dict[int, subprocess.Popen[str]] = {}
+_launched_bridge_lock = threading.Lock()
 
 
 def cleanup_bridge_processes() -> int:
@@ -53,6 +58,34 @@ def cleanup_bridge_processes() -> int:
 
 
 cleanup_orphan_bridge_processes = cleanup_bridge_processes
+
+
+def _register_bridge_process(process: subprocess.Popen[str]) -> None:
+    with _launched_bridge_lock:
+        _launched_bridge_processes[process.pid] = process
+
+
+def _unregister_bridge_process(process: subprocess.Popen[str]) -> None:
+    with _launched_bridge_lock:
+        _launched_bridge_processes.pop(process.pid, None)
+
+
+def cleanup_registered_bridges() -> int:
+    """Best-effort cleanup for bridges created by the current Python process."""
+    with _launched_bridge_lock:
+        processes = list(_launched_bridge_processes.values())
+        _launched_bridge_processes.clear()
+
+    cleaned = 0
+    for process in processes:
+        try:
+            # We only track bridges started by this process, so final cleanup
+            # can safely target them without touching other concurrent runs.
+            _terminate_process(process)
+            cleaned += 1
+        except Exception:
+            continue
+    return cleaned
 
 
 def _read_discovery_blocking(
@@ -108,10 +141,17 @@ def launch_bridge_client(workspace: str, *, timeout: float = 60.0) -> Iterator[C
         text=True,
         bufsize=1,
     )
+    _register_bridge_process(process)
     try:
         discovery = _read_discovery_blocking(process, timeout)
         url, auth_token = _endpoint_from_discovery(discovery)
         with CursorClient.connect(base_url=url, auth_token=auth_token) as client:
             yield client
     finally:
-        _terminate_process(process)
+        try:
+            _terminate_process(process)
+        finally:
+            _unregister_bridge_process(process)
+
+
+atexit.register(cleanup_registered_bridges)

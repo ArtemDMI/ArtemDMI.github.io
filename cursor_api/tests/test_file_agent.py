@@ -311,6 +311,7 @@ class PipelinePartialFailureTests(unittest.TestCase):
     def setUp(self) -> None:
         self._original_runner = pipeline.run_part_fn
         self._original_cleanup = pipeline.cleanup_stale_bridges_fn
+        self._original_registered_cleanup = pipeline.cleanup_registered_bridges_fn
         self.temp_dir = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp_dir.cleanup)
         self.addCleanup(setattr, pipeline, "run_part_fn", self._original_runner)
@@ -319,6 +320,12 @@ class PipelinePartialFailureTests(unittest.TestCase):
             pipeline,
             "cleanup_stale_bridges_fn",
             self._original_cleanup,
+        )
+        self.addCleanup(
+            setattr,
+            pipeline,
+            "cleanup_registered_bridges_fn",
+            self._original_registered_cleanup,
         )
         self.root = Path(self.temp_dir.name)
 
@@ -509,6 +516,86 @@ class PipelinePartialFailureTests(unittest.TestCase):
             "Остановлено cursor-sdk-bridge перед стартом: 2",
             stdout.getvalue(),
         )
+
+    def test_cleanup_registered_bridges_runs_after_translation(self) -> None:
+        source = self.root / "test.txt"
+        source.write_text("Sentence number one is here today.", encoding="utf-8")
+        events: list[str] = []
+
+        def fake_cleanup() -> int:
+            events.append("cleanup-stale")
+            return 0
+
+        def fake_registered_cleanup() -> int:
+            events.append("cleanup-registered")
+            return 0
+
+        def fake_run_part(
+            part_path: Path, *, system_prompt: str, timeout: float = 60
+        ) -> None:
+            events.append("run")
+            text = part_path.read_text(encoding="utf-8")
+            part_path.write_text(text, encoding="utf-8")
+
+        pipeline.cleanup_stale_bridges_fn = fake_cleanup
+        pipeline.cleanup_registered_bridges_fn = fake_registered_cleanup
+        pipeline.run_part_fn = fake_run_part
+
+        with contextlib.redirect_stdout(io.StringIO()):
+            code = pipeline.run_translate(
+                source,
+                "This story is about Rachel, a woman traveling with Brad, a man.",
+            )
+
+        self.assertEqual(code, 0)
+        self.assertEqual(events, ["cleanup-stale", "run", "cleanup-registered"])
+
+    def test_cleanup_registered_bridges_runs_on_unhandled_failure(self) -> None:
+        source = self.root / "test.txt"
+        source.write_text("Sentence number one is here today.", encoding="utf-8")
+        events: list[str] = []
+
+        def fake_cleanup() -> int:
+            events.append("cleanup-stale")
+            return 0
+
+        def fake_registered_cleanup() -> int:
+            events.append("cleanup-registered")
+            return 0
+
+        def fake_run_part(
+            part_path: Path, *, system_prompt: str, timeout: float = 60
+        ) -> None:
+            events.append("run")
+            text = part_path.read_text(encoding="utf-8")
+            part_path.write_text(text, encoding="utf-8")
+
+        original_as_completed = pipeline.concurrent.futures.as_completed
+
+        def fake_as_completed(futures):
+            raise RuntimeError("future loop crashed")
+            yield from futures
+
+        pipeline.cleanup_stale_bridges_fn = fake_cleanup
+        pipeline.cleanup_registered_bridges_fn = fake_registered_cleanup
+        pipeline.run_part_fn = fake_run_part
+        self.addCleanup(
+            setattr,
+            pipeline.concurrent.futures,
+            "as_completed",
+            original_as_completed,
+        )
+        pipeline.concurrent.futures.as_completed = fake_as_completed
+
+        with self.assertRaises(RuntimeError) as ctx:
+            with contextlib.redirect_stdout(io.StringIO()):
+                pipeline.run_translate(
+                    source,
+                    "This story is about Rachel, a woman traveling with Brad, a man.",
+                )
+
+        self.assertIn("future loop crashed", str(ctx.exception))
+        self.assertEqual(events, ["cleanup-stale", "run", "cleanup-registered"])
 
     def test_story_context_must_be_ascii(self) -> None:
         source = self.root / "test.txt"

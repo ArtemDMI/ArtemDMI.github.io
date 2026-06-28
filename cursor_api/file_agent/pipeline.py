@@ -24,6 +24,9 @@ PROMPT_FILE = Path(__file__).resolve().parent / "prompt.md"
 # Точка подмены в тестах без реального API.
 run_part_fn: Callable[..., None] = runner.run_part
 cleanup_stale_bridges_fn: Callable[[], int] = bridge_launch.cleanup_bridge_processes
+cleanup_registered_bridges_fn: Callable[[], int] = (
+    bridge_launch.cleanup_registered_bridges
+)
 
 
 @dataclass(frozen=True, slots=True)
@@ -263,22 +266,25 @@ def run_translate(source: Path, story_context: str) -> int:
     outcomes: list[PartOutcome] = []
     pacer = RequestPacer(REQUEST_PAUSE_SECONDS)
     started_at = time.monotonic()
-    with concurrent.futures.ThreadPoolExecutor(max_workers=len(part_paths)) as pool:
-        futures = {
-            pool.submit(
-                _process_part, index, path, contexts[path], system_prompt, pacer
-            ): path
-            for index, path in enumerate(part_paths, start=1)
-        }
-        for future in concurrent.futures.as_completed(futures):
-            outcome = future.result()
-            outcomes.append(outcome)
-            _print_progress(outcome)
+    try:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(part_paths)) as pool:
+            futures = {
+                pool.submit(
+                    _process_part, index, path, contexts[path], system_prompt, pacer
+                ): path
+                for index, path in enumerate(part_paths, start=1)
+            }
+            for future in concurrent.futures.as_completed(futures):
+                outcome = future.result()
+                outcomes.append(outcome)
+                _print_progress(outcome)
 
-    outcomes.sort(key=lambda item: item.part_number)
-    elapsed_seconds = time.monotonic() - started_at
-    _print_summary(outcomes, estimate=estimate, elapsed_seconds=elapsed_seconds)
-    return 0 if all(item.ok for item in outcomes) else 1
+        outcomes.sort(key=lambda item: item.part_number)
+        elapsed_seconds = time.monotonic() - started_at
+        _print_summary(outcomes, estimate=estimate, elapsed_seconds=elapsed_seconds)
+        return 0 if all(item.ok for item in outcomes) else 1
+    finally:
+        cleanup_registered_bridges_fn()
 
 
 def _orphan_suffix_parts(source: Path, consecutive_suffix_count: int) -> list[Path]:
