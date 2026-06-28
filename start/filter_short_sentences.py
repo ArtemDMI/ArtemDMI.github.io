@@ -24,6 +24,12 @@ REDDIT_BADGE_LINE_RE = re.compile(
     r"^\s*(?:Значок профиля за достижение|Комментатор из топ-\d+%)"
     r"(?:\s+(?:Значок профиля за достижение|Комментатор из топ-\d+%))*\s*$"
 )
+REDDIT_COMMUNITY_REF_RE = re.compile(r"^\s*[ru]/[A-Za-z0-9_][A-Za-z0-9_-]{1,31}\s*$", flags=re.IGNORECASE)
+URL_RE = re.compile(r"(?:https?://|www\.)\S+", flags=re.IGNORECASE)
+WEEKLY_PUBLICATIONS_RE = re.compile(
+    r"^\s*опубликованных\s+материалов\s+за\s+неделю\s*$",
+    flags=re.IGNORECASE,
+)
 SPACED_ELLIPSIS_RE = re.compile(r"(?:\.\s*){3,}")
 REDDIT_UI_LINES = {
     "Нравится",
@@ -37,6 +43,7 @@ REDDIT_UI_LINES = {
     "Лучшие",
     "Найти комментарии",
     "Развернуть поиск по комментариям",
+    "Посмотреть всех модераторов",
 }
 # Base personal pronouns are short by nature, so we keep only their dictionary
 # forms significant to avoid dropping normal dialogue lines. Indirect and
@@ -160,6 +167,41 @@ def strip_reddit_metadata(text: str) -> str:
         index += 1
 
     return "\n".join(cleaned)
+
+
+def contains_cjk(text: str) -> bool:
+    for char in text:
+        codepoint = ord(char)
+        if (
+            0x3400 <= codepoint <= 0x4DBF
+            or 0x4E00 <= codepoint <= 0x9FFF
+            or 0x3040 <= codepoint <= 0x309F
+            or 0x30A0 <= codepoint <= 0x30FF
+            or 0x31F0 <= codepoint <= 0x31FF
+            or 0xFF66 <= codepoint <= 0xFF9F
+        ):
+            return True
+    return False
+
+
+def should_drop_sentence(text: str) -> bool:
+    normalized = normalize_line_text(text)
+    if not normalized:
+        return True
+
+    lowered = normalized.casefold()
+    if lowered == "посмотреть всех модераторов":
+        return True
+    if WEEKLY_PUBLICATIONS_RE.fullmatch(normalized):
+        return True
+    if REDDIT_COMMUNITY_REF_RE.fullmatch(normalized):
+        return True
+    if URL_RE.search(normalized):
+        return True
+    if contains_cjk(normalized):
+        return True
+
+    return False
 
 
 def text_quality_score(text: str) -> int:
@@ -336,7 +378,8 @@ def filter_sentences(sentences: list[str], min_words: int) -> list[str]:
     return [
         sentence
         for sentence in sentences
-        if significant_word_count(sentence) >= min_words
+        if not should_drop_sentence(sentence)
+        and significant_word_count(sentence) >= min_words
     ]
 
 
