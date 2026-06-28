@@ -64,6 +64,22 @@ class NormalizationTests(unittest.TestCase):
 
         self.assertIn("Chapter 1", result)
 
+    def test_short_sentences_are_filtered_after_normalization(self) -> None:
+        raw = (
+            "This first sentence has enough meaningful words to stay.\n"
+            "Yes.\n"
+            "This second sentence also has enough meaningful words."
+        )
+
+        result = normalization.normalize_text(raw)
+
+        self.assertEqual(
+            result,
+            "This first sentence has enough meaningful words to stay.\n"
+            "This second sentence also has enough meaningful words.",
+        )
+        self.assertNotIn("Yes.", result)
+
 
 class SplitTests(unittest.TestCase):
     def test_part_paths(self) -> None:

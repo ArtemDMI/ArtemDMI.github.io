@@ -5,6 +5,8 @@ from __future__ import annotations
 
 import re
 
+from file_agent.filter_short_sentences import filter_normalized_text
+
 
 SUBTITLE_TIMING_RE = re.compile(
     r"^\s*(?:\d{1,2}:)?\d{2}:\d{2}[,.]\d{1,3}\s*-->\s*"
@@ -154,4 +156,8 @@ def normalize_text(text: str) -> str:
     if not sentences:
         raise ValueError("No sentences found in input text")
 
-    return "\n".join(sentences)
+    normalized = "\n".join(sentences)
+    # The translation pipeline splits parts from this exact output, so the
+    # short-sentence filter must run here to affect both CLI translation and
+    # manual normalization in the same way.
+    return filter_normalized_text(normalized)
