@@ -13,6 +13,28 @@ SUBTITLE_TIMING_RE = re.compile(
 SUBTITLE_INDEX_RE = re.compile(r"^\s*\d+\s*$")
 WORD_RE = re.compile(r"[^\W\d_]+(?:[-'][^\W\d_]+)*", flags=re.UNICODE)
 MOJIBAKE_HINT_RE = re.compile(r"[╨╤]")
+SENTENCE_END_RE = re.compile(r'[.!?…]+["\'”’)]*$')
+# Base personal pronouns are short by nature, so we keep only their dictionary
+# forms significant to avoid dropping normal dialogue lines. Indirect and
+# possessive forms stay excluded because they inflate fragment-heavy subtitles.
+SIGNIFICANT_SHORT_WORDS = {
+    "я",
+    "ты",
+    "он",
+    "она",
+    "оно",
+    "мы",
+    "вы",
+    "они",
+    "i",
+    "you",
+    "he",
+    "she",
+    "it",
+    "we",
+    "they",
+}
+MIN_SIGNIFICANT_WORD_LENGTH = 4
 
 
 def is_subtitle_timing_line(line: str) -> bool:
@@ -105,13 +127,12 @@ def strip_non_text_symbols(text: str) -> str:
     return "".join(cleaned)
 
 
-def normalize_wrapped_text(text: str) -> str:
-    lines = [line.strip() for line in text.splitlines() if line.strip()]
-    collapsed = re.sub(r"\s+", " ", " ".join(lines)).strip()
-    collapsed = re.sub(r"\s+([,.;:!?])", r"\1", collapsed)
-    collapsed = re.sub(r"(?:\.\s*){2,}", ". ", collapsed)
-    collapsed = re.sub(r"\.\s+(?=[a-zа-яё])", " ", collapsed, flags=re.IGNORECASE)
-    return re.sub(r"\s+", " ", collapsed).strip()
+def normalize_line_text(text: str) -> str:
+    text = re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"\s+([,.;:!?])", r"\1", text)
+    text = re.sub(r"([,.;:!?])(?=[^\s\"'”’)\]\}])", r"\1 ", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
 
 
 def mark_dialogue_boundaries(text: str) -> str:
@@ -124,24 +145,38 @@ def mark_dialogue_boundaries(text: str) -> str:
     )
 
 
+def split_chunk_by_punctuation(chunk: str) -> list[str]:
+    # Any sentence-ending punctuation is treated as a hard boundary because
+    # noisy subtitle exports often start the next sentence with junk or lowercase.
+    pattern = r".+?(?:[.!?…]+[\"'”’)]*|$)"
+    matches = [match.group(0).strip() for match in re.finditer(pattern, chunk)]
+    return [match for match in matches if match]
+
+
 def split_line_into_sentences(line: str) -> list[str]:
-    normalized = normalize_wrapped_text(line)
+    normalized = normalize_line_text(line)
     if not normalized:
         return []
 
     normalized = mark_dialogue_boundaries(normalized)
-    pattern = r".+?(?:[.!?…]+[\"'”’)]*|$)(?=\s+(?:[\"'“‘(]*[A-ZА-ЯЁ0-9])|$)"
     sentences: list[str] = []
+
     for chunk in normalized.splitlines():
-        sentences.extend(
-            match.group(0).strip() for match in re.finditer(pattern, chunk) if match.group(0).strip()
-        )
+        chunk = normalize_line_text(re.sub(r"^\s*-\s*", "", chunk))
+        if not chunk:
+            continue
+
+        if SENTENCE_END_RE.search(chunk):
+            sentences.extend(split_chunk_by_punctuation(chunk))
+            continue
+
+        # When punctuation is missing entirely, the source line is the safest
+        # boundary we have, so we keep it as a single candidate sentence.
+        sentences.append(chunk)
 
     cleaned: list[str] = []
     for sentence in sentences:
-        sentence = re.sub(r"\s+", " ", sentence).strip()
-        sentence = re.sub(r"\s+([,.;:!?])", r"\1", sentence)
-        sentence = re.sub(r"(?:\.\s*){2,}", ".", sentence)
+        sentence = normalize_line_text(sentence)
         if sentence and not re.fullmatch(r"[.!?…]+", sentence):
             cleaned.append(sentence)
 
@@ -163,21 +198,24 @@ def split_sentences(text: str) -> list[str]:
     return sentences
 
 
-def count_long_words(text: str, min_letters: int) -> int:
-    return sum(1 for word in WORD_RE.findall(text) if len(word) > min_letters)
+def significant_word_count(text: str) -> int:
+    count = 0
+    for word in WORD_RE.findall(text):
+        lowered = word.casefold()
+        if lowered in SIGNIFICANT_SHORT_WORDS or len(lowered) >= MIN_SIGNIFICANT_WORD_LENGTH:
+            count += 1
+    return count
 
 
-def filter_sentences(
-    sentences: list[str], min_long_words: int, min_letters: int
-) -> list[str]:
+def filter_sentences(sentences: list[str], min_words: int) -> list[str]:
     return [
         sentence
         for sentence in sentences
-        if count_long_words(sentence, min_letters=min_letters) >= min_long_words
+        if significant_word_count(sentence) >= min_words
     ]
 
 
-def clean_text(text: str, min_long_words: int, min_letters: int) -> str:
+def clean_text(text: str, min_words: int) -> str:
     if not text.strip():
         raise ValueError("Input text is empty")
 
@@ -191,24 +229,16 @@ def clean_text(text: str, min_long_words: int, min_letters: int) -> str:
     if not sentences:
         raise ValueError("No sentences found in input text")
 
-    filtered = filter_sentences(
-        sentences,
-        min_long_words=min_long_words,
-        min_letters=min_letters,
-    )
+    filtered = filter_sentences(sentences, min_words=min_words)
     if not filtered:
         raise ValueError("No sentences left after filtering")
 
     return "\n".join(filtered)
 
 
-def clean_file(path: Path, min_long_words: int, min_letters: int) -> bool:
+def clean_file(path: Path, min_words: int) -> bool:
     original = path.read_text(encoding="utf-8")
-    cleaned = clean_text(
-        original,
-        min_long_words=min_long_words,
-        min_letters=min_letters,
-    ) + "\n"
+    cleaned = clean_text(original, min_words=min_words) + "\n"
 
     if original == cleaned:
         return False
@@ -244,8 +274,8 @@ def iter_txt_files(paths: list[str], recursive: bool) -> list[Path]:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description=(
-            "Remove sentences with too few long words and rewrite the file "
-            "with one sentence per line."
+            "Remove sentences with too few significant words and rewrite the "
+            "file with one sentence per line."
         )
     )
     parser.add_argument(
@@ -259,16 +289,13 @@ def build_parser() -> argparse.ArgumentParser:
         help="When a directory is passed, include .txt files from subfolders too.",
     )
     parser.add_argument(
-        "--min-long-words",
-        type=int,
-        default=5,
-        help="Keep only sentences with at least this many words longer than --min-letters.",
-    )
-    parser.add_argument(
-        "--min-letters",
+        "--min-words",
         type=int,
         default=3,
-        help="Count only words whose length is greater than this threshold.",
+        help=(
+            "Keep only sentences with at least this many significant words. "
+            "A significant word is longer than 3 letters, except for: я, ты, вы, мы."
+        ),
     )
     return parser
 
@@ -294,8 +321,7 @@ def main() -> int:
         try:
             if clean_file(
                 path,
-                min_long_words=args.min_long_words,
-                min_letters=args.min_letters,
+                min_words=args.min_words,
             ):
                 changed += 1
                 print(f"[CHANGED] {path}")
