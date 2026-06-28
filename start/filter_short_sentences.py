@@ -13,7 +13,8 @@ SUBTITLE_TIMING_RE = re.compile(
 SUBTITLE_INDEX_RE = re.compile(r"^\s*\d+\s*$")
 WORD_RE = re.compile(r"[^\W\d_]+(?:[-'][^\W\d_]+)*", flags=re.UNICODE)
 MOJIBAKE_HINT_RE = re.compile(r"[╨╤]")
-SENTENCE_END_RE = re.compile(r'[.!?…]+["\'”’)]*$')
+SENTENCE_END_RE = re.compile(r'[.!?…]+["\'”’»)]*$')
+LEADING_CLOSERS_RE = re.compile(r'^[»”’"\')\]\}]+')
 # Base personal pronouns are short by nature, so we keep only their dictionary
 # forms significant to avoid dropping normal dialogue lines. Indirect and
 # possessive forms stay excluded because they inflate fragment-heavy subtitles.
@@ -139,7 +140,7 @@ def mark_dialogue_boundaries(text: str) -> str:
     # Subtitle lines often glue several speaker turns together as
     # `Sentence? - Answer.`; we split only after a clear sentence ending.
     return re.sub(
-        r'([.!?…]+["\'”’)]*)\s*-\s+(?=["\'«A-ZА-ЯЁ0-9])',
+        r'([.!?…]+["\'”’»)]*)\s*-\s+(?=["\'«A-ZА-ЯЁ0-9])',
         r"\1\n",
         text,
     )
@@ -148,9 +149,32 @@ def mark_dialogue_boundaries(text: str) -> str:
 def split_chunk_by_punctuation(chunk: str) -> list[str]:
     # Any sentence-ending punctuation is treated as a hard boundary because
     # noisy subtitle exports often start the next sentence with junk or lowercase.
-    pattern = r".+?(?:[.!?…]+[\"'”’)]*|$)"
+    pattern = r".+?(?:[.!?…]+[\"'”’»)]*|$)"
     matches = [match.group(0).strip() for match in re.finditer(pattern, chunk)]
     return [match for match in matches if match]
+
+
+def rebalance_leading_closers(sentences: list[str]) -> list[str]:
+    rebalanced: list[str] = []
+
+    for sentence in sentences:
+        current = sentence.strip()
+        if not current:
+            continue
+
+        if rebalanced:
+            match = LEADING_CLOSERS_RE.match(current)
+            if match:
+                closers = match.group(0)
+                rebalanced[-1] = rebalanced[-1].rstrip() + closers
+                current = current[match.end() :].lstrip()
+                current = normalize_line_text(current)
+                if not current:
+                    continue
+
+        rebalanced.append(current)
+
+    return rebalanced
 
 
 def split_line_into_sentences(line: str) -> list[str]:
@@ -195,7 +219,7 @@ def split_sentences(text: str) -> list[str]:
         if line_sentences:
             sentences.extend(line_sentences)
 
-    return sentences
+    return rebalance_leading_closers(sentences)
 
 
 def significant_word_count(text: str) -> int:
