@@ -53,16 +53,14 @@ class NormalizationTests(unittest.TestCase):
         self.assertNotIn("1414", result)
         self.assertNotIn("-->", result)
 
-    def test_numeric_lines_are_preserved_for_non_subtitle_text(self) -> None:
+    def test_numeric_content_is_preserved_for_non_subtitle_text(self) -> None:
         raw = (
-            "Chapter\n"
-            "1\n"
-            "This plain text has no subtitle timing lines at all."
+            "Version 2 of this plain text line has enough words to stay."
         )
 
         result = normalization.normalize_text(raw)
 
-        self.assertIn("Chapter 1", result)
+        self.assertIn("Version 2", result)
 
     def test_short_sentences_are_filtered_after_normalization(self) -> None:
         raw = (
@@ -79,6 +77,24 @@ class NormalizationTests(unittest.TestCase):
             "This second sentence also has enough meaningful words.",
         )
         self.assertNotIn("Yes.", result)
+
+    def test_reddit_metadata_is_removed_before_translation_split(self) -> None:
+        raw = (
+            "Аватар u/TestUser\n"
+            "TestUser\n"
+            "•\n"
+            "4 дн. назад\n"
+            "This comment has enough meaningful words to stay.\n"
+            "Нравится\n"
+            "42\n"
+            "Ответить\n"
+        )
+
+        result = normalization.normalize_text(raw)
+
+        self.assertEqual(result, "This comment has enough meaningful words to stay.")
+        self.assertNotIn("Аватар", result)
+        self.assertNotIn("Нравится", result)
 
 
 class SplitTests(unittest.TestCase):

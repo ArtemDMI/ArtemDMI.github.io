@@ -6,9 +6,10 @@ from __future__ import annotations
 import importlib.util
 import re
 from pathlib import Path
+from types import ModuleType
 
 
-def _load_shared_filter() -> callable:
+def _load_shared_filter_module() -> ModuleType:
     module_path = Path(__file__).resolve().parents[2] / "start" / "filter_short_sentences.py"
     spec = importlib.util.spec_from_file_location("shared_filter_short_sentences", module_path)
     if spec is None or spec.loader is None:
@@ -16,12 +17,16 @@ def _load_shared_filter() -> callable:
 
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
-    return module.filter_normalized_text
+    return module
 
 
 # file_agent runs from cursor_api/, so direct package import from start/ is brittle.
-# We load the shared script by path to keep a single editable source of truth.
-filter_normalized_text = _load_shared_filter()
+# We load the shared script by path so future cleanup changes in start/ apply
+# to both manual preprocessing and file_agent translation without copy-pasting.
+shared_filter_module = _load_shared_filter_module()
+filter_normalized_text = shared_filter_module.filter_normalized_text
+clean_text = shared_filter_module.clean_text
+DEFAULT_MIN_WORDS = shared_filter_module.DEFAULT_MIN_WORDS
 
 
 SUBTITLE_TIMING_RE = re.compile(
@@ -167,13 +172,6 @@ def normalize_text(text: str) -> str:
     if not text.strip():
         raise ValueError("Input text is empty")
 
-    text = normalize_subtitle_text_if_needed(text)
-    sentences = split_sentences(text)
-    if not sentences:
-        raise ValueError("No sentences found in input text")
-
-    normalized = "\n".join(sentences)
-    # The translation pipeline splits parts from this exact output, so the
-    # short-sentence filter must run here to affect both CLI translation and
-    # manual normalization in the same way.
-    return filter_normalized_text(normalized)
+    # Delegate the full preprocessing pipeline to the shared script so every
+    # future cleanup rule added there automatically affects file_agent too.
+    return clean_text(text, min_words=DEFAULT_MIN_WORDS)
