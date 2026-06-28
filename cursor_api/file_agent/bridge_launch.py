@@ -8,6 +8,7 @@ import subprocess
 import threading
 import time
 from contextlib import contextmanager
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterator
 
@@ -18,6 +19,20 @@ from cursor_sdk.errors import CursorSDKError
 
 _launched_bridge_processes: dict[int, subprocess.Popen[str]] = {}
 _launched_bridge_lock = threading.Lock()
+
+
+@dataclass(slots=True)
+class BridgeSession:
+    client: CursorClient
+    process: subprocess.Popen[str]
+    terminated: bool = False
+
+    def terminate(self) -> None:
+        if self.terminated:
+            return
+        _terminate_process(self.process)
+        _unregister_bridge_process(self.process)
+        self.terminated = True
 
 
 def cleanup_bridge_processes() -> int:
@@ -132,7 +147,9 @@ def _endpoint_from_discovery(discovery: dict) -> tuple[str, str]:
 
 
 @contextmanager
-def launch_bridge_client(workspace: str, *, timeout: float = 60.0) -> Iterator[CursorClient]:
+def launch_bridge_session(
+    workspace: str, *, timeout: float = 60.0
+) -> Iterator[BridgeSession]:
     argv = [os.fspath(resolve_bridge_path()), "--workspace", os.fspath(workspace)]
     process = subprocess.Popen(
         argv,
@@ -142,16 +159,34 @@ def launch_bridge_client(workspace: str, *, timeout: float = 60.0) -> Iterator[C
         bufsize=1,
     )
     _register_bridge_process(process)
+    client_context = None
+    session: BridgeSession | None = None
     try:
         discovery = _read_discovery_blocking(process, timeout)
         url, auth_token = _endpoint_from_discovery(discovery)
-        with CursorClient.connect(base_url=url, auth_token=auth_token) as client:
-            yield client
+        client_context = CursorClient.connect(base_url=url, auth_token=auth_token)
+        client = client_context.__enter__()
+        session = BridgeSession(client=client, process=process)
+        yield session
     finally:
-        try:
-            _terminate_process(process)
-        finally:
-            _unregister_bridge_process(process)
+        if session is None or not session.terminated:
+            try:
+                if client_context is not None:
+                    client_context.__exit__(None, None, None)
+            finally:
+                if session is not None:
+                    session.terminate()
+                else:
+                    try:
+                        _terminate_process(process)
+                    finally:
+                        _unregister_bridge_process(process)
+
+
+@contextmanager
+def launch_bridge_client(workspace: str, *, timeout: float = 60.0) -> Iterator[CursorClient]:
+    with launch_bridge_session(workspace, timeout=timeout) as session:
+        yield session.client
 
 
 atexit.register(cleanup_registered_bridges)

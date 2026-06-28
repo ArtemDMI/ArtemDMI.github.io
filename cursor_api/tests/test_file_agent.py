@@ -619,14 +619,14 @@ class RunnerModelSelectionTests(unittest.TestCase):
         self.part = self.root / "part.txt"
         self.part.write_text("Source text.", encoding="utf-8")
 
-        self._original_launch_bridge_client = runner.launch_bridge_client
+        self._original_launch_bridge_session = runner.launch_bridge_session
         self._original_load_api_key = runner.load_api_key
         self._original_wait_run = runner._wait_run
         self.addCleanup(
             setattr,
             runner,
-            "launch_bridge_client",
-            self._original_launch_bridge_client,
+            "launch_bridge_session",
+            self._original_launch_bridge_session,
         )
         self.addCleanup(setattr, runner, "load_api_key", self._original_load_api_key)
         self.addCleanup(setattr, runner, "_wait_run", self._original_wait_run)
@@ -661,14 +661,27 @@ class RunnerModelSelectionTests(unittest.TestCase):
                 captured["cwd"] = local.cwd
                 return FakeAgent()
 
-        def fake_launch_bridge_client(workspace: str, *, timeout: float = 60.0):
+        class FakeBridge:
+            def __init__(self) -> None:
+                self.client = FakeClient()
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+            def terminate(self) -> None:
+                captured["terminated"] = True
+
+        def fake_launch_bridge_session(workspace: str, *, timeout: float = 60.0):
             captured["workspace"] = workspace
             captured["timeout"] = timeout
-            return FakeClient()
+            return FakeBridge()
 
-        runner.launch_bridge_client = fake_launch_bridge_client
+        runner.launch_bridge_session = fake_launch_bridge_session
         runner.load_api_key = lambda: "secret"
-        runner._wait_run = lambda run, timeout: SimpleNamespace(
+        runner._wait_run = lambda run, timeout, **kwargs: SimpleNamespace(
             id=run.id,
             status="finished",
             result="OK",
@@ -710,9 +723,22 @@ class RunnerModelSelectionTests(unittest.TestCase):
             def create(self, *, model, api_key, local):
                 return FakeAgent()
 
-        runner.launch_bridge_client = lambda workspace, timeout=60.0: FakeClient()
+        class FakeBridge:
+            def __init__(self) -> None:
+                self.client = FakeClient()
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+            def terminate(self) -> None:
+                pass
+
+        runner.launch_bridge_session = lambda workspace, timeout=60.0: FakeBridge()
         runner.load_api_key = lambda: "secret"
-        runner._wait_run = lambda run, timeout: SimpleNamespace(
+        runner._wait_run = lambda run, timeout, **kwargs: SimpleNamespace(
             id=run.id,
             status="finished",
             result="OK",
@@ -726,6 +752,81 @@ class RunnerModelSelectionTests(unittest.TestCase):
             runner.run_part(self.part, system_prompt="Translate this story.", timeout=12)
 
         self.assertIn("fast variant", str(ctx.exception))
+
+    def test_run_part_accepts_valid_file_change_when_wait_hangs(self) -> None:
+        events: list[str] = []
+        self.part.write_text("Sentence number one is here today.", encoding="utf-8")
+
+        class FakeRun:
+            id = "run-file-ready"
+
+            def wait(self):
+                raise AssertionError("test should not call wait directly")
+
+            def cancel(self) -> None:
+                events.append("cancel")
+
+        class FakeAgent:
+            def __enter__(self):
+                events.append("agent-enter")
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                events.append("agent-exit")
+                return False
+
+            def send(self, message: str):
+                events.append("send")
+                self_path = self.part_path
+                self_path.write_text(
+                    "Предложение номер один сегодня здесь.",
+                    encoding="utf-8",
+                )
+                return FakeRun()
+
+        FakeAgent.part_path = self.part
+
+        class FakeClient:
+            def __init__(self) -> None:
+                self.agents = self
+
+            def create(self, *, model, api_key, local):
+                return FakeAgent()
+
+        class FakeBridge:
+            def __init__(self) -> None:
+                self.client = FakeClient()
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+            def terminate(self) -> None:
+                events.append("bridge-terminate")
+
+        def fake_wait_run(run, timeout, **kwargs):
+            self.assertTrue(
+                runner._translated_file_is_ready(
+                    kwargs["part_path"],
+                    initial_fingerprint=kwargs["initial_fingerprint"],
+                    source_text=kwargs["source_text"],
+                )
+            )
+            run.cancel()
+            return None
+
+        runner.launch_bridge_session = lambda workspace, timeout=60.0: FakeBridge()
+        runner.load_api_key = lambda: "secret"
+        runner._wait_run = fake_wait_run
+
+        runner.run_part(self.part, system_prompt="Translate this story.", timeout=12)
+
+        self.assertEqual(
+            events,
+            ["agent-enter", "send", "cancel", "bridge-terminate"],
+        )
 
 
 class EstimateTests(unittest.TestCase):
