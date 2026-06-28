@@ -14,7 +14,30 @@ SUBTITLE_INDEX_RE = re.compile(r"^\s*\d+\s*$")
 WORD_RE = re.compile(r"[^\W\d_]+(?:[-'][^\W\d_]+)*", flags=re.UNICODE)
 MOJIBAKE_HINT_RE = re.compile(r"[╨╤]")
 SENTENCE_END_RE = re.compile(r'[.!?…]+["\'”’»)]*$')
+SENTENCE_PUNCTUATION_RE = re.compile(r'[.!?…]+')
 LEADING_CLOSERS_RE = re.compile(r'^[»”’"\')\]\}]+')
+REDDIT_AVATAR_RE = re.compile(r"^\s*Аватар u/[A-Za-z0-9_-]+\s*$")
+REDDIT_TIMESTAMP_RE = re.compile(r"^\s*\d+\s*(?:дн\.|ч\.|мин\.|сек\.)\s+назад\s*$")
+REDDIT_COLLAPSED_REPLIES_RE = re.compile(r"^\s*Еще\s+\d+\s+ответ(?:ов|а)?\s*$")
+REDDIT_USERNAME_RE = re.compile(r"^\s*[A-Za-z0-9_][A-Za-z0-9_-]{1,31}\s*$")
+REDDIT_BADGE_LINE_RE = re.compile(
+    r"^\s*(?:Значок профиля за достижение|Комментатор из топ-\d+%)"
+    r"(?:\s+(?:Значок профиля за достижение|Комментатор из топ-\d+%))*\s*$"
+)
+SPACED_ELLIPSIS_RE = re.compile(r"(?:\.\s*){3,}")
+REDDIT_UI_LINES = {
+    "Нравится",
+    "Не нравится",
+    "Ответить",
+    "Награда",
+    "Поделиться",
+    "Перейти к комментариям",
+    "Вступить в беседу",
+    "Сортировка по:",
+    "Лучшие",
+    "Найти комментарии",
+    "Развернуть поиск по комментариям",
+}
 # Base personal pronouns are short by nature, so we keep only their dictionary
 # forms significant to avoid dropping normal dialogue lines. Indirect and
 # possessive forms stay excluded because they inflate fragment-heavy subtitles.
@@ -61,6 +84,80 @@ def strip_subtitle_metadata(text: str) -> str:
         if is_subtitle_index_line(line) or is_subtitle_timing_line(line):
             continue
         cleaned.append(line)
+
+    return "\n".join(cleaned)
+
+
+def is_reddit_comment_header(lines: list[str], index: int) -> int:
+    line = lines[index].strip()
+    if not line:
+        return 0
+
+    if REDDIT_AVATAR_RE.fullmatch(line):
+        consumed = 1
+
+        next_index = index + consumed
+        if next_index < len(lines) and REDDIT_USERNAME_RE.fullmatch(lines[next_index].strip()):
+            consumed += 1
+            next_index = index + consumed
+
+        if next_index < len(lines) and lines[next_index].strip() == "•":
+            consumed += 1
+            next_index = index + consumed
+
+        if next_index < len(lines) and REDDIT_TIMESTAMP_RE.fullmatch(lines[next_index].strip()):
+            consumed += 1
+
+        return consumed
+
+    if not REDDIT_USERNAME_RE.fullmatch(line):
+        return 0
+    if index + 2 >= len(lines):
+        return 0
+    if lines[index + 1].strip() != "•":
+        return 0
+    if not REDDIT_TIMESTAMP_RE.fullmatch(lines[index + 2].strip()):
+        return 0
+
+    return 3
+
+
+def strip_reddit_metadata(text: str) -> str:
+    cleaned: list[str] = []
+    lines = text.splitlines()
+    index = 0
+    skip_vote_count = False
+
+    while index < len(lines):
+        line = lines[index].strip()
+
+        if not line:
+            index += 1
+            continue
+
+        header_length = is_reddit_comment_header(lines, index)
+        if header_length:
+            index += header_length
+            skip_vote_count = False
+            continue
+
+        if (
+            line in REDDIT_UI_LINES
+            or line == "•"
+            or REDDIT_COLLAPSED_REPLIES_RE.fullmatch(line)
+            or REDDIT_BADGE_LINE_RE.fullmatch(line)
+        ):
+            skip_vote_count = line in {"Нравится", "Не нравится"}
+            index += 1
+            continue
+
+        if skip_vote_count and re.fullmatch(r"\d+", line):
+            index += 1
+            continue
+
+        skip_vote_count = False
+        cleaned.append(line)
+        index += 1
 
     return "\n".join(cleaned)
 
@@ -130,6 +227,9 @@ def strip_non_text_symbols(text: str) -> str:
 
 
 def normalize_line_text(text: str) -> str:
+    # Reddit exports often space out ellipses as `. . .`, which can keep
+    # throwaway fragments alive; collapsing them to one stop lets short junk drop.
+    text = SPACED_ELLIPSIS_RE.sub(". ", text)
     text = re.sub(r"\s+", " ", text).strip()
     text = re.sub(r"\s+([,.;:!?])", r"\1", text)
     text = re.sub(r"([,.;:!?])(?=[^\s\"'”’)\]\}])", r"\1 ", text)
@@ -191,7 +291,7 @@ def split_line_into_sentences(line: str) -> list[str]:
         if not chunk:
             continue
 
-        if SENTENCE_END_RE.search(chunk):
+        if SENTENCE_PUNCTUATION_RE.search(chunk):
             sentences.extend(split_chunk_by_punctuation(chunk))
             continue
 
@@ -261,6 +361,7 @@ def clean_text(text: str, min_words: int) -> str:
 
     text = unicodedata.normalize("NFC", repair_mojibake(text))
     text = strip_non_text_symbols(text)
+    text = strip_reddit_metadata(text)
 
     if looks_like_subtitle(text):
         text = strip_subtitle_metadata(text)
