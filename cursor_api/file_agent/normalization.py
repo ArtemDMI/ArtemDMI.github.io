@@ -3,9 +3,25 @@
 
 from __future__ import annotations
 
+import importlib.util
 import re
+from pathlib import Path
 
-from file_agent.filter_short_sentences import filter_normalized_text
+
+def _load_shared_filter() -> callable:
+    module_path = Path(__file__).resolve().parents[2] / "start" / "filter_short_sentences.py"
+    spec = importlib.util.spec_from_file_location("shared_filter_short_sentences", module_path)
+    if spec is None or spec.loader is None:
+        raise ImportError(f"Cannot load filter module from: {module_path}")
+
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module.filter_normalized_text
+
+
+# file_agent runs from cursor_api/, so direct package import from start/ is brittle.
+# We load the shared script by path to keep a single editable source of truth.
+filter_normalized_text = _load_shared_filter()
 
 
 SUBTITLE_TIMING_RE = re.compile(

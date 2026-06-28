@@ -35,6 +35,7 @@ SIGNIFICANT_SHORT_WORDS = {
     "we",
     "they",
 }
+DEFAULT_MIN_WORDS = 3
 MIN_SIGNIFICANT_WORD_LENGTH = 4
 
 
@@ -239,15 +240,9 @@ def filter_sentences(sentences: list[str], min_words: int) -> list[str]:
     ]
 
 
-def clean_text(text: str, min_words: int) -> str:
+def filter_normalized_text(text: str, min_words: int = DEFAULT_MIN_WORDS) -> str:
     if not text.strip():
         raise ValueError("Input text is empty")
-
-    text = unicodedata.normalize("NFC", repair_mojibake(text))
-    text = strip_non_text_symbols(text)
-
-    if looks_like_subtitle(text):
-        text = strip_subtitle_metadata(text)
 
     sentences = split_sentences(text)
     if not sentences:
@@ -258,6 +253,21 @@ def clean_text(text: str, min_words: int) -> str:
         raise ValueError("No sentences left after filtering")
 
     return "\n".join(filtered)
+
+
+def clean_text(text: str, min_words: int) -> str:
+    if not text.strip():
+        raise ValueError("Input text is empty")
+
+    text = unicodedata.normalize("NFC", repair_mojibake(text))
+    text = strip_non_text_symbols(text)
+
+    if looks_like_subtitle(text):
+        text = strip_subtitle_metadata(text)
+
+    # Raw cleanup and file_agent normalization must share one filter entrypoint
+    # so further edits in start/ automatically affect both flows.
+    return filter_normalized_text(text, min_words=min_words)
 
 
 def clean_file(path: Path, min_words: int) -> bool:
@@ -315,7 +325,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--min-words",
         type=int,
-        default=3,
+        default=DEFAULT_MIN_WORDS,
         help=(
             "Keep only sentences with at least this many significant words. "
             "A significant word is longer than 3 letters, except for: я, ты, вы, мы."
