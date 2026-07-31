@@ -21,7 +21,7 @@ def _resolve_source_path(file_arg: str) -> Path:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="file_agent",
-        description="Локальный пайплайн перевода больших текстовых файлов через Cursor Agent (composer-2.5).",
+        description="Локальный пайплайн перевода больших текстовых файлов через Cursor Agent (grok-4.5, effort=high, fast=true).",
     )
     sub = parser.add_subparsers(dest="command", required=True)
 

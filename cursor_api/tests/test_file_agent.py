@@ -631,7 +631,7 @@ class RunnerModelSelectionTests(unittest.TestCase):
         self.addCleanup(setattr, runner, "load_api_key", self._original_load_api_key)
         self.addCleanup(setattr, runner, "_wait_run", self._original_wait_run)
 
-    def test_run_part_requests_non_fast_composer(self) -> None:
+    def test_run_part_requests_grok_fast_model(self) -> None:
         captured: dict[str, object] = {}
 
         class FakeAgent:
@@ -691,15 +691,14 @@ class RunnerModelSelectionTests(unittest.TestCase):
         runner.run_part(self.part, system_prompt="Translate this story.", timeout=12)
 
         model = captured["model"]
-        self.assertEqual(model.id, "composer-2.5")
-        self.assertEqual(len(model.params), 1)
-        self.assertEqual(model.params[0].id, "fast")
-        self.assertEqual(model.params[0].value, "false")
+        self.assertEqual(model.id, "grok-4.5")
+        params = {p.id: p.value for p in model.params}
+        self.assertEqual(params, {"effort": "high", "fast": "true"})
         self.assertEqual(captured["workspace"], str(self.root))
         self.assertEqual(captured["cwd"], str(self.root))
         self.assertIn("Обработай файл на диске", captured["message"])
 
-    def test_run_part_rejects_fast_resolved_model(self) -> None:
+    def test_run_part_rejects_substituted_model(self) -> None:
         class FakeAgent:
             def __enter__(self):
                 return self
@@ -744,14 +743,14 @@ class RunnerModelSelectionTests(unittest.TestCase):
             result="OK",
             model=SimpleNamespace(
                 id="composer-2.5",
-                params=(SimpleNamespace(id="fast", value="true"),),
+                params=(),
             ),
         )
 
         with self.assertRaises(RuntimeError) as ctx:
             runner.run_part(self.part, system_prompt="Translate this story.", timeout=12)
 
-        self.assertIn("fast variant", str(ctx.exception))
+        self.assertIn("differs from requested", str(ctx.exception))
 
     def test_run_part_accepts_valid_file_change_when_wait_hangs(self) -> None:
         events: list[str] = []
