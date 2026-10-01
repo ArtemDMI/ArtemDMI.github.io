@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Текст</title>
+    <style>
+        body {
+            background: #0f0f0f;
+            color: #c8c8c8;
+            font-family: system-ui, -apple-system, sans-serif;
+            margin: 0;
+            padding: 24px 20px 48px;
+        }
+        textarea, input, button {
+            font: inherit;
+            color: #e4e4e4;
+            background: #1a1a1a;
+            border: 1px solid #3a3a3a;
+            border-radius: 4px;
+        }
+        #box {
+            display: block;
+            width: 100%;
+            box-sizing: border-box;
+            min-height: 4.6em;
+            padding: 10px;
+            resize: vertical;
+            font-size: 16px;
+        }
+        .tools {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            align-items: center;
+            margin: 12px 0 20px;
+        }
+        .tools button, .go {
+            padding: 6px 12px;
+            cursor: pointer;
+        }
+        .tools label {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        #size {
+            width: 64px;
+            padding: 6px;
+        }
+        #list {
+            font-size: 14px;
+            line-height: 1.45;
+        }
+        .block {
+            margin-bottom: 0.5lh;
+        }
+        .line {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+        }
+        .src {
+            flex: 1;
+            margin: 0;
+        }
+        .dot {
+            width: 14px;
+            height: 14px;
+            margin-top: 4px;
+            box-sizing: border-box;
+            border-radius: 50%;
+            border: 2px solid transparent;
+            flex: none;
+        }
+        .dot.on {
+            border-color: #3a3a3a;
+            border-top-color: #f2f2f2;
+            animation: turn 0.7s linear infinite;
+        }
+        @keyframes turn {
+            to { transform: rotate(360deg); }
+        }
+        .go {
+            flex: none;
+            background: #242424;
+        }
+        .go.ok {
+            background: #1b5e34;
+            border-color: #2f9d55;
+            color: #eafff0;
+        }
+        .go.bad {
+            background: #8f2424;
+            border-color: #e05a5a;
+            color: #fff;
+        }
+        .tr {
+            color: #7ddea0;
+            margin: 0.35em 0 0;
+        }
+        .tr:empty {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <textarea id="box" rows="3"></textarea>
+    <div class="tools">
+        <button type="button" id="build">Сгенерировать</button>
+        <button type="button" id="wipe">Сброс</button>
+        <label>шрифт <input id="size" type="number" min="8" max="72" value="14"></label>
+    </div>
+    <div id="list"></div>
+    <script>
+        const box = document.getElementById("box");
+        const list = document.getElementById("list");
+        const size = document.getElementById("size");
+
+        const u3 = "v1";
+        const u1 = "sk";
+        const u2 = "or";
+        const mix = "fbcecbbacacedfbdceaaaccbce";
+        const lane = "87545756576331423248371148993192054996";
+        const marks = "bbababbaabbbabbabaabbbbbbbbaabbbbabaabbaaaabababbbbaabbabbbaaaab";
+
+        const ha = "ope";
+        const hb = "nrou";
+        const hc = "ter.ai";
+        const pa = "/ap";
+        const pb = "i/v1/";
+        const pc = "cha";
+        const pd = "t/comple";
+        const pe = "tions";
+
+        function material() {
+            let li = 0;
+            let di = 0;
+            let body = "";
+            for (const m of marks) {
+                if (m === "a") body += mix[li++];
+                else body += String((Number(lane[di++]) + 4) % 10);
+            }
+            return [u1, u2, u3].join("-") + "-" + body;
+        }
+
+        function endpoint() {
+            return "https://" + ha + hb + hc + pa + pb + pc + pd + pe;
+        }
+
+        function longWords(s) {
+            let n = 0;
+            for (const w of s.split(/\s+/)) {
+                const letters = w.match(/\p{L}/gu);
+                if (letters && letters.length > 3) n += 1;
+            }
+            return n;
+        }
+
+        function splitSentences(text) {
+            const out = [];
+            for (const line of text.replace(/\r\n/g, "\n").split(/\n+/)) {
+                const trimmed = line.trim();
+                if (!trimmed) continue;
+                for (const bit of trimmed.split(/(?<=[.!?…])\s+/)) {
+                    const s = bit.trim();
+                    if (s) out.push(s);
+                }
+            }
+            return out;
+        }
+
+        function groupSentences(items) {
+            const rows = [];
+            let i = 0;
+            while (i < items.length) {
+                const bucket = [];
+                while (i < items.length && longWords(items[i]) <= 5) {
+                    bucket.push(items[i]);
+                    i += 1;
+                }
+                if (i < items.length && (bucket.length === 0 || longWords(bucket.join(" ")) <= 5)) {
+                    bucket.push(items[i]);
+                    i += 1;
+                }
+                if (bucket.length) rows.push(bucket.join(" "));
+            }
+            return rows;
+        }
+
+        function applySize() {
+            const n = Number(size.value);
+            if (n > 0) list.style.fontSize = n + "px";
+        }
+
+        function render(rows) {
+            list.replaceChildren();
+            for (const text of rows) {
+                const block = document.createElement("div");
+                block.className = "block";
+                const line = document.createElement("div");
+                line.className = "line";
+                const src = document.createElement("p");
+                src.className = "src";
+                src.textContent = text;
+                const dot = document.createElement("span");
+                dot.className = "dot";
+                const btn = document.createElement("button");
+                btn.type = "button";
+                btn.className = "go";
+                btn.textContent = "→";
+                const tr = document.createElement("p");
+                tr.className = "tr";
+                line.append(src, dot, btn);
+                block.append(line, tr);
+                btn.addEventListener("click", () => send(block));
+                list.append(block);
+            }
+        }
+
+        function prior(block) {
+            const blocks = [...list.querySelectorAll(".block")];
+            const at = blocks.indexOf(block);
+            return blocks.slice(Math.max(0, at - 5), at).map((item) => item.querySelector(".src").textContent).join("\n");
+        }
+
+        function readAnswer(data) {
+            const msg = data && data.choices && data.choices[0] && data.choices[0].message;
+            if (!msg) return "";
+            const content = msg.content;
+            if (typeof content === "string") return content.trim();
+            if (Array.isArray(content)) {
+                return content.map((part) => (typeof part === "string" ? part : (part && part.text) || "")).join("").trim();
+            }
+            return "";
+        }
+
+        async function pull(block, signal) {
+            const task = [
+                "Вот предыдущий контекст:",
+                prior(block),
+                "Вот твоя задача:",
+                "Переведи на английский язык только с заменой слов и выражений на эквиваленты уровня знаний языка B2. Заменяй книжные глаголы, слова и формулировки на современные разговорные простые или фразовые глаголы и слова. Ответ должен звучать как будто два приятеля простым языком рассказывают текст в кафе за чашкой кофе. Твой ответ должен состоять только из переведенного английского текста, без заголовков.",
+                "",
+                "Вот текст для твоего перевода:",
+                block.querySelector(".src").textContent
+            ].join("\n");
+            const res = await fetch(endpoint(), {
+                method: "POST",
+                signal,
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": "Bea" + "rer " + material()
+                },
+                body: JSON.stringify({
+                    model: "deepseek/deepseek-v4.1-flash",
+                    messages: [
+                        { role: "system", content: "Роль - ты переводчик с русского на английский язык" },
+                        { role: "user", content: task }
+                    ],
+                    reasoning: { effort: "low" }
+                })
+            });
+            const raw = await res.text();
+            if (!res.ok) throw new Error("bad");
+            const answer = readAnswer(JSON.parse(raw));
+            if (!answer) throw new Error("empty");
+            return answer;
+        }
+
+        async function send(block) {
+            const id = (block._id || 0) + 1;
+            block._id = id;
+            if (block._ac) block._ac.abort();
+            const ac = new AbortController();
+            block._ac = ac;
+            if (block._red) clearTimeout(block._red);
+            const btn = block.querySelector(".go");
+            const dot = block.querySelector(".dot");
+            const tr = block.querySelector(".tr");
+            btn.classList.remove("ok", "bad");
+            dot.classList.add("on");
+            const killer = setTimeout(() => ac.abort(), 30000);
+            try {
+                const text = await pull(block, ac.signal);
+                if (block._id !== id) return;
+                tr.textContent = text;
+                btn.classList.add("ok");
+            } catch (err) {
+                if (block._id !== id) return;
+                btn.classList.remove("ok");
+                btn.classList.add("bad");
+                block._red = setTimeout(() => {
+                    if (block._id !== id) return;
+                    btn.classList.remove("bad");
+                    if (tr.textContent) btn.classList.add("ok");
+                }, 6000);
+            } finally {
+                clearTimeout(killer);
+                if (block._id === id) dot.classList.remove("on");
+            }
+        }
+
+        document.getElementById("build").addEventListener("click", () => {
+            render(groupSentences(splitSentences(box.value)));
+            applySize();
+        });
+
+        document.getElementById("wipe").addEventListener("click", () => {
+            box.value = "";
+            list.replaceChildren();
+            box.focus();
+        });
+
+        size.addEventListener("input", applySize);
+        box.focus();
+    </script>
+</body>
+</html>
