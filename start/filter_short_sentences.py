@@ -409,8 +409,6 @@ def clean_text(text: str, min_words: int) -> str:
     if looks_like_subtitle(text):
         text = strip_subtitle_metadata(text)
 
-    # Raw cleanup and file_agent normalization must share one filter entrypoint
-    # so further edits in start/ automatically affect both flows.
     return filter_normalized_text(text, min_words=min_words)
 
 

@@ -1,20 +1,10 @@
 from __future__ import annotations
 
 import argparse
-import sys
 import unicodedata
 from pathlib import Path
 
-
-SCRIPT_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = SCRIPT_DIR.parent
-CURSOR_API_DIR = PROJECT_ROOT / "cursor_api"
-
-# Reuse the existing pipeline normalization so manual batch cleanup stays
-# aligned with the translation flow and does not drift into a separate format.
-sys.path.insert(0, str(CURSOR_API_DIR))
-
-from file_agent.normalization import normalize_text
+from filter_short_sentences import DEFAULT_MIN_WORDS, clean_text
 
 
 def remove_square_brackets(text: str) -> str:
@@ -64,7 +54,7 @@ def preprocess_text(text: str) -> str:
 
 def normalize_file(path: Path) -> bool:
     original = path.read_text(encoding="utf-8")
-    normalized = normalize_text(preprocess_text(original)) + "\n"
+    normalized = clean_text(preprocess_text(original), min_words=DEFAULT_MIN_WORDS) + "\n"
 
     if original == normalized:
         return False
@@ -101,7 +91,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description=(
             "Remove bracketed fragments and symbol noise, then run the same "
-            "text normalization as cursor_api/file_agent."
+            "sentence cleanup as filter_short_sentences."
         )
     )
     parser.add_argument(
