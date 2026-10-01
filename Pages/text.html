@@ -35,8 +35,12 @@
             align-items: center;
             margin: 12px 0 20px;
         }
-        .tools button, .go {
+        .tools button {
             padding: 6px 12px;
+            cursor: pointer;
+        }
+        .go {
+            padding: 0.4em 0.75em;
             cursor: pointer;
         }
         .tools label {
@@ -65,9 +69,9 @@
             margin: 0;
         }
         .dot {
-            width: 14px;
-            height: 14px;
-            margin-top: 4px;
+            width: 1em;
+            height: 1em;
+            margin-top: 0.28em;
             box-sizing: border-box;
             border-radius: 50%;
             border: 2px solid transparent;
@@ -101,6 +105,56 @@
         }
         .tr:empty {
             display: none;
+        }
+        .pack + .pack {
+            margin-top: 1.25em;
+            padding-top: 0.35em;
+            border-top: 1px solid #2c2c2c;
+        }
+        .midbox {
+            margin: 0.75em 0;
+        }
+        .mid {
+            display: block;
+            width: 100%;
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0.55em 0.85em;
+            cursor: pointer;
+        }
+        .mid.on {
+            cursor: wait;
+            border-color: #f2f2f2;
+        }
+        .bar {
+            display: none;
+            height: 2px;
+            margin-top: 3px;
+            overflow: hidden;
+        }
+        .mid.on + .bar {
+            display: block;
+        }
+        .bar span {
+            display: block;
+            height: 2px;
+            width: 20%;
+            background: #f2f2f2;
+            animation: ride 0.75s ease-in-out infinite alternate;
+        }
+        @keyframes ride {
+            from { transform: translateX(0); }
+            to { transform: translateX(400%); }
+        }
+        .mid.ok {
+            background: #1b5e34;
+            border-color: #2f9d55;
+            color: #eafff0;
+        }
+        .mid.bad {
+            background: #8f2424;
+            border-color: #e05a5a;
+            color: #fff;
         }
     </style>
 </head>
@@ -217,31 +271,63 @@
             if (n > 0) list.style.fontSize = n + "px";
         }
 
+        function lineBlock(text) {
+            const block = document.createElement("div");
+            block.className = "block";
+            const line = document.createElement("div");
+            line.className = "line";
+            const src = document.createElement("p");
+            src.className = "src";
+            src.textContent = text;
+            const dot = document.createElement("span");
+            dot.className = "dot";
+            const left = document.createElement("button");
+            const btn = document.createElement("button");
+            for (const one of [left, btn]) {
+                one.type = "button";
+                one.className = "go";
+                one.textContent = "→";
+                one.addEventListener("click", () => send(block));
+            }
+            const tr = document.createElement("p");
+            tr.className = "tr";
+            line.append(left, src, dot, btn);
+            block.append(line, tr);
+            return block;
+        }
+
+        function midButton(pack) {
+            const wrap = document.createElement("div");
+            wrap.className = "midbox";
+            const btn = document.createElement("button");
+            btn.type = "button";
+            btn.className = "mid";
+            btn.textContent = "упростить";
+            btn.addEventListener("click", () => adapt(pack));
+            const bar = document.createElement("div");
+            bar.className = "bar";
+            bar.append(document.createElement("span"));
+            wrap.append(btn, bar);
+            return wrap;
+        }
+
+        // Кнопка делит пачку пополам, чтобы границы запроса было видно среди строк.
+        function fillPack(pack, rows) {
+            pack.replaceChildren();
+            const cut = Math.floor(rows.length / 2);
+            rows.forEach((text, i) => {
+                if (i === cut) pack.append(midButton(pack));
+                pack.append(lineBlock(text));
+            });
+        }
+
         function render(rows) {
             list.replaceChildren();
-            for (const text of rows) {
-                const block = document.createElement("div");
-                block.className = "block";
-                const line = document.createElement("div");
-                line.className = "line";
-                const src = document.createElement("p");
-                src.className = "src";
-                src.textContent = text;
-                const dot = document.createElement("span");
-                dot.className = "dot";
-                const left = document.createElement("button");
-                const btn = document.createElement("button");
-                for (const one of [left, btn]) {
-                    one.type = "button";
-                    one.className = "go";
-                    one.textContent = "→";
-                    one.addEventListener("click", () => send(block));
-                }
-                const tr = document.createElement("p");
-                tr.className = "tr";
-                line.append(left, src, dot, btn);
-                block.append(line, tr);
-                list.append(block);
+            for (let i = 0; i < rows.length; i += 30) {
+                const pack = document.createElement("div");
+                pack.className = "pack";
+                fillPack(pack, rows.slice(i, i + 30));
+                list.append(pack);
             }
         }
 
@@ -262,6 +348,27 @@
             return "";
         }
 
+        async function post(messages, signal) {
+            const res = await fetch(endpoint(), {
+                method: "POST",
+                signal,
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": "Bea" + "rer " + material()
+                },
+                body: JSON.stringify({
+                    model: "deepseek/deepseek-v4.1-flash",
+                    messages,
+                    reasoning: { effort: "low" }
+                })
+            });
+            const raw = await res.text();
+            if (!res.ok) throw new Error("bad");
+            const answer = readAnswer(JSON.parse(raw));
+            if (!answer) throw new Error("empty");
+            return answer;
+        }
+
         async function pull(block, signal) {
             const task = [
                 "Вот предыдущий контекст:",
@@ -272,27 +379,75 @@
                 "Вот текст для твоего перевода:",
                 block.querySelector(".src").textContent
             ].join("\n");
-            const res = await fetch(endpoint(), {
-                method: "POST",
-                signal,
-                headers: {
-                    "Content-Type": "application/json",
-                    "Authorization": "Bea" + "rer " + material()
+            return post([
+                { role: "system", content: "Роль - ты переводчик с русского на английский язык" },
+                { role: "user", content: task }
+            ], signal);
+        }
+
+        function shapeTask(text) {
+            const sample = [
+                "Мужчину начали терзать сомнения, однако вскоре он сдался, переоделся, надел маску и перчатки и уже собрался выходить из квартиры, как тут же решил снять маску и выбросил её в мусорное ведро. Объяснения своему поступку мужчина найти не смог. Он просто был уверен, что так будет лучше.",
+                "Женщина ждала его на ступеньках возле парадного входа в библиотеку. Одета она, как и всегда, была не по погоде и даже слегка дрожала от холода. Сама женщина, однако, находила эту дрожь вполне нормальной. Завидев мужчину, она опустила наушники на шею и слегка подняла руку."
+            ].join("\n");
+            return [
+                "Упрощённый русский B2: простой, нейтральный, без книжного стиля, без эвфемизмов и лишних метафор.",
+                "",
+                "Пример:",
+                sample,
+                "",
+                "Выведи примерно в таком же виде.",
+                "",
+                "Вот то, что нужно перевести/адаптировать:",
+                text
+            ].join("\n");
+        }
+
+        async function reshape(text, signal) {
+            return post([
+                {
+                    role: "system",
+                    content: "Ты адаптатор английского и русского языка под упрощённый русский B2, избавленный от книжного стиля и переведённый в простой, нейтральный. Если текст на русском — переадаптируй его в упрощённый русский. Если текст на английском — переведи его на упрощённый русский."
                 },
-                body: JSON.stringify({
-                    model: "deepseek/deepseek-v4.1-flash",
-                    messages: [
-                        { role: "system", content: "Роль - ты переводчик с русского на английский язык" },
-                        { role: "user", content: task }
-                    ],
-                    reasoning: { effort: "low" }
-                })
-            });
-            const raw = await res.text();
-            if (!res.ok) throw new Error("bad");
-            const answer = readAnswer(JSON.parse(raw));
-            if (!answer) throw new Error("empty");
-            return answer;
+                { role: "user", content: shapeTask(text) }
+            ], signal);
+        }
+
+        async function adapt(pack) {
+            const id = (pack._id || 0) + 1;
+            pack._id = id;
+            if (pack._ac) pack._ac.abort();
+            for (const block of pack.querySelectorAll(".block")) {
+                if (block._ac) block._ac.abort();
+            }
+            const ac = new AbortController();
+            pack._ac = ac;
+            if (pack._red) clearTimeout(pack._red);
+            const btn = pack.querySelector(".mid");
+            btn.classList.remove("ok", "bad");
+            btn.classList.add("on");
+            const source = [...pack.querySelectorAll(".src")].map((node) => node.textContent).join("\n");
+            // Пачка строк длиннее одной реплики, короткого ожидания строки здесь не хватает.
+            const killer = setTimeout(() => ac.abort(), 120000);
+            try {
+                const text = await reshape(source, ac.signal);
+                if (pack._id !== id) return;
+                const rows = groupSentences(splitSentences(text));
+                if (!rows.length) throw new Error("empty");
+                fillPack(pack, rows);
+                const next = pack.querySelector(".mid");
+                if (next) next.classList.add("ok");
+            } catch (err) {
+                if (pack._id !== id) return;
+                btn.classList.add("bad");
+                pack._red = setTimeout(() => {
+                    if (pack._id !== id) return;
+                    btn.classList.remove("bad");
+                }, 6000);
+            } finally {
+                clearTimeout(killer);
+                if (pack._id === id && btn.isConnected) btn.classList.remove("on");
+            }
         }
 
         async function send(block) {
