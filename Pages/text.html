@@ -223,7 +223,7 @@
             let n = 0;
             for (const w of s.split(/\s+/)) {
                 const letters = w.match(/\p{L}/gu);
-                if (letters && letters.length > 3) n += 1;
+                if (letters && letters.length >= 3) n += 1;
             }
             return n;
         }
@@ -265,23 +265,21 @@
             return rows;
         }
 
+        // Короткий хвост не остаётся отдельной кнопкой: в строке должно набраться несколько длинных слов.
         function groupSentences(items) {
+            const min = 7;
             const rows = [];
-            let i = 0;
-            while (i < items.length) {
-                const bucket = [];
-                while (i < items.length && longWords(items[i]) <= 5) {
-                    // Цепочка коротких реплик иначе становится одной кнопкой.
-                    if (bucket.length && longWords(bucket.join(" ") + " " + items[i]) > 5) break;
-                    bucket.push(items[i]);
-                    i += 1;
+            let bucket = [];
+            for (const item of items) {
+                if (bucket.length && longWords(bucket.join(" ")) >= min) {
+                    rows.push(bucket.join(" "));
+                    bucket = [];
                 }
-                if (i < items.length && longWords(items[i]) > 5 && (bucket.length === 0 || longWords(bucket.join(" ")) <= 5)) {
-                    bucket.push(items[i]);
-                    i += 1;
-                }
-                if (bucket.length) rows.push(bucket.join(" "));
+                bucket.push(item);
             }
+            if (!bucket.length) return rows;
+            if (rows.length && longWords(bucket.join(" ")) < min) rows[rows.length - 1] += " " + bucket.join(" ");
+            else rows.push(bucket.join(" "));
             return rows;
         }
 
