@@ -330,12 +330,20 @@
             return { acc, total: n || 1 };
         }
 
+        function anchorPair(a, b) {
+            if (a.kind !== b.kind) return false;
+            if (a.kind === "comma" || a.kind === "stop") return a.ord === b.ord;
+            return true;
+        }
+
         function anchors(s) {
             const map = letterMap(s);
             const marks = [];
-            const add = (kind, at) => {
+            let commaOrd = 0;
+            let stopOrd = 0;
+            const add = (kind, at, ord = 0) => {
                 if (at <= 0 || at >= s.length) return;
-                marks.push({ kind, at, letters: map.acc[at] });
+                marks.push({ kind, at, letters: map.acc[at], ord });
             };
             const punct = /\p{P}+/gu;
             let m;
@@ -345,15 +353,16 @@
                 const next = end < s.length ? s[end] : "";
                 if (/\p{L}/u.test(prev) && /\p{L}/u.test(next)) continue;
                 const mark = m[0];
-                if (/[.!?…]+/u.test(mark)) add("stop", end);
-                else if (/[,;:]+/u.test(mark)) add("comma", end);
+                if (/[.!?…]+/u.test(mark)) add("stop", end, stopOrd++);
+                else if (/[,;:]+/u.test(mark)) add("comma", end, commaOrd++);
             }
             const dashes = /[\u2012\u2013\u2014\u2015\u2212]+/gu;
             while ((m = dashes.exec(s))) add("dash", m.index + m[0].length);
-            const words = /(?<![\p{L}\p{N}])(they|them|that|what|she|and|we|he|они|оно|она|он|мы|что|и)(?![\p{L}\p{N}'’])/giu;
+            const words = /(?<![\p{L}\p{N}])(they|them|that|what|she|and|we|he|если|они|оно|она|он|мы|что|if|и)(?![\p{L}\p{N}'’])/giu;
             const kindOf = (w) => {
                 if (/^(and|и)$/iu.test(w)) return "and";
                 if (/^(that|what|что)$/iu.test(w)) return "that";
+                if (/^(if|если)$/iu.test(w)) return "if";
                 if (/^(we|мы)$/iu.test(w)) return "we";
                 if (/^(they|them|они)$/iu.test(w)) return "they";
                 if (/^(he|он|оно)$/iu.test(w)) return "he";
@@ -376,7 +385,7 @@
             return { marks: out, letters: map.total };
         }
 
-        // Разрез только если знак перевода совпал со знаком оригинала по числу букв от начала. Лишняя запятая колонку не открывает.
+        // Пара: тот же якорь; у запятой и точки ещё порядковый номер. Лишняя запятая в переводе сдвиг не даёт.
         function matchedCuts(src, tr) {
             const A = anchors(src);
             const B = anchors(tr);
@@ -399,7 +408,7 @@
             }
             for (let i = 1; i <= n; i++) {
                 for (let j = 1; j <= m; j++) {
-                    const pair = a[i - 1].kind === b[j - 1].kind
+                    const pair = anchorPair(a[i - 1], b[j - 1])
                         ? dp[i - 1][j - 1] + Math.abs(a[i - 1].letters - b[j - 1].letters) / scale
                         : 9;
                     const dropSrc = dp[i - 1][j] + skipSrc;
