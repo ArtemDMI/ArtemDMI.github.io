@@ -319,7 +319,7 @@
             return Object.prototype.hasOwnProperty.call(node.dataset, "plain") ? node.dataset.plain : node.textContent;
         }
 
-        // Кусок кончается на знаке, дефисе или тире и начинается перед and/и, that/what/что и личным местоимением.
+        // Кусок целый до своего знака, and/и, that/what/что, we/мы и длинного тире. Дефис в Twenty-six не режет: иначе дыра оказывается внутри части.
         function chunksOf(s) {
             const cuts = new Set();
             const punct = /\p{P}+/gu;
@@ -328,16 +328,15 @@
                 const end = m.index + m[0].length;
                 const prev = m.index > 0 ? s[m.index - 1] : "";
                 const next = end < s.length ? s[end] : "";
-                // Апостроф в would've не граница. Дефис и тире граница даже между буквами.
-                if (/\p{L}/u.test(prev) && /\p{L}/u.test(next) && !/^[\u002D\u2010-\u2015\u2212\uFE58\uFE63\uFF0D]+$/u.test(m[0])) continue;
+                if (/\p{L}/u.test(prev) && /\p{L}/u.test(next)) continue;
                 if (end > 0 && end < s.length) cuts.add(end);
             }
-            const dashes = /[\u002D\u2010-\u2015\u2212\uFE58\uFE63\uFF0D]+/gu;
+            const dashes = /[\u2012\u2013\u2014\u2015\u2212]+/gu;
             while ((m = dashes.exec(s))) {
                 const end = m.index + m[0].length;
                 if (end > 0 && end < s.length) cuts.add(end);
             }
-            const words = /(?<![\p{L}\p{N}])(?:they|them|that|what|she|you|her|him|and|we|he|me|us|it|i|они|оно|она|меня|мною|мной|мне|тебя|тобою|тобой|тебе|вами|вас|вам|нами|нас|нам|ними|них|нему|него|неё|нее|ней|ним|ими|её|ее|ею|ей|его|ему|он|им|их|мы|вы|ты|что|я|и)(?![\p{L}\p{N}'’\u002D\u2010-\u2015])/giu;
+            const words = /(?<![\p{L}\p{N}])(?:they|them|that|what|she|and|we|he|они|оно|она|он|мы|что|и)(?![\p{L}\p{N}'’])/giu;
             while ((m = words.exec(s))) {
                 if (m.index <= 0) continue;
                 let at = m.index;
