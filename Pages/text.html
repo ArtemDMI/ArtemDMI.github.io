@@ -39,10 +39,6 @@
             padding: 6px 12px;
             cursor: pointer;
         }
-        .go {
-            padding: 0.4em 0.75em;
-            cursor: pointer;
-        }
         .tools label {
             display: flex;
             align-items: center;
@@ -61,55 +57,59 @@
             line-height: 1.45;
         }
         .block {
-            display: grid;
-            grid-template-columns: auto minmax(0, 1fr) auto auto;
-            column-gap: 8px;
-            align-items: start;
-            margin-bottom: 0.5lh;
-        }
-        .line {
-            display: contents;
-        }
-        .src {
-            flex: 1;
             margin: 0;
         }
-        .dot {
-            width: 1em;
-            height: 1em;
-            margin-top: 0.28em;
+        /* Вся строка — кнопка на ширину списка: пустое место по бокам текста тоже шлёт перевод. */
+        .src {
+            position: relative;
+            display: block;
+            width: 100%;
             box-sizing: border-box;
-            border-radius: 50%;
-            border: 2px solid transparent;
-            flex: none;
+            margin: 0;
+            padding: 0.45em 0.75em;
+            border: 0;
+            border-radius: 0;
+            color: #c8c8c8;
+            text-align: left;
+            white-space: normal;
+            overflow-wrap: anywhere;
+            overflow: hidden;
+            cursor: pointer;
         }
-        .dot.on {
-            border-color: #3a3a3a;
-            border-top-color: #f2f2f2;
-            animation: turn 0.7s linear infinite;
+        /* Зебра: иначе у короткой строки не видно, куда жать рядом с текстом. */
+        .pack > .block:nth-child(even) > .src {
+            background: #0f0f0f;
         }
-        @keyframes turn {
-            to { transform: rotate(360deg); }
-        }
-        .go {
-            flex: none;
+        .pack > .block:nth-child(odd) > .src {
             background: #242424;
         }
-        .go.ok {
-            background: #1b5e34;
-            border-color: #2f9d55;
-            color: #eafff0;
+        .src.on {
+            cursor: wait;
         }
-        .go.bad {
+        .src.on::after {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 2px;
+            width: 20%;
+            background: #f2f2f2;
+            animation: ride 0.75s ease-in-out infinite alternate;
+        }
+        .pack > .block > .src.bad {
             background: #8f2424;
-            border-color: #e05a5a;
             color: #fff;
         }
-        /* Та же колонка, что у исходного текста: строка не начинается под левой кнопкой. */
+        /* Не кнопка: тот же серый текст, фон только чуть зеленит, чтобы ответ отличался от строки. */
         .tr {
-            grid-column: 2;
-            color: #7ddea0;
-            margin: 0.35em 0 0;
+            box-sizing: border-box;
+            width: 100%;
+            margin: 0;
+            padding: 0.45em 0.75em;
+            text-align: left;
+            color: #c8c8c8;
+            background: #1a3026;
+            overflow-wrap: anywhere;
         }
         .tr:empty {
             display: none;
@@ -291,25 +291,15 @@
         function lineBlock(text) {
             const block = document.createElement("div");
             block.className = "block";
-            const line = document.createElement("div");
-            line.className = "line";
-            const src = document.createElement("p");
+            const src = document.createElement("button");
+            src.type = "button";
             src.className = "src";
             src.textContent = text;
-            const dot = document.createElement("span");
-            dot.className = "dot";
-            const left = document.createElement("button");
-            const btn = document.createElement("button");
-            for (const one of [left, btn]) {
-                one.type = "button";
-                one.className = "go";
-                one.textContent = "→";
-                one.addEventListener("click", () => send(block));
-            }
-            const tr = document.createElement("p");
+            src.addEventListener("click", () => send(block));
+            const tr = document.createElement("div");
             tr.className = "tr";
-            line.append(left, src, dot, btn);
-            block.append(line, tr);
+            // Пустой ответ скрыт, а с текстом оказывается над строкой, а не под ней.
+            block.append(tr, src);
             return block;
         }
 
@@ -328,14 +318,11 @@
             return wrap;
         }
 
-        // Кнопка делит пачку пополам, чтобы границы запроса было видно среди строк.
+        // «Упростить» перед пачкой: вторая пачка и её кнопка только когда строк больше 30.
         function fillPack(pack, rows) {
             pack.replaceChildren();
-            const cut = Math.floor(rows.length / 2);
-            rows.forEach((text, i) => {
-                if (i === cut) pack.append(midButton(pack));
-                pack.append(lineBlock(text));
-            });
+            pack.append(midButton(pack));
+            for (const text of rows) pack.append(lineBlock(text));
         }
 
         function render(rows) {
@@ -488,33 +475,25 @@
             const ac = new AbortController();
             block._ac = ac;
             if (block._red) clearTimeout(block._red);
-            const buttons = [...block.querySelectorAll(".go")];
-            const dot = block.querySelector(".dot");
+            const src = block.querySelector(".src");
             const tr = block.querySelector(".tr");
-            for (const btn of buttons) btn.classList.remove("ok", "bad");
-            dot.classList.add("on");
+            src.classList.remove("bad");
+            src.classList.add("on");
             const killer = setTimeout(() => ac.abort(), 30000);
             try {
                 const text = await pull(block, ac.signal);
                 if (block._id !== id) return;
                 tr.textContent = text;
-                for (const btn of buttons) btn.classList.add("ok");
             } catch (err) {
                 if (block._id !== id) return;
-                for (const btn of buttons) {
-                    btn.classList.remove("ok");
-                    btn.classList.add("bad");
-                }
+                src.classList.add("bad");
                 block._red = setTimeout(() => {
                     if (block._id !== id) return;
-                    for (const btn of buttons) {
-                        btn.classList.remove("bad");
-                        if (tr.textContent) btn.classList.add("ok");
-                    }
+                    src.classList.remove("bad");
                 }, 6000);
             } finally {
                 clearTimeout(killer);
-                if (block._id === id) dot.classList.remove("on");
+                if (block._id === id && src.isConnected) src.classList.remove("on");
             }
         }
 
