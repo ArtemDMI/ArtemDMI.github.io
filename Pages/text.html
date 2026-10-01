@@ -319,9 +319,24 @@
             return Object.prototype.hasOwnProperty.call(node.dataset, "plain") ? node.dataset.plain : node.textContent;
         }
 
-        // Кусок целый до своего знака, and/и, that/what/что, we/мы и длинного тире. Дефис в Twenty-six не режет: иначе дыра оказывается внутри части.
-        function chunksOf(s) {
-            const cuts = new Set();
+        // Доля букв, не всех символов: лишняя запятая перевода не должна казаться той же паузой.
+        function letterMap(s) {
+            const acc = [0];
+            let n = 0;
+            for (let i = 0; i < s.length; i++) {
+                if (/\p{L}/u.test(s[i])) n++;
+                acc.push(n);
+            }
+            return { acc, total: n || 1 };
+        }
+
+        function anchors(s) {
+            const map = letterMap(s);
+            const marks = [];
+            const add = (kind, at) => {
+                if (at <= 0 || at >= s.length) return;
+                marks.push({ kind, at, letters: map.acc[at] });
+            };
             const punct = /\p{P}+/gu;
             let m;
             while ((m = punct.exec(s))) {
@@ -329,85 +344,118 @@
                 const prev = m.index > 0 ? s[m.index - 1] : "";
                 const next = end < s.length ? s[end] : "";
                 if (/\p{L}/u.test(prev) && /\p{L}/u.test(next)) continue;
-                if (end > 0 && end < s.length) cuts.add(end);
+                const mark = m[0];
+                if (/[.!?…]+/u.test(mark)) add("stop", end);
+                else if (/[,;:]+/u.test(mark)) add("comma", end);
             }
             const dashes = /[\u2012\u2013\u2014\u2015\u2212]+/gu;
-            while ((m = dashes.exec(s))) {
-                const end = m.index + m[0].length;
-                if (end > 0 && end < s.length) cuts.add(end);
-            }
-            const words = /(?<![\p{L}\p{N}])(?:they|them|that|what|she|and|we|he|они|оно|она|он|мы|что|и)(?![\p{L}\p{N}'’])/giu;
+            while ((m = dashes.exec(s))) add("dash", m.index + m[0].length);
+            const words = /(?<![\p{L}\p{N}])(they|them|that|what|she|and|we|he|они|оно|она|он|мы|что|и)(?![\p{L}\p{N}'’])/giu;
+            const kindOf = (w) => {
+                if (/^(and|и)$/iu.test(w)) return "and";
+                if (/^(that|what|что)$/iu.test(w)) return "that";
+                if (/^(we|мы)$/iu.test(w)) return "we";
+                if (/^(they|them|они)$/iu.test(w)) return "they";
+                if (/^(he|он|оно)$/iu.test(w)) return "he";
+                if (/^(she|она)$/iu.test(w)) return "she";
+                return "";
+            };
             while ((m = words.exec(s))) {
                 if (m.index <= 0) continue;
                 let at = m.index;
                 while (at > 0 && /\s/u.test(s[at - 1])) at--;
-                if (at > 0 && at < s.length) cuts.add(at);
+                const kind = kindOf(m[1]);
+                if (kind) add(kind, at);
             }
-            const idxs = [...cuts].sort((a, b) => a - b);
-            const parts = [];
-            let from = 0;
-            for (const i of idxs) {
-                if (i <= from || i >= s.length) continue;
-                parts.push({ text: s.slice(from, i), f: from / s.length });
-                from = i;
+            marks.sort((a, b) => a.at - b.at);
+            const out = [];
+            for (const mark of marks) {
+                if (out.length && out[out.length - 1].at === mark.at) continue;
+                out.push(mark);
             }
-            if (from < s.length || !parts.length) parts.push({ text: s.slice(from), f: s.length ? from / s.length : 0 });
-            return parts;
+            return { marks: out, letters: map.total };
         }
 
-        // Начала кусков с близкой долей длины встают в одну колонку. Лишний якорь одной строки не сдвигает хвост другой.
-        function splitPair(src, tr) {
-            const a = chunksOf(src);
-            const b = chunksOf(tr);
+        // Разрез только если знак перевода совпал со знаком оригинала по числу букв от начала. Лишняя запятая колонку не открывает.
+        function matchedCuts(src, tr) {
+            const A = anchors(src);
+            const B = anchors(tr);
+            const a = A.marks;
+            const b = B.marks;
             const n = a.length;
             const m = b.length;
-            const skip = 0.2;
+            const scale = Math.max(A.letters, B.letters, 1);
+            const skipSrc = 0.3;
+            const skipTrAt = (j) => 0.04 + 0.85 * (1 - b[j].letters / scale);
             const dp = Array.from({ length: n + 1 }, () => new Float64Array(m + 1));
             const choice = Array.from({ length: n + 1 }, () => new Uint8Array(m + 1));
             for (let i = 1; i <= n; i++) {
-                dp[i][0] = i * skip;
+                dp[i][0] = i * skipSrc;
                 choice[i][0] = 1;
             }
             for (let j = 1; j <= m; j++) {
-                dp[0][j] = j * skip;
+                dp[0][j] = dp[0][j - 1] + skipTrAt(j - 1);
                 choice[0][j] = 2;
             }
             for (let i = 1; i <= n; i++) {
                 for (let j = 1; j <= m; j++) {
-                    const pair = dp[i - 1][j - 1] + Math.abs(a[i - 1].f - b[j - 1].f);
-                    const skipA = dp[i - 1][j] + skip;
-                    const skipB = dp[i][j - 1] + skip;
-                    if (pair <= skipA && pair <= skipB) {
+                    const pair = a[i - 1].kind === b[j - 1].kind
+                        ? dp[i - 1][j - 1] + Math.abs(a[i - 1].letters - b[j - 1].letters) / scale
+                        : 9;
+                    const dropSrc = dp[i - 1][j] + skipSrc;
+                    const dropTr = dp[i][j - 1] + skipTrAt(j - 1);
+                    if (pair <= dropSrc && pair <= dropTr) {
                         dp[i][j] = pair;
                         choice[i][j] = 0;
-                    } else if (skipA <= skipB) {
-                        dp[i][j] = skipA;
-                        choice[i][j] = 1;
-                    } else {
-                        dp[i][j] = skipB;
+                    } else if (dropTr <= dropSrc) {
+                        dp[i][j] = dropTr;
                         choice[i][j] = 2;
+                    } else {
+                        dp[i][j] = dropSrc;
+                        choice[i][j] = 1;
                     }
                 }
             }
-            const stack = [];
+            const srcCuts = [];
+            const trCuts = [];
             let i = n;
             let j = m;
             while (i > 0 || j > 0) {
                 const c = choice[i][j];
                 if (c === 0) {
-                    stack.push([a[i - 1].text, b[j - 1].text]);
+                    srcCuts.push(a[i - 1].at);
+                    trCuts.push(b[j - 1].at);
                     i--;
                     j--;
                 } else if (c === 1) {
-                    stack.push([a[i - 1].text, ""]);
                     i--;
                 } else {
-                    stack.push(["", b[j - 1].text]);
                     j--;
                 }
             }
-            stack.reverse();
-            return [stack.map((row) => row[0]), stack.map((row) => row[1])];
+            srcCuts.reverse();
+            trCuts.reverse();
+            return [srcCuts, trCuts];
+        }
+
+        function splitPair(src, tr) {
+            const [srcCuts, trCuts] = matchedCuts(src, tr);
+            const a = [];
+            const b = [];
+            let fs = 0;
+            let ft = 0;
+            for (let k = 0; k < srcCuts.length; k++) {
+                const is = srcCuts[k];
+                const it = trCuts[k];
+                if (is <= fs || it <= ft || is >= src.length || it >= tr.length) continue;
+                a.push(src.slice(fs, is));
+                b.push(tr.slice(ft, it));
+                fs = is;
+                ft = it;
+            }
+            a.push(src.slice(fs));
+            b.push(tr.slice(ft));
+            return [a, b];
         }
 
         function unfold(src) {
