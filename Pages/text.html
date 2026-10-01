@@ -164,10 +164,34 @@
                 if (!trimmed) continue;
                 for (const bit of trimmed.split(/(?<=[.!?…])\s+/)) {
                     const s = bit.trim();
-                    if (s) out.push(s);
+                    if (!s) continue;
+                    for (const piece of breakUnpunctuated(s)) out.push(piece);
                 }
             }
             return out;
+        }
+
+        // Сырой текст без знаков иначе остаётся одной кнопкой на весь абзац.
+        function breakUnpunctuated(s) {
+            const limit = 400;
+            if (s.length <= limit || /[.,!?;:…—]/.test(s)) return [s];
+            const words = s.split(/\s+/).filter(Boolean);
+            const rows = [];
+            let cur = "";
+            for (const w of words) {
+                if (!cur) {
+                    cur = w;
+                    continue;
+                }
+                if (cur.length + 1 + w.length > limit) {
+                    rows.push(cur);
+                    cur = w;
+                } else {
+                    cur += " " + w;
+                }
+            }
+            if (cur) rows.push(cur);
+            return rows;
         }
 
         function groupSentences(items) {
@@ -205,15 +229,18 @@
                 src.textContent = text;
                 const dot = document.createElement("span");
                 dot.className = "dot";
+                const left = document.createElement("button");
                 const btn = document.createElement("button");
-                btn.type = "button";
-                btn.className = "go";
-                btn.textContent = "→";
+                for (const one of [left, btn]) {
+                    one.type = "button";
+                    one.className = "go";
+                    one.textContent = "→";
+                    one.addEventListener("click", () => send(block));
+                }
                 const tr = document.createElement("p");
                 tr.className = "tr";
-                line.append(src, dot, btn);
+                line.append(left, src, dot, btn);
                 block.append(line, tr);
-                btn.addEventListener("click", () => send(block));
                 list.append(block);
             }
         }
@@ -275,25 +302,29 @@
             const ac = new AbortController();
             block._ac = ac;
             if (block._red) clearTimeout(block._red);
-            const btn = block.querySelector(".go");
+            const buttons = [...block.querySelectorAll(".go")];
             const dot = block.querySelector(".dot");
             const tr = block.querySelector(".tr");
-            btn.classList.remove("ok", "bad");
+            for (const btn of buttons) btn.classList.remove("ok", "bad");
             dot.classList.add("on");
             const killer = setTimeout(() => ac.abort(), 30000);
             try {
                 const text = await pull(block, ac.signal);
                 if (block._id !== id) return;
                 tr.textContent = text;
-                btn.classList.add("ok");
+                for (const btn of buttons) btn.classList.add("ok");
             } catch (err) {
                 if (block._id !== id) return;
-                btn.classList.remove("ok");
-                btn.classList.add("bad");
+                for (const btn of buttons) {
+                    btn.classList.remove("ok");
+                    btn.classList.add("bad");
+                }
                 block._red = setTimeout(() => {
                     if (block._id !== id) return;
-                    btn.classList.remove("bad");
-                    if (tr.textContent) btn.classList.add("ok");
+                    for (const btn of buttons) {
+                        btn.classList.remove("bad");
+                        if (tr.textContent) btn.classList.add("ok");
+                    }
                 }, 6000);
             } finally {
                 clearTimeout(killer);
