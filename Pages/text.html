@@ -112,6 +112,34 @@
         .tr:empty {
             display: none;
         }
+        /* Колонка по длинной фразе: короткая слева, справа пусто, следующий кусок начинается на одной вертикали. */
+        .src.fit {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            column-gap: 0;
+            row-gap: 0.75em;
+        }
+        .src.fit .pair {
+            display: flex;
+            flex-direction: column;
+            flex: 0 0 auto;
+            gap: 0.9em;
+            max-width: 100%;
+            min-width: 0;
+        }
+        .src.fit .tbit,
+        .src.fit .sbit {
+            display: block;
+            min-height: 1.45em;
+            /* Хвостовой пробел куска иначе схлопывается, и следующее слово прилипает к точке. */
+            white-space: pre-wrap;
+            overflow-wrap: anywhere;
+        }
+        .src.fit .tbit {
+            color: #f0d24a;
+            cursor: text;
+        }
         .pack + .pack {
             margin-top: 1.25em;
             padding-top: 0.35em;
@@ -286,14 +314,146 @@
             if (n > 0) list.style.fontSize = n + "px";
         }
 
+        function sourceText(node) {
+            if (!node) return "";
+            return Object.prototype.hasOwnProperty.call(node.dataset, "plain") ? node.dataset.plain : node.textContent;
+        }
+
+        // Кусок кончается на знаке, дефисе или тире и начинается перед and/и, that/what/что и личным местоимением.
+        function chunksOf(s) {
+            const cuts = new Set();
+            const punct = /\p{P}+/gu;
+            let m;
+            while ((m = punct.exec(s))) {
+                const end = m.index + m[0].length;
+                const prev = m.index > 0 ? s[m.index - 1] : "";
+                const next = end < s.length ? s[end] : "";
+                // Апостроф в would've не граница. Дефис и тире граница даже между буквами.
+                if (/\p{L}/u.test(prev) && /\p{L}/u.test(next) && !/^[\u002D\u2010-\u2015\u2212\uFE58\uFE63\uFF0D]+$/u.test(m[0])) continue;
+                if (end > 0 && end < s.length) cuts.add(end);
+            }
+            const dashes = /[\u002D\u2010-\u2015\u2212\uFE58\uFE63\uFF0D]+/gu;
+            while ((m = dashes.exec(s))) {
+                const end = m.index + m[0].length;
+                if (end > 0 && end < s.length) cuts.add(end);
+            }
+            const words = /(?<![\p{L}\p{N}])(?:they|them|that|what|she|you|her|him|and|we|he|me|us|it|i|они|оно|она|меня|мною|мной|мне|тебя|тобою|тобой|тебе|вами|вас|вам|нами|нас|нам|ними|них|нему|него|неё|нее|ней|ним|ими|её|ее|ею|ей|его|ему|он|им|их|мы|вы|ты|что|я|и)(?![\p{L}\p{N}'’\u002D\u2010-\u2015])/giu;
+            while ((m = words.exec(s))) {
+                if (m.index <= 0) continue;
+                let at = m.index;
+                while (at > 0 && /\s/u.test(s[at - 1])) at--;
+                if (at > 0 && at < s.length) cuts.add(at);
+            }
+            const idxs = [...cuts].sort((a, b) => a - b);
+            const parts = [];
+            let from = 0;
+            for (const i of idxs) {
+                if (i <= from || i >= s.length) continue;
+                parts.push({ text: s.slice(from, i), f: from / s.length });
+                from = i;
+            }
+            if (from < s.length || !parts.length) parts.push({ text: s.slice(from), f: s.length ? from / s.length : 0 });
+            return parts;
+        }
+
+        // Начала кусков с близкой долей длины встают в одну колонку. Лишний якорь одной строки не сдвигает хвост другой.
+        function splitPair(src, tr) {
+            const a = chunksOf(src);
+            const b = chunksOf(tr);
+            const n = a.length;
+            const m = b.length;
+            const skip = 0.2;
+            const dp = Array.from({ length: n + 1 }, () => new Float64Array(m + 1));
+            const choice = Array.from({ length: n + 1 }, () => new Uint8Array(m + 1));
+            for (let i = 1; i <= n; i++) {
+                dp[i][0] = i * skip;
+                choice[i][0] = 1;
+            }
+            for (let j = 1; j <= m; j++) {
+                dp[0][j] = j * skip;
+                choice[0][j] = 2;
+            }
+            for (let i = 1; i <= n; i++) {
+                for (let j = 1; j <= m; j++) {
+                    const pair = dp[i - 1][j - 1] + Math.abs(a[i - 1].f - b[j - 1].f);
+                    const skipA = dp[i - 1][j] + skip;
+                    const skipB = dp[i][j - 1] + skip;
+                    if (pair <= skipA && pair <= skipB) {
+                        dp[i][j] = pair;
+                        choice[i][j] = 0;
+                    } else if (skipA <= skipB) {
+                        dp[i][j] = skipA;
+                        choice[i][j] = 1;
+                    } else {
+                        dp[i][j] = skipB;
+                        choice[i][j] = 2;
+                    }
+                }
+            }
+            const stack = [];
+            let i = n;
+            let j = m;
+            while (i > 0 || j > 0) {
+                const c = choice[i][j];
+                if (c === 0) {
+                    stack.push([a[i - 1].text, b[j - 1].text]);
+                    i--;
+                    j--;
+                } else if (c === 1) {
+                    stack.push([a[i - 1].text, ""]);
+                    i--;
+                } else {
+                    stack.push(["", b[j - 1].text]);
+                    j--;
+                }
+            }
+            stack.reverse();
+            return [stack.map((row) => row[0]), stack.map((row) => row[1])];
+        }
+
+        function unfold(src) {
+            if (!src || !src.classList.contains("fit")) return;
+            src.classList.remove("fit");
+            src.textContent = sourceText(src);
+        }
+
+        function placeAlign(block, translated) {
+            const src = block.querySelector(".src");
+            const plain = sourceText(src);
+            const [parts, bits] = splitPair(plain, translated);
+            if (parts.length < 2) {
+                unfold(src);
+                return false;
+            }
+            src.classList.add("fit");
+            src.replaceChildren();
+            for (let i = 0; i < parts.length; i++) {
+                const pair = document.createElement("span");
+                pair.className = "pair";
+                const tbit = document.createElement("span");
+                tbit.className = "tbit";
+                tbit.textContent = bits[i];
+                const sbit = document.createElement("span");
+                sbit.className = "sbit";
+                sbit.textContent = parts[i];
+                pair.append(tbit, sbit);
+                src.append(pair);
+            }
+            return true;
+        }
+
         function lineBlock(text) {
             const block = document.createElement("div");
             block.className = "block";
             const src = document.createElement("button");
             src.type = "button";
             src.className = "src";
+            src.dataset.plain = text;
             src.textContent = text;
-            src.addEventListener("click", () => send(block));
+            src.addEventListener("click", (e) => {
+                if (e.target.closest(".tbit")) return;
+                send(block);
+            });
             const tr = document.createElement("div");
             tr.className = "tr";
             // Пустой ответ скрыт, а с текстом оказывается над строкой, а не под ней.
@@ -336,7 +496,7 @@
         function prior(block) {
             const blocks = [...list.querySelectorAll(".block")];
             const at = blocks.indexOf(block);
-            return blocks.slice(Math.max(0, at - 5), at).map((item) => item.querySelector(".src").textContent).join("\n");
+            return blocks.slice(Math.max(0, at - 5), at).map((item) => sourceText(item.querySelector(".src"))).join("\n");
         }
 
         function readAnswer(data) {
@@ -379,7 +539,7 @@
                 "Переведи на английский язык только с заменой слов и выражений на эквиваленты уровня знаний языка B2. Заменяй книжные глаголы, слова и формулировки на современные разговорные простые или фразовые глаголы и слова. Ответ должен звучать как будто два приятеля простым языком рассказывают текст в кафе за чашкой кофе. Твой ответ должен состоять только из переведенного английского текста, без заголовков.",
                 "",
                 "Вот текст для твоего перевода:",
-                block.querySelector(".src").textContent
+                sourceText(block.querySelector(".src"))
             ].join("\n");
             return post([
                 { role: "system", content: "Роль - ты переводчик с русского на английский язык" },
@@ -442,7 +602,7 @@
             const btn = pack.querySelector(".mid");
             btn.classList.remove("ok", "bad");
             btn.classList.add("on");
-            const source = [...pack.querySelectorAll(".src")].map((node) => node.textContent).join("\n");
+            const source = [...pack.querySelectorAll(".src")].map((node) => sourceText(node)).join("\n");
             // Пачка строк длиннее одной реплики, короткого ожидания строки здесь не хватает.
             const killer = setTimeout(() => ac.abort(), 120000);
             try {
@@ -475,7 +635,10 @@
                 const src = other.querySelector(".src");
                 const tr = other.querySelector(".tr");
                 if (tr) tr.textContent = "";
-                if (src) src.classList.remove("live", "on", "bad");
+                if (src) {
+                    unfold(src);
+                    src.classList.remove("live", "on", "bad");
+                }
             }
         }
 
@@ -495,7 +658,8 @@
             try {
                 const text = await pull(block, ac.signal);
                 if (block._id !== id) return;
-                tr.textContent = text;
+                if (placeAlign(block, text)) tr.textContent = "";
+                else tr.textContent = text;
             } catch (err) {
                 if (block._id !== id) return;
                 src.classList.remove("live");
