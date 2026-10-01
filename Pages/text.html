@@ -56,8 +56,9 @@
             font-size: 14px;
             line-height: 1.45;
         }
+        /* 20% высоты строки и ещё 20%: зазор между строками, не между переводом и его строкой. */
         .block {
-            margin: 0;
+            margin: 0 0 calc(0.4 * (1.45em + 0.9em));
         }
         /* Вся строка — кнопка на ширину списка: пустое место по бокам текста тоже шлёт перевод. */
         .src {
@@ -69,6 +70,7 @@
             padding: 0.45em 0.75em;
             border: 0;
             border-radius: 0;
+            background: #0f0f0f;
             color: #c8c8c8;
             text-align: left;
             white-space: normal;
@@ -76,12 +78,8 @@
             overflow: hidden;
             cursor: pointer;
         }
-        /* Зебра: иначе у короткой строки не видно, куда жать рядом с текстом. */
-        .pack > .block:nth-child(even) > .src {
-            background: #0f0f0f;
-        }
-        .pack > .block:nth-child(odd) > .src {
-            background: #242424;
+        .src.live {
+            color: #5aa7ff;
         }
         .src.on {
             cursor: wait;
@@ -100,16 +98,15 @@
             background: #8f2424;
             color: #fff;
         }
-        /* Не кнопка: тот же серый текст, фон только чуть зеленит, чтобы ответ отличался от строки. */
+        /* Жёлтый, чтобы ответ не сливался с серой строкой под ним. */
         .tr {
             box-sizing: border-box;
             width: 100%;
             margin: 0;
             padding: 0.45em 0.75em;
             text-align: left;
-            color: #c8c8c8;
-            font-weight: 700;
-            background: #1a3026;
+            color: #f0d24a;
+            background: transparent;
             overflow-wrap: anywhere;
         }
         .tr:empty {
@@ -245,7 +242,7 @@
 
         // Сырой текст без знаков иначе остаётся одной кнопкой на весь абзац.
         function breakUnpunctuated(s) {
-            const limit = 400;
+            const limit = 300;
             if (s.length <= limit || /[.,!?;:…—]/.test(s)) return [s];
             const words = s.split(/\s+/).filter(Boolean);
             const rows = [];
@@ -469,6 +466,19 @@
             }
         }
 
+        // Перевод один на весь список: прошлая строка теряет синий и свой ответ.
+        function keepOnly(block) {
+            for (const other of list.querySelectorAll(".block")) {
+                if (other === block) continue;
+                other._id = (other._id || 0) + 1;
+                if (other._ac) other._ac.abort();
+                const src = other.querySelector(".src");
+                const tr = other.querySelector(".tr");
+                if (tr) tr.textContent = "";
+                if (src) src.classList.remove("live", "on", "bad");
+            }
+        }
+
         async function send(block) {
             const id = (block._id || 0) + 1;
             block._id = id;
@@ -478,8 +488,9 @@
             if (block._red) clearTimeout(block._red);
             const src = block.querySelector(".src");
             const tr = block.querySelector(".tr");
+            keepOnly(block);
             src.classList.remove("bad");
-            src.classList.add("on");
+            src.classList.add("on", "live");
             const killer = setTimeout(() => ac.abort(), 30000);
             try {
                 const text = await pull(block, ac.signal);
@@ -487,6 +498,7 @@
                 tr.textContent = text;
             } catch (err) {
                 if (block._id !== id) return;
+                src.classList.remove("live");
                 src.classList.add("bad");
                 block._red = setTimeout(() => {
                     if (block._id !== id) return;
