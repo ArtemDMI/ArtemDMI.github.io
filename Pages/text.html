@@ -242,7 +242,7 @@
 
         // Сырой текст без знаков иначе остаётся одной кнопкой на весь абзац.
         function breakUnpunctuated(s) {
-            const limit = 300;
+            const limit = 180;
             if (s.length <= limit || /[.,!?;:…—]/.test(s)) return [s];
             const words = s.split(/\s+/).filter(Boolean);
             const rows = [];
@@ -263,7 +263,7 @@
             return rows;
         }
 
-        // Короткий хвост не остаётся отдельной кнопкой: в строке должно набраться несколько длинных слов.
+        // Короткий хвост не остаётся отдельной кнопкой: в строке должно набраться несколько длинных слов.1111
         function groupSentences(items) {
             const min = 7;
             const rows = [];
