@@ -112,26 +112,24 @@
         .tr:empty {
             display: none;
         }
-        /* Колонка по длинной фразе: короткая слева, справа пусто, следующий кусок начинается на одной вертикали. */
+        /* Два блока, не чередование: сверху весь перевод, снизу весь оригинал. 0.3em ≈ 20% высоты строки. */
         .src.fit {
             display: flex;
-            flex-wrap: wrap;
-            align-items: flex-start;
-            column-gap: 0;
-            row-gap: 0.75em;
-        }
-        .src.fit .pair {
-            display: flex;
             flex-direction: column;
-            flex: 0 0 auto;
-            gap: 0.9em;
-            max-width: 100%;
-            min-width: 0;
+            gap: 0.3em;
+        }
+        .src.fit .trow,
+        .src.fit .srow {
+            display: flex;
+            flex-wrap: wrap;
+            column-gap: 0;
+            row-gap: 0;
         }
         .src.fit .tbit,
         .src.fit .sbit {
             display: block;
-            min-height: 1.45em;
+            box-sizing: border-box;
+            max-width: 100%;
             /* Хвостовой пробел куска иначе схлопывается, и следующее слово прилипает к точке. */
             white-space: pre-wrap;
             overflow-wrap: anywhere;
@@ -312,6 +310,7 @@
         function applySize() {
             const n = Number(size.value);
             if (n > 0) list.style.fontSize = n + "px";
+            for (const src of list.querySelectorAll(".src.fit")) fitWidths(src);
         }
 
         function sourceText(node) {
@@ -473,6 +472,28 @@
             src.textContent = sourceText(src);
         }
 
+        function bitWidth(el) {
+            if (!el.firstChild) return 0;
+            const range = document.createRange();
+            range.selectNodeContents(el);
+            return range.getBoundingClientRect().width;
+        }
+
+        function fitWidths(src) {
+            const tbits = [...src.querySelectorAll(".tbit")];
+            const sbits = [...src.querySelectorAll(".sbit")];
+            const cap = src.clientWidth;
+            for (let i = 0; i < tbits.length; i++) {
+                tbits[i].style.width = "";
+                sbits[i].style.width = "";
+            }
+            for (let i = 0; i < tbits.length; i++) {
+                const w = Math.min(cap, Math.max(bitWidth(tbits[i]), bitWidth(sbits[i])));
+                tbits[i].style.width = w + "px";
+                sbits[i].style.width = w + "px";
+            }
+        }
+
         function placeAlign(block, translated) {
             const src = block.querySelector(".src");
             const plain = sourceText(src);
@@ -482,19 +503,22 @@
                 return false;
             }
             src.classList.add("fit");
-            src.replaceChildren();
+            const trow = document.createElement("span");
+            trow.className = "trow";
+            const srow = document.createElement("span");
+            srow.className = "srow";
             for (let i = 0; i < parts.length; i++) {
-                const pair = document.createElement("span");
-                pair.className = "pair";
                 const tbit = document.createElement("span");
                 tbit.className = "tbit";
                 tbit.textContent = bits[i];
                 const sbit = document.createElement("span");
                 sbit.className = "sbit";
                 sbit.textContent = parts[i];
-                pair.append(tbit, sbit);
-                src.append(pair);
+                trow.append(tbit);
+                srow.append(sbit);
             }
+            src.replaceChildren(trow, srow);
+            fitWidths(src);
             return true;
         }
 
@@ -507,7 +531,7 @@
             src.dataset.plain = text;
             src.textContent = text;
             src.addEventListener("click", (e) => {
-                if (e.target.closest(".tbit")) return;
+                if (e.target.closest(".trow")) return;
                 send(block);
             });
             const tr = document.createElement("div");
@@ -742,6 +766,9 @@
         });
 
         size.addEventListener("input", applySize);
+        window.addEventListener("resize", () => {
+            for (const src of list.querySelectorAll(".src.fit")) fitWidths(src);
+        });
         box.focus();
     </script>
 </body>
