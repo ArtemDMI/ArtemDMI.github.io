@@ -81,6 +81,14 @@
         .src.live {
             color: #f0d24a;
         }
+        /* Старый перевод остаётся на месте: и синий, и жёлтый на 30% к серому строки. */
+        .src.dim {
+            color: color-mix(in srgb, #f0d24a 70%, #c8c8c8);
+        }
+        .src.dim .tbit,
+        .tr.dim {
+            color: color-mix(in srgb, #5aa7ff 70%, #c8c8c8);
+        }
         .src.on {
             cursor: wait;
         }
@@ -112,11 +120,11 @@
         .tr:empty {
             display: none;
         }
-        /* Два блока, не чередование: сверху весь перевод, снизу весь оригинал. 0.3em ≈ 20% высоты строки. */
+        /* Два блока, не чередование: сверху весь перевод, снизу весь оригинал. 1lh — одна пустая строка между ними. */
         .src.fit {
             display: flex;
             flex-direction: column;
-            gap: 0.3em;
+            gap: 1lh;
         }
         .src.fit .trow,
         .src.fit .srow {
@@ -706,7 +714,7 @@
             }
         }
 
-        // Перевод один на весь список: прошлая строка теряет синий и свой ответ.
+        // Старый ответ не стираем: только серее, пока живой цвет на новой строке.
         function keepOnly(block) {
             for (const other of list.querySelectorAll(".block")) {
                 if (other === block) continue;
@@ -714,11 +722,9 @@
                 if (other._ac) other._ac.abort();
                 const src = other.querySelector(".src");
                 const tr = other.querySelector(".tr");
-                if (tr) tr.textContent = "";
-                if (src) {
-                    unfold(src);
-                    src.classList.remove("live", "on", "bad");
-                }
+                if (src) src.classList.remove("live", "on", "bad");
+                if (src && (src.classList.contains("fit") || (tr && tr.textContent))) src.classList.add("dim");
+                if (tr && tr.textContent) tr.classList.add("dim");
             }
         }
 
@@ -732,7 +738,8 @@
             const src = block.querySelector(".src");
             const tr = block.querySelector(".tr");
             keepOnly(block);
-            src.classList.remove("bad");
+            src.classList.remove("bad", "dim");
+            if (tr) tr.classList.remove("dim");
             src.classList.add("on", "live");
             const killer = setTimeout(() => ac.abort(), 30000);
             try {
@@ -744,6 +751,8 @@
                 if (block._id !== id) return;
                 src.classList.remove("live");
                 src.classList.add("bad");
+                if (src.classList.contains("fit") || (tr && tr.textContent)) src.classList.add("dim");
+                if (tr && tr.textContent) tr.classList.add("dim");
                 block._red = setTimeout(() => {
                     if (block._id !== id) return;
                     src.classList.remove("bad");
