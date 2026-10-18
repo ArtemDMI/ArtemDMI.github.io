@@ -548,6 +548,8 @@
         });
 
         size.addEventListener("input", applySize);
+        size.value = window.matchMedia("(max-width: 767px) and (orientation: portrait)").matches ? "8" : "20";
+        applySize();
         box.focus();
     </script>
 </body>
