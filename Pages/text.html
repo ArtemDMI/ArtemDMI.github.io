@@ -78,6 +78,9 @@
             overflow: hidden;
             cursor: pointer;
         }
+        .src:not(button) {
+            cursor: text;
+        }
         .src.live {
             color: color-mix(in srgb, #c8c8c8 70%, #fff);
         }
@@ -494,6 +497,7 @@
         }
 
         async function send(block) {
+            if (block.querySelector(".tr").textContent) return;
             const id = (block._id || 0) + 1;
             block._id = id;
             if (block._ac) block._ac.abort();
@@ -511,6 +515,11 @@
                 const text = await pull(block, ac.signal);
                 if (block._id !== id) return;
                 tr.textContent = text;
+                const plain = document.createElement("div");
+                plain.className = "src live";
+                plain.dataset.plain = sourceText(src);
+                plain.textContent = plain.dataset.plain;
+                src.replaceWith(plain);
             } catch (err) {
                 if (block._id !== id) return;
                 src.classList.remove("live");
