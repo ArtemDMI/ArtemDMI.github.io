@@ -78,9 +78,11 @@
             overflow: hidden;
             cursor: pointer;
         }
-        /* Оригинал всегда как до перевода. Неактивные — тот же серый, на 50% к чёрному. */
+        .src.live {
+            color: color-mix(in srgb, #c8c8c8 70%, #fff);
+        }
+        /* Один цвет для неактивной пары, чтобы перевод не оставался выделенным. */
         .src.dim,
-        .src.dim .tbit,
         .tr.dim {
             color: color-mix(in srgb, #c8c8c8 50%, #000);
         }
@@ -101,7 +103,7 @@
             background: #8f2424;
             color: #fff;
         }
-        /* Синий только у активного перевода. Оригинал не красим. */
+        /* Синий только у активного перевода. */
         .tr {
             box-sizing: border-box;
             width: 100%;
@@ -114,32 +116,6 @@
         }
         .tr:empty {
             display: none;
-        }
-        /* Два блока, не чередование: сверху весь перевод, снизу весь оригинал. 1lh — одна пустая строка между ними. */
-        .src.fit {
-            display: flex;
-            flex-direction: column;
-            gap: 1lh;
-        }
-        .src.fit .trow,
-        .src.fit .srow {
-            display: flex;
-            flex-wrap: wrap;
-            column-gap: 0;
-            row-gap: 0;
-        }
-        .src.fit .tbit,
-        .src.fit .sbit {
-            display: block;
-            box-sizing: border-box;
-            max-width: 100%;
-            /* Хвостовой пробел куска иначе схлопывается, и следующее слово прилипает к точке. */
-            white-space: pre-wrap;
-            overflow-wrap: anywhere;
-        }
-        .src.fit .tbit {
-            color: #5aa7ff;
-            cursor: text;
         }
         .pack + .pack {
             margin-top: 1.25em;
@@ -316,216 +292,11 @@
         function applySize() {
             const n = Number(size.value);
             if (n > 0) list.style.fontSize = n + "px";
-            for (const src of list.querySelectorAll(".src.fit")) fitWidths(src);
         }
 
         function sourceText(node) {
             if (!node) return "";
             return Object.prototype.hasOwnProperty.call(node.dataset, "plain") ? node.dataset.plain : node.textContent;
-        }
-
-        // Доля букв, не всех символов: лишняя запятая перевода не должна казаться той же паузой.
-        function letterMap(s) {
-            const acc = [0];
-            let n = 0;
-            for (let i = 0; i < s.length; i++) {
-                if (/\p{L}/u.test(s[i])) n++;
-                acc.push(n);
-            }
-            return { acc, total: n || 1 };
-        }
-
-        function anchorPair(a, b) {
-            if (a.kind !== b.kind) return false;
-            if (a.kind === "comma" || a.kind === "stop") return a.ord === b.ord;
-            return true;
-        }
-
-        function anchors(s) {
-            const map = letterMap(s);
-            const marks = [];
-            let commaOrd = 0;
-            let stopOrd = 0;
-            const add = (kind, at, ord = 0) => {
-                if (at <= 0 || at >= s.length) return;
-                marks.push({ kind, at, letters: map.acc[at], ord });
-            };
-            const punct = /\p{P}+/gu;
-            let m;
-            while ((m = punct.exec(s))) {
-                const end = m.index + m[0].length;
-                const prev = m.index > 0 ? s[m.index - 1] : "";
-                const next = end < s.length ? s[end] : "";
-                if (/\p{L}/u.test(prev) && /\p{L}/u.test(next)) continue;
-                const mark = m[0];
-                if (/[.!?…]+/u.test(mark)) add("stop", end, stopOrd++);
-                else if (/[,;:]+/u.test(mark)) add("comma", end, commaOrd++);
-            }
-            const dashes = /[\u2012\u2013\u2014\u2015\u2212]+/gu;
-            while ((m = dashes.exec(s))) add("dash", m.index + m[0].length);
-            const words = /(?<![\p{L}\p{N}])(they|them|that|what|she|and|we|he|если|они|оно|она|он|мы|что|if|и)(?![\p{L}\p{N}'’])/giu;
-            const kindOf = (w) => {
-                if (/^(and|и)$/iu.test(w)) return "and";
-                if (/^(that|what|что)$/iu.test(w)) return "that";
-                if (/^(if|если)$/iu.test(w)) return "if";
-                if (/^(we|мы)$/iu.test(w)) return "we";
-                if (/^(they|them|они)$/iu.test(w)) return "they";
-                if (/^(he|он|оно)$/iu.test(w)) return "he";
-                if (/^(she|она)$/iu.test(w)) return "she";
-                return "";
-            };
-            while ((m = words.exec(s))) {
-                if (m.index <= 0) continue;
-                let at = m.index;
-                while (at > 0 && /\s/u.test(s[at - 1])) at--;
-                const kind = kindOf(m[1]);
-                if (kind) add(kind, at);
-            }
-            marks.sort((a, b) => a.at - b.at);
-            const out = [];
-            for (const mark of marks) {
-                if (out.length && out[out.length - 1].at === mark.at) continue;
-                out.push(mark);
-            }
-            return { marks: out, letters: map.total };
-        }
-
-        // Пара: тот же якорь; у запятой и точки ещё порядковый номер. Лишняя запятая в переводе сдвиг не даёт.
-        function matchedCuts(src, tr) {
-            const A = anchors(src);
-            const B = anchors(tr);
-            const a = A.marks;
-            const b = B.marks;
-            const n = a.length;
-            const m = b.length;
-            const scale = Math.max(A.letters, B.letters, 1);
-            const skipSrc = 0.3;
-            const skipTrAt = (j) => 0.04 + 0.85 * (1 - b[j].letters / scale);
-            const dp = Array.from({ length: n + 1 }, () => new Float64Array(m + 1));
-            const choice = Array.from({ length: n + 1 }, () => new Uint8Array(m + 1));
-            for (let i = 1; i <= n; i++) {
-                dp[i][0] = i * skipSrc;
-                choice[i][0] = 1;
-            }
-            for (let j = 1; j <= m; j++) {
-                dp[0][j] = dp[0][j - 1] + skipTrAt(j - 1);
-                choice[0][j] = 2;
-            }
-            for (let i = 1; i <= n; i++) {
-                for (let j = 1; j <= m; j++) {
-                    const pair = anchorPair(a[i - 1], b[j - 1])
-                        ? dp[i - 1][j - 1] + Math.abs(a[i - 1].letters - b[j - 1].letters) / scale
-                        : 9;
-                    const dropSrc = dp[i - 1][j] + skipSrc;
-                    const dropTr = dp[i][j - 1] + skipTrAt(j - 1);
-                    if (pair <= dropSrc && pair <= dropTr) {
-                        dp[i][j] = pair;
-                        choice[i][j] = 0;
-                    } else if (dropTr <= dropSrc) {
-                        dp[i][j] = dropTr;
-                        choice[i][j] = 2;
-                    } else {
-                        dp[i][j] = dropSrc;
-                        choice[i][j] = 1;
-                    }
-                }
-            }
-            const srcCuts = [];
-            const trCuts = [];
-            let i = n;
-            let j = m;
-            while (i > 0 || j > 0) {
-                const c = choice[i][j];
-                if (c === 0) {
-                    srcCuts.push(a[i - 1].at);
-                    trCuts.push(b[j - 1].at);
-                    i--;
-                    j--;
-                } else if (c === 1) {
-                    i--;
-                } else {
-                    j--;
-                }
-            }
-            srcCuts.reverse();
-            trCuts.reverse();
-            return [srcCuts, trCuts];
-        }
-
-        function splitPair(src, tr) {
-            const [srcCuts, trCuts] = matchedCuts(src, tr);
-            const a = [];
-            const b = [];
-            let fs = 0;
-            let ft = 0;
-            for (let k = 0; k < srcCuts.length; k++) {
-                const is = srcCuts[k];
-                const it = trCuts[k];
-                if (is <= fs || it <= ft || is >= src.length || it >= tr.length) continue;
-                a.push(src.slice(fs, is));
-                b.push(tr.slice(ft, it));
-                fs = is;
-                ft = it;
-            }
-            a.push(src.slice(fs));
-            b.push(tr.slice(ft));
-            return [a, b];
-        }
-
-        function unfold(src) {
-            if (!src || !src.classList.contains("fit")) return;
-            src.classList.remove("fit");
-            src.textContent = sourceText(src);
-        }
-
-        function bitWidth(el) {
-            if (!el.firstChild) return 0;
-            const range = document.createRange();
-            range.selectNodeContents(el);
-            return range.getBoundingClientRect().width;
-        }
-
-        function fitWidths(src) {
-            const tbits = [...src.querySelectorAll(".tbit")];
-            const sbits = [...src.querySelectorAll(".sbit")];
-            const cap = src.clientWidth;
-            for (let i = 0; i < tbits.length; i++) {
-                tbits[i].style.width = "";
-                sbits[i].style.width = "";
-            }
-            for (let i = 0; i < tbits.length; i++) {
-                const w = Math.min(cap, Math.max(bitWidth(tbits[i]), bitWidth(sbits[i])));
-                tbits[i].style.width = w + "px";
-                sbits[i].style.width = w + "px";
-            }
-        }
-
-        function placeAlign(block, translated) {
-            const src = block.querySelector(".src");
-            const plain = sourceText(src);
-            const [parts, bits] = splitPair(plain, translated);
-            if (parts.length < 2) {
-                unfold(src);
-                return false;
-            }
-            src.classList.add("fit");
-            const trow = document.createElement("span");
-            trow.className = "trow";
-            const srow = document.createElement("span");
-            srow.className = "srow";
-            for (let i = 0; i < parts.length; i++) {
-                const tbit = document.createElement("span");
-                tbit.className = "tbit";
-                tbit.textContent = bits[i];
-                const sbit = document.createElement("span");
-                sbit.className = "sbit";
-                sbit.textContent = parts[i];
-                trow.append(tbit);
-                srow.append(sbit);
-            }
-            src.replaceChildren(trow, srow);
-            fitWidths(src);
-            return true;
         }
 
         function lineBlock(text) {
@@ -536,14 +307,10 @@
             src.className = "src";
             src.dataset.plain = text;
             src.textContent = text;
-            src.addEventListener("click", (e) => {
-                if (e.target.closest(".trow")) return;
-                send(block);
-            });
+            src.addEventListener("click", () => send(block));
             const tr = document.createElement("div");
             tr.className = "tr";
-            // Пустой ответ скрыт, а с текстом оказывается над строкой, а не под ней.
-            block.append(tr, src);
+            block.append(src, tr);
             return block;
         }
 
@@ -721,7 +488,7 @@
                 const src = other.querySelector(".src");
                 const tr = other.querySelector(".tr");
                 if (src) src.classList.remove("live", "on", "bad");
-                if (src && (src.classList.contains("fit") || (tr && tr.textContent))) src.classList.add("dim");
+                if (src && tr && tr.textContent) src.classList.add("dim");
                 if (tr && tr.textContent) tr.classList.add("dim");
             }
         }
@@ -743,13 +510,12 @@
             try {
                 const text = await pull(block, ac.signal);
                 if (block._id !== id) return;
-                if (placeAlign(block, text)) tr.textContent = "";
-                else tr.textContent = text;
+                tr.textContent = text;
             } catch (err) {
                 if (block._id !== id) return;
                 src.classList.remove("live");
                 src.classList.add("bad");
-                if (src.classList.contains("fit") || (tr && tr.textContent)) src.classList.add("dim");
+                if (tr && tr.textContent) src.classList.add("dim");
                 if (tr && tr.textContent) tr.classList.add("dim");
                 block._red = setTimeout(() => {
                     if (block._id !== id) return;
@@ -773,9 +539,6 @@
         });
 
         size.addEventListener("input", applySize);
-        window.addEventListener("resize", () => {
-            for (const src of list.querySelectorAll(".src.fit")) fitWidths(src);
-        });
         box.focus();
     </script>
 </body>
